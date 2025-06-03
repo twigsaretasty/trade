@@ -6,10 +6,6 @@
     font-family: "Adelia";
     src: url('fonts/ADELIA.otf') format("opentype");
 }
-@font-face {
-    font-family: "coolvetica";
-    src: url('fonts/coolvetica\ rg.otf') format("opentype");
-}
 
 html, body {
     height: 100%;
