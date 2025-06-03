@@ -1,0 +1,455 @@
+@font-face {
+    font-family: "Lexend";
+    src: url('/fonts/Lexend-VariableFont_wght.ttf') format("truetype");
+}
+@font-face {
+    font-family: "Adelia";
+    src: url('/fonts/ADELIA.otf') format("opentype");
+}
+@font-face {
+    font-family: "coolvetica";
+    src: url('/fonts/coolvetica\ rg.otf') format("opentype");
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+html {
+    display: table;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.text {
+    font-family: 'Lexend', 'Roboto', Verdana;
+    font-size: 14px;
+}
+
+/* general page */
+
+header {
+    display: flex;
+    justify-content: stretch;
+    align-items: center;
+    background-color: black;
+    padding: 10px 20px;
+    width: 100%;
+    position: fixed;
+}
+
+h1 {
+    color: white;
+    font-family: "Adelia";
+    font-size: 20px;
+    vertical-align: center;
+    padding: 20px;
+}
+
+#navbar {
+    padding: 10px;
+    display: flex;
+    margin-left: auto;
+}
+
+#navbar a {
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+#navbar a:hover {
+    background-color: #7598C5;
+}
+
+.img {
+    border: white 5px solid;
+    border-radius: 10px;
+    box-shadow: black 0px 0px 8px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/* home page */
+
+#flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 50px;
+    padding-top: 80px;
+    gap: 90px;
+}
+
+#flex-container ul {
+    list-style-position: inside;
+}
+
+#username {
+    color: black;
+}
+
+#sub-info {
+    display: flex;
+    gap: 20px;
+    font-size: 13px;
+    margin-top: -20px;
+}
+
+#pronouns {
+    background-color: #eef2ff;
+    color: #4f46e6;
+    padding: 3px 5px;
+    border: 1px solid #dee0fd;
+    border-radius: 5px;
+}
+
+#status {
+    background-color: #f0fdf5;
+    color: #16a34a;
+    padding: 3px 5px;
+    border: 1px solid #def6e6;
+    border-radius: 5px;
+}
+
+#seen {
+    background-color: #fdf0fa;
+    color: #a31687;
+    padding: 3px 5px;
+    border: 1px solid #f6def2;
+    border-radius: 5px;
+}
+
+#pics {
+    /* flex: 1; */
+    position: relative;
+    width: 400px;
+    box-sizing: border-box;
+}
+
+#long {
+    /* position: absolute; */
+    transform: rotate(-5deg);
+    /* left: 50px; */
+    width: 250px;
+}
+
+#short {
+    position: absolute;
+    transform: rotate(5deg);
+    left: 150px;
+    top: 260px;
+    z-index: 1;
+    width: 200px;
+}
+
+#intro {
+    width: 500px;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+details ul {
+    height: 200px;
+    overflow: scroll;
+}
+
+#key {
+    width: 33%;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: -18px;
+}
+
+/* collection pages */
+
+#collection-container {
+    display: flex;
+    flex-direction: column;;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding-top: 80px;
+}
+
+#title {
+    color: black;
+    font-size: 30px;
+}
+
+#shows {
+    margin-top: 30px;
+    width: 1200px;
+}
+
+.accordion {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    font-size: 14px;
+    font-family: "Lexend";
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
+
+.show {
+    font-family: "Lexend";
+    font-size: 11.5px;
+    border-collapse: collapse;
+}
+
+.show tr {
+    text-align: center;
+    padding: 10px;
+}
+
+.show tr:hover {
+    background-color: #ddd;
+}
+
+.show th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: white;
+}
+
+.show td {
+    padding: 10px;
+}
+
+.table-header {
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.key {
+    width: 200px;
+    margin: auto;
+}
+
+.key td {
+    text-align: center;
+}
+
+.contact {
+    width: 40vh;
+    text-align: center;
+}
+
+.contact a {
+    text-decoration: none;
+    color: black;
+}
+
+.contact a:hover {
+    color: #7598C5;
+}
+
+.scroll {
+    max-height: 75px;
+    overflow-y: scroll;
+}
+
+#info {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 75vw;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    gap: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    font-family: Lexend, Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.link-button:hover {
+    background-color: #7598C5;
+}
+
+footer {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    font-family: Lexend, Arial, Helvetica;
+    font-size: 10px;
+}
+
+/* colours */
+
+.partial {
+    background-color: #fff2cc;
+}
+
+.highlights {
+    background-color: #cfe2f3;
+}
+
+.gift-on-req {
+    background-color: #d9ead3;
+}
+
+.never-gift {
+    background-color: #d9d2e9;
+}
+
+.nft {
+    background-color: #f4cccc;
+}
+
+.limited {
+    background-color: #ffd27f;
+}
+
+@media screen and (max-width: 900px) {
+
+    header {
+        flex-direction: column;
+        text-align: center;
+        margin: 0;
+    }
+
+    h1 {
+        font-size: 15px;
+        padding: 15px;
+    }
+
+    .text {
+        font-size: 12px;
+    }
+
+    #flex-container {
+        flex-direction: column;
+        align-items: center;
+        padding-top: 100px;
+    }
+
+    #intro {
+        order: 1;
+        width: 100%;
+        padding: 50px;
+    }
+
+    #pics {
+        order: 2;
+        width: 300px;
+    }
+
+    #long, #short {
+        width: 200px;
+    }
+
+    #long {
+        margin-top: -90px;
+    }
+
+    #short {
+        top: 100px;
+    }
+
+    #sub-info {
+        font-size: 11px;
+    }
+
+    #key {
+        order: 3;
+    }
+
+    span {
+        margin-top: 200px;
+    }
+
+    #navbar {
+        margin: 0;
+        overflow: scroll;
+    }
+
+    #navbar a {
+        padding: 10px;
+    }
+
+    #shows {
+        width: 100vw;
+    }
+
+    .panel {
+        overflow: scroll;
+    }
+
+    #blurb {
+        padding-top: 100px;
+        width: 90vw;
+        box-sizing: border-box;
+    }
+
+    #content {
+        width: 100vw;
+    }
+
+    #info {
+        width: 90vw;
+    }
+
+    ul {
+        padding: 0px;
+    }
+
+    #buttons {
+        font-size: 12px;
+    }
+}
