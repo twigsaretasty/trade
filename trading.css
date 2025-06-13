@@ -326,6 +326,11 @@ footer {
     font-size: 10px;
 }
 
+#wants-flex {
+    display: flex;
+    gap: 20px;
+}
+
 /* colours */
 
 .partial {
