@@ -48,5 +48,10 @@ fetch('profile.json')
 
         // Get last seen days
         const lastSeenString = getDays(lastSeen);
+
+        // Add last seen to HTML
         document.getElementById('seen').textContent = lastSeenString;
+
+        // Add recordings count
+        document.getElementById('recordings').textContent = recordingsCount;
     })
