@@ -20,6 +20,14 @@ acc[i].addEventListener('click', function() {
 fetch('audios.json')
     .then(response => response.json())
     .then(data => {
+
+        function slugMaker(text) {
+            return "id-" + text
+            .toLowerCase()
+            .replace(/[^a-z0-9]+/g, '-')
+            .replace(/^-+|-+$/g, '')
+        }
+
         function showInfo(name, tableId) {
             const showContainer = document.getElementById('shows');
             const count = data[name].length;
@@ -121,31 +129,10 @@ fetch('audios.json')
                 tbody.appendChild(row)
             })
         }
-        showInfo('The 25th Annual Putnam County Spelling Bee', 'spelling-bee')
-        showInfo('Anastasia', 'anastasia')
-        showInfo('Back to the Future: The Musical', 'bttf')
-        showInfo('Cabaret', 'cabaret')
-        showInfo('Catch Me If You Can', 'catch')
-        showInfo('Dear Evan Hansen', 'deh')
-        showInfo('Falsettos', 'falsettos')
-        showInfo('Footloose', 'footloose')
-        showInfo('The Great Gatsby', 'greatgatsby')
-        showInfo('Hadestown', 'hadestown')
-        showInfo('Heathers: The Musical', 'heathers')
-        showInfo('Hell\'s Kitchen', 'hellskitchen')
-        showInfo('Into the Woods', 'intothewoods')
-        showInfo('Legally Blonde', 'lb')
-        showInfo('Little Shop of Horrors', 'littleshop')
-        showInfo('Mama I\'m A Big Girl Now!', 'mama')
-        showInfo('Mean Girls', 'meangirls')
-        showInfo('Les Mis\u00e9rables', 'lesmis')
-        showInfo('Monty Python\'s Spamalot', 'spamalot')
-        showInfo('Next to Normal', 'nexttonormal')
-        showInfo('Oh, Mary!', 'ohmary')
-        showInfo('The Outsiders', 'outsiders')
-        showInfo('Something Rotten!', 'somethingrotten')
-        showInfo('The Toxic Avenger', 'toxicavenger')
-        showInfo('Waitress', 'waitress')
-        showInfo('Wicked', 'wicked')
+
+        Object.keys(data).forEach(title => {
+            const slug = slugMaker(title)
+            showInfo(title, slug)
+        })
     })
     .catch(error => console.error('Error fetching JSON:', error));
