@@ -3,18 +3,17 @@ console.log("Trading home page.");
 function getDays(timestamp) {
     const date = new Date(timestamp);
     const now = new Date();
+    
+    const diffDays = (now - date) / (1000 * 60 * 60 * 24);
 
-    const utcDate = Date.UTC(date.getFullYear(), date.getMonth(), date.getDate());
-    const utcNow = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
+    console.log(`${diffDays} days`)
 
-    const diffDays = Math.floor((utcNow - utcDate) / (1000 * 60 * 60 * 24));
-
-    if (diffDays === 0) {
+    if (diffDays < 1) {
         return "today";
-    } else if (diffDays === 1) {
+    } else if (diffDays === 2) {
         return "1 day ago";
     } else {
-        return diffDays + " days ago";
+        return `${Math.floor(diffDays)} diffDays` + " days ago";
     }
 }
 
