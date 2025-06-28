@@ -196,9 +196,9 @@ h1 {
 }
 
 #intro {
-    width: 500px;
+    width: 515px;
     box-sizing: border-box;
-    margin: auto;
+    margin: 0 auto;
 }
 
 details ul {
