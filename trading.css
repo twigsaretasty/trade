@@ -106,6 +106,12 @@ h1 {
     list-style-position: inside;
 }
 
+#top {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 #username {
     color: black;
 }
