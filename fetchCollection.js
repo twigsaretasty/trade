@@ -71,7 +71,7 @@ function formatNotes(master_notes, general_notes, my_notes) {
     }
     else {
         // In any other case, return nothing
-        return null;
+        return '';
     }
 }
 
