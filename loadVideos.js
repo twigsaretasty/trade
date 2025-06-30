@@ -18,7 +18,7 @@ acc[i].addEventListener('click', function() {
 });
 }
 
-fetch('formatted_videos.json')
+fetch('videos.json')
     .then(response => response.json())
     .then(data => {
         function slugMaker(text) {

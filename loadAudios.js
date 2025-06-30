@@ -17,7 +17,7 @@ acc[i].addEventListener('click', function() {
 });
 }
 
-fetch('formatted_audios.json')
+fetch('audios.json')
     .then(response => response.json())
     .then(data => {
 
