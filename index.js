@@ -13,7 +13,7 @@ function getDays(timestamp) {
     } else if (diffDays === 2) {
         return "1 day ago";
     } else {
-        return `${Math.floor(diffDays)} diffDays` + " days ago";
+        return `${Math.floor(diffDays)}` + " days ago";
     }
 }
 

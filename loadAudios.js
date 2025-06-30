@@ -17,7 +17,7 @@ acc[i].addEventListener('click', function() {
 });
 }
 
-fetch('audios.json')
+fetch('formatted_audios.json')
     .then(response => response.json())
     .then(data => {
 
@@ -103,17 +103,20 @@ fetch('audios.json')
                 const row = document.createElement('tr');
                 row.classList.add('data-row');
 
-                if (item.limited === 'limited')
+                if (item.nft === true)
+                    row.classList.add('nft');
+
+                if (item.limited_status === 'limited')
                     row.classList.add('limited')
 
-                if (item.gifting === 'req')
+                if (item.gifting_status.toLowerCase() === 'gift on request')
                     row.classList.add('gift-on-req')
-                else if (item.gifting === 'ng')
+                else if (item.gifting_status.toLowerCase() === 'never gift')
                     row.classList.add('never-gift')
 
-                if (item.amount == 'partial')
+                if (item.amount_recorded.toLowerCase() == 'partial')
                     row.classList.add('partial')
-                else if (item.amount == 'highlights')
+                else if (item.amount_recorded.toLowerCase() == 'highlights')
                     row.classList.add('highlights')
 
                 row.innerHTML = `
