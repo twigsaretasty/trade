@@ -160,6 +160,8 @@ function formatRecording(id, records) {
 
     // Get the array for the format
     const formatArray = formatSize(match.format);
+    const format = formatArray ? formatArray[0] : '';
+    const size = formatArray ? formatArray[1] : '';
 
     // Calculate if the recording is NFT
     const isNft = calcNft(rec.nft.nft_date);
@@ -185,8 +187,8 @@ function formatRecording(id, records) {
         gifting_status: rec.metadata.gifting_status,
         limited_status: rec.metadata.limited_status,
         nft: isNft,
-        format: formatArray[0],
-        size: formatArray[1]
+        format: format,
+        size: size
     };
 }
 
@@ -282,7 +284,7 @@ async function main() {
         JSON.stringify(sortedGroupedAudios, null, 2),
         'utf-8'
     );
-    
+
     writeFileSync(
         `./videos.json`,
         JSON.stringify(sortedGroupedVideos, null, 2),
