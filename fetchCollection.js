@@ -155,7 +155,7 @@ function formatRecording(id, records) {
     }
     else if (rec.date.time === "matinee") {
         // If matinee is found, reset the variable to M
-        time = 'E';
+        time = 'M';
     }
 
     // Get the array for the format
