@@ -2,7 +2,7 @@ name: Update Collection JSON
 
 on:
   schedule:
-    - cron: '30 1 * * *'  # run at 1:30
+    - cron: '0 0 * * 0'  # run every Sunday at midnight UTC
   workflow_dispatch:     
 
 permissions:
