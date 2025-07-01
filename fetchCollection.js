@@ -55,7 +55,7 @@ function formatNotes(master_notes, general_notes, my_notes) {
     }
     else if (!master_notes && general_notes && my_notes) {
         // Only general and my notes exist
-        return `GENERAL NOTES: ${master_notes}<br><br>MY NOTES: ${my_notes}`;
+        return `GENERAL NOTES: ${general_notes}<br><br>MY NOTES: ${my_notes}`;
     }
     else if (master_notes && !general_notes && !my_notes) {
         // Only master notes exist
