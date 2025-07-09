@@ -31,12 +31,17 @@ jobs:
         API_KEY: ${{ secrets.API_KEY }}
       run: node fetchCollection.js
 
+    - name: Run fetchData.js
+      env:
+        API_KEY: ${{ secrets.API_KEY }}
+      run: node fetchData.js
+
     - name: Commit changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add audios.json videos.json
-        git commit -m "Update audios.json and videos.json" || echo "No changes to commit"
+        git add audios.json videos.json weekly-profile.json
+        git commit -m "Update collection and profile archive" || echo "No changes to commit"
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
 
         git push
