@@ -122,7 +122,8 @@ h1 {
     gap: 10px;
     font-size: 13px;
     margin-top: -20px;
-    justify-content: center;
+    justify-content: left;
+    width: 435px;
 }
 
 #sub-info div {
