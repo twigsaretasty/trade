@@ -17,40 +17,47 @@ function getDays(timestamp) {
     }
 }
 
-fetch('profile.json')
-    .then(response => response.json())
-    .then(data => {
-        const profile = data.profile;
-        const slug = data.slug;
-        const username = data.username;
-        const name = data.name;
-        const pronouns = data.pronouns;
-        const email = data.email;
-        const status = data.status;
-        const lastSeen = data.last_seen;
-        const recordingsCount = data.recordings;
-        const wantsCount = data.wants;
+Promise.all([
+    fetch('profile.json').then(response => response.json()),
+    fetch('weekly-profile.json').then(response => response.json()),
+]).then(([profileData, weeklyData]) => {
+    // const profile = data.profile;
+    // const slug = data.slug;
+    // const username = data.username;
+    // const name = data.name;
+    // const pronouns = data.pronouns;
+    // const email = data.email;
+    const status = profileData.status;
+    const lastSeen = profileData.last_seen;
+    const recordingsCount = profileData.recordings;
+    // const wantsCount = data.wants;
+    
+    // Set status
+    document.getElementById('status').textContent = status;
+    
+    // Apply respective styles for status
+    if (status === "open") {
+        document.getElementById('status').classList.add('status-open');
+    }
+    else if (status === "closed") {
+        document.getElementById('status').classList.add('status-closed');
+    }
+    else if (status === "limited") {
+        document.getElementById('status').classList.add('status-limited');
+    }
+    
+    // Get last seen days
+    const lastSeenString = getDays(lastSeen);
+    
+    // Add last seen to HTML
+    document.getElementById('seen').textContent = lastSeenString;
 
-        // Set status
-        document.getElementById('status').textContent = status;
+    const weeklyRecordingsCount = weeklyData.recordings
 
-        // Apply respective styles for status
-        if (status === "open") {
-            document.getElementById('status').classList.add('status-open');
-        }
-        else if (status === "closed") {
-            document.getElementById('status').classList.add('status-closed');
-        }
-        else if (status === "limited") {
-            document.getElementById('status').classList.add('status-limited');
-        }
+    // Calculate recordings count
+    let pendingCount = weeklyRecordingsCount - recordingsCount;
 
-        // Get last seen days
-        const lastSeenString = getDays(lastSeen);
-
-        // Add last seen to HTML
-        document.getElementById('seen').textContent = lastSeenString;
-
-        // Add recordings count
-        document.getElementById('recordings').textContent = recordingsCount;
-    })
+    // Add recordings count
+    document.getElementById('recordings').textContent = weeklyRecordingsCount;
+    document.getElementById('pending').textContent = pendingCount;
+})
