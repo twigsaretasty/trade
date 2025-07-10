@@ -55,7 +55,7 @@ Promise.all([
     const weeklyRecordingsCount = weeklyData.recordings
 
     // Calculate recordings count
-    let pendingCount = weeklyRecordingsCount - recordingsCount;
+    let pendingCount = recordingsCount - weeklyRecordingsCount;
 
     // Add recordings count
     document.getElementById('recordings').textContent = weeklyRecordingsCount;
