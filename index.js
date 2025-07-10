@@ -10,8 +10,8 @@ function getDays(timestamp) {
 
     if (diffDays < 1) {
         return "today";
-    } else if (diffDays === 2) {
-        return "1 day ago";
+    } else if (Math.floor(diffDays) === 1) {
+        return "Yesterday";
     } else {
         return `${Math.floor(diffDays)}` + " days ago";
     }
