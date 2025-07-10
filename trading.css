@@ -86,7 +86,7 @@ h1 {
 #buttons {
     display: flex;
     justify-content: center;
-    margin-top: 25px;
+    margin-top: 50px;
     margin-bottom: 25px;
 }
 
@@ -123,7 +123,6 @@ h1 {
     font-size: 13px;
     margin-top: -20px;
     justify-content: left;
-    width: 435px;
 }
 
 #sub-info div {
@@ -178,6 +177,7 @@ h1 {
     width: 400px;
     box-sizing: border-box;
     margin: 0 auto;
+    justify-self: center;
 }
 
 #long {
@@ -203,7 +203,7 @@ h1 {
 }
 
 details ul {
-    height: 180px;
+    height: 175px;
     overflow: scroll;
 }
 
@@ -212,6 +212,12 @@ details ul {
     box-sizing: border-box;
     text-align: center;
     margin-top: -18px;
+}
+
+#extra-info ul {
+    margin-top: 20px;
+    text-align: left;
+    width: 300px;
 }
 
 /* collection pages */
