@@ -6,7 +6,9 @@
     font-family: "Adelia";
     src: url('fonts/ADELIA.otf') format("opentype");
 }
-
+* {
+    box-sizing: border-box;
+}
 html, body {
     height: 100%;
     width: 100%;
@@ -86,6 +88,7 @@ h1 {
 #buttons {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin-top: 50px;
     margin-bottom: 25px;
 }
@@ -507,5 +510,10 @@ footer {
 
     #buttons {
         font-size: 12px;
+    }
+
+    #new-ins {
+        margin: auto;
+        padding: 20px;
     }
 }

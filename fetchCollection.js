@@ -36,11 +36,27 @@ async function get_collection() {
 
 }
 
-function formatCharacter(performer, character, status) {
-    // Set the status if needed, otherwise leave it empty
-    const statusText = status ? `${status} ` : '';
-    // Returns like "Stephanie J. Block (Elphaba)" or "Becky Gulsvig (u/s Elle Woods)"
-    return `${performer} (${statusText}${character})`
+function groupCast(cast) {
+    // Group characters by the same actor to only appear once
+    // Set a dictionary
+    const grouped = new Map()
+
+    cast.forEach(({ performer, character, status }) => {
+        const key = performer.id
+        if (!grouped.has(key)) {
+            // If it isn't already added
+            grouped.set(key, {
+                performer: performer.name,
+                status: status?.abbreviation,
+                characters: [],
+            })
+        }
+        // Add the character
+        grouped.get(key).characters.push(character.name)
+    }
+    )
+
+    return [...grouped.values()]
 }
 
 function formatNotes(master_notes, general_notes, my_notes) {
@@ -146,7 +162,7 @@ function formatRecording(id, records) {
     if (!match) return null;
 
     // Format the notes
-    const formattedNotes = formatNotes(
+    let formattedNotes = formatNotes(
         match.recording.master_notes, 
         match.recording.notes,
         match.notes
@@ -175,8 +191,22 @@ function formatRecording(id, records) {
     // Calculate if the recording is NFT
     const isNft = calcNft(rec.nft.nft_date);
 
+    if (isNft) {
+        // Add to the beginning of the notes
+        formattedNotes = `NFT Date: ${rec.nft.nft_date}` + formattedNotes
+    }
+
     // TODO: check for NFT forever
     // low priority since I don't have any
+
+    // Get grouped cast list
+    const castList = groupCast(rec.cast)
+
+    // Format cast
+    const cast = castList.map(({ performer, status, characters }) => {
+        const statusText = status ? `${status} ` : '';
+        return `${performer} (${statusText}${characters.join('/')})`;
+        }).join(', ');
 
     // Push all recordings in a given timeframe to the respective lists
     const today = new Date()
@@ -211,9 +241,7 @@ function formatRecording(id, records) {
         time: time,
         master: rec.master,
         media_type: rec.metadata.media_type,
-        cast: rec.cast.map(c => (
-            formatCharacter(c.performer.name, c.character.name, c.status?.abbreviation || '')
-        )).join(', '),
+        cast: cast,
         notes: formattedNotes,
         amount_recorded: rec.metadata.amount_recorded,
         gifting_status: rec.metadata.gifting_status,
