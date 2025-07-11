@@ -5,6 +5,9 @@ import { writeFileSync } from 'fs';
 const API_KEY = process.env.API_KEY;
 const BASE_URL = 'https://encora.it/api/';
 
+const lastWeekIds = []
+const thisWeekIds = []
+
 async function get_collection() {
     const allRecords = [];
     let url = BASE_URL + "collection";
@@ -129,6 +132,12 @@ function parse_date(date) {
     return formattedDate;
 }
 
+function formatSmallInfo(id, records) {
+    const match = records.find(r => r.recording.id === id)
+    const idSearch = match.recording
+    return `${idSearch.show} | ${idSearch.tour} | ${parse_date(idSearch.date)} | ${idSearch.master} (${idSearch.metadata.media_type})`
+}
+
 function formatRecording(id, records) {
     // Make sure the ID exists
     const match = records.find(r => r.recording.id === id);
@@ -169,8 +178,31 @@ function formatRecording(id, records) {
     // TODO: check for NFT forever
     // low priority since I don't have any
 
-    // Return the formatted recording as an object with all needed information
+    // Push all recordings in a given timeframe to the respective lists
+    const today = new Date()
 
+    // The exact day to stop calculating
+    const endThisWeekDay = today.getDate()
+    const startThisWeek = new Date(today)
+    const startLastWeek = new Date(today)
+    
+    startThisWeek.setDate(endThisWeekDay - 7)
+    startLastWeek.setDate(endThisWeekDay - 14)
+    const endLastWeek = new Date(startLastWeek)
+
+    const compareDate = new Date(match.collected_at)
+
+    if (startThisWeek <= compareDate && compareDate <= today){
+        // If the collected date is between the start of the count and today, add it to the list
+        thisWeekIds.push(rec.id)
+    }
+    else if (startLastWeek <= compareDate && compareDate >= endLastWeek) {
+        lastWeekIds.push(rec.id)
+    }
+
+    // Otherwise just go to format a recording
+        
+    // Return the formatted recording as an object with all needed information
     return {
         id: rec.id,
         show: rec.show,
@@ -253,7 +285,10 @@ function stripArticle(title) {
 async function main() {
     const records = await get_collection();
 
-    const formattedRecordings = records.map(record => formatRecording(record.recording.id, records)).filter(Boolean);
+    const formattedRecordings = records
+        .map(record =>
+            formatRecording(record.recording.id, records))
+            .filter(Boolean);
 
     const { audios, videos } = createDictionaries(formattedRecordings);
 
@@ -279,6 +314,19 @@ async function main() {
         sortedGroupedVideos[key] = groupedVideos[key];
     });
 
+    // Deal with new ins
+    const thisWeekIns = []
+    const lastWeekIns = []
+    const newRecordings = { thisWeekIns, lastWeekIns }
+
+    thisWeekIds.forEach(id => {
+        thisWeekIns.push(formatSmallInfo(id, records))
+    });
+
+    lastWeekIds.forEach(id => {
+        lastWeekIns.push(formatSmallInfo(id, records))
+    })
+
     writeFileSync(
         `./audios.json`,
         JSON.stringify(sortedGroupedAudios, null, 2),
@@ -288,6 +336,12 @@ async function main() {
     writeFileSync(
         `./videos.json`,
         JSON.stringify(sortedGroupedVideos, null, 2),
+        'utf-8'
+    );
+
+    writeFileSync(
+        `./new.json`,
+        JSON.stringify(newRecordings, null, 2),
         'utf-8'
     );
 
