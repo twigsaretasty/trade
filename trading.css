@@ -370,6 +370,20 @@ footer {
     gap: 20px;
 }
 
+.new-ins summary {
+    width: 400px;
+}
+
+.new-ins {
+    width: 100%;
+    padding: 10px;
+}
+
+.new-ins ul {
+    height: 100%;
+    width: 100%;
+}
+
 /* colours */
 
 .partial {
