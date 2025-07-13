@@ -33,7 +33,7 @@ async function getProfile() {
 
     writeFileSync('./weekly-profile.json', JSON.stringify(formattedProfile, null, 2));
 
-    console.log('Data saved to profile.json');
+    console.log('Weekly profile info saved.');
 }
 
 getProfile().catch(console.error);
