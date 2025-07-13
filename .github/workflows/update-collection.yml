@@ -31,10 +31,10 @@ jobs:
         API_KEY: ${{ secrets.API_KEY }}
       run: node fetchCollection.js
 
-    - name: Run fetchData.js
+    - name: Run fetchWeeklyData.js
       env:
         API_KEY: ${{ secrets.API_KEY }}
-      run: node fetchData.js
+      run: node fetchWeeklyData.js
 
     - name: Commit changes
       run: |
