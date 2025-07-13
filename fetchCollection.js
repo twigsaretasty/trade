@@ -347,13 +347,16 @@ async function main() {
     const lastWeekIns = []
     const newRecordings = { thisWeekIns, lastWeekIns }
 
+    
     thisWeekIds.forEach(id => {
         thisWeekIns.push(formatSmallInfo(id, records))
     });
-
+    
     lastWeekIds.forEach(id => {
         lastWeekIns.push(formatSmallInfo(id, records))
     })
+    
+    console.log(`Found ${length(thisWeekIns)} new recordings from this week and ${length(lastWeekIns)} from last week.`)
 
     writeFileSync(
         `./audios.json`,
