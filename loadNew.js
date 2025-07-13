@@ -51,7 +51,7 @@ Promise.all([
     const thisWeek = newData.thisWeekIns;
     const lastWeek = newData.lastWeekIns;
 
-    if (thisWeek != "") {
+    if (thisWeek) {
         const ul = document.getElementById('this')
         ul.innerHTML = thisWeek
         .map(item =>
@@ -59,7 +59,7 @@ Promise.all([
         ).join('');
     }
 
-    if (lastWeek != "") {
+    if (lastWeek) {
         const ul = document.getElementById('last')
         ul.innerHTML = lastWeek
         .map(item =>
