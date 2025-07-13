@@ -355,7 +355,7 @@ async function main() {
         lastWeekIns.push(formatSmallInfo(id, records))
     })
 
-    console.log(`Found ${thisWeekIns.length()} new recordings from this week and ${lastWeekIns.length()} from last week.`)
+    console.log(`Found ${thisWeekIns.length} new recordings from this week and ${lastWeekIns.length} from last week.`)
 
     writeFileSync(
         `./audios.json`,
