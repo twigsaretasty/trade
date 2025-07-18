@@ -1,12 +1,10 @@
-console.log("Trading home page.");
+console.log("Trading home page is alive!");
 
 function getDays(timestamp) {
     const date = new Date(timestamp);
     const now = new Date();
     
     const diffDays = (now - date) / (1000 * 60 * 60 * 24);
-
-    console.log(`${diffDays} days`)
 
     if (diffDays < 1) {
         return "today";
@@ -52,12 +50,19 @@ Promise.all([
     // Add last seen to HTML
     document.getElementById('seen').textContent = lastSeenString;
 
+    // Set weekly
     const weeklyRecordingsCount = weeklyData.recordings
 
     // Calculate recordings count
     let pendingCount = recordingsCount - weeklyRecordingsCount;
 
+    // Calculate full count
+    let nonencora = parseInt(document.getElementById('non-count').textContent);
+
+    let totalTotal = (weeklyRecordingsCount + pendingCount + nonencora)
+
     // Add recordings count
     document.getElementById('recordings').textContent = weeklyRecordingsCount;
     document.getElementById('pending').textContent = pendingCount;
+    document.getElementById('full-count').textContent = totalTotal;
 })
