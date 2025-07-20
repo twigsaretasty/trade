@@ -520,7 +520,7 @@ footer {
     }
 
     #navbar a {
-        padding: 10px;
+        padding: 5px;
     }
 
     #shows {
@@ -553,8 +553,10 @@ footer {
         font-size: 12px;
     }
 
-    #new-ins {
+    .new-ins {
         margin: auto;
-        padding: 20px;
+        padding: 10px;
+        width: 50%;
+        font-size: 12px;
     }
 }
