@@ -13,7 +13,24 @@
             "gifting_status": "Gift at your Discretion",
             "limited_status": "Unrestricted",
             "nft": false,
-            "format": "",
+            "format": "VOB (with smalls)",
+            "size": "4.16 GB"
+        }
+    ],
+    "Legally Blonde": [
+        {
+            "show": "Legally Blonde",
+            "tour": "FTX Productions",
+            "date": "2024-03",
+            "time": "E",
+            "master": "FaceInTheMirror",
+            "cast": "Kate Ferguson (Elle Woods), Pierce Melanson (Emmett Forrest), Raymarck Unera (Warner Huntington III), Keren Kayembe (Vivienne Kensington), Anitra Bowman (Paulette Buonofonte), Owen Juenzler (Callahan/Winthrop), Allana Scott (Brooke Wyndham), Sarah Sevier (Margot), Samantha Moreau (Serena), Aleena Asim (Pilar), Mekaela Butler (Enid Hoops/Grandmaster Chad), Julia D'Silva (Sundeep/Kyle/Dewey/Chutney), Anna Chuprun (Kate), Kathleen Petsinis (Quinn (Delta Nu)), Abbey Kearney (Whitney/Kiki), Victoria McArthur (Harper (Delta Nu)/Frat Boy), Jacob Kreisman (Aaron Schultz/Mr. Wood/Carlos), Emily Keeping (Mrs. Woods/Harvard Student), Danielle Pazdzior (Judge/Bookish Client), Bailey Pelletier (Store Manager/Perfume Clerk), Shelcy Titus (Saleswomen/Lowell/Reporter/Court Stenographer), Maclean Boyd (Pforzheimer/Nikos)",
+            "notes": "Used a photo camera to film this. We were allowed to film but since I didn't personally know anyone, and I wanted to practice, I decided to \"hide\" my camera. About 30min from the start of Act 2 to the end of \"There! Right There!\". Someone in my row left after that number and the lens got covered. There's a small break as my camera only films in 25-min installments. Goes in and out of focus at times. Severely blocked by heads. Sound's pretty good, used camera audio.",
+            "amount_recorded": "Partial",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": false,
+            "format": "MP4",
             "size": ""
         }
     ]
