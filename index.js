@@ -57,12 +57,19 @@ Promise.all([
     let pendingCount = recordingsCount - weeklyRecordingsCount;
 
     // Calculate full count
-    let nonencora = parseInt(document.getElementById('non-count').textContent);
-
-    let totalTotal = (weeklyRecordingsCount + pendingCount + nonencora)
+    let nonencora = 5; // <-- UPDATE HERE
+    let newTotal = (weeklyRecordingsCount + nonencora)
 
     // Add recordings count
-    document.getElementById('recordings').textContent = weeklyRecordingsCount;
+    document.getElementById('recordings').textContent = newTotal;
     document.getElementById('pending').textContent = pendingCount;
-    document.getElementById('full-count').textContent = totalTotal;
 })
+
+function addClass(query) {
+    console.log("adding current class")
+    document.querySelector(query).classList.add('current')
+}
+
+document.querySelector(".dropdown").addEventListener("click", function () {
+    addClass(".dropdown")
+});
