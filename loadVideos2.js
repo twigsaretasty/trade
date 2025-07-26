@@ -143,3 +143,17 @@ fetch('videosnonencora.json')
         })
     })
     .catch(error => console.error('Error fetching JSON:', error));
+
+function addClass() {
+    console.log("adding current class")
+    document.querySelector(".dropdown").classList.toggle("show");
+}
+
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.querySelector(".dropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}

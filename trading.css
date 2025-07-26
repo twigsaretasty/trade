@@ -95,6 +95,10 @@ h1 {
     display: inline-block;
 }
 
+.show {
+    display: block;
+}
+
 .dropdown {
     /* float: right; */
     overflow: hidden;
