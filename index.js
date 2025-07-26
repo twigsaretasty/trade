@@ -65,11 +65,16 @@ Promise.all([
     document.getElementById('pending').textContent = pendingCount;
 })
 
-function addClass(query) {
+function addClass() {
     console.log("adding current class")
-    document.querySelector(query).classList.add('current')
+    document.querySelector(".dropdown").classList.toggle("show");
 }
 
-document.querySelector(".dropdown").addEventListener("click", function () {
-    addClass(".dropdown")
-});
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.querySelector(".dropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
