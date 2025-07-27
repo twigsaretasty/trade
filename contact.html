@@ -25,19 +25,19 @@
                     home
                 </a>
                 <div class="dropdown">
-                    <a class="dropbtn">
+                    <a class="dropbtn" onclick="showAudios()">
                         audios
                     </a>
-                    <div class="dropdown-content">
+                    <div class="dropdown-content" id="audios">
                         <a href="audios.html">audios</a>
                         <a href="audios-not-on-encora.html">not on encora</a>
                     </div>
                 </div>
                 <div class="dropdown">
-                    <a class="dropbtn">
+                    <a class="dropbtn" onclick="showVideos()">
                         videos
                     </a>
-                    <div class="dropdown-content">
+                    <div class="dropdown-content" id="videos">
                         <a class="text dropdown-videos" href="videos.html">videos</a>
                         <a class="text dropdown-videos" href="videos-not-on-encora.html">not on encora</a>
                     </div>
@@ -84,5 +84,25 @@
             <p class="copyright">© twigs 2025 <img src="media/bee2.gif" alt="bee"> </p>
         </footer>
     </div>
+    <script>
+    function showAudios() {
+        console.log("adding current class")
+        document.getElementById("audios").classList.toggle("display");
+    }
+
+    function showVideos() {
+        console.log("adding current class")
+        document.getElementById("videos").classList.toggle("display");
+    }
+
+    window.onclick = function(e) {
+        if (!e.target.matches('.dropbtn')) {
+        var myDropdown = document.querySelector(".dropdown");
+            if (myDropdown.classList.contains('display')) {
+            myDropdown.classList.remove('display');
+            }
+        }
+    }
+    </script>
 </body>
 </html>

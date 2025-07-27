@@ -68,16 +68,22 @@ Promise.all([
     }
 
 })
-function addClass() {
+
+function showAudios() {
     console.log("adding current class")
-    document.querySelector(".dropdown").classList.toggle("show");
+    document.getElementById("audios").classList.toggle("display");
+}
+
+function showVideos() {
+    console.log("adding current class")
+    document.getElementById("videos").classList.toggle("display");
 }
 
 window.onclick = function(e) {
-  if (!e.target.matches('.dropbtn')) {
-  var myDropdown = document.querySelector(".dropdown");
-    if (myDropdown.classList.contains('show')) {
-      myDropdown.classList.remove('show');
+    if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.querySelector(".dropdown");
+        if (myDropdown.classList.contains('display')) {
+        myDropdown.classList.remove('display');
+        }
     }
-  }
 }
