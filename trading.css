@@ -563,4 +563,8 @@ footer {
         width: 50%;
         font-size: 12px;
     }
+
+    .wants-page {
+        width: 90%
+    }
 }
