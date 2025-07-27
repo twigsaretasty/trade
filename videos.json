@@ -750,6 +750,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.42 GB"
+    },
+    {
+      "id": 1004622,
+      "show": "A Chorus Line",
+      "tour": "Broadway",
+      "date": "1990-04-25",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Eivind Harum (Zach), Laurie Gamache (Cassie), Kevin Neil McCready (Larry), Susan Santoro (Maggie), Sachi Shimizu (Connie), Diana Kavilis (Val), Keith Bernardo (Don), Christine Maglione (Bebe), Tommy Re (Al), Gordon Owens (Richie), Doug Friedman (Greg), Roxann Biggs (Diana), Michael Gruber (Mike), Angelique Ilo (Judy), Susan Danielle (Sheila), Ron Kurowski (Bobby), Cynthia Fleming (Kristine), Drew Geraci (Paul), Jack Noseworthy (Mark), Robin Lyon (Tricia), Kevyn Morrow (Butch), Carlos Lopez (Tom), Julie Tussey (Lois), William Mead (Frank), Paula Leggett Chase (Vicki), Troy Garza (Jarad), Frank Kliegel (Douglas), Donna M. Pompei (Hilary), Dana Moore (Linda), Joe Langworth (Ed), Fraser Ellis (Herman)",
+      "notes": "Almost the final Broadway show filmed from the balcony left with spotlight washout and no closeups.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "2.28 GB"
     }
   ],
   "Cinderella (Andrew Lloyd Webber)": [
@@ -2384,7 +2401,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MKV + VOB (with smalls)",
+      "format": "VOB (with smalls) + MKV",
       "size": "972.3 MB + 1.01 GB"
     },
     {
