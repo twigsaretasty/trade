@@ -86,7 +86,8 @@ function formatNotes(master_notes, general_notes, my_notes) {
     }
     else if (!master_notes && !general_notes && my_notes) {
         // Only mine exist
-        return my_notes;
+        // But I want to be clear they are mine
+        return `MY NOTES: ${my_notes}`;
     }
     else {
         // In any other case, return nothing
