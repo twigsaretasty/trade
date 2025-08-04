@@ -18,6 +18,25 @@
       "size": "4.1 GB"
     }
   ],
+  "[title of show]": [
+    {
+      "id": 5354,
+      "show": "[title of show]",
+      "tour": "Broadway",
+      "date": "2008-07-06",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Hunter Bell (Hunter), Jeff Bowen (Jeff), Heidi Blickenstaff (Heidi), Susan Blackwell (Susan), Larry Pressgrove (Larry)",
+      "notes": "Cute little show about making it to Broadway. Heidi was my favorite part of the show. There were some very funny parts to the show, especially if you are a theater buff. There are about 10 mins of total blackouts, mostly within the first 13 minutes. Despite that, a nice capture and the audience was very into the show. A-",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "3.69 GB"
+    }
+  ],
   "101 Dalmatians (Hodge/McKnight)": [
     {
       "id": 1130162,
@@ -96,7 +115,7 @@
       "show": "42nd Street",
       "tour": "Broadway",
       "date": "1981",
-      "time": "E",
+      "time": "U",
       "master": "Unknown",
       "media_type": "video",
       "cast": "Wanda Richert (Peggy Sawyer), Lee Roy Reams (Billy Lawlor), Millicent Martin (Dorothy Brock), Jerry Orbach (Julian Marsh), Peggy Cass (Maggie Jones), Joseph Bova (Bert Barry), Danny Carroll (Andy Lee)",
@@ -107,6 +126,25 @@
       "nft": false,
       "format": "MP4",
       "size": "3.43 GB"
+    }
+  ],
+  "9 to 5: The Musical": [
+    {
+      "id": 372,
+      "show": "9 to 5: The Musical",
+      "tour": "Broadway",
+      "date": "2009-09-06",
+      "time": "M",
+      "master": "juniper47",
+      "media_type": "video",
+      "cast": "Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J. Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Van Hughes (Josh), Daniel Cooney (Dick), Ioana Alfonso (Maria), Jill Abramovitz (Kathy), Lisa Howard (Missy), Jeremy Davis (Bob Enright), Michael X. Martin (Tinsworthy), Karen Murphy (Margaret), Maia Nkenge Wilson (Anita), Tory Ross (Daphne), Justin Bohon (Ensemble), Paul Castree (Ensemble), Autumn Guzzardi (Ensemble), Spencer Liff (Ensemble), Michael Mindlin (Ensemble), Jessica Lea Patty (Ensemble), Herman Payne (Ensemble), Wayne Schroder (Ensemble), Brandi Wooten (Ensemble)",
+      "notes": "Final performance! Filmed in 16:9 widescreen. Few obstructions, only in the wide-shots when there are two heads on either side of the frame, but filmer does his/her best to shoot around them. External audio fed into video from MD recorder, so audio is very clear. A mix of close-ups and wider shots when multiple people were on stage to see their interactions. This was a gut-wrenchingly sad performance. Most of the cast members were in tears at some point or another during the show. In particular, Stephanie was sobbing through I Just Might and Allison started sobbing at the end of One of the Boys. A few minor ad-libs and mishaps. One being when Allison pulled out a tape measure during the urinals bit of One of the Boys. The cast was sad but they were clearly trying to have the times of their lives and go out with a bang. And they fed off the audience energy, which was insane and very supportive.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.66 GB"
     }
   ],
   "The Addams Family": [
@@ -525,7 +563,7 @@
       "master": "Medium Observation",
       "media_type": "video",
       "cast": "Jasmine Rogers (Betty Boop), Ainsley Melham (Dwayne), Faith Prince (Valentina), Stephen DeRosa (Grampy), Phillip Huber (Pudgy), Angelica Hale (Trisha), Erich Bergen (Raymond), Anastacia McCleskey (Carol Evans), Nina Lafarga (Ensemble), Lawrence Alexander (Ensemble), Brooke Taylor (Ensemble), Gabriella Sorrentino (Ensemble), Ricky Schroeder (Ensemble), Christian Probst (Ensemble), Ryah Nixon (Ensemble), Aubie Merrylees (Ensemble), Morgan McGhee (Ensemble), Colin Bradbury (Ensemble), RJ Higton (Ensemble), Josh Drake (Ensemble), Rebecca Corrigan (Ensemble), Daniel Castiglione (Ensemble), Gabi Campo (Ensemble), Joshua Burrage (Ensemble), Tristen Buettel (Ensemble)",
-      "notes": "Nice video from the second week of previews and Version 3.0. Some scenes are majorly wideshot due to the nature of the show, along with usher activity. Some washout can be seen at times but it's not too bad.",
+      "notes": "GENERAL NOTES: Nice video from the second week of previews and Version 3.0. Some scenes are majorly wideshot due to the nature of the show, along with usher activity. Some washout can be seen at times but it's not too bad.<br><br>MY NOTES: A very nice capture indeed, the washout doesn’t distract much at all. Such a fun show! Jasmine is incredible and the rest of the cast was really great too. Loved the Elle Woods cameo :)",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -568,6 +606,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "8.51 GB"
+    }
+  ],
+  "Brokeback Mountain": [
+    {
+      "id": 1143282,
+      "show": "Brokeback Mountain",
+      "tour": "West End",
+      "date": "2023-05",
+      "time": "U",
+      "master": "Lasagna",
+      "media_type": "video",
+      "cast": "Lucas Hedges (Ennis Del Mar), Mike Faist (Jack Twist), Eddi Reader (Balladeer), Emily Fairn (Alma), Paul Hickey (Older Ennis), Martin Marquez (Bill/Jack's Father/Joe Agguire), Sophie Reid (Lureen/Waitress/Backing Vocals)",
+      "notes": "<p>Solid capture of this incredible play! Shot over a safety barrier that is sometimes visible</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "7.56 GB"
     }
   ],
   "Cabaret": [
@@ -743,7 +800,7 @@
       "master": "SJ Bernly",
       "media_type": "video",
       "cast": "Mario Lopez (Zach), Sarah Bowden (Cassie), Spencer Liff (Larry), Mara Davi (Maggie), J. Elaine Marcos (Connie), Sabrina Bryan (Val), Michael Starr (Don), Kelsey Walston (Bebe), Justin Michael Wilcox (Al), Cornelius Jones Jr. (Richie), Denis Lambert (Greg), Krysta Rodriguez (Diana), Robert Fairchild (Mike), Tiana Okoye (Judy), Leigh Zimmerman (Sheila), Courtney Lopez (Kristine), Jason Tam (Paul), Ross Lynch (Mark)",
-      "notes": "This all-star cast gives energetic and nuanced performances; the cast as a whole is a stand-out with absolutely incredible dance numbers. Nicely filmed with no obstructions, no washout, just a couple of quick dropouts. Filmed the stage directly; screens are never shown. Filmed in 16:9 with a mix of wides, mediums and close-ups. Show is 125 minutes on one disc. Includes curtain call and playbill scans.",
+      "notes": "GENERAL NOTES: This all-star cast gives energetic and nuanced performances; the cast as a whole is a stand-out with absolutely incredible dance numbers. Nicely filmed with no obstructions, no washout, just a couple of quick dropouts. Filmed the stage directly; screens are never shown. Filmed in 16:9 with a mix of wides, mediums and close-ups. Show is 125 minutes on one disc. Includes curtain call and playbill scans.<br><br>MY NOTES: Thought this was a really nice capture! This was the first time I watched this show and I was waiting in anticipation for the kickline. I liked it!",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -1520,7 +1577,7 @@
       "master": "SJ Bernly",
       "media_type": "video",
       "cast": "Lin-Manuel Miranda (Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Leslie Odom Jr. (Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Christopher Jackson (George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Anthony Ramos (John Laurens/Philip Hamilton), Jasmine Cephas Jones (Peggy Schuyler/Maria Reynolds), Jonathan Groff (King George III), Sydney James Harcourt (Philip Schuyler/James Reynolds/Doctor), Daniel J. Watts (t/r Samuel Seabury), Neil Haskell (s/w Charles Lee), Ephraim Sykes (George Eacker)",
-      "notes": "The man, the myth, the legend. This year's most talked about show, fully captured. Enjoy. This is a great capture overall; there are some heads at the bottom and sides that can be seen occasionally, especially in wider shots, but they are worked around when necessary and rarely affect the action. There are no major blackouts, just a few quick dropouts, mostly between scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.",
+      "notes": "MASTER NOTES: The man, the myth, the legend. This year's most talked about show, fully captured. Enjoy. This is a great capture overall; there are some heads at the bottom and sides that can be seen occasionally, especially in wider shots, but they are worked around when necessary and rarely affect the action. There are no major blackouts, just a few quick dropouts, mostly between scenes. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. <br><br>GENERAL NOTES: Several versions circulate, some compressed and ripped. Check with traders.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -2039,7 +2096,7 @@
       "master": "pro-shot",
       "media_type": "video",
       "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Beth Curry (Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Chico the Dog (Bruiser), Chloe the Dog (Rufus), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
-      "notes": "MTV Proshot. Broadcast on October 13th and October 14th 2007. Two versions circulate: VOB with smalls and a remastered/upscaled MP4. Check with traders what format they have!",
+      "notes": "GENERAL NOTES: MTV Proshot. Broadcast on October 13th and October 14th 2007. Two versions circulate: VOB with smalls and a remastered/upscaled MP4. Check with traders what format they have!<br><br>MY NOTES: I also have an MP4 version (2.18 GB), as well as a sing-a-long version (2.2 GB), which are available to trade for on request. Just let me know!",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -2175,7 +2232,7 @@
       "master": "Unknown",
       "media_type": "video",
       "cast": "Laura Bell Bundy (Elle Woods), Noah Weisberg (u/s Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney)",
-      "notes": "I have the original VOBs as well as a merged MKV file. Both are the full video",
+      "notes": "MY NOTES: I have the original VOBs as well as a merged MKV file. Both are the full video and will be traded together.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -4433,7 +4490,7 @@
       "master": "SJ Bernly",
       "media_type": "video",
       "cast": "Rob McClure (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Catherine Brunell (u/s Portia), Brad Oscar (Nostradamus), David Beach (Brother Jeremiah), Andre Ward (Minstrel/Snug)",
-      "notes": "GENERAL NOTES: With a mix of original cast and new faces, there are great performances all around. Nicely captured with just a couple quick dropouts. There are some heads at the bottom of the screen that regularly block the actors' feet, but they are worked around as much as possible, and generally don't affect the main action. There is also some occasional washout, especially in wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.<br><br>MY NOTES: I have this in both the original VOB format and a merged MKV file. Both are the full show.",
+      "notes": "GENERAL NOTES: With a mix of original cast and new faces, there are great performances all around. Nicely captured with just a couple quick dropouts. There are some heads at the bottom of the screen that regularly block the actors' feet, but they are worked around as much as possible, and generally don't affect the main action. There is also some occasional washout, especially in wider shots. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans.\nScreenshots are from the 3.99 GB single disc version.<br><br>MY NOTES: I have this in both the original VOB format and a merged MKV file. Both are the full show and will be traded together.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -4605,7 +4662,7 @@
       "master": "pro-shot",
       "media_type": "video",
       "cast": "Carrie Underwood (Maria Rainer), Stephen Moyer (Captain Georg von Trapp), Audra McDonald (Mother Abbess), Laura Benanti (Elsa Schraeder), Christian Borle (Max Detweiler), Ariane Rinehart (Liesl), Joe West (Kurt), Grace Rundhaug (Marta), Ella Watts-Gorman (Louisa), Michael Nigro (Friedrich), Sophia Anne Caruso (Brigitta), Peyton Ella (Gretl), Michael Campayno (Rolf), Kristine Nielsen (Frau Schmidt), Christiane Noll (Sister Margaretta), Jessica Molaskey (Sister Berthe), Sean Cullen (Franz), Elena Shaddow (Sister Sophia), C.J. Wilson (Herr Zeller), John Bolger (Admiral von Schreiber)",
-      "notes": "Also includes The Making of The Sound of Music Live, and an audio file of the performance in M4A",
+      "notes": "MY NOTES: Also includes The Making of The Sound of Music Live, and an audio file of the performance in M4A",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -4662,7 +4719,7 @@
       "master": "SunsetBlvd79",
       "media_type": "video",
       "cast": "Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), John Gallagher Jr. (Moritz Stiefel), Phoebe Strole (u/s Ilse Neumann), Lilli Cooper (Martha Bessell), Jonathan B. Wright (Hanschen Rilow), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Remy Zaken (Thea), Krysta Rodriguez (u/s Anna Wheelan), Gideon Glick (Ernst Robel), Frances Mercanti-Anthony (u/s The Adult Women), Stephen Spinella (The Adult Men)",
-      "notes": "AMAZING capture, closeups, performances. Not to be missed. A+",
+      "notes": "AMAZING capture, closeups, performances. Not to be missed. A+\n\nContent warning, there is partial nudity in this bootleg.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -5235,6 +5292,23 @@
       "nft": false,
       "format": "MP4 x2",
       "size": "478.9 MB"
+    },
+    {
+      "id": 5383,
+      "show": "Wicked",
+      "tour": "Broadway",
+      "date": "2018-07",
+      "time": "U",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Jessica Vosk (Elphaba), Amanda Jane Cooper (Glinda), Curt Hansen (t/r Fiyero), Kevin Chamberlin (The Wizard), Isabel Keating (Madame Morrible), Kristen Martin (Nessarose), Jye Frasca (Boq), Martin Moran (Doctor Dillamond)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.53 GB"
     },
     {
       "id": 6210,
