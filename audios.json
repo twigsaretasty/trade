@@ -18,6 +18,25 @@
       "size": "56.4 MB"
     }
   ],
+  "Amour": [
+    {
+      "id": 1149218,
+      "show": "Amour",
+      "tour": "Broadway",
+      "date": "2002",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Christian Borle (u/s Dusoleil), Melissa Errico (Isabelle)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Anastasia": [
     {
       "id": 5652,
@@ -35,6 +54,25 @@
       "nft": false,
       "format": "M4A x2",
       "size": "65.6 MB"
+    }
+  ],
+  "Assassins": [
+    {
+      "id": 9173,
+      "show": "Assassins",
+      "tour": "Workshop",
+      "date": "1989-12-18",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Victor Garber (John Wilkes Booth), Jonathan Hadary (Charles Guiteau), Anthony Heald (Leon Czolgosz), Nathan Lane (Samuel Byck), Michael Jeter (Giuseppe Zangara), Christine Baranski (Lynette \"Squeaky\" Fromme), Kevin Anderson (Lee Harvey Oswald/Balladeer), Swoosie Kurtz (Sara Jane Moore), Timothy Jerome (The Proprietor), Paul McCrane (John Hinckley Jr.), Alma Cuervo (Emma Goldman), Jonathan Gold (Billy), Joy Franz (Ensemble), David Pursley (Ensemble), Michael McCarty (Ensemble)",
+      "notes": "Staged reading.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Back to the Future: The Musical": [
@@ -227,7 +265,7 @@
       "master": "Token Goat",
       "media_type": "audio",
       "cast": "Becky Gulsvig (Beverley/Annette), Andrew Samonsky (Kevin T./Garth), Kevin Carolan (Claude/Others), Harter Clingman (Oz/Others), Emily Walton (Janice/Others), Nick Duckart (Kevin J./Ali), Chamblee Ferguson (Nick/Doug), Christine Toy Johnson (Diane/Others), Danielle K. Thomas (Hannah/Others), Julie Johnson (Beulah/Others), Megan McGinnis (Bonnie/Others), James Earl Jones II (Bob/Others)",
-      "notes": "BC/EFA Speech by Kevin Carolan.",
+      "notes": "GENERAL NOTES: BC/EFA Speech by Kevin Carolan.<br><br>MY NOTES: A very nice and clear audio! I thought Becky was great",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -565,6 +603,23 @@
   ],
   "Falsettos": [
     {
+      "id": 657,
+      "show": "Falsettos",
+      "tour": "First Broadway Revival",
+      "date": "2016-10-08",
+      "time": "E",
+      "master": "redladydeath",
+      "media_type": "audio",
+      "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 658,
       "show": "Falsettos",
       "tour": "First Broadway Revival",
@@ -650,6 +705,57 @@
       "size": "233.1 MB"
     },
     {
+      "id": 19520,
+      "show": "Falsettos",
+      "tour": "First Broadway Revival",
+      "date": "2016-11-11",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
+      "notes": "Includes Andrews BCEFA speech where he chastises the audience member whose phone went off during the show.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 21123,
+      "show": "Falsettos",
+      "tour": "First Broadway Revival",
+      "date": "2016-11-17",
+      "time": "E",
+      "master": "oydtrades",
+      "media_type": "audio",
+      "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 21300,
+      "show": "Falsettos",
+      "tour": "First Broadway Revival",
+      "date": "2016-12-01",
+      "time": "E",
+      "master": "lilpufferfish",
+      "media_type": "audio",
+      "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
+      "notes": "Contains special World AIDS Day BC/EFA speech by Andrew Rannells and Anthony Rosenthal.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1145454,
       "show": "Falsettos",
       "tour": "First Broadway Revival",
@@ -682,6 +788,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "68.3 MB"
+    },
+    {
+      "id": 2013054,
+      "show": "Falsettos",
+      "tour": "First Broadway Revival",
+      "date": "2016-10-26",
+      "time": "E",
+      "master": "changetheirstories",
+      "media_type": "audio",
+      "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
+      "notes": "Final Preview",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Footloose": [
@@ -815,6 +938,23 @@
   ],
   "In Trousers": [
     {
+      "id": 7334,
+      "show": "In Trousers",
+      "tour": "BCEFA Benefit Concert",
+      "date": "1993",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Chip Zien (Marvin), Alison Fraser (Trina), Victoria Clark (His Sweetheart), Mary Testa (Miss Goldberg)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 21838,
       "show": "In Trousers",
       "tour": "Off-Broadway Revival",
@@ -900,6 +1040,23 @@
       "nft": false,
       "format": "MP3 x10",
       "size": "45 MB"
+    },
+    {
+      "id": 1121797,
+      "show": "Into the Woods",
+      "tour": "Reading",
+      "date": "1986",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Betty Buckley (Witch), Ray Gill (Baker), Joanna Gleason (Baker's Wife), Mary D'Arcy (Cinderella)",
+      "notes": "This 2hr30min recording captures the unknown cast reading through the script with Stephen Sondheim performing the songs from the piano. Due to the proximity of the recording device, Sondheim's singing and playing are captured but the performers' voices are barely audible. Likely many or all of the same cast members as the Playwrights Horizons reading on June 9, 1986. Sometimes listed as June 19, 1986, but exact date and location of this reading are unknown.",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 1125145,
@@ -2138,7 +2295,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney)",
-      "notes": "",
+      "notes": "MY NOTES: Not the best audio from this run due to it being a bit bass heavy at times, but still definitely listenable! Some minor line flubs and mic issues but it’s fun to hear early versions of the songs and cut lines that connect more closely with the movie. The encore is hard to hear. I love this show!!!!! ",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -4425,6 +4582,25 @@
       "size": "187.3 MB"
     }
   ],
+  "Little Miss Sunshine": [
+    {
+      "id": 16410,
+      "show": "Little Miss Sunshine",
+      "tour": "NY Reading",
+      "date": "2010-07-22",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Brian d'Arcy James (Richard Hoover), Idina Menzel (Sheryl Hoover), Christian Borle (Frank Hoover), Dick Latessa (Grandpa Hoover), Carmen Ruby Floyd (Linda/Miss California), Andrew Rannells (Josh/Kirby), Georgi James (Olive Hoover), Eliseo Roman (Larry/Buddy)",
+      "notes": "Available on the Internet Archive. Often mislabeled as the La Jolla Playhouse production.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Little Shop of Horrors": [
     {
       "id": 25078,
@@ -4444,6 +4620,23 @@
       "size": "80.4 MB"
     },
     {
+      "id": 26716,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2019-10-18",
+      "time": "E",
+      "master": "sakurarouge",
+      "media_type": "audio",
+      "cast": "Jonathan Groff (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Salome Smith (Crystal), Ari Groover (Ronnette), Kingsley Leggs (Voice of Audrey II)",
+      "notes": "A day after opening night. Fun fact: Ben Platt was in front of my row and James Franco sat next to me (therefore his laugh was captured quite a lot in the audios).",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1002600,
       "show": "Little Shop of Horrors",
       "tour": "Off-Broadway",
@@ -4459,6 +4652,40 @@
       "nft": false,
       "format": "MP3 x2 + x42",
       "size": "215.9 MB"
+    },
+    {
+      "id": 1116115,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2021-09-21",
+      "time": "E",
+      "master": "Today4UTomorrow4Netflix",
+      "media_type": "audio",
+      "cast": "Jeremy Jordan (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Salome Smith (Crystal), Ari Groover (Ronnette), Kingsley Leggs (Voice of Audrey II)",
+      "notes": "<p>Re-opening night! The audience was ecstatic and each character got a great applause as they entered. LIMITED TRADE (2:1)</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "2:1",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1122967,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2022-02-20",
+      "time": "M",
+      "master": "ohsmartie",
+      "media_type": "audio",
+      "cast": "Josh Daniel (u/s Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Aveena Sawyer (Crystal), Tatiana Lofton (Ronnette), Tiffany Reneé Thompson (u/s Voice of Audrey II), Teddy Yudain (Derelict), Evan Alexander Smith (u/s Ensemble), Chelsea Turbin (Ensemble), Eric Wright (Ensemble)",
+      "notes": "Role debut for Tiffany as the voice of Audrey II; having a female voice for the plant was SO great! it brought a completely different vibe to the show, she was incredible",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 1127281,
@@ -4510,6 +4737,40 @@
       "nft": false,
       "format": "M4A x2",
       "size": "52.8 MB"
+    },
+    {
+      "id": 1143164,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2022-07-02",
+      "time": "M",
+      "master": "antitheatre",
+      "media_type": "audio",
+      "cast": "Skylar Astin (Seymour), Jana Djenne Jackson (u/s Audrey), Christian Borle (Orin/Others), Stuart Zagnit (Mr. Mushnik), Khadija Sankoh (Chiffon), Cristina Raé (Crystal), Khalifa White (Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Chelsea Turbin (Audrey II Manipulation), Ashley Marie Arnold (Audrey II Manipulation), Michael Iannucci (Audrey II Manipulation), Teddy Yudain (Derelict)",
+      "notes": "Recorded from front row – super clear! The Mushnik harmonies are super loud in Skid Row and they crack me up. Jana’s last show as Audrey!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1146377,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2022-04-16",
+      "time": "M",
+      "master": "antitheatre",
+      "media_type": "audio",
+      "cast": "Conrad Ricamora (Seymour), Chelsea Turbin (u/s Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Khadija Sankoh (Chiffon), Cristina Raé (Crystal), Khalifa White (Ronnette), Tiffany Reneé Thompson (u/s Voice of Audrey II), Eric Wright (Audrey II Manipulation), Ashley Marie Arnold (Audrey II Manipulation), Teddy Yudain (Derelict)",
+      "notes": "Female Audrey II????? OBSESSED!!!! It made for such an interesting dynamic with Seymour and also Tiffanys voice is just…… stupidly good. I may be wrong on the Urchins and dont have my Playbill handy, so feel free to correct me! Recorded from front row, so harmonies are bangin as usual.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 2016630,
@@ -4929,6 +5190,40 @@
       "size": "67.5 MB"
     },
     {
+      "id": 1150937,
+      "show": "Some Like it Hot",
+      "tour": "Broadway",
+      "date": "2023-11-12",
+      "time": "M",
+      "master": "hatoman",
+      "media_type": "audio",
+      "cast": "J Harrison Ghee (Jerry | Daphne), Christian Borle (Joe | Josephine), Adrianna Hicks (Sugar Kane), Raena White (u/s Sweet Sue), Kevin Del Aguila (Osgood Fielding III), Adam Heller (Agent Mulligan), Mark Lotito (Spats Colombo), Angie Schworer (Minnie), Richard Riaz Yoder (Ensemble), Ericka Hunter Yang (Ensemble), Brendon Stimson (Ensemble), Charles South (Ensemble), Kayla Pecchioni (s/w Ensemble), Amber Owens (Ensemble), Abby Matsusaka (Ensemble), Jarvis B. Manning Jr. (Ensemble), KJ Hippensteel (Ensemble), Jenny Hill (Ensemble), Devon Hadsell (Ensemble), Casey Garvin (Ensemble), DeMarius R. Copes (Ensemble), Ian Campayno (s/w Ensemble), TyNia René Brandon (Ensemble)",
+      "notes": "Includes video of curtain call and Christian Borles BC/EFA speech. NFT except through master until December 31, 2023.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1154248,
+      "show": "Some Like it Hot",
+      "tour": "Broadway",
+      "date": "2023-12-20",
+      "time": "E",
+      "master": "suddenlyseymour",
+      "media_type": "audio",
+      "cast": "J Harrison Ghee (Jerry | Daphne), Christian Borle (Joe | Josephine), Kayla Pecchioni (u/s Sugar Kane), NaTasha Yvette Williams (Sweet Sue), Kevin Del Aguila (Osgood Fielding III), Adam Heller (Agent Mulligan), Mark Lotito (Spats Colombo), Angie Schworer (Minnie), Richard Riaz Yoder (Ensemble), Ericka Hunter Yang (Ensemble), Charles South (Ensemble), Ashley Elizabeth Hale (s/w Ensemble), Amber Owens (Ensemble), Abby Matsusaka (Ensemble), Brian Martin (Ensemble), Dan Horn (Ensemble), KJ Hippensteel (Ensemble), Jenny Hill (Ensemble), Devon Hadsell (Ensemble), Casey Garvin (Ensemble), Jonathan Duvelson (Ensemble), DeMarius R. Copes (Ensemble), TyNia René Brandon (Ensemble)",
+      "notes": "Audio taken from front row, directly in front of the percussion section. Because of this, percussion is very loud during songs and sometimes overloads the audio, causing the mixing to be very off at times. Otherwise, a very clear recording of one of the last times Kayla Pecchioni covered Sugar.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2002354,
       "show": "Some Like it Hot",
       "tour": "Broadway",
@@ -5099,23 +5394,6 @@
       "nft": false,
       "format": "MP3 x1",
       "size": "273.2 MB"
-    },
-    {
-      "id": 13021,
-      "show": "Something Rotten!",
-      "tour": "Broadway",
-      "date": "2015-06-04",
-      "time": "E",
-      "master": "Unknown",
-      "media_type": "audio",
-      "cast": "Brian d'Arcy James (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Kate Reinders (Portia), Brad Oscar (Nostradamus), Brooks Ashmanskas (Brother Jeremiah), Gerry Vichi (Shylock), Michael James Scott (Minstrel/Snug), Peter Bartlett (Lord Clapham/Eyepatch Man)",
-      "notes": "",
-      "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
-      "limited_status": "Unrestricted",
-      "nft": false,
-      "format": "MP3 x2",
-      "size": "183.6 MB"
     },
     {
       "id": 14401,
@@ -5781,6 +6059,25 @@
       "nft": false,
       "format": "M4A x2",
       "size": "66.8 MB"
+    }
+  ],
+  "Thoroughly Modern Millie": [
+    {
+      "id": 1118451,
+      "show": "Thoroughly Modern Millie",
+      "tour": "Broadway",
+      "date": "2003-06-20",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Susan Egan (Millie Dillmount), Christian Borle (Jimmy Smith), Harriet Harris (Mrs. Meers), Kevin Earley (Mr. Trevor Graydon), Leslie Uggams (Muzzy Van Hossmere), Liz McCartney (Miss Flannery), Peter Kim (Bun Foo), David Rhee (Ching Ho), Jessica Grové (Rita)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "The Toxic Avenger": [
