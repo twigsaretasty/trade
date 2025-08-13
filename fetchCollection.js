@@ -297,7 +297,7 @@ function stripArticle(title) {
         'el ', 'la ', 'los ', 'las ',
         'le ', 'las ', 'la ', 'les ',
         'der ', 'die ', 'das ', 'den ', 'dem ', 'des ',
-        'ang ', 'sa ', 'ng ', 'mga ', '[ ', '& ']
+        'ang ', 'sa ', 'ng ', 'mga ', '[', '& ']
 
     let newTitle = title.toLowerCase();
 
