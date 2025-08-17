@@ -1,5 +1,6 @@
 {
-  "thisWeekIns": [
+  "thisWeekIns": [],
+  "lastWeekIns": [
     "Frozen | Pre-Broadway / Denver | 2017-10-01 | SunsetBlvd79 (video)",
     "Kinky Boots | Broadway | 2013-03-03 | SunsetBlvd79 (video)",
     "Falsettos | First Broadway Revival | 2016-10-08 | redladydeath (audio)",
@@ -28,12 +29,5 @@
     "Dead Outlaw | Off-Broadway | 2024-04 | catherinewasamassivec (video)",
     "Bye Bye Birdie | Broadway Center Stage | 2024-06 | StarCuffedJeans (video)",
     "Falsettos | First Broadway Revival | 2016-10-26 | changetheirstories (audio)"
-  ],
-  "lastWeekIns": [
-    "9 to 5: The Musical | Broadway | 2009-09-06 | juniper47 (video)",
-    "[title of show] | Broadway | 2008-07-06 | SunsetBlvd79 (video)",
-    "Wicked | Broadway | 2018-07 | NYCG8R (video)",
-    "In Trousers | Off-Broadway Revival | 1985 | Unknown (audio)",
-    "Brokeback Mountain | West End | 2023-05 | Lasagna (video)"
   ]
 }
