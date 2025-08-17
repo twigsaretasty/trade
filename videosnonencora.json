@@ -20,6 +20,36 @@
     "Legally Blonde": [
         {
             "show": "Legally Blonde",
+            "tour": "West End",
+            "date": "2011-02",
+            "time": "E",
+            "master": "funkiestcarrot",
+            "cast": "Carley Stenson (u/s Elle Woods), Alex Gaumond (Emmett Forrest), Simon Thomas (Warner Huntington III), Denise van Outen (Paulette Bonafonte), Siobhan Dillon (Vivienne Kensington), Tamara Wall (Brooke Wyndham), Lincoln Stone (u/s Professor Callahan), Emma Bateman (u/s Margot), Nicola Brazil (Serena), Ibinabo Jack (Pilar), Chris Ellis-Stanton (Kyle), Suzie McAdam (Enid Hoopes), Dawn Sievewright (Chutney Wyndham)",
+            "notes": "",
+            "amount_recorded": "Partial",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": false,
+            "format": "MTS x3",
+            "size": "13.28 GB"
+        },
+        {
+            "show": "Legally Blonde",
+            "tour": "West End",
+            "date": "2011-05",
+            "time": "E",
+            "master": "funkiestcarrot",
+            "cast": "Susan McFadden (Elle Woods), Alex Gaumond (Emmett Forrest), Natalie Casey (Paulette Bonafonte), Simon Thomas (Warner Huntington III), Siobhan Dillon (Vivienne Kensington), Tamara Wall (Brooke Wyndham), Peter Davison (Professor Callahan), Carley Stenson (Margot), Nicola Brazil (Serena), Ibinabo Jack (Pilar), Chris Ellis-Stanton (Kyle), Suzie McAdam (Enid Hoopes), Dawn Sievewright (Chutney Wyndham)",
+            "notes": "",
+            "amount_recorded": "Partial",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": false,
+            "format": "MTS x2",
+            "size": "13.75 GB"
+        },
+        {
+            "show": "Legally Blonde",
             "tour": "FTX Productions",
             "date": "2024-03",
             "time": "E",
