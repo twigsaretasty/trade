@@ -149,6 +149,23 @@
   ],
   "Aladdin": [
     {
+      "id": 678,
+      "show": "Aladdin",
+      "tour": "Broadway",
+      "date": "2014-08-22",
+      "time": "E",
+      "master": "SJ Bernly",
+      "media_type": "video",
+      "cast": "Adam Jacobs (Aladdin), Courtney Reed (Jasmine), James Monroe Iglehart (Genie), Jonathan Freeman (Jafar), Clifton Davis (Sultan), Don Darryl Rivera (Iago), Brian Gonzales (Babkak), Andrew Cao (u/s Omar), Brandon O'Neill (Kassim)",
+      "notes": "Act One has three major blackouts: the scene between Arabian Nights and One Jump Ahead, the scene between One Jump Ahead and Proud of Your Boy, and the last 22 minutes of the act, which is all of Friend Like Me and Act One Finale. There is also a head that blocks center stage and the action is often lost behind it. Act Two is much better with no blackouts and only some heads on the bottom that are worked around well. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. There's a lot of chatter and rustling from the audience, but the sound is otherwise excellent. Includes playbill scans.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "6.87 GB"
+    },
+    {
       "id": 1120418,
       "show": "Aladdin",
       "tour": "Broadway",
@@ -370,6 +387,23 @@
     }
   ],
   "The Band's Visit": [
+    {
+      "id": 396,
+      "show": "The Band's Visit",
+      "tour": "Broadway",
+      "date": "2017-10-16",
+      "time": "E",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Katrina Lenk (Dina), Tony Shalhoub (Tewfiq), John Cariani (Itzik), Ari'el Stachel (Haled), Etai Benson (Papi), Adam Kantor (Telephone Guy), Andrew Polk (Avrum), Jonathan Raviv (Sammy), George Abud (Camal), Rachel Prather (Julia), Bill Army (Zelger), Kristen Sieh (Iris), Sharone Sayegh (Anna), Alok Tewari (Simon)",
+      "notes": "There is a 4-minute blackout during a song, due to a disturbance in the theater. Still images are placed over the audio instead of having a black screen.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.52 GB"
+    },
     {
       "id": 4748,
       "show": "The Band's Visit",
@@ -1095,8 +1129,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (no smalls)",
-      "size": "8.24 GB"
+      "format": "VOB (with smalls)",
+      "size": "8.3 GB"
     }
   ],
   "Death Becomes Her": [
@@ -1272,7 +1306,7 @@
       "master": "Unknown",
       "media_type": "video",
       "cast": "Michael Rupert (Marvin), Stephen Bogardus (Whizzer), Barbara Walsh (Trina), Chip Zien (Mendel), Sivan Cotel (Jason), Heather MacRae (Dr. Charlotte), Carolee Carmello (Cordelia)",
-      "notes": "GENERAL NOTES: The same video that has been titled 1993 Los Angeles. Dates confirmed via contemporary reviews (ie: Variety) April 28-July 3, 1994. There are two very different quality transfers shown now in the screenshots. The smaller size VOBs are the nicer looking ones. The worse transfer also starts a little later, missing the first sung line of Four Jews in a Room Bitching.<br><br>MY NOTES: I also have the worse transfer, also VOB with smalls at 4.16 GB",
+      "notes": "GENERAL NOTES: The same video that has been titled 1993 Los Angeles. Dates confirmed via contemporary reviews (ie: Variety) April 28-July 3, 1994. There are two very different quality transfers shown now in the screenshots. The smaller size VOBs are the nicer looking ones. The worse transfer also starts a little later, missing the first sung line of Four Jews in a Room Bitching.<br><br>MY NOTES: I also have the worse transfer, also VOB with smalls at 4.16 GB which is available on request",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -1416,13 +1450,13 @@
       "master": "pro-shot",
       "media_type": "video",
       "cast": "Sheridan Smith (Fanny Brice), Darius Campbell Danesh (Nick Arnstein), Rachel Izen (Mrs. Brice), Joshua Lay (Eddie), Nigel Barber (Florenz Ziegfield), Jennifer Harding (Emma/Mrs. Nadler), Zoe Ann Brown (Mrs. Meeker), Myra Sands (Mrs. Strakosh), Tom Partridge (Paul/Mr. Renaldi/Tenor), Lloyd Davies (John/Cornet Man), Alexandra Waite-Roberts (Bubbles), Flora Dawson (Mimsey), Alexandra Wright (Polly), Gillian Parkhouse (Vera), Martin Callaghan (Mr. Keeney), Peter Nash (Cornet Man), Sam Wingfield (Ensemble), Bronte Lavine (Ensemble)",
-      "notes": "GENERAL NOTES: Professionally filmed live at the Manchester Palace Theatre. Multiple versions circulate, including one that is lower quality and windowboxed (first screenshot), and another which is 1080p (10 GB)<br><br>MY NOTES: I have the window boxed version, I'm looking for the other version",
+      "notes": "Professionally filmed live at the Manchester Palace Theatre. Multiple versions circulate, including one that is lower quality and windowboxed (first screenshot), and another which is 1080p (10 GB)",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV",
-      "size": "1.8 GB"
+      "size": "10.02 GB"
     },
     {
       "id": 1124920,
@@ -2259,7 +2293,7 @@
       "master": "pro-shot",
       "media_type": "video",
       "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Beth Curry (Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Chico the Dog (Bruiser), Chloe the Dog (Rufus), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
-      "notes": "GENERAL NOTES: MTV Proshot. Broadcast on October 13th and October 14th 2007. Two versions circulate: VOB with smalls and a remastered/upscaled MP4. Check with traders what format they have!<br><br>MY NOTES: I also have an MP4 version (2.18 GB), as well as a sing-a-long version (2.2 GB), which are available to trade for on request. Just let me know!",
+      "notes": "GENERAL NOTES: MTV Proshot. Broadcast on October 13th and October 14th 2007. Two versions circulate: VOB with smalls and a remastered/upscaled MP4. Check with traders what format they have!<br><br>MY NOTES: I also have an MP4 version (2.18 GB), as well as the sing-a-long version in MP4 format (2.2 GB), which are available to trade for on request. Just let me know!",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -2395,13 +2429,13 @@
       "master": "Unknown",
       "media_type": "video",
       "cast": "Laura Bell Bundy (Elle Woods), Noah Weisberg (u/s Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney)",
-      "notes": "MY NOTES: I have the original VOBs as well as a merged MKV file. Both are the full video and will be traded together.",
+      "notes": "MY NOTES: I have the original VOBs as well as a merged MKV file. Both are the full show and will be traded together.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls) + MKV",
-      "size": "7.79 GB + 7.66 GB"
+      "size": "15.44 GB"
     },
     {
       "id": 6303,
@@ -3133,6 +3167,23 @@
       "nft": true,
       "format": "MP4",
       "size": "10.12 GB"
+    },
+    {
+      "id": 2019026,
+      "show": "Legally Blonde",
+      "tour": "Plays-in-the-Park",
+      "date": "2017-06",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Natalie Mehl (Elle Woods), Justin Brown (Emmett Forrest), Ed Rosini (Warner Huntington III), Colleen Renee (Paulette), Kelly Kline (Vivienne Kensington), Caitlin Tarpey (Brooke Wyndham), Matt Burns (Professor Callahan), Emma Schwartz (Margot), Ashley Nicole Martin (Serena), Meghan Bowes (Pilar), CJ Carter (Kyle), Victoria Leigh Keiser (Enid), Samantha Cantaffa (Chutney)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "8.3 GB"
     }
   ],
   "The Little Mermaid": [
@@ -3291,13 +3342,13 @@
       "master": "SJ Bernly",
       "media_type": "video",
       "cast": "Tori Feinstein (Matilda), Christopher Sieber (Miss Trunchbull), Alison Luff (Miss Honey), Lesli Margherita (Mrs. Wormwood), Matt Harrington (Mr. Wormwood), Alex Brightman (Michael Wormwood), Celia Mei Rubin (Mrs. Phelps), Phillip Spaeth (Rudolpho), Mitchell Sink (Bruce), Grace Capeless (Lavender), Marcus D'Angelo (alt Nigel), Beatrice Tulchin (Amanda), Ted Wilson (alt Eric), Analise Scarpaci (alt Alice), Ava DeMary (Hortensia), Chris Sumpter (Tommy), Jennifer Bowles (Acrobat), Ben Thompson (Escapologist), Matt Meigs (Doctor), Sean Montgomery (Entertainer/Sergei)",
-      "notes": "GENERAL NOTES: An excellent capture of Tori as Matilda. She's a very impressive young actress and has her own fresh take on the role. The rest of the cast is solid as well; I believe this is the first capture of Alison Luff, and she steps into the show beautifully. This is very nicely captured with no washout, no major blackouts, and very little obstruction. A railing blocks the very front left corner of the stage, but only the actors' legs are unseen. Telly is audio only; the video for Act Two begins when the house lights go down and Lavender takes the stage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. 2 discs.<br><br>MY NOTES: looking for replacement",
+      "notes": "An excellent capture of Tori as Matilda. She's a very impressive young actress and has her own fresh take on the role. The rest of the cast is solid as well; I believe this is the first capture of Alison Luff, and she steps into the show beautifully. This is very nicely captured with no washout, no major blackouts, and very little obstruction. A railing blocks the very front left corner of the stage, but only the actors' legs are unseen. Telly is audio only; the video for Act Two begins when the house lights go down and Lavender takes the stage. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call and playbill scans. 2 discs.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "4.38 GB"
+      "format": "VOB (with smalls)",
+      "size": "8.48 GB"
     }
   ],
   "Maybe Happy Ending": [
@@ -4659,7 +4710,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls) + MKV",
-      "size": "4.29 GB + 4.19 GB"
+      "size": "8.48 GB"
     },
     {
       "id": 503,
@@ -5043,7 +5094,7 @@
       "master": "bikinibottomday",
       "media_type": "video",
       "cast": "Josh Groban (Sweeney Todd), Annaleigh Ashford (Mrs. Lovett), Jordan Fisher (Anthony Hope), Maria Bilbao (Johanna), Jamie Jackson (Judge Turpin), Gaten Matarazzo (Tobias Ragg), John Rapson (Beadle Bamford), Jeanna de Waal (s/b Beggar Woman), Nicholas Christopher (Adolfo Pirelli), Danny Rothman (t/r Jonas Fogg), Dwayne Cooper (s/w Bird Seller), Patricia Phillips (Passerby), Galyana Castillo (Ensemble), Taeler Cyrus (Ensemble), Timothy Hughes (Ensemble), Paul-Jordan Jansen (Ensemble), Alicia Kaori (Ensemble), Raymond J. Lee (Ensemble), Samantha Pollino (Ensemble), Lexi Rabadi (Ensemble), Nathan Salstone (Ensemble), Kristie Dale Sanders (Ensemble), Daniel Torres (Ensemble), Felix Torrez-Ponce (Ensemble), DeLaney Westfall (Ensemble)",
-      "notes": "Excellent 4K capture of this revival! Increased wandering/readjustment and unfocusing throughout. Some minor head obstruction in the second act that is worked around very well. Other obstruction throughout only lasts for a second or two each time. Due to the angle, some of Johanna's moments are blocked off by the archway. Includes curtain call, audio is fed from external source.",
+      "notes": "GENERAL NOTES: Excellent 4K capture of this revival! Increased wandering/readjustment and unfocusing throughout. Some minor head obstruction in the second act that is worked around very well. Other obstruction throughout only lasts for a second or two each time. Due to the angle, some of Johanna's moments are blocked off by the archway. Includes curtain call, audio is fed from external source.<br><br>MY NOTES: A pretty nice capture, unfocusing is a bit distracting but not bad at all. I thought the cast was great, Annaleigh was so fun to watch",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
