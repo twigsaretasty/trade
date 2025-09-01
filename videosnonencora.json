@@ -50,6 +50,21 @@
         },
         {
             "show": "Legally Blonde",
+            "tour": "Woodstock Arts",
+            "date": "2021-08",
+            "time": "U",
+            "master": "Unknown",
+            "cast": "Ebony Strong (Elle Woods), Jack Allison (Emmett Forrest), Joey Martineck (Warner Huntington III), Jessica Kirby (Paulette Bonafonte), Sierra Christensen (Vivienne Kensington), Beth Leak (Brooke Wyndham), Randy Bampfield (Professor Callahan), Amanda Lynne Simmons (Margot), Layne Livingston (Serena), Elizabeth Buckman (Pilar), Grey Buxton (Kyle), Isabelle Vinelli (Enid Hoopes)",
+            "notes": "MY NOTES: Filmed from the front row of the audience but I believe people involved with the production were the ones filming (or at least gave permission for the purpose of archiving it). I also think this is ripped from YouTube, but am not 100% sure",
+            "amount_recorded": "Partial",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": false,
+            "format": "MP4",
+            "size": "1.32 GB"
+        },
+        {
+            "show": "Legally Blonde",
             "tour": "FTX Productions",
             "date": "2024-03",
             "time": "E",
@@ -61,7 +76,7 @@
             "limited_status": "Unrestricted",
             "nft": false,
             "format": "MP4",
-            "size": ""
+            "size": "3.84 GB"
         }
     ]
 }
