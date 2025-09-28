@@ -495,6 +495,25 @@
       "size": "182.9 MB"
     }
   ],
+  "Christian Borle in Concert": [
+    {
+      "id": 2020928,
+      "show": "Christian Borle in Concert",
+      "tour": "The Cabaret",
+      "date": "2025-09-13",
+      "time": "E",
+      "master": "WhatTradingCanDo",
+      "media_type": "audio",
+      "cast": "Christian Borle (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "42.2 MB"
+    }
+  ],
   "Come From Away": [
     {
       "id": 6991,
@@ -1348,6 +1367,42 @@
       "nft": false,
       "format": "MP3 x34",
       "size": "305.4 MB"
+    },
+    {
+      "id": 14053,
+      "show": "Hairspray",
+      "tour": "5th Avenue Theatre",
+      "date": "2002-06-13",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Mary Bond Davis (Motormouth Maybelle), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Laura Bell Bundy (Amber Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin), Clarke Thorell (Corny Collins), Corey Reynolds (Seaweed J. Stubbs), Danelle Eugenia Wilson (Little Inez), Jackie Hoffman (Prudy Pingleton)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x22",
+      "size": "126.3 MB"
+    }
+  ],
+  "The Heart": [
+    {
+      "id": 2003726,
+      "show": "The Heart",
+      "tour": "New York Stage and Film Reading",
+      "date": "2024-08-03",
+      "time": "M",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Heidi Blickenstaff (Claire), Drew Gehling (Thomas Driscoll), Jay Armstrong Johnson (Dr. Breva), Zachary Noah Piser (Simon Lamar), Wren Rivera (Marthe), Lisa Brescia (Performer), Miguel Cervantes (Performer), Gizel Jimenez (Performer), Taylor Iman Jones (Performer)",
+      "notes": "A staged reading of a new musical with music and lyrics by Anne and Ian Eisendrath, with book and additional lyrics by Kait Kerrigan. Based on the novel Réparer Les Vivants by Maylis deKerangal.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "39.3 MB"
     }
   ],
   "Heathers: The Musical": [
@@ -1420,6 +1475,25 @@
       "nft": false,
       "format": "M4A x2",
       "size": "66.5 MB"
+    }
+  ],
+  "Here We Are": [
+    {
+      "id": 1148627,
+      "show": "Here We Are",
+      "tour": "Off-Broadway",
+      "date": "2023-09-29",
+      "time": "E",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Rachel Bay Jones (Marianne Brink), Bobby Cannavale (Leo Brink), Micaela Diamond (Fritz), Amber Gray (Claudia Bursik-Zimmer), Jeremy Shamos (Paul Zimmer), Steven Pasquale (Raffael Santello Di Santicci), David Hyde Pierce (Bishop), Denis O'Hare (Man), Tracie Bennett (Woman), Jin Ha (Soldier), Francois Battiste (Colonel Martin)",
+      "notes": "Preview. Recorded from the front of the theatre.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "65.3 MB"
     }
   ],
   "In Trousers": [
@@ -1850,7 +1924,7 @@
       "master": "cynicale",
       "media_type": "audio",
       "cast": "Susan McFadden (Elle Woods), Lee Mead (Emmett Forrest), Simon Thomas (Warner Huntington III), Natalie Casey (Paulette), Suzie McAdam (u/s Vivienne Kensington), Tamara Wall (Brooke Wyndham/Shandi), Peter Davison (Professor Callahan), Emma Bateman (u/s Margot), Lucy Miller (u/s Serena), Ibinabo Jack (Pilar), Stephen Webb (u/s Kyle/Dewey/Grandmaster Chad)",
-      "notes": "Susan McFaddens final matinee performance as Elle. Susan has a laughing fit when Ell, Paulette, and Emmet went to pick up the dog.",
+      "notes": "Susan McFadden's final matinee performance as Elle. Susan has a laughing fit when Elle, Paulette, and Emmett went to pick up the dog.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -2248,6 +2322,23 @@
       "nft": false,
       "format": "MP3 x48",
       "size": "166.6 MB"
+    },
+    {
+      "id": 12934,
+      "show": "Legally Blonde",
+      "tour": "West End",
+      "date": "2012-03-09",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Gemma Sutton (u/s Elle Woods), Stephen Ashfield (Emmett Forrest), Ben Freeman (Warner Huntington III), Sorelle Marsh (Paulette), Carolyn Maitland (u/s Vivienne Kensington), Aoife Mulholland (Brooke Wyndham/Shandi), Peter Davison (Professor Callahan), Ellie Kirk (Margot), Lucy Miller (Serena), Abiona Omonua (Pilar), Chris Ellis-Stanton (Kyle/Dewey/Grandmaster Chad), Ruthie Stephens (s/w Enid/Veronica)",
+      "notes": "Lucy (who plays Serena) messes up the beginning of Ohmigod You Guys. She sings (and mumbles and laughs) the same thing Ellie (Margot) had just sang.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x37",
+      "size": "119.3 MB"
     },
     {
       "id": 14910,
@@ -6181,6 +6272,23 @@
       "nft": false,
       "format": "MP3 x1",
       "size": "130.3 MB"
+    },
+    {
+      "id": 2015200,
+      "show": "Mama I'm A Big Girl Now!",
+      "tour": "First US National Tour",
+      "date": "2025-05-07",
+      "time": "E",
+      "master": "WhatTradingCanDo",
+      "media_type": "audio",
+      "cast": "Laura Bell Bundy (Performer), Kerry Butler (Performer), Marissa Jaret Winokur (Performer)",
+      "notes": "SUPER electric show, as this was the hometown stop for Laura Bell.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "41.1 MB"
     }
   ],
   "Mary Poppins": [
