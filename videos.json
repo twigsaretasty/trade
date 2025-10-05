@@ -2056,7 +2056,7 @@
       "master": "pro-shot",
       "media_type": "video",
       "cast": "Ailsa Davidson (Veronica Sawyer), Simon Gordon (Jason \"J.D.\" Dean), Maddison Firth (Heather Chandler), Vivian Panka (Heather Duke), Teleri Hughes (Heather McNamara), Rory Phelan (Ram Sweeney), Liam Doyle (Kurt Kelly), Mhairi Angus (Martha Dunnstock), Vicki Lee Taylor (Ms. Fleming/Veronica's Mom), Andy Brady (Ram's Dad/Veronica's Dad/Principal Gowan), Oliver Brooks (Kurt's Dad/Big Bud Dean/Coach Ripper), Benjamin Karran (Beleaguered Geek), Jermaine Woods (Preppy Stud/Officer Milner), Christopher Parkinson (Hipster Dork/Officer McCord), Hannah Lowther (New Wave Party Girl), Mary-Jean Caldwell (Stoner Chick), Eleanor Morrison-Halliday (Young Republicanette), May Tether (Drama Club Drama Queen)",
-      "notes": "Pro-shot filmed in May 2022 with the Off-West End cast, and released on September 16, 2022. Originally released on Roku. Veronica Sawyer does her best to survive her senior year while navigating the beautiful but cruel Heathers, the new to school Jason J.D. Dean, and the constant pressure to fit in with everyone else.\r\nThree versions exist, the one released on Roku, the one released in UK cinemas without ad breaks or BTS moments, and one that contains a BTS of the filming process with no ad breaks.",
+      "notes": "Pro-shot filmed in May 2022 with the Off-West End cast, and released on September 16, 2022. Originally released on Roku. Veronica Sawyer does her best to survive her senior year while navigating the beautiful but cruel Heathers, the new to school Jason J.D. Dean, and the constant pressure to fit in with everyone else.\nThree versions exist, the one released on Roku, the one released in UK cinemas without ad breaks or BTS moments, and one that contains a BTS of the filming process with no ad breaks.\nMultiple Subtitle files exist to correspond to the timing of the different versions. ",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -2678,7 +2678,7 @@
       "time": "E",
       "master": "SunsetBlvd79",
       "media_type": "video",
-      "cast": "Lauren Zakrin (u/s Elle Woods), D.B. Bonds (Emmett Forrest), Nick Dalton (u/s Warner Huntington III), Natalie Joy Johnson (Paulette), Megan Lewis (Vivienne Kensington), Coleen Sexton (Brooke Wyndham/Shandi), Ken Land (Professor Callahan), Rhiannon Hansen (Margot), Cortney Wolfson (Serena), Crystal Joy (Pilar), Ven Daniel (Kyle/Dewey/Grandmaster Chad), Gretchen Burghart (Enid/Veronica), Alex Ellis (Kate/Chutney)",
+      "cast": "Lauren Zakrin (u/s Elle Woods), D.B. Bonds (Emmett Forrest), Nick Dalton (u/s Warner Huntington III), Natalie Joy Johnson (Paulette), Megan Lewis (Vivienne Kensington), Coleen Sexton (Brooke Wyndham/Shandi), Ken Land (Professor Callahan), Rhiannon Hansen (Margot), Cortney Wolfson (Serena), Crystal Joy (Pilar), Ven Daniel (Kyle/Dewey/Grandmaster Chad), Gretchen Burghart (Enid/Veronica), Alex Ellis (Kate/Chutney), Sara Andreas (s/w Stenographer/Leilani)",
       "notes": "",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -3619,7 +3619,7 @@
       "time": "M",
       "master": "bikinibottomday",
       "media_type": "video",
-      "cast": "Rob McClure (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Stuart Zagnit (Mr. Mushnik), Khadija Sankoh (Chiffon), Cristina Raé (Crystal), Khalifa White (Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Teddy Hudson (Audrey II Manipulation/Derelict), Eric Wright (Audrey II Manipulation), Chelsea Turbin (Audrey II Manipulation), Josh Daniel (Ensemble), Camryn Hampton (Ensemble)",
+      "cast": "Rob McClure (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Stuart Zagnit (Mr. Mushnik), Khadija Sankoh (Chiffon), Cristina Raé (Crystal), Khalifa White (Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Eric Wright (Audrey II Manipulation), Chelsea Turbin (Audrey II Manipulation), Teddy Yudain (Audrey II Manipulation/Derelict), Josh Daniel (Ensemble), Camryn Hampton (Ensemble)",
       "notes": "Nice 4K capture of Rob McClure as Seymour. This was filmed very close to the stage at an angle, so the far left of the stage is mildly obstructed and the video is overall not as well shot as usual. Some semi-significant moments of wandering and occasional unfocusing. Includes curtain call, audio is fed from external source.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
@@ -3627,6 +3627,23 @@
       "nft": false,
       "format": "MP4",
       "size": "13.97 GB"
+    },
+    {
+      "id": 1130922,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2022-08",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Rob McClure (Seymour), Chelsea Turbin (u/s Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (u/s Mr. Mushnik), Khadija Sankoh (Chiffon), Cristina Raé (Crystal), Ari Groover (Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Teddy Yudain (Audrey II Manipulation/Derelict), Weston Chandler Long (Audrey II Manipulation), Evan Alexander Smith (u/s Audrey II Manipulation)",
+      "notes": "Ari's first show back!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "4.95 GB"
     },
     {
       "id": 2003404,
@@ -3811,6 +3828,23 @@
       "nft": false,
       "format": "MP4",
       "size": "6.47 GB"
+    },
+    {
+      "id": 25421,
+      "show": "Mean Girls",
+      "tour": "Broadway",
+      "date": "2019-09 (1)",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Erika Henningsen (Cady Heron), Reneé Rapp (Regina George), Krystina Alabado (Gretchen Wieners), Kate Rockwell (Karen Smith), Gianna Yanelli (u/s Janis Sarkisian), Grey Henson (Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Jennifer Simard (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Brittany Nicholas (s/w Ensemble), Bria Jené Williams (Ensemble), Christine Shepard (Ensemble), Becca Petersen (Ensemble), Daryl Tofa (Ensemble), Curtis Holland (Ensemble), Devon Hadsell (Ensemble), Riza Takahashi (Ensemble), Aaron Alcaraz (s/w Ensemble), Darius Barnes (Ensemble), Jake Swain (Ensemble), Collins Conley (Ensemble), Morgan Harrison (Ensemble), Myles McHale (Ensemble), Brendon Stimson (Ensemble)",
+      "notes": "Stunning HD capture of Reneé's first couple of weeks as principal Regina and Erika's last show before she went on medical leave. Filmed from the center mezzanine without obstructions, with a mix of wides, mediums, and many closeups! Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "6.73 GB"
     }
   ],
   "Merrily We Roll Along": [
@@ -4123,6 +4157,23 @@
       "nft": false,
       "format": "MP4",
       "size": "9.85 GB"
+    },
+    {
+      "id": 1144485,
+      "show": "Monty Python's Spamalot",
+      "tour": "Broadway Center Stage",
+      "date": "2023-05",
+      "time": "U",
+      "master": "juniper47",
+      "media_type": "video",
+      "cast": "James Monroe Iglehart (King Arthur), Leslie Rodriguez Kritzer (Lady of The Lake), Michael Urie (Sir Robin/Brother Maynard/Guard 1), Alex Brightman (Sir Lancelot/The French Taunter/Knight of Ni/Tim the Enchanter), Jimmy Smagula (Sir Bedevere/Dennis' Mother/Concorde), Rob McClure (Historian/Prince Herbert), Matthew Saldivar (Patsy/Guard 2), Nik Walker (Sir Galahad/Black Knight/Prince Herbert's Father), Michael Fatica (Ensemble), Kaylee Olson (Ensemble), Ryan Kasprzak (Ensemble), Phillip Attmore (Ensemble), Daniel Beeman (Ensemble), Maria Briggs (Ensemble), Eloise Kropp (Ensemble), Daniel May (Ensemble), Shina Ann Morris (Ensemble), Kristin Piro (Ensemble)",
+      "notes": "Filmed in 4K, released as 1080p and 4K. Filmed from balcony at closing performance, almost no obstructions, dropouts only for applause/scene breaks. Mix of wide shots and closer zooms. A little shaky at times because I was uncontrollably laughing so hard. Includes curtain call. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4 (1080p)",
+      "size": "7.99 GB"
     },
     {
       "id": 1152920,
@@ -5754,8 +5805,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (no smalls)",
+      "size": "4.57 GB"
     }
   ],
   "tick, tick...BOOM!": [
