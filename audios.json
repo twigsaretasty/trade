@@ -1,6 +1,57 @@
 {
   "The 25th Annual Putnam County Spelling Bee": [
     {
+      "id": 17799,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Broadway",
+      "date": "2007-01-14",
+      "time": "E",
+      "master": "bcre8tive",
+      "media_type": "audio",
+      "cast": "Lisa Howard (Rona Lisa Peretti), Jessica Snow-Wilson (Olive Ostrovsky), Josh Gad (William Barfee), Jacqui Polk (u/s Logainne Schwartzandgrubenierre), Derrick Baskin (Mitch Mahoney), Rory O'Malley (u/s Leaf Coneybear), Deborah S. Craig (Marcy Park), Jose Llana (Chip Tolentino), Greg Stuhr (Douglas Panch)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x35",
+      "size": "86.8 MB"
+    },
+    {
+      "id": 29096,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Broadway",
+      "date": "2008-01-20",
+      "time": "E",
+      "master": "CK",
+      "media_type": "audio",
+      "cast": "Jennifer Simard (Rona Lisa Peretti), Jenni Barber (Olive Ostrovsky), Jared Gertner (William Barfee), Sara Inbar (Logainne Schwartzandgrubenierre), James Monroe Iglehart (Mitch Mahoney), Stanley Bahorek (Leaf Coneybear), Greta Lee (Marcy Park), Aaron J. Albano (Chip Tolentino), Daniel Pearce (Douglas Panch)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x24",
+      "size": "142.3 MB"
+    },
+    {
+      "id": 31500,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Broadway",
+      "date": "2007-01-17",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Lisa Howard (Rona Lisa Peretti), Jessica Snow-Wilson (Olive Ostrovsky), Rory O'Malley (u/s William Barfee), Sarah Saltzberg (Logainne Schwartzandgrubenierre), Maurice Murphy (u/s Mitch Mahoney), Barrett Foa (Leaf Coneybear), Deborah S. Craig (Marcy Park), Jose Llana (Chip Tolentino), Greg Stuhr (Douglas Panch)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x37",
+      "size": "143.6 MB"
+    },
+    {
       "id": 2005491,
       "show": "The 25th Annual Putnam County Spelling Bee",
       "tour": "Broadway Center Stage",
@@ -896,6 +947,25 @@
       "size": "80.6 MB"
     }
   ],
+  "Disaster!": [
+    {
+      "id": 6864,
+      "show": "Disaster!",
+      "tour": "Broadway",
+      "date": "2016-03-30",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Kerry Butler (Marianne), Jennifer Simard (Sister Mary Downy), Seth Rudetsky (Professor Ted Scheider), Rachel York (Jackie), Faith Prince (Shirley), Adam Pascal (Chad), Kevin Chamberlin (Maury), Roger Bart (Tony), Max Crumm (Scott), Lacretta Nicole (Levora), Baylee Littrell (Ben/Lisa)",
+      "notes": "Includes BCEFA speech and Xanadu performance from Kerry Butler and Cheyenne Jackson.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x59",
+      "size": "126.1 MB"
+    }
+  ],
   "Falsettos": [
     {
       "id": 657,
@@ -937,7 +1007,7 @@
       "tour": "First Broadway Revival",
       "date": "2016-10-01",
       "time": "E",
-      "master": "Today4UTomorrow4Netflix",
+      "master": "Today4UTomorrow4Lulu",
       "media_type": "audio",
       "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
       "notes": "Nice quality capture of the 3rd Broadway preview of this absolutely wonderful show. I sat in the balcony for this show, but the audio is clear quality and sounds great for being so far back.",
@@ -1144,7 +1214,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Courtney Balan (u/s Trina), Brandon Uranowitz (Mendel), Anthony Rosenthal (Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
-      "notes": "Two masters from this night circulate. This masterless audio is an untracked M4A, 65.1 MB. Please check with traders to see which master they have.",
+      "notes": "GENERAL NOTES: Two masters from this night circulate. This masterless audio is an untracked M4A, 65.1 MB. Please check with traders to see which master they have.<br><br>MY NOTES: Slightly muffled but still quite listenable. Some patches of clearer audio. Courtney was lovely as Trina but messed up a bit of I'm Breaking Down. The music stops for a moment and then she carries on",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -1403,6 +1473,23 @@
       "nft": false,
       "format": "M4A x1",
       "size": "39.3 MB"
+    },
+    {
+      "id": 2021313,
+      "show": "The Heart",
+      "tour": "La Jolla Playhouse",
+      "date": "2025-09-04",
+      "time": "E",
+      "master": "Indigo",
+      "media_type": "audio",
+      "cast": "Heidi Blickenstaff (Claire), Lincoln Clauss (Thomas Driscoll), Bre Jackson (Cordelia Owl), Max McKenna (Juliette), Kenita R. Miller (Marianne Lamar), Paul Alexander Nolan (Dr. Breva), Zachary Noah Piser (Simon Lamar), Wren Rivera (Marthe), Jason Tam (Sean Lamar)",
+      "notes": "NFT Date: 2025-11-01T00:00:00.000000Z\n",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "",
+      "size": ""
     }
   ],
   "Heathers: The Musical": [
@@ -1494,6 +1581,25 @@
       "nft": false,
       "format": "M4A x2",
       "size": "65.3 MB"
+    }
+  ],
+  "Huzzah!": [
+    {
+      "id": 2021312,
+      "show": "Huzzah!",
+      "tour": "The Old Globe",
+      "date": "2025-09-18",
+      "time": "E",
+      "master": "Indigo",
+      "media_type": "audio",
+      "cast": "Liisi LaFontaine (Gwen Mirandola), Cailen Fu (Kate Mirandola), Anthony Chatmon II (Gareth), Leo Roberts (Sir Roland Prowd), Lance Arthur Smith (Johnny Mirandola), Kate Shindle (Anne Bonny the Pirate Queen), Matt DaSilva (Troubadour Tim), Kevin Pariseau (Sir John Thomas Morningwood), Josh Breckenridge (Inigo Johnson), Mike Millan (Juan Diego Santiago de Fuensalida), Peyton Crim (Wayland Smith), Allison Guinn (The Lady Eve), Michael Louis Cusimano (Rosencrantz/Ensemble), Aaron Michael Ray (Guildenstern/Ensemble), Beth Stafford Laird (Lady Alisoun the Healing Nun/Ensemble), Tatiana Lofton (Pixie/Ensemble), Michelle Lauto (Wolfwalker/Ensemble)",
+      "notes": "NFT Date: 2025-11-01T00:00:00.000000Z\n",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "",
+      "size": ""
     }
   ],
   "In Trousers": [
@@ -1794,7 +1900,7 @@
       "tour": "Second Broadway Revival",
       "date": "2022-11-05",
       "time": "M",
-      "master": "Today4UTomorrow4Netflix",
+      "master": "Today4UTomorrow4Lulu",
       "media_type": "audio",
       "cast": "Montego Glover (Witch), Brian d'Arcy James (Baker), Stephanie J. Block (Baker's Wife), Krysta Rodriguez (Cinderella), Katy Geraghty (Little Red Riding Hood), Cole Thompson (Jack), Gavin Creel (Wolf/Cinderella's Prince), Andy Karl (t/r Rapunzel's Prince), David Patrick Kelly (Narrator/Mysterious Man), Ann Harada (Jack's Mother), Nancy Opel (Cinderella's Stepmother), Brooke Ishibashi (Florinda), Ta'Nika Gibson (Lucinda), Albert Guerzon (Cinderella's Father), Jim Stanek (Steward), Alysia Velez (Rapunzel), Annie Golden (Granny/Cinderella's Mother/Giant's Voice), Kennedy Kanagawa (Milky White)",
       "notes": "A beautiful quality audio taken from the front left orchestra. You may hear my friend and I laughing a bit (this was her first time seeing the show). Includes a BC/EFA speech by Gavin Creel!",
@@ -6068,6 +6174,23 @@
       "size": "80.4 MB"
     },
     {
+      "id": 25727,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2019-11-22 (1)",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Jonathan Groff (Seymour), Chelsea Turbin (u/s Audrey), Christian Borle (Orin), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Salome Smith (Crystal), Ari Groover (Ronnette), Kingsley Leggs (Voice of Audrey II)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "91.1 MB"
+    },
+    {
       "id": 26716,
       "show": "Little Shop of Horrors",
       "tour": "Off-Broadway Revival",
@@ -6107,7 +6230,7 @@
       "tour": "Off-Broadway Revival",
       "date": "2021-09-21",
       "time": "E",
-      "master": "Today4UTomorrow4Netflix",
+      "master": "Today4UTomorrow4Lulu",
       "media_type": "audio",
       "cast": "Jeremy Jordan (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Salome Smith (Crystal), Ari Groover (Ronnette), Kingsley Leggs (Voice of Audrey II)",
       "notes": "<p>Re-opening night! The audience was ecstatic and each character got a great applause as they entered. LIMITED TRADE (2:1)</p>",
@@ -6544,7 +6667,7 @@
       "tour": "First Broadway Revival",
       "date": "2024-02-21",
       "time": "M",
-      "master": "Today4UTomorrow4Netflix",
+      "master": "Today4UTomorrow4Lulu",
       "media_type": "audio",
       "cast": "James Monroe Iglehart (King Arthur), Leslie Rodriguez Kritzer (Lady of The Lake), Jonathan Bennett (Sir Robin/Brother Maynard/Guard 1), Alex Brightman (Sir Lancelot/The French Taunter/Knight of Ni/Tim the Enchanter), Jimmy Smagula (Sir Bedevere/Dennis' Mother/Concorde), Ethan Slater (Historian/Not Dead Fred/Prince Herbert/Bunny), David Josefsberg (s/b Mayor/Patsy/Guard 2), Nik Walker (Sir Galahad/Black Knight/Prince Herbert's Father)",
       "notes": "A beautiful quality audio taken from the front mezzanine. This show was absolutely hilarious and you will hear me laugh quite a bit. A really hilarious blooper occurs with an audience member right before “You Can’t Succeed on Broadway.” This cast was INCREDIBLE.",
@@ -7791,7 +7914,7 @@
       "master": "PopularLikeMe",
       "media_type": "audio",
       "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Will Chase (Shakespeare), Leslie Rodriguez Kritzer (Bea), Catherine Brunell (Portia), Brad Oscar (Nostradamus), David Beach (Brother Jeremiah), Gerry Vichi (Shylock), Edward Hibbert (Lord Clapham/Judge)",
-      "notes": "",
+      "notes": "MY NOTES: A decent audio, sometimes it's slightly muffled or hard to hear probably because it was recorded so far away. Rob is amazing as always. I love Leslie's Bea! She did a bit of a riff at the end of Right Hand Man. There was a female ensemble member on for Robin (usually played by Aaron Kaburick), I think it was Jenny Hill but not 100% sure. Marisha Wallace may have covered her track as her \"I'm not gonna be an omelette\" line was definitely someone else, but that's just me being a bit unwell about this show",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -7832,6 +7955,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "255.3 MB"
+    },
+    {
+      "id": 2007120,
+      "show": "Something Rotten!",
+      "tour": "Wildsong Productions",
+      "date": "2024-09-21",
+      "time": "E",
+      "master": "Indigo",
+      "media_type": "audio",
+      "cast": "Shane Hennessey (Nick Bottom), Will Corkery (Nigel Bottom), Michael Harrison 2 (Shakespeare), Amanda Blair (Bea), Esme Birndorf (Portia), Brittany Seibert (Nostradamus), Matt Sayre (Brother Jeremiah), David Kanter (Shylock), Rachel Mink (Lady Clapham)",
+      "notes": "MASTER NOTES: An excellent performance of a great show. Female Nostradamus is everything.<br><br>GENERAL NOTES: Please never post publicly for my safety, but you can gift, trade, and sell them privately after the NFT date.\n",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 2019170,
@@ -8210,6 +8350,25 @@
       "size": "66.8 MB"
     }
   ],
+  "Sweeney Todd: The Demon Barber of Fleet Street": [
+    {
+      "id": 1143955,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Third Broadway Revival",
+      "date": "2023-06-10",
+      "time": "M",
+      "master": "Indigo",
+      "media_type": "audio",
+      "cast": "Josh Groban (Sweeney Todd), Annaleigh Ashford (Mrs. Lovett), Jordan Fisher (Anthony Hope), Maria Bilbao (Johanna), Jamie Jackson (Judge Turpin), Gaten Matarazzo (Tobias Ragg), John Rapson (Beadle Bamford), Ruthie Ann Miles (Beggar Woman), Nicholas Christopher (Adolfo Pirelli)",
+      "notes": "Please never post publicly! You can gift, trade, and sell privately after the NFT date.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Thoroughly Modern Millie": [
     {
       "id": 1118451,
@@ -8255,7 +8414,7 @@
       "tour": "Broadway",
       "date": "2019-01-07",
       "time": "E",
-      "master": "Today4UTomorrow4Netflix",
+      "master": "Today4UTomorrow4Lulu",
       "media_type": "audio",
       "cast": "Sara Bareilles (Jenna), Charity Angél Dawson (Becky), Lenne Klingaman (Dawn), Gavin Creel (Dr. Pomatter), Tyrone Davis Jr. (u/s Ogie), Benny Elledge (Cal), Larry Marshall (Joe), Ben Thompson (Earl), Anastacia McCleskey (Nurse Norma), Stephanie Torns (Francine Pomatter)",
       "notes": "A solid quality audio taken by a friend of mine in the orchestra! My friend was very close so it gets a bit bass heavy at the heavier parts, but the dialogue and the softer numbers are perfectly clear. Sara gets huge entrance applause and Gavin gets nice applause (including huge screams by my friend) for his intro. This is Gavin's first show as Dr. Pommater and the return of Sara Bareilles and Larry Marshall to the show!",
@@ -8272,7 +8431,7 @@
       "tour": "Broadway",
       "date": "2019-01-18",
       "time": "E",
-      "master": "Today4UTomorrow4Netflix",
+      "master": "Today4UTomorrow4Lulu",
       "media_type": "audio",
       "cast": "Sara Bareilles (Jenna), Charity Angél Dawson (Becky), Lenne Klingaman (Dawn), Gavin Creel (Dr. Pomatter), Tyrone Davis Jr. (u/s Ogie), Benny Elledge (Cal), Larry Marshall (Joe), Ben Thompson (Earl)",
       "notes": "A beautiful quality audio taken by a friend of mine in the standing room! Definitely better and clearer quality than the 1/7 audio. As always, Sara amazes and her chemistry with Gavin just keeps growing. Tyrone definitely has a star shining moment as Ogie and this audience absolutely adores him and he gets wonderful applause.",
@@ -8352,6 +8511,22 @@
       "nft": false,
       "format": "MP3 x30",
       "size": "177.7 MB "
+    },
+    {
+      "id": 5683,
+      "show": "Wicked",
+      "tour": "Broadway",
+      "date": "2005-01-01",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Idina Menzel (Elphaba), Megan Hilty (s/b Glinda), Joey McIntyre (Fiyero), George Hearn (The Wizard), Carole Shelley (Madame Morrible), Michelle Federer (Nessarose), Christopher Fitzgerald (Boq), William Youmans (Doctor Dillamond)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x19 -138.9 MB"
     },
     {
       "id": 7257,
