@@ -2423,6 +2423,44 @@
       "size": "6.76 GB"
     }
   ],
+  "Just In Time": [
+    {
+      "id": 2012257,
+      "show": "Just In Time",
+      "tour": "Broadway",
+      "date": "2025-04",
+      "time": "U",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Jonathan Groff (Bobby Darin), Gracie Lawrence (Connie Francis), Erika Henningsen (Sandra Dee), Michele Pawk (Polly Walden), Emily Bergl (Nina Cassotto/Mary Douvan/Others), Joe Barbara (Charlie Maffia/Steve Blauner/Others), Caesar Samayoa (Don Kirshner/Giorgio/Angelo/Others), Lance Roberts (Murray the K/Ahmet Ertegun/Others), Valeria Yamin (Siren/Others), Julia Grondin (Siren/Others), Christine Cornish (Siren/Others)",
+      "notes": "Excellent capture of this new musical in early previews! Shot in a great mix of wides, mediums, and close-ups. Some wandering, shaking, and re-adjusting throughout. A couple of brief dropouts. A few moments of brief obstruction in act 2 that don't block any major action. Audio is patched in from an external source. Overall an excellent capture of this Jonathan Groff star vehicle.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
+  "Kathy and Stella Solve a Murder": [
+    {
+      "id": 2004039,
+      "show": "Kathy and Stella Solve a Murder",
+      "tour": "West End",
+      "date": "2024-08",
+      "time": "E",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Bronté Barbé (Kathy), Rebekah Hinds (Stella), Hannah Jane Fox (Felicia), Imelda Warren-Green (Erica), Elliot Broadfoot (Justin), Ben Redfern (David), Sorelle Marsh (s/w Detective Inspector Sue Shaw)",
+      "notes": "Excellent capture of this fringe comedy that ended up being one of the best things I saw on my London trip. Some occasional minor obstruction on the bottom right of the screen that doesn't block any action. Shot in a great mix of wides, mediums, and close-ups, though more medium and wide here due to the staging of the piece. Some wandering, shaking, and re-adjusting throughout. A couple of brief dropouts. Overall an excellent capture of this hilarious musical. If you hear me sneeze really loudly at one point, no you don't.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Kimberly Akimbo": [
     {
       "id": 1137252,
@@ -3480,7 +3518,7 @@
       "cast": "Kayla Shipman (Elle Woods), David Moreland (Emmett Forrest), Daniel Rausch (Warner Huntington III), Khaki Pixley (Paulette), Crystal Claros (Vivienne Kensington), Amanda Handegan (Brooke Wyndham), Korey White (Professor Callahan), Sabrina Bowen (Margot), Morgan Schoenecker (Serena), Selena Robinson (Pilar), Isaiah Engram (Kyle), Michael Davis Arnold (Dewey/Grandmaster Chad), Ava Stovall (Enid), Lanja Andriamihaja (Kate), Lili Galluzzo (Chutney), Will Leonard (Dad), Riley Dominiak (Mom), Connor Ripperger (Aaron), Alex Villaseñor (Nikos), Victor López (Carlos), Ibrahim Khan (Ensemble), Kiana Beverly (Ensemble), Eric Amundson (Ensemble), Matthew Millin (Ensemble), Madison Jaffe-Richter (Ensemble), Claire Campbell (Ensemble)",
       "notes": "MASTER NOTES: Excellent capture of this fantastic regional production on their closing performance! First 3 minutes of Act 1 is audio only (it is mostly the Overature though) - first 30ish seconds of Act 2 as well. Start of Act 1 is a bit rough with 1 or 2 very short blackouts but I get locked in after Serious. My sleeve occasionally comes into the shot. Nice mix of wides and mediums, with some closeups. Moments of readjustment throughout. Audio fed from external source. <br>TLDR: i love little miss woods comma elle. A<br><br>MY NOTES: A very nice capture indeed! Kayla is awesome as Elle and the dogs were as cute as ever. I love what they did with the ballad here",
       "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
+      "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
@@ -4875,6 +4913,25 @@
       "size": "3.63 GB"
     }
   ],
+  "Pokémon Live!": [
+    {
+      "id": 1005545,
+      "show": "Pokémon Live!",
+      "tour": "First US National Tour",
+      "date": "2000-10-01",
+      "time": "E",
+      "master": "house-cam",
+      "media_type": "video",
+      "cast": "Heidi Michelle Weyhmueller (Misty), Dennis Kenney (Brock), Jennifer Risser (Pikachu), Natalie Weld (Nurse Joy), Leah Smith (Jigglypuff/Psyduck), Shaun Bradley (Mewtwo), Kathleen Roche (Meowth), Dominic Nolfi (Ash Ketchum), Patrick Frankfort (Professor Oak), Andrew Rannells (James), Lauren Kling (Jessie), Darren Dunstan (Giovanni), Dee Roscioli (Delia Ketchum), Suzanne Wogisch (Officer Jenny), Sinclair Mitchell (Dexter)",
+      "notes": "Wide House Cam from PML US Tour, Shot includes stage and shows the house right Projection Screen \r\nOverall Quality is a C",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "747.6 MB"
+    }
+  ],
   "The Producers": [
     {
       "id": 1208,
@@ -4983,6 +5040,25 @@
       "nft": false,
       "format": "MP4",
       "size": "1.39 GB"
+    }
+  ],
+  "Road Show": [
+    {
+      "id": 1148464,
+      "show": "Road Show",
+      "tour": "Encores!",
+      "date": "2019-07-27",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Brandon Uranowitz (Addison Mizner), Raúl Esparza (Wilson Mizner), Jin Ha (Hollis Bessemer), Mary Beth Peil (Mama Mizner), Chuck Cooper (Papa Mizner), Brandon Contreras (Ensemble), Rheaume Crenshaw (Ensemble), Daniel J. Edwards (Ensemble), Marina Kondo (Ensemble), Jay Lusteck (Ensemble), Liz McCartney (Ensemble), Matt Moisey (Ensemble), Shereen Pimentel (Ensemble), Sharone Sayegh (Ensemble), Vishal Vaidya (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Romeo and Juliet (Shakespeare)": [
@@ -5095,6 +5171,25 @@
       "nft": false,
       "format": "MP4",
       "size": "2.09 GB"
+    }
+  ],
+  "Sister Act": [
+    {
+      "id": 15954,
+      "show": "Sister Act",
+      "tour": "Broadway",
+      "date": "2011-04-02",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Patina Miller (Deloris Van Cartier), Victoria Clark (Mother Superior), Kingsley Leggs (Curtis Jackson), Chester Gregory (Eddie Souther), Marla Mindelle (Mary Robert), Sarah Bolt (Mary Patrick), Fred Applegate (Monsignor O'Hara), John Treacy Egan (Joey), Demond Green (TJ), Jennifer Simard (Ensemble)",
+      "notes": "Great capture of this fun and entertaining show. There are a lot of changes from the London production and all of them for the better, as it helps tell the story better. Patina is fantastic! A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.51 GB"
     }
   ],
   "Six": [
@@ -5494,7 +5589,7 @@
       "time": "E",
       "master": "SunsetBlvd79",
       "media_type": "video",
-      "cast": "Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), John Gallagher Jr. (Moritz Stiefel), Phoebe Strole (u/s Ilse Neumann), Lilli Cooper (Martha Bessell), Jonathan B. Wright (Hanschen Rilow), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Remy Zaken (Thea), Krysta Rodriguez (u/s Anna Wheelan), Gideon Glick (Ernst Robel), Frances Mercanti-Anthony (u/s The Adult Women), Stephen Spinella (The Adult Men)",
+      "cast": "Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), John Gallagher Jr. (Moritz Stiefel), Phoebe Strole (u/s Ilse Neumann), Lilli Cooper (Martha Bessell), Jonathan B. Wright (Hanschen Rilow), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Remy Zaken (Thea), Krysta Rodriguez (u/s Anna), Gideon Glick (Ernst Robel), Frances Mercanti-Anthony (u/s The Adult Women), Stephen Spinella (The Adult Men)",
       "notes": "AMAZING capture, closeups, performances. Not to be missed. A+\n\nContent warning, there is partial nudity in this bootleg.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -5511,7 +5606,7 @@
       "time": "E",
       "master": "Unknown",
       "media_type": "video",
-      "cast": "Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), Blake Bashoff (Moritz Stiefel), Emma Hunton (Ilse Neumann), Lilli Cooper (Martha Bessell), Matt Doyle (Hanschen Rilow), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Remy Zaken (Thea), Phoebe Strole (Anna Wheelan), Blake Daniel (Ernst Robel), Christine Estabrook (The Adult Women), Glenn Fleshler (The Adult Men), Gerard Canonico (Ensemble), Matt Shingledecker (Ensemble), Jenna Ushkowitz (Ensemble), Eryn Murman (Ensemble), Jesse Swenson (Ensemble), Alexandra Socha (Ensemble)",
+      "cast": "Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), Blake Bashoff (Moritz Stiefel), Emma Hunton (Ilse Neumann), Lilli Cooper (Martha Bessell), Matt Doyle (Hanschen Rilow), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Remy Zaken (Thea), Phoebe Strole (Anna), Blake Daniel (Ernst Robel), Christine Estabrook (The Adult Women), Glenn Fleshler (The Adult Men), Gerard Canonico (Ensemble), Matt Shingledecker (Ensemble), Jenna Ushkowitz (Ensemble), Eryn Murman (Ensemble), Jesse Swenson (Ensemble), Alexandra Socha (Ensemble)",
       "notes": "Jonathan Groff and Lea Michele's final performance.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -5519,6 +5614,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.47 GB"
+    }
+  ],
+  "Stephen Sondheim's Old Friends": [
+    {
+      "id": 2010439,
+      "show": "Stephen Sondheim's Old Friends",
+      "tour": "Center Theatre Group",
+      "date": "2025-02",
+      "time": "U",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Bernadette Peters (Performer), Lea Salonga (Performer), Jacob Dickey (Performer), Kevin Earley (Performer), Jasmine Forsberg (Performer), Kate Jennings Grant (Performer), Bonnie Langford (Performer), Beth Leavel (Performer), Gavin Lee (Performer), Jason Pennycooke (Performer), Joanna Riding (Performer), Jeremy Secomb (Performer), Kyle Selig (Performer), Maria Wirries (Performer), Daniel Yearwood (Performer)",
+      "notes": "Excellent capture of this star-studded lovely Sondheim revue in its LA run before it heads to Broadway! Shot with alternate camera in a great mix of wides, mediums, and close-ups. Some wandering, shaking, and re-adjusting throughout. Minor obstruction on the right that never obstructs action. So incredible to see these Broadway powerhouses sing these wonderful songs. Overall an excellent capture. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "10.18 GB"
     }
   ],
   "A Strange Loop": [
@@ -5549,7 +5663,7 @@
       "time": "U",
       "master": "Jagweed",
       "media_type": "video",
-      "cast": "Calum Ross (u/s Henry Creel), Ella Karuna Williams (Patty Newby), Isabella Pappas (Joyce Maldonado), Oscar Lloyd (James Hopper Jr), Christopher Buckley (Bob Newby), Michael Jibson (Victor Creel), Tricia Adele-Turner (s/w Virginia Creel), Patrick Vaill (Dr Brenner), Max Harwood (Alan Munson), Shane Attwooll (Chief Hopper), Chase Brown (Lonnie Byers), Ammar Duffus (Charles Sinclair), Isaac Gryn (s/w Ted Wheeler), Florence Guy (Karen Childress), Matthew Pidgeon (Principal Newby), Danny Sykes (s/w Walter Henderson), Maisie Norma Seaton (Claudia Yount), Kemi Awoderu (Sue Anderson), Reya-Nyomi Brown (Ensemble), Patricia Castro (Ensemble), Lydia Fraser (Ensemble), Mark Hammersley (Ensemble), Tom Peters (Ensemble), Kingdom Sibanda (Ensemble), Meesha Turner (Ensemble), Samuel Baxter (Ensemble)",
+      "cast": "Calum Ross (u/s Henry Creel), Ella Karuna Williams (Patty Newby), Isabella Pappas (Joyce Maldonado), Oscar Lloyd (James Hopper Jr), Christopher Buckley (Bob Newby), Michael Jibson (Victor Creel), Tricia Adele-Turner (s/w Virginia Creel), Patrick Vaill (Dr. Brenner), Max Harwood (Alan Munson), Shane Attwooll (Chief Hopper), Chase Brown (Lonnie Byers), Ammar Duffus (Charles Sinclair), Isaac Gryn (s/w Ted Wheeler), Florence Guy (Karen Childress), Matthew Pidgeon (Principal Newby), Danny Sykes (s/w Walter Henderson), Maisie Norma Seaton (Claudia Yount), Kemi Awoderu (Sue Anderson), Reya-Nyomi Brown (Ensemble), Patricia Castro (Ensemble), Lydia Fraser (Ensemble), Mark Hammersley (Ensemble), Tom Peters (Ensemble), Kingdom Sibanda (Ensemble), Meesha Turner (Ensemble), Samuel Baxter (Ensemble)",
       "notes": "A fantastic capture. This was filmed in the stalls and is a rather painful theatre to film in due to the poor rake on all levels. However, this recording only has one head in frame throughout and it doesn’t block any of the actors or action. A few blackouts due to the people next to me leaving to go to the bathroom and then leaving early in the second act. The audio does contain some rustling as the child next to me was eating sweets or popcorn. It’s annoying but not the worst. Filmed in wides and mediums. Recording includes the curtain call and marquee.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
