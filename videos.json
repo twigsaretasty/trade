@@ -712,6 +712,25 @@
       "size": "8.51 GB"
     }
   ],
+  "Broadway on Broadway (Concerts)": [
+    {
+      "id": 1120181,
+      "show": "Broadway on Broadway (Concerts)",
+      "tour": "2007",
+      "date": "2007-09-16",
+      "time": "M",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Lea Salonga (Performer), Gina Ferrall (Performer), Elisabeth Withers-Mendes (Performer), Michael Longoria (Performer), Tamyra Gray (Performer), Marin Mazzie (Performer), Jonathan Hadary (Performer), Stanley Bahorek (Performer), Jenni Barber (Performer), Joan Hess (Performer), Debra Monk (Performer), Ashley Amber (Performer), Michelle Dowdy (Performer), Niki Scalera (Performer), Ashley Parker Angel (Performer), Laura Osnes (Performer), Max Crumm (Performer), Carolee Carmello (Performer), Tim Martin Gleason (Performer), Jennifer Hope Wills (Performer), Beth Leavel (Performer), Andy Karl (Performer), Annaleigh Ashford (Performer), Tracy Jai Edwards (Performer), Orfeh (Performer), Jeffrey Schecter (Performer), Adriane Lenox (Performer), Julia Murney (Performer), Dave Benoit (Performer), Howie Michael Smith (Performer), Gavin Lee (Performer), Ashley Brown (Performer), Lance Bass (Host)",
+      "notes": "Song list:\r\nAshley Brown, Gavin Lee (Supercalifragilisticexpialidocious, Mary Poppins), Howie Michael Smith, Dave Benoit et al. (For Now, Avenue Q), Cast of The Lion King, Julia Murney (The Wizard and I, Wicked), Adriane Lennox (When Youre Good to Mama, Chicago), Jeffrey Schecter (I Can Do That, A Chorus Line), Orfeh, Tracy Jai Edwards, Annaleigh Ashford, Andy Karl & ensemble (Bend & Snap, Legally Blonde), Beth Leavel (As We Stumble Along, The Drowsy Chaperone), Jennifer Hope Wills, Tim Martin Gleason (All I Ask of You, Phantom), Carolee Carmello, Joan Hess, Gina Ferrall (Dancing Queen, Mamma Mia), Elisabeth Wither-Mendes (Push Da Button, The Color Purple), Michael Longoria (Cant Take My Eyes Off You, Jersey Boys), Tamyra Gray (Out Tonight, RENT), Marin Mazzie, Jonathan Hadary (Find Your Grail, Spamalot), Stanley Bahorek, Jenni Barber et al. (Spelling Bee), Lea Salonga (I Dreamed a Dream, Les Miserables), Debra Monk, Ashley Amber (Its a Business, Curtains), Michelle Dowdy, Niki Scalera, Ashley Parker Angel et al. (You Cant Stop the Beat, Hairspray), Laura Osnes, Max Crumm (Summer Lovin, Grease)",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.68 GB"
+    }
+  ],
   "Brokeback Mountain": [
     {
       "id": 1143282,
@@ -937,7 +956,7 @@
       "time": "E",
       "master": "pro-shot",
       "media_type": "video",
-      "cast": "Adam Pascal (Freddie Trumper), Idina Menzel (Florence Vassy), Josh Groban (Anatoly Sergievsky), Kerry Ellis (Svetlana Sergievsky), Marti Pellow (The Arbiter), David Bedella (Molokov), Clarke Peters (Walter de Courcey), Christian Lund (Leonid Viigand), Luella Briggs (Ensemble), Mark Evans (Ensemble), Nicole Bondzie (Ensemble), Lucie Waugh (Ensemble), Richard Peakman (Ensemble), Bonnie Parker (Ensemble), Anabel Kutay (Ensemble), Caroline Jones (Ensemble), Barnaby Ingram (Ensemble), Aoife Mulholland (Ensemble), Vanessa Campbell (Ensemble), Chelsea De Carvalho (Ensemble), Jo Goodenough (Ensemble), Melanie Hyde (Ensemble), Jasmine Kerr (Ensemble), Sarah Kirkham (Ensemble), Fiona McDonald (Ensemble), Lindsay Shaw (Ensemble), Byrony Thompson (Ensemble), Tara Young (Ensemble), Thomas Bay Pedersen (Ensemble), Grant Anthony (Ensemble), David Michael Johnson (Ensemble), Andrew Playfoot (Ensemble), Tiffany Graves (Ensemble), Tabitha Webb (Ensemble), Jon Robyns (Ensemble), Debbie Kurup (Ensemble), Christopher Colley (Ensemble), Leila Benn Harris (Ensemble), Keith Anthony Higham (Ensemble), Ben Dixon (Ensemble), Lee Ormsby (Ensemble), Steven Serlin (Ensemble), Henry Webster (Ensemble), Richard Bryan (Ensemble), Steven Brooks (Ensemble), Mark Fleming (Ensemble), Michael Steffan (Ensemble), Zoe Rice (Ensemble), Amelia Hemingsley (Ensemble)",
+      "cast": "Idina Menzel (Florence Vassy), Adam Pascal (Freddie Trumper), Josh Groban (Anatoly Sergievsky), Kerry Ellis (Svetlana Sergievsky), Marti Pellow (The Arbiter), David Bedella (Molokov), Clarke Peters (Walter de Courcey), Christian Lund (Leonid Viigand), Luella Briggs (Ensemble), Mark Evans (Ensemble), Nicole Bondzie (Ensemble), Lucie Waugh (Ensemble), Richard Peakman (Ensemble), Bonnie Parker (Ensemble), Anabel Kutay (Ensemble), Caroline Jones (Ensemble), Barnaby Ingram (Ensemble), Aoife Mulholland (Ensemble), Vanessa Campbell (Ensemble), Chelsea De Carvalho (Ensemble), Jo Goodenough (Ensemble), Melanie Hyde (Ensemble), Jasmine Kerr (Ensemble), Sarah Kirkham (Ensemble), Fiona McDonald (Ensemble), Lindsay Shaw (Ensemble), Byrony Thompson (Ensemble), Tara Young (Ensemble), Thomas Bay Pedersen (Ensemble), Grant Anthony (Ensemble), David Michael Johnson (Ensemble), Andrew Playfoot (Ensemble), Tiffany Graves (Ensemble), Tabitha Webb (Ensemble), Jon Robyns (Ensemble), Debbie Kurup (Ensemble), Christopher Colley (Ensemble), Leila Benn Harris (Ensemble), Keith Anthony Higham (Ensemble), Ben Dixon (Ensemble), Lee Ormsby (Ensemble), Steven Serlin (Ensemble), Henry Webster (Ensemble), Richard Bryan (Ensemble), Steven Brooks (Ensemble), Mark Fleming (Ensemble), Michael Steffan (Ensemble), Zoe Rice (Ensemble), Amelia Hemingsley (Ensemble)",
       "notes": "Pro-shot concert. Many versions are available but the highest quality one is 1080p from iTunes. Check with the traders.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -1002,6 +1021,40 @@
       "size": "3.57 GB"
     },
     {
+      "id": 11194,
+      "show": "A Chorus Line",
+      "tour": "First Broadway Revival",
+      "date": "2008-05-11",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Mario Lopez (Zach), Jessica Lea Patty (alt Cassie), Nick Adams (Larry), Melissa Lone (Maggie), J. Elaine Marcos (Connie), Jessica Lee Goldyn (Val), Jason Patrick Sands (Don), Dena DiGiacinto (Bebe), Mike Cannon (Al), James T. Lane (Richie), Tommy Berklund (Greg), Natalie Cortez (Diana), Jeffrey Schecter (Mike), Heather Parcells (Judy), Deidre Goodwin (Sheila), Will Taylor (Bobby), Katherine Tokarz (Kristine), Bryan Knowlton (Paul), Paul McGill (Mark), Michelle Aravena (Tricia), E Clayton Cornelious (Butch), Kevin Worley (Tom), Todd Anderson (Roy), Nadine Isenegger (Lois), Grant Turner (Frank), Jenifer Foote (Vicki)",
+      "notes": "This is most of the show, but a majority of the dialogue scenes between songs are audio only. Full audio. These are the songs that are intact video-wise: Opening, I Can Do That, At the Ballet, Hello 12, Nothing, Dance Ten, Music and the Mirror, Paul's Monologue, Rehearsal One, Why Are You a Dancer scene, What I Did for Love, and most of the finale. Jessica is FIERCE as Cassie and whips her hair all over the place and what a voice! Listen for a KILLER vocal from Melissa during At the Ballet. Great closeups and performances. A-",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.24 GB"
+    },
+    {
+      "id": 1002118,
+      "show": "A Chorus Line",
+      "tour": "First Broadway Revival",
+      "date": "2007-11-03",
+      "time": "M",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Michael Berresse (Zach), Charlotte d'Amboise (Cassie), Nick Adams (Larry), Melissa Lone (Maggie), J. Elaine Marcos (Connie), Jessica Lee Goldyn (Val), Krysta Rodriguez (Bebe), Kevin Worley (Al), James T. Lane (Richie), Michael Gruber (Greg), Natalie Cortez (Diana), Deidre Goodwin (Sheila), Bryan Knowlton (u/s Paul)",
+      "notes": "A nice capture of the show before cast changes.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.21 GB"
+    },
+    {
       "id": 1004622,
       "show": "A Chorus Line",
       "tour": "Broadway",
@@ -1036,6 +1089,25 @@
       "nft": false,
       "format": "MP4 x2",
       "size": "4.63 GB"
+    }
+  ],
+  "Cinderella (Rodgers & Hammerstein)": [
+    {
+      "id": 1141864,
+      "show": "Cinderella (Rodgers & Hammerstein)",
+      "tour": "Live on CBS",
+      "date": "1957-03-31",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Julie Andrews (Ella), Jon Cypher (Topher), Edie Adams (Marie)",
+      "notes": "Includes short introduction by Julie Andrews. https://www.imdb.com/title/tt0129672/",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.64 GB"
     }
   ],
   "Come From Away": [
@@ -1111,6 +1183,23 @@
     }
   ],
   "Concerts (Miscellaneous)": [
+    {
+      "id": 1110849,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "Stephen Sondheim's 80th Birthday Concert",
+      "date": "2010-03-15",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Karen Olivo (Performer), Joanna Gleason (Performer), Chip Zien (Performer), John McMartin (Performer), Bobby Steggert (Performer), Laura Osnes (Performer), Jenn Colella (Performer), Matt Cavenaugh (Performer), Nathan Gunn (Performer), Victoria Clark (Performer), Jason Danieley (Performer), Patti LuPone (Performer), Mandy Patinkin (Performer), Laura Benanti (Performer), Michael Cerveris (Performer), George Hearn (Performer), Elaine Stritch (Performer), Audra McDonald (Performer), Marin Mazzie (Performer), Bernadette Peters (Performer), Donna Murphy (Performer)",
+      "notes": "GENERAL NOTES: Sondheim's 80th birthday celebration. Two-hour concert filmed for PBSs Great Performances on March 15, 2010 at Avery Fisher Hall in NYC, aired on PBS on November 24, 2010.<br><br>MY NOTES: I also have an AVI file (1.47 GB) which seems to be the same as the MP4",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "1.98 GB"
+    },
     {
       "id": 1111793,
       "show": "Concerts (Miscellaneous)",
@@ -1724,6 +1813,25 @@
       "size": "8.23 GB"
     }
   ],
+  "Grace": [
+    {
+      "id": 30273,
+      "show": "Grace",
+      "tour": "Broadway",
+      "date": "2012-09-20",
+      "time": "E",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Paul Rudd (Steve), Michael Shannon (Sam), Kate Arrington (Sara), Ed Asner (Karl)",
+      "notes": "Good clear picture. Filmed in widescreen. A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "3.61 GB"
+    }
+  ],
   "The Great Gatsby": [
     {
       "id": 1155831,
@@ -1769,7 +1877,7 @@
       "time": "M",
       "master": "SunsetBlvd79",
       "media_type": "video",
-      "cast": "Andy Karl (Phil Connors), Barrett Doss (Rita Hanson), John Sanders (Ned Ryerson), Raymond J. Lee (Ralph), Vishal Vaidya (Larry), Heather Ayers (Mrs. Lancaster), Katy Geraghty (Debbie), Josh Lamon (Buster), Joseph Medeiros (Deputy), Jenna Rubaii (Joelle), Sean Montgomery (Sheriff), Gerard Canonico (Fred), Andrew Call (Gus), Travis Waldschmidt (Jeff), Rebecca Faulkenberry (Nancy Taylor), Tari Kelly (Piano Teacher), Michael Fatica (Chubby Man), Rheaume Crenshaw (Doris), William Parry (Jenson), Taylor Iman Jones (Lady Storm Chaser)",
+      "cast": "Andy Karl (Phil Connors), Barrett Doss (Rita Hanson), John Sanders (Ned Ryerson), Rebecca Faulkenberry (Nancy Taylor), Andrew Call (Gus), Raymond J. Lee (Ralph), Vishal Vaidya (Larry), Josh Lamon (Buster), Katy Geraghty (Debbie), Gerard Canonico (Fred), Travis Waldschmidt (Jeff), Rheaume Crenshaw (Doris), Heather Ayers (Mrs. Lancaster), Joseph Medeiros (Deputy), Michael Fatica (Chubby Man), Tari Kelly (Piano Teacher), William Parry (Jenson), Jenna Rubaii (Joelle), Sean Montgomery (Sheriff), Taylor Iman Jones (Lady Storm Chaser)",
       "notes": "Excellent HD capture of the new musical based on the movie. Such an amazing set and Andy gives a terrific performance. The set malfunctioned once and they had to pause and restart the song.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -2438,8 +2546,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "9.34 GB"
     }
   ],
   "Kathy and Stella Solve a Murder": [
@@ -2457,8 +2565,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "9.58 GB"
     }
   ],
   "Kimberly Akimbo": [
@@ -4629,7 +4737,7 @@
       "master": "pro-shot",
       "media_type": "video",
       "cast": "Caissie Levy (Diana), Jamie Parker (Dan), Jack Wolfe (Gabe), Eleanor Worthington-Cox (Natalie), Jack Ofrecio (Henry), Trevor Dion Nicholas (Dr. Fine/Dr. Madden)",
-      "notes": "GENERAL NOTES: Filmed at Wyndham's Theatre from September 9-11 2024 during the show's West End transfer from its original run at the Donmar Warehouse. Released by PBS's Great Performances (with censored audio) on May 9th, 2025. An uncensored version with a hardcoded timestamp in the top-left corner of the video and different scene changes leaked online two days later.<br><br>MY NOTES: Uncensored version with the timestamp",
+      "notes": "GENERAL NOTES: Filmed at Wyndham's Theatre from September 9-11 2024 during the show's West End transfer from its original run at the Donmar Warehouse. Released by PBS's Great Performances (with censored audio) on May 9th, 2025. Two uncensored versions also circulate: one with a hardcoded timestamp in the top-left corner of the video and different scene changes, and one without the timestamp.<br><br>MY NOTES: Uncensored version with the timestamp",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -5057,8 +5165,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "2.82 GB"
     }
   ],
   "Romeo and Juliet (Shakespeare)": [
@@ -5279,6 +5387,23 @@
       "nft": false,
       "format": "MOV x3",
       "size": "16.57 GB"
+    },
+    {
+      "id": 2012256,
+      "show": "Smash",
+      "tour": "Broadway",
+      "date": "2025-04",
+      "time": "U",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Robyn Hurder (Ivy), Brooks Ashmanskas (Nigel), Krysta Rodriguez (Tracy), John Behlmann (Jerry), Kristine Nielsen (Susan), Caroline Bowman (Karen), Bella Coppola (Chloe), Jacqueline B. Arnold (Anita), Nicholas Matos (Scott), Casey Garvin (Charlie), Megan Kane (Holly), Wendi Bergamini (Ensemble), Sarah Bowden (Ensemble), Deanna Cudjoe (Ensemble), Daniel Gaymon (Ensemble), Merritt David Janes (Ensemble), David Paul Kidder (Ensemble), McGee Maddox (Ensemble), J Savage (Ensemble), Jake Trammel (Ensemble), Katie Webber (Ensemble)",
+      "notes": "Great capture of this insane and awesome show in previews! Shot around heads that briefly block some occasional action but are worked around well. Shot in a great mix of wides, mediums, and close-ups. Some increased wandering, shaking, and re-adjusting throughout. Audio is patched in from an external source. Overall a great capture.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Some Like it Hot": [
@@ -5925,6 +6050,23 @@
   ],
   "tick, tick...BOOM!": [
     {
+      "id": 1151766,
+      "show": "tick, tick...BOOM!",
+      "tour": "First US National Tour",
+      "date": "2003-02-27",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Trey Ellett (u/s Jon), Wilson Cruz (Michael), Nikki Snelson (Susan)",
+      "notes": "Shot pretty steady with zooms. Occasional spotlight washout on faces on wider stage shots. B+",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.04 GB"
+    },
+    {
       "id": 1154549,
       "show": "tick, tick...BOOM!",
       "tour": "Broadway Center Stage",
@@ -6046,7 +6188,7 @@
       "time": "E",
       "master": "SunsetBlvd79",
       "media_type": "video",
-      "cast": "Jessie Mueller (Jenna), Keala Settle (Becky), Kimiko Glenn (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Eric Anderson (Cal), Dakin Matthews (Joe), Nick Cordero (Earl)",
+      "cast": "Jessie Mueller (Jenna), Keala Settle (Becky), Kimiko Glenn (Dawn), Drew Gehling (Dr. Pomatter), Christopher Fitzgerald (Ogie), Eric Anderson (Cal), Dakin Matthews (Joe), Nick Cordero (Earl), Charity Angél Dawson (Nurse Norma)",
       "notes": "Beautiful capture of this stunning Broadway transfer. This is the performance where the set broke and Sara Bareilles came out while it was being fixed. She sang a cut song from the show and Part of Your World and talked with the audience, which is included. A+",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
