@@ -1488,8 +1488,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": true,
-      "format": "",
-      "size": ""
+      "format": "M4A x1",
+      "size": "47.4 MB"
     }
   ],
   "Heathers: The Musical": [
@@ -1598,8 +1598,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": true,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "67.6 MB"
     }
   ],
   "In Trousers": [
@@ -6165,7 +6165,7 @@
       "master": "coffeeisthebesttrades",
       "media_type": "audio",
       "cast": "Jonathan Groff (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Salome Smith (Crystal), Ari Groover (Ronnette), Kingsley Leggs (Voice of Audrey II)",
-      "notes": "GENERAL NOTES: Jonathans last show.<br><br>MY NOTES: A very nice audio, though some of the actors’ mics were quiet occasionally (mostly Jonathan’s during Skid Row (Downtown))",
+      "notes": "GENERAL NOTES: Jonathan's last show.<br><br>MY NOTES: A very nice audio, though some of the actors’ mics were quiet occasionally (mostly Jonathan’s during Skid Row (Downtown))",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -7030,7 +7030,7 @@
       "master": "spookymormonhellyeah",
       "media_type": "audio",
       "cast": "Brian d'Arcy James (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Kate Reinders (Portia), Brad Oscar (Nostradamus), Brooks Ashmanskas (Brother Jeremiah), Gerry Vichi (Shylock), Michael James Scott (Minstrel/Snug), Peter Bartlett (Lord Clapham/Eyepatch Man)",
-      "notes": "First Preview",
+      "notes": "First preview performance of the Broadway production. Very excited audience, with lots of laughter and a midshow standing ovation.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -7064,7 +7064,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Brian d'Arcy James (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Kate Reinders (Portia), Brad Oscar (Nostradamus), Brooks Ashmanskas (Brother Jeremiah), Gerry Vichi (Shylock), Michael James Scott (Minstrel/Snug), Peter Bartlett (Lord Clapham/Eyepatch Man)",
-      "notes": "",
+      "notes": "Third Preview. There was a technical difficulty with the set when they transitioned into the Bottoms' home where the table runs into the wall of the house. Brian d'Arcy James ends up having to pick up the table and moving it to its spot. Ad-libbing ensues.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -7285,7 +7285,7 @@
       "master": "elphabatized21",
       "media_type": "audio",
       "cast": "Brian d'Arcy James (Nick Bottom), John Cariani (Nigel Bottom), Ryan VanDenBoom (u/s Shakespeare), Heidi Blickenstaff (Bea), Kate Reinders (Portia), Brad Oscar (Nostradamus), Brooks Ashmanskas (Brother Jeremiah), Gerry Vichi (Shylock), Michael James Scott (Minstrel/Snug), Peter Bartlett (Lord Clapham/Eyepatch Man)",
-      "notes": "",
+      "notes": "Ryan Vandenboom’s second show as Shakespeare.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -7706,7 +7706,7 @@
       "show": "Something Rotten!",
       "tour": "Broadway",
       "date": "2015-08-08",
-      "time": "U",
+      "time": "M",
       "master": "Black Death",
       "media_type": "audio",
       "cast": "Brian d'Arcy James (Nick Bottom), John Cariani (Nigel Bottom), Christian Borle (Shakespeare), Heidi Blickenstaff (Bea), Kate Reinders (Portia), Brad Oscar (Nostradamus), Brooks Ashmanskas (Brother Jeremiah), Gerry Vichi (Shylock), Michael James Scott (Minstrel)",
@@ -7970,8 +7970,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2 + MP3 x39",
+      "size": "338.6 MB"
     },
     {
       "id": 2019170,
@@ -8365,8 +8365,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "78.2 MB"
     }
   ],
   "Thoroughly Modern Millie": [
