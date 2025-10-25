@@ -190,15 +190,19 @@ function formatRecording(id, records) {
     const size = formatArray ? formatArray[1] : '';
 
     // Calculate if the recording is NFT
-    const isNft = calcNft(rec.nft.nft_date);
+    let isNft = calcNft(rec.nft.nft_date);
 
     if (isNft) {
         // Add to the beginning of the notes
-        formattedNotes = `NFT Date: ${rec.nft.nft_date}\n` + formattedNotes
+        formattedNotes = `NFT Date: ${rec.nft.nft_date.split[0]}\n` + formattedNotes
+        isNft = true
     }
-
-    // TODO: check for NFT forever
-    // low priority since I don't have any
+    
+    if (rec.nft.nft_forever) {
+        // Add to the beginning of the notes
+        formattedNotes = `NFT Forever\n` + formattedNotes
+        isNft = true
+    }
 
     // Get grouped cast list
     const castList = groupCast(rec.cast)
