@@ -1,4 +1,22 @@
 { 
+    "A Chorus Line": [
+        {
+            "show": "A Chorus Line",
+            "tour": "Off-Broadway",
+            "date": "1975-07-12",
+            "time": "U",
+            "master": "Unknown",
+            "media_type": "video",
+            "cast": " Robert LuPone (Zach), Thommie Walsh (Bobby Strong), Clive Clerk (Larry), Ron Khulman (Don), Kay Cole (Maggie), Wayne Cilento (Mike), Baayork Lee (Connie), Michael Stuart (Greg), Donna McKechnie (Cassie), Kelly Bishop (Sheila), Nancy Lane (Bebe), Patricia Garland (Judy), Ronald Dennis (Richie), Don Percassi (Al), Renne Baughman (Kristine), Pam Blair (Val), Cameron Mason (Mark), Sammy Williams (Paul), Priscilla Lopez (Diana)",
+            "notes": "Black and white, but good quality for the era. Pro-shot; one of the very few videos ever to be leaked from the TOFT archives.",
+            "amount_recorded": "complete",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": false,
+            "format": "VOB (with smalls)",
+            "size": "4.38 GB"
+        }
+    ],
     "Follies": [
         {
             "show": "Follies",
