@@ -1,5 +1,6 @@
 {
-  "thisWeekIns": [
+  "thisWeekIns": [],
+  "lastWeekIns": [
     "Dear Evan Hansen | Off-Broadway | 2016-03-30 | Unknown (audio)",
     "Dear Evan Hansen | Off-Broadway | 2016-03-31 | Unknown (audio)",
     "The Sound of Music | Broadway | 1961-10-07 | Unknown (audio)",
@@ -31,15 +32,5 @@
     "Mamma Mia! | First Broadway Revival | 2025-08-21 | house-cam (video)",
     "A Chorus Line | Fifth US National Tour | 2008-06-07 | Unknown (audio)",
     "Romy and Michele's High School Reunion | Off-Broadway | 2025-10-14 | Unknown (audio)"
-  ],
-  "lastWeekIns": [
-    "A Chorus Line | First Broadway Revival | 2008-05-11 | SunsetBlvd79 (video)",
-    "Grace | Broadway | 2012-09-20 | NYCG8R (video)",
-    "A Chorus Line | First Broadway Revival | 2007-11-03 | Unknown (video)",
-    "Concerts (Miscellaneous) | Stephen Sondheim's 80th Birthday Concert | 2010-03-15 | pro-shot (video)",
-    "Broadway on Broadway (Concerts) | 2007 | 2007-09-16 | Unknown (video)",
-    "Cinderella (Rodgers & Hammerstein) | Live on CBS | 1957-03-31 | pro-shot (video)",
-    "tick, tick...BOOM! | First US National Tour | 2003-02-27 | Unknown (video)",
-    "Smash | Broadway | 2025-04 | MTTZ (video)"
   ]
 }
