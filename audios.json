@@ -67,6 +67,23 @@
       "nft": false,
       "format": "M4A x1",
       "size": "56.4 MB"
+    },
+    {
+      "id": 2023948,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Off-Broadway Revival",
+      "date": "2025-11-07",
+      "time": "E",
+      "master": "bobbyskazoo",
+      "media_type": "audio",
+      "cast": "Lilli Cooper (Rona Lisa Peretti), Jasmine Rogers (Olive Ostrovsky), Kevin McHale (William Barfee), Autumn Best (Logainne Schwartzandgrubenierre), Matt Manuel (Mitch Mahoney), Justin Cooley (Leaf Coneybear), Leana Rae Concepcion (Marcy Park), Philippe Arroyo (Chip Tolentino), Jason Kravits (Douglas Panch)",
+      "notes": "<p> First preview! Clear audio recorded from mid-orchestra. The usual first preview enthusiast audience that sometimes overpowers the recording.</p><p><br></p><p>Do not post on any platform (TikTok, Tumblr, YouTube, Reddit, etc.). Please list as bobbyskazoo’s master. Feel free to trade as normal; never to be gifted or sold.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "352.3 MB"
     }
   ],
   "Amour": [
@@ -716,8 +733,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x1",
+      "size": "253.8 MB"
     }
   ],
   "Concerts (Miscellaneous)": [
@@ -1787,7 +1804,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Shannon Durig (Tracy Turnblad), John Pinette (Edna Turnblad), Darlene Love (Motormouth Maybelle), Tracy Miller (Penny Pingleton), Barbara Walsh (Velma Von Tussle), Becky Gulsvig (Amber Von Tussle), Richard H. Blake (Link Larkin), Jonathan Dokuchitz (Corny Collins), Chester Gregory (Seaweed J. Stubbs), Nia Imani Soyemi (Little Inez), Julie Halston (Prudy Pingleton)",
-      "notes": "",
+      "notes": "MY NOTES: An alright audio. There is some kind of static that cuts in and out throughout act 1 but doesn’t get too bad until Welcome to the 60’s/Run and Tell That. It also seems to skip a scene between those songs. After Big Blonde and Beautiful it’s fine and doesn’t happen in act 2. There’s also about a second of dead space in between tracks. I’m probably biased but I loved Richard as Link! The rest of the cast was great too.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -7142,6 +7159,25 @@
       "size": "117.75 MB"
     }
   ],
+  "Norbert Leo Butz in Concert": [
+    {
+      "id": 2023540,
+      "show": "Norbert Leo Butz in Concert",
+      "tour": "Broadway or Busk",
+      "date": "2025-11-01",
+      "time": "E",
+      "master": "graverobber",
+      "media_type": "audio",
+      "cast": "Norbert Leo Butz (Performer)",
+      "notes": "Clear audio recorded from the front row of an intimate Norbert Leo Butz concert at the McLean Community Center's Alden Theatre, performing songs and telling stories from throughout his career. Features backing vocals and accompaniment (playing piano when Norbert is on guitar and vice versa) from composer Andy Roninson. Feel free to gift/trade freely but don't ever post anywhere online publicly.\n",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x29 + M4A x1",
+      "size": "418.4 MB"
+    }
+  ],
   "The Office: A Musical Parody": [
     {
       "id": 1117581,
@@ -7214,8 +7250,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x3",
+      "size": "653.6 MB"
     }
   ],
   "Seesaw": [
@@ -8762,6 +8798,25 @@
       "nft": false,
       "format": "M4A x2",
       "size": "78.2 MB"
+    }
+  ],
+  "Take the Lead": [
+    {
+      "id": 2012236,
+      "show": "Take the Lead",
+      "tour": "Paper Mill Playhouse",
+      "date": "2025-04-04",
+      "time": "E",
+      "master": "BlackbirdFly",
+      "media_type": "audio",
+      "cast": "Tam Mutu (Pierre Dulaine), Adrienne Bailon-Houghton (Arianna Rey), Matthew Risch (Alan Ford), Vincent J. Hooper (Rock), Savy Jackson (La Rhette), Tosh Harris Santiago | Sequoiia (Monster), Brandon O'Neal Bomer (Eddie), Natalia Nieves-Melchor (Egypt), Salome Smith (Gucci), Christian Whan (Kurd), Megan Elyse Fulmer (Lola), Kevin Trinio Perdido (Miguel), Grace Slear (Caitlin), Jonalyn Saxer (Morgan), Ryan Raffloer (Lance), David Jennings (Mr. O'Hara/Police Officer/Doctor), Gaelen Gilliland (Mrs. Buford/TV Executive), Deon Releford-Lee (Daniel/Competition Announcer), Dillon Lehman (Ensemble), Eric Ascione (Ensemble), Stephani Sosa (Ensemble), Tatiana Seliverstova (Ensemble)",
+      "notes": "NFT Forever\nPreview performance. A bit of shuffling and talking at the beginning due to latecomers, plus some coughing, but it’s otherwise clear. In Act 2, the woman next to me screamed a couple of times. Sometimes the lyrics are hard to hear over the music due to the sound design in the theater. Includes pre-show announcement, curtain call and exit music. NFT except through master. Never to be sold and/or posted anywhere.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "M4A x2 + x47",
+      "size": "624.8 MB"
     }
   ],
   "Thoroughly Modern Millie": [
