@@ -84,6 +84,23 @@
       "nft": false,
       "format": "M4A x1",
       "size": "352.3 MB"
+    },
+    {
+      "id": 2024347,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Off-Broadway Revival",
+      "date": "2025-11-10",
+      "time": "E",
+      "master": "WhatTradingCanDo",
+      "media_type": "audio",
+      "cast": "Lilli Cooper (Rona Lisa Peretti), Jasmine Rogers (Olive Ostrovsky), Kevin McHale (William Barfee), Autumn Best (Logainne Schwartzandgrubenierre), Matt Manuel (Mitch Mahoney), Justin Cooley (Leaf Coneybear), Leana Rae Concepcion (Marcy Park), Philippe Arroyo (Chip Tolentino), Jason Kravits (Douglas Panch), Nick Offerman (g/p Guest Speller)",
+      "notes": "One of the guest spellers was Nick Offerman!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "51.8 MB"
     }
   ],
   "Amour": [
@@ -754,6 +771,25 @@
       "nft": false,
       "format": "MP3 x10",
       "size": "20.7 MB"
+    }
+  ],
+  "Damn Yankees": [
+    {
+      "id": 2021946,
+      "show": "Damn Yankees",
+      "tour": "Arena Stage Revival",
+      "date": "2025-10-05",
+      "time": "M",
+      "master": "oydtrades",
+      "media_type": "audio",
+      "cast": "Ana Villafañe (Lola), Jordan Donica (Joe Hardy), Rob McClure (Mr. Applegate), Quentin Earl Darrington (Joe Boyd), Alysha Umphress (Gloria Thorpe), Nehal Joshi (Van Buren), Bryonha Marie Parham (Meg Boyd), Keenan McCarter (Mr. Welch), Rayanne Gonzales (Sister/Ensemble), Sarah Anne Sillers (Doris/Ensemble), Justin Showell (Rocky/Ensemble), Kevin Munhall (Commissioner/Ensemble), J Savage (Sohovik/Ensemble), Michael Harmon (Smokey/Ensemble), Ben Cook (Fuzzy/Ensemble), John Michael Fiumara (Gonzalez/Peña/Ensemble), Ryo Kamibayashi (Ito/Ensemble), Drake Leach (s/w Peña/Ensemble), Deanna Cudjoe (Ensemble), Danielle Marie Gonzalez (Ensemble), Georgia Monroe (Ensemble), Jordyn Taylor (Ensemble)",
+      "notes": "Reworked production with a revised book by Will Power and Doug Wright and new additional lyrics by Lynn Ahrens. John Michael played his normal track while splitting Raúl Contreras' Peña/ensemble track with Drake. Includes PDF of playbill.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x3",
+      "size": "184.9 MB"
     }
   ],
   "Dead Outlaw": [
@@ -2715,8 +2751,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x23",
+      "size": "178.8 MB"
     },
     {
       "id": 12375,
@@ -2919,8 +2955,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x24",
+      "size": "197.8 MB"
     },
     {
       "id": 14916,
@@ -3021,8 +3057,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x22",
+      "size": "147.1 MB"
     },
     {
       "id": 14923,
@@ -3140,8 +3176,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x23",
+      "size": "125.1 MB"
     },
     {
       "id": 14935,
@@ -3157,8 +3193,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x22",
+      "size": "180.8 MB"
     },
     {
       "id": 14936,
@@ -3174,8 +3210,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x22",
+      "size": "180.9 MB"
     },
     {
       "id": 14937,
@@ -3191,8 +3227,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x23",
+      "size": "124.8 MB"
     },
     {
       "id": 14938,
@@ -3208,8 +3244,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x22",
+      "size": "89.9 MB"
     },
     {
       "id": 14939,
@@ -3225,8 +3261,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x22",
+      "size": "180.6 MB"
     },
     {
       "id": 14940,
@@ -3242,8 +3278,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x21",
+      "size": "181.1 MB"
     },
     {
       "id": 14941,
@@ -3276,8 +3312,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x21",
+      "size": "181.9 MB"
     },
     {
       "id": 14943,
@@ -3310,8 +3346,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x23",
+      "size": "187.9 MB"
     },
     {
       "id": 14945,
@@ -3378,8 +3414,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x22",
+      "size": "177.2 MB"
     },
     {
       "id": 14949,
@@ -3446,8 +3482,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x20",
+      "size": "177.6 MB"
     },
     {
       "id": 14953,
@@ -3803,8 +3839,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x33",
+      "size": "125.7 MB"
     },
     {
       "id": 19239,
@@ -4993,25 +5029,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
-    },
-    {
-      "id": 26439,
-      "show": "Legally Blonde",
-      "tour": "Australia",
-      "date": "2012-11-26",
-      "time": "E",
-      "master": "Unknown",
-      "media_type": "audio",
-      "cast": "Lucy Durack (Elle Woods), David Harris (Emmett Forrest), Rob Mills (Warner Huntington III), Helen Dallimore (Paulette), Ali Calder (Vivienne Kensington), Erika Heynatz (Brooke Wyndham/Shandi), Cameron Daddo (Professor Callahan), Renee Burleigh (Margot), Ashlea Pike (Serena), Chloé Zuel (Pilar)",
-      "notes": "An untracked version of the recording from the next day (mp3, 117 MB) is sometimes traded as this.",
-      "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
-      "limited_status": "Unrestricted",
-      "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "62.1 MB"
     },
     {
       "id": 26440,
@@ -5027,8 +5046,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "178.6 MB"
     },
     {
       "id": 26441,
@@ -5044,8 +5063,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "177.7 MB"
     },
     {
       "id": 26715,
@@ -5112,8 +5131,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "58.9 MB"
     },
     {
       "id": 26926,
@@ -5150,23 +5169,6 @@
       "size": "309.3 MB"
     },
     {
-      "id": 26928,
-      "show": "Legally Blonde",
-      "tour": "Australia",
-      "date": "2012-05-25",
-      "time": "E",
-      "master": "Unknown",
-      "media_type": "audio",
-      "cast": "Lucy Durack (Elle Woods), David Harris (Emmett Forrest), Rob Mills (Warner Huntington III), Helen Dallimore (Paulette), Ali Calder (Vivienne Kensington), Erika Heynatz (Brooke Wyndham/Shandi), Cameron Daddo (Professor Callahan)",
-      "notes": "",
-      "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
-      "limited_status": "Unrestricted",
-      "nft": false,
-      "format": "",
-      "size": ""
-    },
-    {
       "id": 27396,
       "show": "Legally Blonde",
       "tour": "North Carolina Theatre",
@@ -5175,13 +5177,13 @@
       "master": "PopularLikeMe",
       "media_type": "audio",
       "cast": "Autumn Hurlbert (Elle Woods), Adam Hose (Emmett Forrest), Constantine Rousouli (Warner Huntington III), Kathy Fitzgerald (Paulette), Michelle London (Vivienne Kensington), Hailey Best (Brooke Wyndham), Dirk Lumbard (Professor Callahan), Bethany Moore (Margot), Brit West (Serena), Kendall McCarthy (Pilar), Jeremy Mills (Kyle), Brian Hoffman (Dewey/Dad/Winthrop/Reporter), Elgin Giles (Grandmaster Chad), Cara Massey (Enid), Sara Sheperd (Kate/Chutney), Anne Karner (Mom), Thomas Bevan (Nikos), Nick DeVito (Carlos), Chico the Dog (Bruiser), English Bernhardt (Ensemble), Barry Busby (Ensemble), Jamie Lynn Bynum (Ensemble), Joey Cullinane (Ensemble), Kinsie Howell (Ensemble), Charlie Johnson (Ensemble), Lydia Leggett (Ensemble), Cameron Pace (Ensemble), Lily Rashid (Ensemble), Haley Richardson (Ensemble), Lydia Tart (Ensemble), Kelsey Walston (Ensemble)",
-      "notes": "Closing Night of this production, which opened on October 9. Quality is iffy in spots, but this is probably the only recording in existence of Autumn (runner up on The Search for Elle Woods, u/s Elle on Broadway) as Elle.",
+      "notes": "GENERAL NOTES: Closing Night of this production, which opened on October 9. Quality is iffy in spots, but this is probably the only recording in existence of Autumn (runner up on The Search for Elle Woods, u/s Elle on Broadway) as Elle.<br><br>MY NOTES: Missing track 13 from when the list is posted. It jumps from the end of Chip on My Shoulder to the beginning of So Much Better",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x29",
+      "size": "178.1 MB"
     },
     {
       "id": 29145,
@@ -5299,8 +5301,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x37",
+      "size": "287 MB"
     },
     {
       "id": 30041,
@@ -5435,8 +5437,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "WAV x36",
+      "size": "1.36 GB"
     },
     {
       "id": 30679,
@@ -7660,6 +7662,40 @@
       "nft": false,
       "format": "MP3 x3",
       "size": "653.6 MB"
+    },
+    {
+      "id": 2024070,
+      "show": "Romy and Michele's High School Reunion",
+      "tour": "Off-Broadway",
+      "date": "2025-11-03",
+      "time": "E",
+      "master": "pinkashouses",
+      "media_type": "audio",
+      "cast": "Laura Bell Bundy (Romy White), Kara Lindsay (Michele Weinberger), Jordan Kai Burnett (Heather Mooney), Michael Thomas Grant (Sandy Frink), Je'Shaun Jackson (Toby Walters), Lauren Zakrin (Christie Masters), Pascal Pastrana (Billy Christianson), Erica Dorfler (Kelly Possenger), Ninako Donville (Lisa Luder), DeMarius R. Copes (DJ)",
+      "notes": "Feel free to use for trades or gifts.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "58 MB"
+    },
+    {
+      "id": 2024343,
+      "show": "Romy and Michele's High School Reunion",
+      "tour": "Off-Broadway",
+      "date": "2025-11-08",
+      "time": "E",
+      "master": "WhatTradingCanDo",
+      "media_type": "audio",
+      "cast": "Laura Bell Bundy (Romy White), Kara Lindsay (Michele Weinberger), Jordan Kai Burnett (Heather Mooney), Michael Thomas Grant (Sandy Frink), Je'Shaun Jackson (Toby Walters), Lauren Zakrin (Christie Masters), Pascal Pastrana (Billy Christianson), Erica Dorfler (Kelly Possenger), Ninako Donville (Lisa Luder), DeMarius R. Copes (DJ)",
+      "notes": "Mid-show, Kara throws a soda cup into the car and it bounces out the other side, and Laura Bell proceeds to strut over and pick it up with a bend and snap. The audience went wild and it takes Laura Bell and Kara a minute to get back on track. Some annoying people behind me sometimes quoted the show as it was going and eventually Thomas Grant calls them out from the stage when it got to be too much. Recorded from the front row.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "56.3 MB"
     }
   ],
   "Seesaw": [
@@ -8658,6 +8694,108 @@
       "size": "64.8 MB"
     },
     {
+      "id": 1122325,
+      "show": "Something Rotten!",
+      "tour": "First US National Tour",
+      "date": "2017-02-09",
+      "time": "E",
+      "master": "PopularLikeMe",
+      "media_type": "audio",
+      "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Adam Pascal (Shakespeare), Maggie Lakis (Bea), Autumn Hurlbert (Portia), Blake Hammond (Nostradamus), Scott Cote (Brother Jeremiah), Jeff Brooks (Shylock)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "62.8 MB"
+    },
+    {
+      "id": 1122326,
+      "show": "Something Rotten!",
+      "tour": "First US National Tour",
+      "date": "2017-02-12",
+      "time": "M",
+      "master": "PopularLikeMe",
+      "media_type": "audio",
+      "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Adam Pascal (Shakespeare), Maggie Lakis (Bea), Autumn Hurlbert (Portia), Blake Hammond (Nostradamus), Scott Cote (Brother Jeremiah), Jeff Brooks (Shylock)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "63.1 MB"
+    },
+    {
+      "id": 1122327,
+      "show": "Something Rotten!",
+      "tour": "First US National Tour",
+      "date": "2017-02-12",
+      "time": "E",
+      "master": "PopularLikeMe",
+      "media_type": "audio",
+      "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Adam Pascal (Shakespeare), Maggie Lakis (Bea), Autumn Hurlbert (Portia), Blake Hammond (Nostradamus), Scott Cote (Brother Jeremiah), Jeff Brooks (Shylock)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "63.6 MB"
+    },
+    {
+      "id": 1122328,
+      "show": "Something Rotten!",
+      "tour": "First US National Tour",
+      "date": "2017-02-15",
+      "time": "E",
+      "master": "PopularLikeMe",
+      "media_type": "audio",
+      "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Adam Pascal (Shakespeare), Maggie Lakis (Bea), Autumn Hurlbert (Portia), Blake Hammond (Nostradamus), Scott Cote (Brother Jeremiah), Jeff Brooks (Shylock)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "63.7 MB"
+    },
+    {
+      "id": 1122330,
+      "show": "Something Rotten!",
+      "tour": "First US National Tour",
+      "date": "2017-02-18",
+      "time": "M",
+      "master": "PopularLikeMe",
+      "media_type": "audio",
+      "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Adam Pascal (Shakespeare), Maggie Lakis (Bea), Autumn Hurlbert (Portia), Blake Hammond (Nostradamus), Scott Cote (Brother Jeremiah), Jeff Brooks (Shylock)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "62.7 MB"
+    },
+    {
+      "id": 1122331,
+      "show": "Something Rotten!",
+      "tour": "First US National Tour",
+      "date": "2017-02-18",
+      "time": "E",
+      "master": "PopularLikeMe",
+      "media_type": "audio",
+      "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Adam Pascal (Shakespeare), Maggie Lakis (Bea), Autumn Hurlbert (Portia), Blake Hammond (Nostradamus), Scott Cote (Brother Jeremiah), Jeff Brooks (Shylock)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "63.4 MB"
+    },
+    {
       "id": 1122341,
       "show": "Something Rotten!",
       "tour": "First US National Tour",
@@ -9574,6 +9712,23 @@
       "nft": false,
       "format": "M4A x1",
       "size": "46.6 MB"
+    },
+    {
+      "id": 2023961,
+      "show": "Wicked",
+      "tour": "Broadway",
+      "date": "2025-11-04",
+      "time": "E",
+      "master": "HBCFG",
+      "media_type": "audio",
+      "cast": "Keri René Fuller (s/b Elphaba), Jennafer Newberry (s/b Glinda), Jordan Litz (Fiyero), Brad Oscar (The Wizard), NaTasha Yvette Williams (Madame Morrible), Jenna Bainbridge (Nessarose), Daniel Quadrino (Boq), William Youmans (Doctor Dillamond)",
+      "notes": "Keri/Jennafer are a great pair! Insane vocal performance from Keri and fun riffs/options in all big 3 Elphaba songs.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "70 MB"
     }
   ]
 }
