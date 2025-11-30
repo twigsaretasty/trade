@@ -101,6 +101,23 @@
       "nft": false,
       "format": "M4A x1",
       "size": "51.8 MB"
+    },
+    {
+      "id": 2025022,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Off-Broadway Revival",
+      "date": "2025-11-08",
+      "time": "E",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Lilli Cooper (Rona Lisa Peretti), Jasmine Rogers (Olive Ostrovsky), Kevin McHale (William Barfee), Autumn Best (Logainne Schwartzandgrubenierre), Matt Manuel (Mitch Mahoney), Justin Cooley (Leaf Coneybear), Leana Rae Concepcion (Marcy Park), Philippe Arroyo (Chip Tolentino), Jason Kravits (Douglas Panch)",
+      "notes": "Preview performance. Recorded from front orchestra. Occasional shuffling and a lot of laughter.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "53.1 MB"
     }
   ],
   "Amour": [
@@ -176,6 +193,25 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "M4A x2",
+      "size": "63.6 MB"
+    }
+  ],
+  "Beauty and the Beast (Disney)": [
+    {
+      "id": 3229,
+      "show": "Beauty and the Beast (Disney)",
+      "tour": "Broadway",
+      "date": "2007-04-22",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Anneliese van der Pol (Belle), Steve Blanchard (Beast), Stephen R. Buntrock (Gaston), Jamie Ross (Maurice), John Tartaglia (Lumière), Jonathan Freeman (Cogsworth), Jeanne Lehman (Mrs. Potts), Trevor Braun (Chip)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x25",
       "size": "63.6 MB"
     }
   ],
@@ -369,6 +405,23 @@
     }
   ],
   "The Broadway Princess Party (Concerts)": [
+    {
+      "id": 1110319,
+      "show": "The Broadway Princess Party (Concerts)",
+      "tour": "First US National Tour",
+      "date": "2017-12-16",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Laura Osnes (Performer), Susan Egan (Performer), Courtney Reed (Performer), Adam J. Levy (Performer), Trinity Milosek (Performer), Benjamin Rauhala (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x1",
+      "size": "57.7 MB"
+    },
     {
       "id": 2005724,
       "show": "The Broadway Princess Party (Concerts)",
@@ -1119,6 +1172,23 @@
       "size": "80.8 MB"
     },
     {
+      "id": 8768,
+      "show": "Dear Evan Hansen",
+      "tour": "Off-Broadway",
+      "date": "2016-03-26",
+      "time": "E",
+      "master": "tryingtotellyouiloveyou",
+      "media_type": "audio",
+      "cast": "Ben Platt (Evan Hansen), Rachel Bay Jones (Heidi Hansen), Laura Dreyfuss (Zoe Murphy), Jennifer Laura Thompson (Cynthia Murphy), John Dossett (Larry Murphy), Mike Faist (Connor Murphy), Will Roland (Jared Kleinman), Kristolyn Lloyd (Alana Beck)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "68.9 MB"
+    },
+    {
       "id": 11132,
       "show": "Dear Evan Hansen",
       "tour": "Off-Broadway",
@@ -1601,6 +1671,44 @@
       "nft": false,
       "format": "MP3 x28",
       "size": "78.8 MB"
+    }
+  ],
+  "Frozen": [
+    {
+      "id": 2024946,
+      "show": "Frozen",
+      "tour": "Paper Mill Playhouse",
+      "date": "2025-11-26",
+      "time": "E",
+      "master": "despondiary",
+      "media_type": "audio",
+      "cast": "Mary Kate Morrissey (Elsa), Samantha Williams (Anna), Hazel Vogel (Young Elsa), Anjali Roa (Young Anna), Todd Buonopane (Olaf), Daniel Yearwood (Kristoff), Thomas Whitcomb (Sven), Sam Gravitte (Hans), Graham Stevens (Oaken), Mark Price (Weselton), Albert Jennings (Pabbie), Badia Farha (Bulda), Nathan Lucrezio (King Agnarr), Sherz Aletaha (Queen Iduna), Greg Mills (Bishop), Jasmine Bassham (Ensemble), Maggie Gidden (Ensemble), Erin Gonzales (Ensemble), Beau Harmon (Ensemble), Dakota Hoar (Ensemble), Fiona Claire Huber (Ensemble), Ryan Lambert (Ensemble), Carina-Kay Louchiey (Ensemble), Happy McPartlin (Ensemble), Kevin Ivey Morrison (Ensemble), Evelyn Peterson (Ensemble), Leah Platt (Ensemble), Ethan Saviet (Ensemble), Matthew Varvar (Ensemble)",
+      "notes": "First performance! Fire alarm goes off mid-act 1 as soon as adult Elsa and Anna come out and we all had to evacuate, so act 1 is split up. Includes speech once we came back in from the producers about it. Olaf also makes a joke about it in act 2. Includes usual Disney chatter.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x4",
+      "size": "136.1 MB"
+    }
+  ],
+  "Good Vibrations": [
+    {
+      "id": 1111273,
+      "show": "Good Vibrations",
+      "tour": "Broadway",
+      "date": "2005-01-08",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Sebastian Arcelus (Jan), Tituss Burgess (Eddie), David Larsen (Bobby), Kate Reinders (Caroline), Jessica Snow-Wilson (Marcella), Brandon Wardell (Dave)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x18",
+      "size": "126.1 MB"
     }
   ],
   "The Great Gatsby": [
@@ -2358,6 +2466,40 @@
       "nft": false,
       "format": "M4A x2",
       "size": "410.3 MB"
+    },
+    {
+      "id": 2025015,
+      "show": "Just In Time",
+      "tour": "Broadway",
+      "date": "2025-11-28",
+      "time": "U",
+      "master": "bikinibottomday",
+      "media_type": "audio",
+      "cast": "Matt Magnusson (s/b Bobby Darin), Larkin Reilly (u/s Connie Francis), Sadie Dickerson (Sandra Dee), Michele Pawk (Polly Walden), Emily Bergl (Nina Cassotto/Mary Douvan), Joe Barbara (Charlie Maffia/Steve Blauner), Caesar Samayoa (Don Kirshner/Giorgio/Angelo), Lance Roberts (Murray the K/Ahmet Ertegun), Khori Michelle Petinaud (s/w Siren/Others), Julia Grondin (Siren/Others), Valeria Yamin (Siren/Others)",
+      "notes": "Matt’s first full performance as Bobby!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "174.9 MB"
+    },
+    {
+      "id": 2025025,
+      "show": "Just In Time",
+      "tour": "Broadway",
+      "date": "2025-11-23",
+      "time": "U",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Jonathan Groff (Bobby Darin), Gabi Carrubba (s/b Connie Francis), Sadie Dickerson (Sandra Dee), Michele Pawk (Polly Walden), Emily Bergl (Nina Cassotto/Mary Douvan), Joe Barbara (Charlie Maffia/Steve Blauner), Matt Magnusson (u/s Don Kirshner/Giorgio/Angelo), Lance Roberts (Murray the K/Ahmet Ertegun), Claire Camp (Siren), Julia Grondin (Siren), Valeria Yamin (Siren)",
+      "notes": "There was a very excited older woman in the audience that the cast played and reacted to and the audience loved her. Includes curtain call.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "61.2 MB"
     }
   ],
   "The Last Five Years": [
@@ -5169,6 +5311,23 @@
       "size": "309.3 MB"
     },
     {
+      "id": 26928,
+      "show": "Legally Blonde",
+      "tour": "Australia",
+      "date": "2012-05-25",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Lucy Durack (Elle Woods), David Harris (Emmett Forrest), Rob Mills (Warner Huntington III), Helen Dallimore (Paulette), Ali Calder (Vivienne Kensington), Erika Heynatz (Brooke Wyndham/Shandi), Cameron Daddo (Professor Callahan)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "58.1 MB"
+    },
+    {
       "id": 27396,
       "show": "Legally Blonde",
       "tour": "North Carolina Theatre",
@@ -6291,6 +6450,23 @@
       "size": "152.5 MB"
     },
     {
+      "id": 1128100,
+      "show": "Legally Blonde",
+      "tour": "West End",
+      "date": "2010-08-01",
+      "time": "E",
+      "master": "NellyLX",
+      "media_type": "audio",
+      "cast": "Sheridan Smith (Elle Woods), Matthew McKenna (u/s Emmett Forrest), Richard Fleeshman (Warner Huntington III), Jill Halfpenny (Paulette)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "209.9 MB"
+    },
+    {
       "id": 1128830,
       "show": "Legally Blonde",
       "tour": "Regent's Park Open Air Theatre",
@@ -6920,6 +7096,25 @@
       "size": "187.1 MB"
     }
   ],
+  "The Little Mermaid": [
+    {
+      "id": 26937,
+      "show": "The Little Mermaid",
+      "tour": "Broadway",
+      "date": "2008-05-15",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Sierra Boggess (Ariel), Heidi Blickenstaff (u/s Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton)",
+      "notes": "MY NOTES: Appears to be missing track 22, right before intermission",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x45",
+      "size": "106.7 MB"
+    }
+  ],
   "Little Miss Sunshine": [
     {
       "id": 16410,
@@ -7446,6 +7641,23 @@
       "size": "94.6 MB"
     },
     {
+      "id": 1153430,
+      "show": "Monty Python's Spamalot",
+      "tour": "Broadway",
+      "date": "2006-12-16",
+      "time": "E",
+      "master": "J",
+      "media_type": "audio",
+      "cast": "Jonathan Hadary (King Arthur), Marin Mazzie (Lady of The Lake), Martin Moran (Sir Robin), Chris Hoch (Sir Lancelot), Steve Rosen (Sir Bedevere), Tom Deckman (Historian/Prince Herbert), Michael McCrath (Patsy), Lewis Cleale (Sir Galahad)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x27",
+      "size": "134.9 MB"
+    },
+    {
       "id": 1155604,
       "show": "Monty Python's Spamalot",
       "tour": "First Broadway Revival",
@@ -7633,7 +7845,7 @@
       "tour": "Broadway",
       "date": "2024-09-14",
       "time": "E",
-      "master": "kaylaroserose",
+      "master": "mellon-collie",
       "media_type": "audio",
       "cast": "Brody Grant (Ponyboy Curtis), Sky Lakota-Lynch (Johnny Cade), Joshua Boone (Dallas Winston), Brent Comer (Darrel Curtis), Jason Schmidt (Sodapop Curtis), Emma Pittman (Cherry Valance), Daryl Tofa (Two-Bit Mathews), Kevin William Paul (Bob Sheldon/Cop), Dan Berry (Paul Holden), SarahGrace Mariani (Marcia), Tilly Evans-Krueger (Ace), Andre Malcolm (t/r Steve), RJ Higton (Chet), Victor Carrillo Tracey (s/w Trip), Barton Cowperthwaite (Brill), Melody Rose (Beverly), Josh Strobl (Ensemble)",
       "notes": "a rare full cast!! recorded from third row, picks up some comments from cast that weren’t on the mics. there’s a lot of laughing and a lot of yelling commentary- a very VERY energetic audience!! we sat directly next to a speaker so you can hear josh strobl in the booth, melody, and sarahgrace really well in justice for tulsa. the end of act two picks up a lot of crying and a lot of movement.",
@@ -7646,6 +7858,23 @@
     }
   ],
   "Romy and Michele's High School Reunion": [
+    {
+      "id": 16880,
+      "show": "Romy and Michele's High School Reunion",
+      "tour": "5th Avenue Theatre",
+      "date": "2017-07-02",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Cortney Wolfson (Romy White), Stephanie Wall (Michele Weinberger), Jordan Kai Burnett (Heather Mooney), Michael Thomas Grant (Sandy Frink), Hannah Schuerman (Toby Walters), Tess Soltau (Christie Masters), Michael Starr (Billy Christianson), Kate E. Cook (Cheryl Cook), Danielle Kelsey (Kelly Possenger), Autumn Guzzardi (Lisa Luder)",
+      "notes": "Final performance. Includes director's welcome and pre-show announcement.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x35",
+      "size": "241.9 MB"
+    },
     {
       "id": 2023125,
       "show": "Romy and Michele's High School Reunion",
@@ -8796,6 +9025,23 @@
       "size": "63.4 MB"
     },
     {
+      "id": 1122334,
+      "show": "Something Rotten!",
+      "tour": "First US National Tour",
+      "date": "2017-03-04",
+      "time": "M",
+      "master": "PopularLikeMe",
+      "media_type": "audio",
+      "cast": "Rob McClure (Nick Bottom), Josh Grisetti (Nigel Bottom), Adam Pascal (Shakespeare), Maggie Lakis (Bea), Autumn Hurlbert (Portia), Blake Hammond (Nostradamus), Scott Cote (Brother Jeremiah), Jeff Brooks (Shylock)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "178.1 MB"
+    },
+    {
       "id": 1122341,
       "show": "Something Rotten!",
       "tour": "First US National Tour",
@@ -9494,6 +9740,23 @@
       "size": "136.8 MB"
     },
     {
+      "id": 978,
+      "show": "Wicked",
+      "tour": "First US National Tour (Emerald City)",
+      "date": "2010-07-08",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Jackie Burns (Elphaba), Chandra Lee Schwartz (Glinda), Richard H. Blake (Fiyero), Richard Kline (The Wizard), Randy Danson (Madame Morrible), Brynn O'Malley (Nessarose), Justin Brill (Boq), Tom Flynn (Doctor Dillamond)",
+      "notes": "GENERAL NOTES: Jackies first performance as Elphaba.<br><br>MY NOTES: Missing track 1 and 31",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x44",
+      "size": "138.8 MB"
+    },
+    {
       "id": 980,
       "show": "Wicked",
       "tour": "Broadway",
@@ -9595,6 +9858,23 @@
       "size": "99.6 MB"
     },
     {
+      "id": 18298,
+      "show": "Wicked",
+      "tour": "Broadway",
+      "date": "2011-09-27",
+      "time": "E",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Jackie Burns (Elphaba), Chandra Lee Schwartz (Glinda), Richard H. Blake (Fiyero), Tom McGowan (The Wizard), Kathy Fitzgerald (Madame Morrible), Cristy Candler (Nessarose), Etai Benson (Boq), Tom Flynn (Doctor Dillamond)",
+      "notes": "First performance on Broadway for Jackie Burns and Chandra Lee Schwartz",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x38",
+      "size": "138.4 MB"
+    },
+    {
       "id": 25039,
       "show": "Wicked",
       "tour": "Broadway",
@@ -9644,6 +9924,23 @@
       "nft": false,
       "format": "MP3 x33",
       "size": "137.9 MB"
+    },
+    {
+      "id": 28052,
+      "show": "Wicked",
+      "tour": "First US National Tour (Emerald City)",
+      "date": "2010-06-27",
+      "time": "E",
+      "master": "llandonwashere",
+      "media_type": "audio",
+      "cast": "Donna Vivino (Elphaba), Marissa Lupp (u/s Glinda), Richard H. Blake (Fiyero), Richard Kline (The Wizard), Jayne Houdyshell (t/r Madame Morrible), Brynn O'Malley (Nessarose), Justin Brill (Boq), Tom Flynn (Doctor Dillamond)",
+      "notes": "Closing night in Dallas. Due to technical difficulties, about a minute at the top of act two is substituted from another audio.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x33",
+      "size": "357.5 MB"
     },
     {
       "id": 32229,

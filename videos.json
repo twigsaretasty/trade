@@ -18,6 +18,25 @@
       "size": "4.1 GB"
     }
   ],
+  "1984": [
+    {
+      "id": 1380,
+      "show": "1984",
+      "tour": "Broadway",
+      "date": "2017-07-01",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Reed Birney (O'Brien), Michael Potts (Charrington), Olivia Wilde (Julia), Wayne Duvall (Parsons), Tom Sturridge (Winston), Nick Mills (Syme), Cara Seymour (Mrs. Parsons), Max Baker (Emmanuel Goldstein), Richard Gallagher (Thought Criminal), Sami Bray (Child)",
+      "notes": "Excellent HD capture of George Orwell's iconic novel. This controversial and graphic Big Brother play had multiple people leaving their seats. A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "2.75 GB"
+    }
+  ],
   "101 Dalmatians (Hodge/McKnight)": [
     {
       "id": 1130162,
@@ -2711,6 +2730,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.4 GB"
+    },
+    {
+      "id": 2013140,
+      "show": "The Last Five Years",
+      "tour": "Broadway",
+      "date": "2025-04-09",
+      "time": "M",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Nick Jonas (Jamie Wellerstein), Adrienne Warren (Cathy Hiatt)",
+      "notes": "Excellent 4K capture of this new revival! Some wandering and unfocusing throughout. Includes curtain call, audio fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "6.98 GB"
     }
   ],
   "Legally Blonde": [
@@ -4907,6 +4943,42 @@
       "size": "9.41 GB"
     }
   ],
+  "On the Town": [
+    {
+      "id": 22014,
+      "show": "On the Town",
+      "tour": "Third Broadway Revival",
+      "date": "2014-11-28",
+      "time": "E",
+      "master": "SJ Bernly",
+      "media_type": "video",
+      "cast": "Tony Yazbeck (Gabey), Clyde Alves (Ozzie), Jay Armstrong Johnson (Chip), Megan Fairchild (Ivy Smith), Elizabeth Stanley (Claire De Loone), Alysha Umphress (Hildy Esterhazy), Jackie Hoffman (Madame Maude P. Dilly), Michael Rupert (Pitkin W. Bridgeword), Allison Guinn (Lucy Schmeeler), Phillip Boykin (First Workman/Miss Turnstiles' Announcer/Rajah Bimmy)",
+      "notes": "Well captured from the mezzanine, with just a couple of quick dropouts and the occasional head. The first couple minutes of Act One are blacked out. Clear picture otherwise and excellent sound. 2 DVDs. A-",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "7.78 GB"
+    },
+    {
+      "id": 1006476,
+      "show": "On the Town",
+      "tour": "Third Broadway Revival",
+      "date": "2015-01-02",
+      "time": "E",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Tony Yazbeck (Gabey), Clyde Alves (Ozzie), Jay Armstrong Johnson (Chip), Megan Fairchild (Ivy Smith), Elizabeth Stanley (Claire De Loone), Alysha Umphress (Hildy Esterhazy), Jackie Hoffman (Madame Maude P. Dilly), Michael Rupert (Pitkin W. Bridgeword), Allison Guinn (Lucy Schmeeler), Phillip Boykin (First Workman/Miss Turnstiles' Announcer/Rajah Bimmy)",
+      "notes": "Very well filmed in HD with clear picture and excellent sound. Good close-ups and no cover-ups or heads blocking the shot. Similar angle to the video from 11/28 but a different capture.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.53 GB"
+    }
+  ],
   "Once Upon A Mattress": [
     {
       "id": 2008367,
@@ -5035,6 +5107,23 @@
     }
   ],
   "Parade": [
+    {
+      "id": 2123,
+      "show": "Parade",
+      "tour": "Manhattan Concert Productions",
+      "date": "2015-02-16",
+      "time": "E",
+      "master": "SJ Bernly",
+      "media_type": "video",
+      "cast": "Jeremy Jordan (Leo Frank), Laura Benanti (Lucille Frank), Joshua Henry (Jim Conley), Emerson Steele (Mary Phagan), Ramin Karimloo (Tom Watson), John Ellison Conlee (Hugh Dorsey), Nathaniel Stampley (Newt Lee/Riley), Davis Gaines (Judge Roan), Katie Rose Clarke (Mrs. Phagan), Andy Mientus (Britt Craig), Charlie Franklin (Frankie Epps/Young Soldier), Allie Trimm (Essie), Andrea Jones-Sojola (Minnie McKnight/Angela), Rachel deBenedet (Sally Slaton), Caitlin Houlahan (Iola Stover), John Jellison (Luther Rosser/Mr. Peavy), Ephie Aardema (Monteen), Alan Campbell (Governor Slaton), Eric Leviton (Officer Ivey), Eric Anderson (Lt. J.N. Starnes)",
+      "notes": "A fantastic capture of this one-night-only concert at Avery Fisher Hall. Jeremy and Laura give incredible performances, as do Joshua Henry and too many others to name. Jason Robert Brown gives a speech after the curtain call. Truly an epic night of theatre. This is a very near perfect video with no obstruction and only slight washout in wide shots. There are two quick dropouts in the first few minutes, but the concert is otherwise fully captured. It's filmed in 16:9, with a mix of wides, mediums, and close-ups. The sound is excellent. Includes curtain call, Jason's speech, and playbill scans.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "8.81 GB"
+    },
     {
       "id": 1144487,
       "show": "Parade",
@@ -6184,25 +6273,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (no smalls)",
-      "size": "4.57 GB"
-    },
-    {
-      "id": 2017142,
-      "show": "Three Days of Rain",
-      "tour": "Broadway",
-      "date": "2006-04-13",
-      "time": "E",
-      "master": "Pigerty",
-      "media_type": "video",
-      "cast": "Bradley Cooper (Pip/Theo), Julia Roberts (Nan/Lina), Paul Rudd (Walker/Ned)",
-      "notes": "",
-      "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
-      "limited_status": "Unrestricted",
-      "nft": false,
       "format": "VOB (with smalls)",
-      "size": "3.7 GB"
+      "size": "4.57 GB"
     }
   ],
   "tick, tick...BOOM!": [
