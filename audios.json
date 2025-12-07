@@ -756,6 +756,23 @@
   ],
   "Come From Away": [
     {
+      "id": 4953,
+      "show": "Come From Away",
+      "tour": "First US National Tour",
+      "date": "2018-11-07",
+      "time": "E",
+      "master": "picquery",
+      "media_type": "audio",
+      "cast": "Becky Gulsvig (Beverley/Annette), Andrew Samonsky (Kevin T./Garth), Kevin Carolan (Claude/Others), Harter Clingman (Oz/Others), Emily Walton (Janice/Others), Nick Duckart (Kevin J./Ali), Chamblee Ferguson (Nick/Doug), Christine Toy Johnson (Diane/Others), Danielle K. Thomas (Hannah/Others), Julie Johnson (Beulah/Others), Megan McGinnis (Bonnie/Others), James Earl Jones II (Bob/Others)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x1 + x35",
+      "size": "145.1 MB"
+    },
+    {
       "id": 6991,
       "show": "Come From Away",
       "tour": "First US National Tour",
@@ -824,6 +841,23 @@
       "nft": false,
       "format": "MP3 x10",
       "size": "20.7 MB"
+    },
+    {
+      "id": 2004828,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "Eric McCormack & Laura Bell Bundy: A Blonde, a Brunette, and Some Duets - From Primetime to Sondheim",
+      "date": "2024-09-29",
+      "time": "E",
+      "master": "WhatTradingCanDo",
+      "media_type": "audio",
+      "cast": "Eric McCormack (Performer), Laura Bell Bundy (Performer)",
+      "notes": "Laura Bell Bundy singing from Ruthless! at me was fun.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "44 MB"
     }
   ],
   "Damn Yankees": [
@@ -2472,7 +2506,7 @@
       "show": "Just In Time",
       "tour": "Broadway",
       "date": "2025-11-28",
-      "time": "U",
+      "time": "E",
       "master": "bikinibottomday",
       "media_type": "audio",
       "cast": "Matt Magnusson (s/b Bobby Darin), Larkin Reilly (u/s Connie Francis), Sadie Dickerson (Sandra Dee), Michele Pawk (Polly Walden), Emily Bergl (Nina Cassotto/Mary Douvan), Joe Barbara (Charlie Maffia/Steve Blauner), Caesar Samayoa (Don Kirshner/Giorgio/Angelo), Lance Roberts (Murray the K/Ahmet Ertegun), Khori Michelle Petinaud (s/w Siren/Others), Julia Grondin (Siren/Others), Valeria Yamin (Siren/Others)",

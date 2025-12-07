@@ -1142,6 +1142,25 @@
       "size": "2.28 GB"
     }
   ],
+  "A Christmas Carol (Menken & Ahrens)": [
+    {
+      "id": 1111602,
+      "show": "A Christmas Carol (Menken & Ahrens)",
+      "tour": "West End",
+      "date": "2020-12",
+      "time": "E",
+      "master": "hitmewithyourbethshot",
+      "media_type": "video",
+      "cast": "Brian Conley (Ebenezer Scrooge), Lucie Jones (Ghost of Christmas Past), Matt Jay-Willis (Bob Cratchit), Cedric Neal (The Ghost of Christmas Present), Jacqueline Jossa (Ghost of Christmas Future/Emily), Rebecca Lock (Mrs. Cratchit/Mrs Scrooge), Sandra Marvin (Mrs. Fezziwig), Osian Salter (Tiny Tim), Jeremy Secomb (Jacob Marley), Sam Oladeinde (Fred Anderson/Young Scrooge), Martyn Ellis (Mr. Fezziwig)",
+      "notes": "Shot around heads.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MTS x4",
+      "size": "11.86 GB"
+    }
+  ],
   "Cinderella (Andrew Lloyd Webber)": [
     {
       "id": 1110380,
@@ -1782,7 +1801,7 @@
       "time": "U",
       "master": "pro-shot",
       "media_type": "video",
-      "cast": "Samantha Barks (Elsa), Laura Dawkes (Anna), Elizabeth Lyons (Young Elsa), Martha Bailey Vine (Young Anna), Craig Gallivan (Olaf), Jammy Kasongo (Kristoff), Mikayla Jade (Sven), Ashley Birchall (Sven), Oliver Ormson (Hans), Jak Skelly (Oaken/Bishop), Richard Frame (Weselton), Ben Irish (Pabbie), Lizzy-Rose Esin-Kelly (Bulda), Ashley J. Daniels (King Agnarr), Jacqui Sanchez (Queen Iduna)",
+      "cast": "Samantha Barks (Elsa), Laura Dawkes (Anna), Elizabeth Lyons (Young Elsa), Martha Bailey Vine (Young Anna), Craig Gallivan (Olaf), Jammy Kasongo (Kristoff), Mikayla Jade (Sven), Ashley Birchall (Sven), Oliver Ormson (Hans), Jak Skelly (Oaken/Bishop/Ensemble), Richard Frame (Weselton), Ben Irish (Pabbie/Ensemble), Lizzy-Rose Esin-Kelly (Bulda/Ensemble), Ashley J. Daniels (King Agnarr/Ensemble), Jacqui Sanchez (Queen Iduna/Ensemble), Rodney Vubya (Ensemble), Caitlin Tipping (Ensemble), Jonathan Milton (Ensemble), Aoife Kenny (Ensemble), George Hinson (Ensemble), Dominic Adam Griffin (Ensemble), Isabella Glanznig Santos (Ensemble), Molly Francis (Ensemble), Jordan Fox (Ensemble), Jemal Felix (Ensemble), Gabrielle Cocca (Ensemble), Rebecca Botterill (Ensemble), Rhianne Alleyne (Ensemble)",
       "notes": "GENERAL NOTES: Pro-shot filmed using five cameras in February 2024 and released on Disney+ on June 20, 2025.<br><br>MY NOTES: Includes both a 2160p (13.36 GB) and 1080p (5.77 GB) version, will be traded together unless you specifically request one",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -2332,6 +2351,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "2.47 GB"
+    }
+  ],
+  "I Love You, You're Perfect, Now Change": [
+    {
+      "id": 1110676,
+      "show": "I Love You, You're Perfect, Now Change",
+      "tour": "London Coliseum",
+      "date": "2021-02-11",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Alice Fearn (Woman 1), Oliver Tompsett (Man 1), Brenda Edwards (Woman 2), Simon Lipkin (Man 2)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "2.81 GB"
     }
   ],
   "If/Then": [
@@ -4877,7 +4915,7 @@
       "master": "pro-shot",
       "media_type": "video",
       "cast": "Caissie Levy (Diana), Jamie Parker (Dan), Jack Wolfe (Gabe), Eleanor Worthington-Cox (Natalie), Jack Ofrecio (Henry), Trevor Dion Nicholas (Dr. Fine/Dr. Madden)",
-      "notes": "GENERAL NOTES: Filmed at Wyndham's Theatre from September 9-11 2024 during the show's West End transfer from its original run at the Donmar Warehouse. Released by PBS's Great Performances (with censored audio) on May 9th, 2025. Two uncensored versions also circulate: one with a hardcoded timestamp in the top-left corner of the video and different scene changes, and one without the timestamp.<br><br>MY NOTES: Uncensored version with the timestamp",
+      "notes": "GENERAL NOTES: Filmed at Wyndham's Theatre from September 9-11 2024 during the show's West End transfer from its original run at the Donmar Warehouse. \n\nMultiple versions circulate:\n- Censored audio (Aired on PBS's Great Performances May 9, 2025)\n- Uncensored audio with hardcoded timestamp in top-left corner and different scene changes, leaked theatrical release version\n- Full uncensored version ripped from Amazon. Swear words are included, and the camera doesn't cut away during them. No time code present.\n\nCheck with traders.<br><br>MY NOTES: Uncensored version with the timestamp",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -6089,7 +6127,7 @@
       "time": "E",
       "master": "bikinibottomday",
       "media_type": "video",
-      "cast": "Nicole Scherzinger (Norma Desmond), Tom Francis (Joe Gillis), Grace Hodgett-Young (Betty Schaefer), David Thaxton (Max Von Mayerling), Shavey Brown (Cecil B. DeMille/Finance Man/Stan), Diego Andres Rodriguez (Artie Green), Tyler Davis (Sheldrake), Hannah Yun Chamberlain (Young Norma/Patsy), Raúl Contreras (Finance Man/Frank), Drew Redington (Myron/Camera Operator/Jones), Cydney Clark (Joanna/Guard), Pierre Marais (Sammy), Shayna McPherson (Camera Operator/Katherine), Emma Lloyd (Mary/Heather), Justice Moore (Jean), E.J. Hamilton (Lisa), Brandon Borkowsky (John), Jimin Moon (Hog Eye/Morino), Sydney Jones (Dorothy), Olivia Lacie Andrews (Nancy)",
+      "cast": "Nicole Scherzinger (Norma Desmond), Tom Francis (Joe Gillis), Grace Hodgett-Young (Betty Schaefer), David Thaxton (Max Von Mayerling), Shavey Brown (Cecil B. DeMille/Finance Man/Stan), Diego Andres Rodriguez (Artie Green), Tyler Davis (Sheldrake), Hannah Yun Chamberlain (Young Norma/Patsy), Raúl Contreras (Finance Man/Frank), Drew Redington (Myron/Camera Operator/Jones), Cydney Clark (Joanna/Guard), Pierre Marais (Sammy), Shayna McPherson (Camera Operator/Katherine), Emma Lloyd (Mary/Heather), Justice Moore (Jean), E.J. Hamilton (Lisa), Brandon Mel Borkowsky (John), Jimin Moon (Hog Eye/Morino), Sydney Jones (Dorothy), Olivia Lacie Andrews (Nancy)",
       "notes": "Excellent 4K capture of this anticipated revival’s first preview! Some head / railing obstruction at the front of the stage that occasionally blocks off characters sitting / laying down. 30 second blackout in the New Year Eve scene. There was a glitch with the camera that led to some zooming out without input, which sometimes affects the video (primarily in the first ten minutes). Increased moments of wandering / readjustment and unfocusing throughout. One scene is very dark, therefore very difficult to see and takes a little bit to focus on the main action. Includes curtain call, audio is fed from external source.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
