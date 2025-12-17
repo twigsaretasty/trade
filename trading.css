@@ -279,6 +279,16 @@ details ul {
     padding-top: 80px;
 }
 
+#want-container {
+    display: flex;
+    flex-direction: column;;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding-top: 80px;
+    width: 70%;
+}
+
 #title {
     color: black;
     font-size: 30px;
