@@ -200,7 +200,7 @@ function formatRecording(id, records) {
     
     if (rec.nft.nft_forever) {
         // Add to the beginning of the notes
-        formattedNotes = `NFT Forever\n` + formattedNotes
+        formattedNotes = `NFT Forever\n\n` + formattedNotes
         isNft = true
     }
 
