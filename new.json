@@ -1,5 +1,6 @@
 {
-  "thisWeekIns": [
+  "thisWeekIns": [],
+  "lastWeekIns": [
     "Dear Evan Hansen | Off-Broadway | 2016-04-01 | Unknown (audio)",
     "Dear Evan Hansen | Off-Broadway | 2016-04-06 | oydtrades (audio)",
     "Dear Evan Hansen | Off-Broadway | 2016-05-14 | ethan231h (audio)",
@@ -19,27 +20,5 @@
     "Legally Blonde | Vienna | 2013-05-18 | Unknown (audio)",
     "Legally Blonde | Vienna | 2013-12-20 | Unknown (audio)",
     "Legally Blonde | Brazil | 2022 | Michele Costa (video)"
-  ],
-  "lastWeekIns": [
-    "Something Rotten! | First US National Tour | 2017-03-04 | PopularLikeMe (video)",
-    "Young Frankenstein | Broadway | 2007-11-10 | SunsetBlvd79 (video)",
-    "Fiddler on the Roof | Fourth Broadway Revival | 2004-02-28 | Unknown (video)",
-    "A Chorus Line | First Broadway Revival | 2008-08-17 | Unknown (video)",
-    "The Little Mermaid | Broadway | 2009-04-05 | ohyoukrissie (audio)",
-    "A Chorus Line | First Broadway Revival | 2006-10-15 | SunsetBlvd79 (video)",
-    "Pride and Prejudice (Paul Gordon) | TheatreWorks Silicon Valley | 2019-12 | pro-shot (video)",
-    "Monty Python's Spamalot | Broadway | 2008-01-18 | Unknown (video)",
-    "Come From Away | Broadway | 2022-04 (2) | juniper47 (video)",
-    "Ain't Too Proud | West End | 2023-09 | Lasagna (video)",
-    "Here We Are | Off-Broadway | 2023-11-22 | bikinibottomday (video)",
-    "Legally Blonde | Actors' Playhouse | 2024-02-04 | yourlocaltrader (audio)",
-    "tick, tick...BOOM! | Broadway Center Stage | 2024-02 | StarCuffedJeans (video)",
-    "Mama I'm A Big Girl Now! | First US National Tour | 2025-05-07 | Medium Observation (video)",
-    "Dear Evan Hansen | Lima, Perú | 2025-05-31 | 2touch2kiss (audio)",
-    "Legally Blonde | Lima, Perú | 2025-06-07 | 2touch2kiss (audio)",
-    "Legally Blonde | La Mirada Theatre | 2025-05 | MTTZ (video)",
-    "Romy and Michele's High School Reunion | Off-Broadway | 2025-10-19 | TJonC (audio)",
-    "Romy and Michele's High School Reunion | Off-Broadway | 2025-10-26 | Unknown (audio)",
-    "The 25th Annual Putnam County Spelling Bee | Off-Broadway Revival | 2025-11-28 | pancakehaus (audio)"
   ]
 }
