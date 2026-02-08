@@ -531,6 +531,23 @@
   ],
   "Catch Me If You Can": [
     {
+      "id": 6804,
+      "show": "Catch Me If You Can",
+      "tour": "Broadway",
+      "date": "2011-09-04",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Aaron Tveit (Frank Abagnale Jr.), Norbert Leo Butz (Agent Carl Hanratty), Tom Wopat (Frank Abagnale Sr.), Rachel deBenedet (Paula Abagnale), Kerry Butler (Brenda Strong), Linda Hart (Carol Strong), Nick Wyman (Roger Strong), Joe Cassidy (Agent Branton), Timothy McCuen Piggee (Agent Cod), Brandon Wardell (Agent Dollar)",
+      "notes": "Closing Night. Aaron was on fire in this performance. Goodbye was specially touching, with the song having a whole new meaning in this last performance.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 15731,
       "show": "Catch Me If You Can",
       "tour": "Broadway",
@@ -2214,6 +2231,25 @@
       "nft": false,
       "format": "WAV x2",
       "size": "30.7 MB"
+    }
+  ],
+  "Hamilton": [
+    {
+      "id": 2002990,
+      "show": "Hamilton",
+      "tour": "West End",
+      "date": "2023-06-22",
+      "time": "M",
+      "master": "MGS",
+      "media_type": "audio",
+      "cast": "Alex Sawyer (alt Alexander Hamilton), Shan Ako (Eliza Hamilton), Simon-Anthony Rhoden (Aaron Burr), Ava Brennan (Angelica Schuyler), Dom Hartley-Harris (George Washington), Lemuel Knights (Marquis de Lafayette/Thomas Jefferson), Emile Ruddock (Hercules Mulligan/James Madison), Jake Halsey-Jones (John Laurens/Philip Hamilton), Simbi Akande (Peggy Schuyler/Maria Reynolds), Joel Montague (King George III), Matthew Elliot-Campbell (Philip Schuyler/James Reynolds/Doctor), Alex Tranter (Samuel Seabury), Barney Hudson (Charles Lee), Nathan Louis-Fernand (George Eacker), Alishia-Marie Blake (Ensemble)",
+      "notes": "NFT Forever<br><br>Not for trade except through master.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "",
+      "size": ""
     }
   ],
   "The Heart": [
@@ -7805,6 +7841,40 @@
       "nft": false,
       "format": "MP3 x2",
       "size": "237.8 MB"
+    },
+    {
+      "id": 1124460,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2022-04-03",
+      "time": "E",
+      "master": "MGS",
+      "media_type": "audio",
+      "cast": "Conrad Ricamora (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Khadija Sankoh (Chiffon), Jana Djenne Jackson (s/w Crystal), Tatiana Lofton (Ronnette), Cristina Raé (u/s Voice of Audrey II), Teddy Yudain (Derelict)",
+      "notes": "NFT Forever<br><br>Not for trade except through master.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1126605,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2022-06-14",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Skylar Astin (Seymour), Chelsea Turbin (u/s Audrey), Teddy Yudain (u/s Orin/Others), Stuart Zagnit (Mr. Mushnik), Kris Roberts (e/c Chiffon), Cristina Raé (Crystal), Ashley Marie Arnold (u/s Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Weston Chandler Long (s/w Audrey II Manipulation/Derelict), Eric Wright (u/s Audrey II Manipulation), Michael Iannucci (u/s Ensemble)",
+      "notes": "Recorded by a non-trader friend from lotto seats and released by signalsinmybrain. The first known audio of Teddy in the role of Orin! Kris was brought back to the company after two years of not performing to cover the role of Chiffon.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 1127281,
