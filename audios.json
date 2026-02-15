@@ -544,8 +544,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x45",
+      "size": "208.2 MB"
     },
     {
       "id": 15731,
@@ -2248,8 +2248,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": true,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "243.1 MB"
     }
   ],
   "The Heart": [
@@ -7663,6 +7663,23 @@
       "nft": false,
       "format": "MP3 x26",
       "size": "187.1 MB"
+    },
+    {
+      "id": 2028561,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-02-07",
+      "time": "E",
+      "master": "raantaaro",
+      "media_type": "audio",
+      "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham), Adam Cooper (Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Keanna Bloomfield (Enid), Bradley Delarosbel (Carlos), James Lim (Ensemble), Aaron Shales (Ensemble), Jaime Tait (Ensemble), Daisy Twells (Ensemble), Louie Wood (Ensemble), Raiaz Fisher (Ensemble), Dylan Gordon-Jones (Ensemble)",
+      "notes": "Fab first preview! Bit of chatter behind me at the top of each act",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift On Request",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -7856,8 +7873,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": true,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "156.7 MB"
     },
     {
       "id": 1126605,
@@ -7873,8 +7890,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "50.5 MB"
     },
     {
       "id": 1127281,

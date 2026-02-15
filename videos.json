@@ -691,8 +691,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "19.56 GB"
     }
   ],
   "The Book of Mormon": [
@@ -1261,8 +1261,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "4.02 GB"
     }
   ],
   "A Christmas Carol (Menken & Ahrens)": [
@@ -1312,7 +1312,7 @@
       "time": "U",
       "master": "pro-shot",
       "media_type": "video",
-      "cast": "Julie Andrews (Ella), Jon Cypher (Topher), Edie Adams (Marie)",
+      "cast": "Julie Andrews (Cinderella), Jon Cypher (Prince Christopher), Edie Adams (Fairy Godmother)",
       "notes": "Includes short introduction by Julie Andrews. https://www.imdb.com/title/tt0129672/",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -1720,8 +1720,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MTS x4",
+      "size": "10.82 GB"
     }
   ],
   "Falsettos": [
@@ -1826,8 +1826,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "2.76 GB"
     }
   ],
   "Finding Neverland": [
@@ -1862,8 +1862,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "8.62 GB"
     },
     {
       "id": 1153,
@@ -4360,6 +4360,23 @@
       "size": "4.95 GB"
     },
     {
+      "id": 1143660,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2023-05-21",
+      "time": "E",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Matt Doyle (Seymour), Joy Woods (Audrey), Drew Gehling (Orin/Others), Brad Oscar (Mr. Mushnik), Khadija Sankoh (Chiffon), Tiffany Reneé Thompson (Crystal), D'Kaylah Unique Whitley (Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Teddy Yudain (Derelict)",
+      "notes": "Great 4K capture of Joy’s phenomenal performance as Audrey! A lot of Act Two is wide blindshot due to ushers, from the beginning of the act to the middle of Suppertime and most of Audrey’s final scene. Most action is still captured. Audio fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "7.70 GB"
+    },
+    {
       "id": 2003404,
       "show": "Little Shop of Horrors",
       "tour": "Off-Broadway Revival",
@@ -4411,8 +4428,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "3.3 GB"
     }
   ],
   "Mama I'm A Big Girl Now!": [
@@ -5530,8 +5547,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "4.6 GB"
     }
   ],
   "Once Upon A Mattress": [
@@ -5731,8 +5748,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "1.12 GB"
     }
   ],
   "The Phantom of the Opera (Andrew Lloyd Webber)": [
@@ -5824,24 +5841,26 @@
       "size": "9.87 GB"
     }
   ],
-  "Pokémon Live!": [
+  "The Play That Goes Wrong": [
     {
-      "id": 1005545,
-      "show": "Pokémon Live!",
-      "tour": "First US National Tour",
-      "date": "2000-10-01",
+      "id": 353,
+      "show": "The Play That Goes Wrong",
+      "tour": "Broadway",
+      "date": "2018-05",
       "time": "E",
-      "master": "house-cam",
+      "master": "NYCG8R",
       "media_type": "video",
-      "cast": "Heidi Michelle Weyhmueller (Misty), Dennis Kenney (Brock), Jennifer Risser (Pikachu), Natalie Weld (Nurse Joy), Leah Smith (Jigglypuff/Psyduck), Shaun Bradley (Mewtwo), Kathleen Roche (Meowth), Dominic Nolfi (Ash Ketchum), Patrick Frankfort (Professor Oak), Andrew Rannells (James), Lauren Kling (Jessie), Darren Dunstan (Giovanni), Dee Roscioli (Delia Ketchum), Suzanne Wogisch (Officer Jenny), Sinclair Mitchell (Dexter)",
-      "notes": "Wide House Cam from PML US Tour, Shot includes stage and shows the house right Projection Screen \r\nOverall Quality is a C",
+      "cast": "Preston Truman Boyd (Robert Grove), Mark Evans (Chris Bean), Alex Mandell (Max Bennett), Amelia McClain (Sandra Wilkinson), Harrison Unger (Dennis Tyde), Jonathan Fielding (Jonathan Harris), Ashley Bryant (Annie Twilliol), Akron Watson (Trevor Watson)",
+      "notes": "(not Masters notes) Beginning from pre-show where the comedy bit of the set breaking starts. Throughout, very clearly shot with no obstructions, in a mixture of wides and closes, following the action well. I think its shot from the front of the circle. Once or twice the camera falls but never during key moments, and is quickly fixed. No long blackouts. Audience energy is great.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "747.6 MB"
-    },
+      "size": "3.25 GB"
+    }
+  ],
+  "Pokémon Live!": [
     {
       "id": 1005546,
       "show": "Pokémon Live!",
@@ -5930,8 +5949,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "4.99 GB"
     }
   ],
   "RENT": [
@@ -7137,8 +7156,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "3.82 GB"
     }
   ],
   "Two Strangers (Carry a Cake Across New York)": [
