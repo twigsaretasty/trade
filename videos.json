@@ -951,7 +951,7 @@
     {
       "id": 534,
       "show": "Catch Me If You Can",
-      "tour": "Pre-Broadway / Seattle",
+      "tour": "Pre-Broadway / 5th Avenue Theatre",
       "date": "2009-08-04",
       "time": "E",
       "master": "SunsetBlvd79",
@@ -968,7 +968,7 @@
     {
       "id": 1355,
       "show": "Catch Me If You Can",
-      "tour": "Pre-Broadway / Seattle",
+      "tour": "Pre-Broadway / 5th Avenue Theatre",
       "date": "2009-08-15",
       "time": "E",
       "master": "SJ Bernly",
@@ -998,6 +998,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.64 GB"
+    },
+    {
+      "id": 29059,
+      "show": "Catch Me If You Can",
+      "tour": "Music Theatre of Wichita",
+      "date": "2014-07",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Skyler Adams (Frank Abagnale Jr.), Thom Sesma (Agent Carl Hanratty), David Hess (Frank Abagnale Sr.), Paula Leggett Chase (Paula Abagnale), Carolyn Anne Miller (Brenda Strong), Karen L. Robu (Carol Strong), Timothy W. Robu (Roger Strong), Kevin Clay (Agent Branton), Michael Graceffa (Agent Cod), Robert Ariza (Agent Dollar), Steve Hitchcock (Jack Barnes/Dr. Wanamaker), Catherine Helm (Cheryl Ann), Wonza Johnson (Ensemble), Becca Petersen (Ensemble), Tanner Pflueger (Ensemble), Julian Ramos (Ensemble), Andy Tofa (Ensemble), Daryl Tofa (Ensemble)",
+      "notes": "Presented by Musical Theatre Wichita.  Filmed using one camera on a tripod, with audio patched in directly from the soundboard. 2 DISCS",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "7.6 GB"
     }
   ],
   "Cats": [
@@ -1393,6 +1410,23 @@
     }
   ],
   "Company": [
+    {
+      "id": 11139,
+      "show": "Company",
+      "tour": "Second West End Revival",
+      "date": "2019-01",
+      "time": "U",
+      "master": "hitmewithyourbethshot",
+      "media_type": "video",
+      "cast": "Rosalie Craig (Bobbie), Patti LuPone (Joanne), Ben Lewis (Larry), Jonathan Bailey (Jamie), Alex Gaumond (Paul), Mel Giedroyc (Sarah), Gavin Spokes (Harry), Daisy Maywood (Susan), Ashley Campbell (Peter), Jennifer Saayeng (Jenny), Richard Henders (David), Richard Fleeshman (Andy), George Blagden (PJ), Matthew Seadon-Young (Theo)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4 x2",
+      "size": "5.49 GB"
+    },
     {
       "id": 1129337,
       "show": "Company",
@@ -4157,7 +4191,7 @@
       "time": "M",
       "master": "soysaucepierre",
       "media_type": "video",
-      "cast": "Kayla Shipman (Elle Woods), David Moreland (Emmett Forrest), Daniel Rausch (Warner Huntington III), Khaki Pixley (Paulette), Crystal Claros (Vivienne Kensington), Amanda Handegan (Brooke Wyndham), Korey White (Professor Callahan), Sabrina Bowen (Margot), Morgan Schoenecker (Serena), Selena Robinson (Pilar), Isaiah Engram (Kyle), Michael Davis Arnold (Dewey/Grandmaster Chad), Ava Lane Stovall (Enid), Lanja Andriamihaja (Kate), Lili Galluzzo (Chutney), Will Leonard (Dad), Riley Dominiak (Mom), Connor Ripperger (Aaron), Alex Villaseñor (Nikos), Victor López (Carlos), Ibrahim Khan (Ensemble), Kiana Beverly (Ensemble), Eric Amundson (Ensemble), Matthew Millin (Ensemble), Madison Jaffe-Richter (Ensemble), Claire Campbell (Ensemble)",
+      "cast": "Kayla Shipman (Elle Woods), David Moreland (Emmett Forrest), Daniel Rausch (Warner Huntington III), Khaki Pixley (Paulette), Crystal Claros (Vivienne Kensington), Amanda Handegan (Brooke Wyndham), Korey White (Professor Callahan), Sabrina Bowen (Margot), Morgan Schoenecker (Serena), Selena Robinson (Pilar), Isaiah Engram (Kyle), Michael Davis Arnold (Dewey/Grandmaster Chad), Ava Lane Stovall (Enid), Lanja Andriamihaja (Kate), Lili Galluzzo (Chutney), Will Leonard (Dad), Riley Dominiak (Mom), Connor Ripperger (Aaron), Ibrahim Khan (Padamadan), Alex Villaseñor (Nikos), Victor López (Carlos), Kiana Beverly (Ensemble), Eric Amundson (Ensemble), Matthew Millin (Ensemble), Madison Jaffe-Richter (Ensemble), Claire Campbell (Ensemble)",
       "notes": "MASTER NOTES: Excellent capture of this fantastic regional production on their closing performance! First 3 minutes of Act 1 is audio only (it is mostly the Overature though) - first 30ish seconds of Act 2 as well. Start of Act 1 is a bit rough with 1 or 2 very short blackouts but I get locked in after Serious. My sleeve occasionally comes into the shot. Nice mix of wides and mediums, with some closeups. Moments of readjustment throughout. Audio fed from external source. <br>TLDR: i love little miss woods comma elle. A<br><br>MY NOTES: A very nice capture indeed! Kayla is awesome as Elle and the dogs were as cute as ever. I love what they did with the ballad here",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
@@ -4224,7 +4258,7 @@
       "show": "The Lion King",
       "tour": "Broadway",
       "date": "2021-10",
-      "time": "E",
+      "time": "U",
       "master": "StarCuffedJeans",
       "media_type": "video",
       "cast": "Brandon A. McCall (Simba), Michael Hollick (s/b Scar), Nhlanhla Ngobeni (u/s Mufasa), Tshidi Manye (Rafiki), Adrienne Walker (Nala), Cameron Pow (Zazu), Fred Berman (Timon), Ben Jeffrey (Pumbaa), Bonita Hamilton-Caesar (Shenzi), James Brown-Orleans (Banzai), Robb Sapp (Ed), Sydney Elise Russell (Young Nala), Vince Ermita (Young Simba), Sidney Nicole Wilson (Sarabi/Ensemble), Mduduzi Madela (Circle of Life Vocalist/Lioness Chant Vocal/Scar Shadow Puppet/Giraffe Shadow Puppet), S'bu Ngema (Circle of Life Vocalist/Simba Shadow Puppet/Ensemble), Bongi Duma (One by One Vocalist/Lioness & Hyena Shadow Puppet/Simba Shadow Puppet/Ensemble), Pearl Khwezi (One by One Vocalist/Lioness & Hyena Shadow Puppet), Michael Alexander Henry (Scar Shadow Puppet/Giraffe Shadow Puppet), Kaylin Seckel (Hyena Shadow Puppet/Lioness), Nteliseng Nkhela (Hyena Shadow Puppet/Lioness), Lindiwe Dlamini (Hyena Shadow Puppet/Lioness), Leanne Antonio (Hyena Shadow Puppet/Lioness), Michael Stiggers Jr. (Mouse Shadow Puppet/Simba Shadow Puppet), Amber Nicole Mayberry (Firefly/Cheetah), Bravita Threatt (Firefly), Natalie Turner (s/w Ant Hill Lady), Daniel Gaymon (Buzzard Pole), Pia Hamilton (Gazelle Wheel), Jaysin McCollum (Gazelle), Kellen Stancil (s/w Guinea Fowl), Derrick Spear (Stilt Giraffe), Ray Mercer (Ensemble), Jamie J. Thompson (Ensemble), Rosie Lani Fiedelman (Ensemble), India Bolds Browne (Ensemble), Nicholas Ward (Ensemble)",
@@ -4316,7 +4350,7 @@
       "time": "U",
       "master": "StarCuffedJeans",
       "media_type": "video",
-      "cast": "Jeremy Jordan (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Aveena Sawyer (Crystal), Salome Smith (Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Weston Chandler Long (u/s Audrey II Manipulation/Derelict), Paul McGinnis (Audrey II Manipulation), Josh Griffin (Audrey II Manipulation)",
+      "cast": "Jeremy Jordan (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Aveena Sawyer (Crystal), Salome Smith (Ronnette), Aaron Arnell Harrington (Voice of Audrey II), Weston Chandler Long (u/s Audrey II Manipulation/Derelict), Paul McGinnis (Audrey II Manipulation), Josh Daniel (Audrey II Manipulation)",
       "notes": "Jeremy's last show!",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -4419,11 +4453,11 @@
       "show": "Mail",
       "tour": "Broadway",
       "date": "1988",
-      "time": "E",
+      "time": "U",
       "master": "house-cam",
       "media_type": "video",
       "cast": "Michael Rupert (Alex), Antonia Ellis (Sandi), Mara Getz (Dana), Robert Manden (Max), Brian Stokes Mitchell (Franklin), Michele Pawk (Kathy Sue Binger/Candi Suwinski), Rick Stockwell (Billy Ray Binger/Mr. Stansbury), Mary Bond Davis (Brunhilda/Lois T. Wertshafter), Louise Hickey (Harmony Steinberg), Robert Loftin (Craterface Callahan), Alan Muraoka (Takeuchi Fujimoto)",
-      "notes": "April-May, 1988",
+      "notes": "Recorded between April-May, 1988",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -4645,7 +4679,7 @@
       "master": "Unknown",
       "media_type": "video",
       "cast": "Michael Hayden (Franklin Shepard), Raúl Esparza (Charley Kringas), Miriam Shor (Mary Flynn), Emily Skinner (Gussie Carnegie), Anastasia Barzee (Beth Spencer), Adam Heller (Joe Josephson)",
-      "notes": "A great capture of this production, video is a little dark, but unobstructed and well filmed. The sound is excellent.",
+      "notes": "A great capture of this production, video is a little dark, but unobstructed and well filmed. The sound is excellent.\nMultiple versions are circulating, including a 3.95 GB VOB, 2.56 GB VOB file, 3.77 GB VOB, and FLV. Of these, the 3.95 GB VOB has the best video resolution, though the audio does have a louder background hum than the rest (next best is the 2.56 GB).",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -6194,6 +6228,25 @@
       "size": "2.09 GB"
     }
   ],
+  "Shucked": [
+    {
+      "id": 1141478,
+      "show": "Shucked",
+      "tour": "Broadway",
+      "date": "2023-04-13",
+      "time": "E",
+      "master": "Medium Observation",
+      "media_type": "video",
+      "cast": "Caroline Innerbichler (Maizy), Andrew Durand (Beau), Alex Newell (Lulu), John Behlmann (Gordy), Kevin Cahoon (Peanut), Ashley D. Kelley (Storyteller #1), Grey Henson (Storyteller #2), Dwayne Clark (Grandpa), Scott Stangland (Tank), Jimmy Brewer (Ensemble), Audrey Cardwell (Ensemble), Rheaume Crenshaw (Ensemble), Jaygee Macapugay (Ensemble), Yasmeen Sulieman (Ensemble), Quinn VanAntwerp (Ensemble)",
+      "notes": "Absolutely perfect video of this show. Very little to no washout, some adjustments throughout.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Sister Act": [
     {
       "id": 15954,
@@ -6809,7 +6862,7 @@
       "time": "E",
       "master": "bikinibottomday",
       "media_type": "video",
-      "cast": "Nicole Scherzinger (Norma Desmond), Tom Francis (Joe Gillis), Grace Hodgett-Young (Betty Schaefer), David Thaxton (Max Von Mayerling), Shavey Brown (Cecil B. DeMille/Finance Man/Stan), Diego Andres Rodriguez (Artie Green), Tyler Davis (Sheldrake), Hannah Yun Chamberlain (Young Norma/Patsy), Raúl Contreras (Finance Man/Frank), Drew Redington (Myron/Camera Operator/Jones), Cydney Clark (Joanna/Guard), Pierre Marais (Sammy), Shayna McPherson (Camera Operator/Katherine), Emma Lloyd (Mary/Heather), Justice Moore (Jean), E.J. Hamilton (Lisa), Brandon Mel Borkowsky (John), Jimin Moon (Hog Eye/Morino), Sydney Jones (Dorothy), Olivia Lacie Andrews (Nancy)",
+      "cast": "Nicole Scherzinger (Norma Desmond), Tom Francis (Joe Gillis), Grace Hodgett-Young (Betty Schaefer), David Thaxton (Max Von Mayerling), Shavey Brown (Cecil B. DeMille/Finance Man/Stan), Diego Andres Rodriguez (Artie Green), Tyler Davis (Sheldrake), Hannah Yun Chamberlain (Young Norma/Patsy), Raúl Contreras (Finance Man/Frank), Drew Redington (Myron/Jones/Camera Operator), Cydney Clark (Joanna/Guard), Pierre Marais (Sammy), Emma Lloyd (Mary/Heather), Justice Moore (Jean), E.J. Hamilton (Lisa), Brandon Mel Borkowsky (John), Jimin Moon (Hog Eye/Morino), Sydney Jones (Dorothy), Olivia Lacie Andrews (Nancy), Shayna McPherson (Katherine/Camera Operator)",
       "notes": "Excellent 4K capture of this anticipated revival’s first preview! Some head / railing obstruction at the front of the stage that occasionally blocks off characters sitting / laying down. 30 second blackout in the New Year Eve scene. There was a glitch with the camera that led to some zooming out without input, which sometimes affects the video (primarily in the first ten minutes). Increased moments of wandering / readjustment and unfocusing throughout. One scene is very dark, therefore very difficult to see and takes a little bit to focus on the main action. Includes curtain call, audio is fed from external source.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
@@ -7656,7 +7709,7 @@
       "show": "Wicked",
       "tour": "Broadway",
       "date": "2019-09",
-      "time": "E",
+      "time": "U",
       "master": "StarCuffedJeans",
       "media_type": "video",
       "cast": "Hannah Corneau (Elphaba), Brittney Johnson (s/b Glinda), Kyle Dean Massey (t/r Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Gizel Jimenez (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond), Chase Madigan (Chistery), Christianne Tisdale (Midwife), Courtney Iventosch (Witch's Mother)",
