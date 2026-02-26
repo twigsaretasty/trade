@@ -1,5 +1,3 @@
-console.log("Trading home page is alive!");
-
 function getDays(timestamp) {
     const date = new Date(timestamp);
     const now = new Date();
@@ -57,7 +55,7 @@ Promise.all([
     let pendingCount = recordingsCount - weeklyRecordingsCount;
 
     // Calculate full count
-    let nonencora = 11; // <-- UPDATE HERE
+    let nonencora = 12; // <-- UPDATE HERE
     let newTotal = (weeklyRecordingsCount + nonencora)
 
     // Add recordings count
