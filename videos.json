@@ -58,6 +58,23 @@
   ],
   "The 25th Annual Putnam County Spelling Bee": [
     {
+      "id": 6091,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "First US National Tour",
+      "date": "2007-01-07",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Jennifer Simard (Rona Lisa Peretti), Lauren Worsham (Olive Ostrovsky), Eric Petersen (William Barfée), Sarah Stiles (Logainne Schwartzandgrubenierre), Alan H. Green (Mitch Mahoney), Michael Zahler (Leaf Coneybear), Katie Boren (Marcy Park), Chuck Rea (u/s Chip Tolentino), James Kall (Douglas Panch)",
+      "notes": "Nicely filmed, but a bit shaky at times. DVD has nice root menu and scene selection with thumbnails.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 9975,
       "show": "The 25th Annual Putnam County Spelling Bee",
       "tour": "Off-Broadway",
@@ -180,6 +197,23 @@
     }
   ],
   "9 to 5: The Musical": [
+    {
+      "id": 370,
+      "show": "9 to 5: The Musical",
+      "tour": "Broadway",
+      "date": "2009-04-11",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J. Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Van Hughes (Josh), Daniel Cooney (Dick), Ioana Alfonso (Maria), Ann Harada (Kathy), Lisa Howard (Missy), Jeremy Davis (Bob Enright), Michael X. Martin (Tinsworthy), Karen Murphy (Margaret), Maia Nkenge Wilson (Anita), Tory Ross (Daphne)",
+      "notes": "Beautiful capture of this amazing show. Terrific show with so much talent and wonderful fun songs. Stephanie continues to knock it out of the park, Megan is pure perfection and Allison's comedic timing is hilarious. There are no obstructions in this wonderful capture. A+",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 372,
       "show": "9 to 5: The Musical",
@@ -1291,7 +1325,7 @@
       "time": "E",
       "master": "hitmewithyourbethshot",
       "media_type": "video",
-      "cast": "Brian Conley (Ebenezer Scrooge), Lucie Jones (Ghost of Christmas Past), Matt Jay-Willis (Bob Cratchit), Cedric Neal (The Ghost of Christmas Present), Jacqueline Jossa (Ghost of Christmas Future/Emily), Rebecca Lock (Mrs. Cratchit/Mrs Scrooge), Sandra Marvin (Mrs. Fezziwig), Osian Salter (Tiny Tim), Jeremy Secomb (Jacob Marley), Sam Oladeinde (Fred Anderson/Young Scrooge), Martyn Ellis (Mr. Fezziwig)",
+      "cast": "Brian Conley (Ebenezer Scrooge), Lucie Jones (Ghost of Christmas Past), Matt Willis (Bob Cratchit), Cedric Neal (The Ghost of Christmas Present), Jacqueline Jossa (Ghost of Christmas Future/Emily), Rebecca Lock (Mrs. Cratchit/Mrs Scrooge), Sandra Marvin (Mrs. Fezziwig), Osian Salter (Tiny Tim), Jeremy Secomb (Jacob Marley), Sam Oladeinde (Fred Anderson/Young Scrooge), Martyn Ellis (Mr. Fezziwig)",
       "notes": "Shot around heads.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -1321,6 +1355,23 @@
     }
   ],
   "Cinderella (Rodgers & Hammerstein)": [
+    {
+      "id": 425,
+      "show": "Cinderella (Rodgers & Hammerstein)",
+      "tour": "Broadway",
+      "date": "2013-03-02",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Laura Osnes (Ella), Santino Fontana (Topher), Victoria Clark (Marie), Harriet Harris (Madame), Greg Hildreth (Jean-Michel), Ann Harada (Charlotte), Peter Bartlett (Sebastian), Marla Mindelle (Gabrielle), Phumzile Sojola (Lord Pinkleton)",
+      "notes": "Beautiful HD capture of this classic show, with this being the first time it's appeared on Broadway! Really a top-notch cast and a beautiful production, nicely staged! A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 1141864,
       "show": "Cinderella (Rodgers & Hammerstein)",
@@ -1513,6 +1564,25 @@
       "nft": false,
       "format": "MP4 x6",
       "size": "135.8 MB"
+    }
+  ],
+  "Dance of the Vampires": [
+    {
+      "id": 270,
+      "show": "Dance of the Vampires",
+      "tour": "Broadway",
+      "date": "2003-01-25",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Michael Crawford (Count Krolock), Mandy Gonzalez (Sarah), Max von Essen (Alfred), René Auberjonois (Abronsius), Ron Orbach (Yone Chagal), Leah Hocking (Magda), Asa Somers (Herbert von Krolock), Liz McCartney (Rebecca), Mark Price (Boris)",
+      "notes": "Closing performance shot from the back of the mezzanine between heads. Crystal clear, stunning and from the digital master. 3 DVDs, includes stagedoor footage. A single disc copy of this is circulated as January 24, but it is just a lower resolution copy of this performance.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Days of Wine and Roses": [
@@ -2256,6 +2326,23 @@
       "nft": false,
       "format": "MP4",
       "size": "11.05 GB"
+    },
+    {
+      "id": 2010975,
+      "show": "The Great Gatsby",
+      "tour": "Broadway",
+      "date": "2024-12",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Jeremy Jordan (Jay Gatsby), Eva Noblezada (Daisy Buchanan), Noah J. Ricketts (Nick Carraway), Samantha Pauly (Jordan Baker), Sara Chase (Myrtle Wilson), Eric Anderson (Meyer Wolfsheim), John Zdrojeski (Tom Buchanan), Charlie Pollock (George Wilson), Dan Rosales (Mr. McKee/Bystander #2), Dariana Mullen (Gilda Gray), Kayla Pecchioni (Mrs. McKee), Ryah Nixon (Catherine), Traci Elaine Lee (Bystander #1), Pascal Pastrana (Cop), Curtis Holland (Ensemble), Mariah Reives (Ensemble), Derek Jordan Taylor (Ensemble), Katie Webber (Ensemble), Raymond Baynard (Ensemble), Austin Colby (Ensemble), Dave Schoonover (Ensemble), Tanairi Sade Vazquez (Ensemble), Kurt Csolak (Ensemble), Samantha Pollino (Ensemble), Jake Trammel (Ensemble), Jasmine Pearl Villaroel (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Groundhog Day": [
@@ -2313,6 +2400,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.49 GB"
+    },
+    {
+      "id": 2008240,
+      "show": "Gypsy",
+      "tour": "Fifth Broadway Revival",
+      "date": "2024-12-18",
+      "time": "E",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Audra McDonald (Rose), Danny Burstein (Herbie), Joy Woods (Louise), Jordan Tyson (June), Lesli Margherita (Tessie Tura), Mylinda Hull (Electra/Miss Cratchitt), Lili Thomas (Mazeppa), Marley Gomes (Baby June), Summer Rae Daney (Baby Louise), Kevin Csolak (Tulsa), Andrew Kober (Mr. Goldstone/Cigar/Bougeron-Cochon), Jacob Ming-Trent (Uncle Jocko/Kringelein), James McMenamin (Pastey/Weber/Phil), Brittney Johnson (Agnes), Brandon Burks (Georgie), Zachary Daniel Jones (Angie), Jordan Wynn (s/w Geraldine), Kyleigh Denae Vickers (Balloon Girl), Tony d'Alelio (Little Rock), Sasha Hutchings (s/w Edna Mae), Krystal Mackie (Thelma), Jace Bently (Carmichael/Newsboy), Ethan Joseph (Uncle Jocko's Kiddie), Hunter Capellán (Uncle Jocko's Kiddie), Jade Smith (Uncle Jocko's Kiddie)",
+      "notes": "Excellent 4K capture of the production’s final preview! The far right is a bit obstructed but worked around very well. Very minor head obstruction on the bottom that blocks very little. Some wandering / readjustment and unfocusing throughout. Includes curtain call, audio fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Hadestown": [
@@ -3460,7 +3564,7 @@
       "time": "E",
       "master": "Unknown",
       "media_type": "video",
-      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Beth Curry (Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer)",
+      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Beth Curry (Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Chico the Dog (Bruiser), Chloe the Dog (Rufus), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
       "notes": "Laura Bell Bundy's shoe falls off during So Much Better. She takes the other shoe off and finishes the song barefoot.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -5892,6 +5996,23 @@
       "nft": false,
       "format": "MP4",
       "size": "3.25 GB"
+    },
+    {
+      "id": 2010435,
+      "show": "The Play That Goes Wrong",
+      "tour": "La Mirada Theatre",
+      "date": "2025-01",
+      "time": "U",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Trent Mills (Robert Grove), John Sanders (Chris Bean), Garrett Clayton (Max Bennett), Regina Fernandez (Sandra Wilkinson), Reggie De Leon (Dennis Tyde), Sterling Sulieman (Jonathan Harris), Mary Faber (Annie Twilliol), Michael-Leon Wooley (Trevor Watson)",
+      "notes": "Great capture of this hilarious replica production! Shot with alternate camera. Shot above and around heads that only occasionally block action and are worked around well — a bit of a miracle in this absurdly difficult theater. Shot in a mix of wides and mediums with some close-ups thrown in. Some wandering, shaking, and re-adjusting throughout — it shakes a little harder when I’m laughing at the jokes, sorry about that. Very reactive audience. Overall a great capture of this amazing show. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Pokémon Live!": [
@@ -6210,6 +6331,23 @@
     }
   ],
   "Shrek: The Musical": [
+    {
+      "id": 1172,
+      "show": "Shrek: The Musical",
+      "tour": "Broadway",
+      "date": "2009-04-11",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Brian d'Arcy James (Shrek), Haven Burton (u/s Princess Fiona), Christopher Sieber (Lord Farquaad), Daniel Breaker (Donkey), John Tartaglia (Pinocchio/Magic Mirror/Dragon Puppeteer), Aymee Garcia (Dragonette/Gingy/Mama Bear), Jennifer Simard (Wicked Witch/Queen Lillian/Magic Mirror Assistant)",
+      "notes": "Haven did a splendid job as Fiona, bringing a lot of energy and great vocals to the table. It was interesting to see Mama Bear also be Gingy, since they were short on cast members. Beautiful clear capture with no obstructions.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 8222,
       "show": "Shrek: The Musical",
@@ -6688,10 +6826,10 @@
       "size": "5.95 GB"
     }
   ],
-  "Spring Awakening": [
+  "Spring Awakening (Sheik/Sater)": [
     {
       "id": 316,
-      "show": "Spring Awakening",
+      "show": "Spring Awakening (Sheik/Sater)",
       "tour": "Broadway",
       "date": "2007-02-10",
       "time": "E",
@@ -6708,7 +6846,7 @@
     },
     {
       "id": 3287,
-      "show": "Spring Awakening",
+      "show": "Spring Awakening (Sheik/Sater)",
       "tour": "Broadway",
       "date": "2008-05-18",
       "time": "E",
@@ -7603,6 +7741,23 @@
       "size": "478.9 MB"
     },
     {
+      "id": 2008,
+      "show": "Wicked",
+      "tour": "First US National Tour (Emerald City)",
+      "date": "2009-02-28",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Stephanie Torns (u/s Elphaba), Katie Rose Clarke (Glinda), Richard H. Blake (Fiyero), Lenny Wolpe (The Wizard), Myra Lucretia Taylor (Madame Morrible), Amanda Rose (Nessarose), Ben Liebert (Boq), Paul Slade Smith (Doctor Dillamond)",
+      "notes": "Spotlight washout on wides. Blackouts for applause. Nice quality and pretty well filmed (though there are some odd closeups in DTL).",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 5383,
       "show": "Wicked",
       "tour": "Broadway",
@@ -7890,6 +8045,25 @@
       "nft": false,
       "format": "MP4",
       "size": "11.35 GB"
+    }
+  ],
+  "The Wiz": [
+    {
+      "id": 2000222,
+      "show": "The Wiz",
+      "tour": "Second Broadway Revival",
+      "date": "2024-05-21",
+      "time": "E",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Nichelle Lewis (Dorothy), Avery Wilson (Scarecrow), Kyle Ramar Freeman (Lion), Phillip Johnson Richardson (Tin Man), Wayne Brady (The Wiz), Deborah Cox (Glinda), Melody A. Betts (Evillene/Aunt Em), Allyson Kaye Daniel (Addaperle), Anthony Murphy (Lord High Underling), Judith Franklin (The Wiz's Backup Singer), Christina Jones (The Wiz's Backup Singer), Matthew Sims Jr. (Gatekeeper #1), Mariah Lyttle (s/w Gatekeeper #2), Keenan D. Washington (Earl Underling), Dustin Praylow (s/w Emerald City Announcer), Maya Bowles (Ensemble), Shayla Caldwell (Ensemble), Jay Copeland (Ensemble), Amber Jackson (Ensemble), Olivia Jackson (Ensemble), Kareem Marsh (Ensemble), Polanco Jones Jr. (Ensemble), Collin Heyward (Ensemble)",
+      "notes": "<p>Excellent 4K capture of this revival! Lots of latecomers so theres momentary obstruction when they pass by. Some moments of wandering and unfocusing. Includes curtain call, audio is fed from external source.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Xanadu": [
