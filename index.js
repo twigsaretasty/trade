@@ -17,12 +17,12 @@ Promise.all([
     fetch('profile.json').then(response => response.json()),
     fetch('weekly-profile.json').then(response => response.json()),
 ]).then(([profileData, weeklyData]) => {
-    // const profile = data.profile;
-    // const slug = data.slug;
-    // const username = data.username;
-    // const name = data.name;
-    // const pronouns = data.pronouns;
-    // const email = data.email;
+    const profile = profileData.profile;
+    // const slug = data.slug; // should be the same    
+    // const username = data.username; // should be the same
+    // const name = data.name; // should be the same
+    // const pronouns = data.pronouns; // should be the same
+    // const email = data.email; // not displaying here; should be the same
     const status = profileData.status;
     const lastSeen = profileData.last_seen;
     const recordingsCount = profileData.recordings;
@@ -61,15 +61,16 @@ Promise.all([
     // Add recordings count
     document.getElementById('recordings').textContent = newTotal;
     document.getElementById('pending').textContent = pendingCount;
+
+    // update the profile info
+    document.getElementById('profile').innerHTML = profile;
 })
 
 function showAudios() {
-    console.log("adding current class")
     document.getElementById("audios").classList.toggle("display");
 }
 
 function showVideos() {
-    console.log("adding current class")
     document.getElementById("videos").classList.toggle("display");
 }
 
