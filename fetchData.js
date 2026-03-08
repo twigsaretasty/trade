@@ -19,7 +19,7 @@ async function getProfile() {
     const json = await response.json();
 
     const formattedProfile = {
-        profile: json.profile.replace(/<p>/g, "").replace(/<\/p>/g, ""),
+        profile: json.profile.replace(/<li><p>/g, "<li>").replace(/<\/p><\/li>/g, "</li>"),
         slug: json.slug,
         username: json.username,
         name: json.name,
