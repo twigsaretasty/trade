@@ -506,8 +506,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x18",
+      "size": "95.3 MB"
     },
     {
       "id": 1110319,
@@ -2019,8 +2019,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x1",
+      "size": "223.5 MB"
     },
     {
       "id": 2018225,
@@ -7716,6 +7716,23 @@
       "size": "223.3 MB"
     },
     {
+      "id": 2028732,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-02-09",
+      "time": "E",
+      "master": "BalisongSinger",
+      "media_type": "audio",
+      "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham), Adam Cooper (Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Dylan Gordon-Jones (s/w Kyle/Ensemble), Keanna Bloomfield (Enid), Ollie Hart-Bradford (s/w Nikos/Ensemble), Bradley Delarosbel (Carlos), James Lim (Ensemble), Daisy Twells (Ensemble), Raiaz Fisher (Ensemble), Louie Wood (Ensemble), Lauren Hampton (s/w Ensemble)",
+      "notes": "MASTER NOTES: Second Preview! (More notes to be added)<br><br>GENERAL NOTES: **DISCLAIMER - PLEASE don't change the cast list or add any notes to my Master without my permission first! As listed above, I'll add notes on the performance at a later date when I'm less busy! Thanks!\n\nPlease don't post this on any social media :)",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "144.3 MB"
+    },
+    {
       "id": 2029192,
       "show": "Legally Blonde",
       "tour": "Third UK Tour",
@@ -7729,8 +7746,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": true,
-      "format": "",
-      "size": ""
+      "format": "M4A x2 + MP3 x2",
+      "size": "800.4 MB"
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -8465,8 +8482,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x23",
+      "size": "109.3 MB"
     },
     {
       "id": 1153391,
@@ -8567,8 +8584,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "127.3 MB"
     },
     {
       "id": 2006933,
