@@ -1987,10 +1987,10 @@
       "size": "126.1 MB"
     }
   ],
-  "The Great Gatsby": [
+  "The Great Gatsby (Howland/Tysen/Kerrigan)": [
     {
       "id": 2003532,
-      "show": "The Great Gatsby",
+      "show": "The Great Gatsby (Howland/Tysen/Kerrigan)",
       "tour": "Broadway",
       "date": "2024-08-22",
       "time": "M",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": 2012191,
-      "show": "The Great Gatsby",
+      "show": "The Great Gatsby (Howland/Tysen/Kerrigan)",
       "tour": "Broadway",
       "date": "2025-01-30",
       "time": "M",
@@ -2023,8 +2023,25 @@
       "size": "223.5 MB"
     },
     {
+      "id": 2017686,
+      "show": "The Great Gatsby (Howland/Tysen/Kerrigan)",
+      "tour": "West End",
+      "date": "2025-05-03",
+      "time": "E",
+      "master": "Bit_pink",
+      "media_type": "audio",
+      "cast": "Jamie Muscato (Jay Gatsby), Frances Mayli McCann (Daisy Buchanan), George Crawford (u/s Nick Carraway), Amber Davies (Jordan Baker), Rachel Tucker (Myrtle Wilson), John Owen-Jones (Meyer Wolfsheim), Jon Robyns (Tom Buchanan), Joel Montague (George Wilson)",
+      "notes": "Recording ends during 'One Way Road' :(",
+      "amount_recorded": "partial",
+      "gifting_status": "Gift On Request",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2018225,
-      "show": "The Great Gatsby",
+      "show": "The Great Gatsby (Howland/Tysen/Kerrigan)",
       "tour": "Broadway",
       "date": "2025-07-31",
       "time": "E",
@@ -2040,8 +2057,25 @@
       "size": "263.6 MB"
     },
     {
+      "id": 2018388,
+      "show": "The Great Gatsby (Howland/Tysen/Kerrigan)",
+      "tour": "West End",
+      "date": "2025-05-03",
+      "time": "E",
+      "master": "Forpluto",
+      "media_type": "audio",
+      "cast": "Jamie Muscato (Jay Gatsby), Frances Mayli McCann (Daisy Buchanan), George Crawford (u/s Nick Carraway), Amber Davies (Jordan Baker), Rachel Tucker (Myrtle Wilson), John Owen-Jones (Meyer Wolfsheim), Jon Robyns (Tom Buchanan), Joel Montague (George Wilson)",
+      "notes": "Act 1 was interrupted by a technical issue, so it’s split into two separate files. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2023772,
-      "show": "The Great Gatsby",
+      "show": "The Great Gatsby (Howland/Tysen/Kerrigan)",
       "tour": "West End",
       "date": "2025-05-03",
       "time": "E",
@@ -6305,6 +6339,23 @@
       "size": "186.6 MB"
     },
     {
+      "id": 1110727,
+      "show": "Legally Blonde",
+      "tour": "Vienna",
+      "date": "2013-05-04",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Barbara Obermeier (Elle Woods), Jörg Neubauer (Emmett Forrest), Hendrik Schall (Warner Huntington III), Ana Milva Gomes (Paulette), Sanne Mieloo (Vivienne Kensington), Anne Mette Riis (u/s Brooke Wyndham/Shandi), Alexander Goebel (Professor Callahan), Anja Haeseli (Margot), Birgit Wanka (Serena), Adrianna Hicks (u/s Pilar), Dániel Rákász (Kyle/Dewey/Grandmaster Chad), Anouk Roolker (Enid/Veronica), Jennifer Siemann (Kate/Chutney), Armin Kahl (Dad/Winthrop), Katja Berg (Mom/Courtney/Whitney), Björn Klein (Aaron), Jan-Eike Majert (s/w Padamadan/Nikos), Maria Graciano (s/w Judge/Store Manager), Anna Carina Buchegger (Gabby/Stenographer), Maximilan Mann (Carlos), Marie-Anjes Lumpp (Leilani), Janine Buck (s/w Kristine), Myrthes Monteiro (Cece/D.A. Joyce Riley), Benjamin Sommerfeld (Lowell), Jerôme Knols (s/w Pforzheimer), Paul Knights (Kiki)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "134.5 MB"
+    },
+    {
       "id": 1110728,
       "show": "Legally Blonde",
       "tour": "Vienna",
@@ -7189,6 +7240,23 @@
       "size": "64.5 MB"
     },
     {
+      "id": 1144140,
+      "show": "Legally Blonde",
+      "tour": "Regent's Park Open Air Theatre",
+      "date": "2022-06-01",
+      "time": "E",
+      "master": "localslimetutorials",
+      "media_type": "audio",
+      "cast": "Courtney Bowman (Elle Woods), Michael Ahomka-Lindsay (Emmett Forrest), Alistair Toovey (Warner Huntington III), Nadine Higgin (Paulette), Vanessa Fisher (Vivienne Kensington), Lauren Drew (Brooke Wyndham/Shandi), Eugene McCoy (Professor Callahan), Iz Hesketh (Margot), Hannah Yun Chamberlain (Serena), Grace Mouat (Pilar), Alžbeta Matyšáková (Enid), Liam McEvoy (Bruiser)",
+      "notes": "please do not gift or post publicly!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1146488,
       "show": "Legally Blonde",
       "tour": "Fourth US National Tour (Non-Equity)",
@@ -7204,6 +7272,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "64.5 MB"
+    },
+    {
+      "id": 1147027,
+      "show": "Legally Blonde",
+      "tour": "Hamburg",
+      "date": "2023-08-05",
+      "time": "M",
+      "master": "wasserherrhauptmann",
+      "media_type": "audio",
+      "cast": "Elisabeth Bengs (Elle Woods), Philip Kuhl (Emmett Forrest), Lena Detert (Paulette), Dominik Krumschmidt (Professor Callahan), Svenja Bertschi (Judge)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "381.6 MB"
     },
     {
       "id": 1151815,
@@ -7308,6 +7393,23 @@
       "size": "237.9 MB"
     },
     {
+      "id": 2002194,
+      "show": "Legally Blonde",
+      "tour": "Brazil",
+      "date": "2024-07-17",
+      "time": "E",
+      "master": "Deetzlvr",
+      "media_type": "audio",
+      "cast": "Myra Ruiz (Elle Woods), Hipólyto (Emmett Forrest), Renan Rosiq (Warner Huntington III), Leilah Moreno  (Paulette), Gigi Debei (Vivienne Kensington), Amanda Döring (Brooke Wyndham), Danilo Moura (Professor Callahan), Esther Arieiv (Margot), Vivian Bugno (Serena), Gabriela Gatti (Pilar), Vitor Loschiavo (Kyle), Mariana Ramires (Enid), Bia Vasconcellos (Chutney)",
+      "notes": "<p>Opening night! Recorded from the third row. It seems that they were having some mic problems so sometimes it's hard to hear the actors but it's minimal. Includes bows video</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "WAV x1 + MP4",
+      "size": "2.85 GB"
+    },
+    {
       "id": 2002350,
       "show": "Legally Blonde",
       "tour": "Brazil",
@@ -7325,6 +7427,23 @@
       "size": "71.5 MB"
     },
     {
+      "id": 2002564,
+      "show": "Legally Blonde",
+      "tour": "Brazil",
+      "date": "2024-07-27",
+      "time": "M",
+      "master": "suchaperfectgrace",
+      "media_type": "audio",
+      "cast": "Myra Ruiz (Elle Woods), Hipólyto (Emmett Forrest), Renan Rosiq (Warner Huntington III), Leilah Moreno  (Paulette), Gigi Debei (Vivienne Kensington), Amanda Döring (Brooke Wyndham), Danilo Moura (Professor Callahan), Esther Arieiv (Margot), Andreina Szoboszlai (u/s Serena), Gabriela Gatti (Pilar), Vitor Loschiavo (Kyle), Paulo Grossi (Dewey/Winthrop/Aaron), Danilo Martho (Grandmaster Chad), Mariana Ramires (Enid), Bia Vasconcellos (Chutney), Rafael Pucca (Dad), Thaiane Chuvas (Mom), Vinnycias (Courtney), Ricke Hadashi (Padamadan/Carlos), Giselle Alfano (Store Manager), Fábio Galvão (Nikos), Lara Gomes (Ensemble)",
+      "notes": "Some laugher and cheering can be heard throughout from me and theatergoers around me, and so can the loud AC. Incredible performances from the whole cast but specially from Leilah who completely stole the show as Paulette. Includes cast board photo, a video of bows and some of the encore.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2 + MP4 x2",
+      "size": "411.1 MB"
+    },
+    {
       "id": 2003799,
       "show": "Legally Blonde",
       "tour": "Leeds Center for the Arts",
@@ -7340,6 +7459,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "239 MB"
+    },
+    {
+      "id": 2009510,
+      "show": "Legally Blonde",
+      "tour": "Brazil",
+      "date": "2024-09-22",
+      "time": "E",
+      "master": "Deetzlvr",
+      "media_type": "audio",
+      "cast": "Myra Ruiz (Elle Woods), Hipólyto (Emmett Forrest), Renan Rosiq (Warner Huntington III), Leilah Moreno  (Paulette), Gigi Debei (Vivienne Kensington), Amanda Döring (Brooke Wyndham), Rafael Pucca (u/s Professor Callahan), Esther Arieiv (Margot), Vivian Bugno (Serena), Gabriela Gatti (Pilar), Vitor Loschiavo (Kyle), Mariana Ramires (Enid), Bia Vasconcellos (Chutney)",
+      "notes": "Includes video of curtain call",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 2012886,
@@ -7699,6 +7835,23 @@
       "size": "187.1 MB"
     },
     {
+      "id": 2019811,
+      "show": "Legally Blonde",
+      "tour": "Dresden",
+      "date": "2025-08-16",
+      "time": "E",
+      "master": "MusicalboyTrade",
+      "media_type": "audio",
+      "cast": "Deliah Stuker (Elle Woods), Edward R. Serban (Emmett Forrest), Jannik Harneit (Warner Huntington III), Sarah Matberg (Paulette), Leoni Kristin Oeffinger (Vivienne Kensington), Susanna Mucha (Brooke Wyndham), Tim Reichwein (Professor Callahan), Sarah Fleige (Margot), Lorena Dehmelt (Serena), Lia-Malea Sussenbach (Pilar), Michelle Lippe (Enid), Kristin Helterhoff (Whitney), Arne Badstübner (Aaron), Deborah Springmann (Padamadan), Dominique Schulz (Nikos)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "179.5 MB"
+    },
+    {
       "id": 2028561,
       "show": "Legally Blonde",
       "tour": "Third UK Tour",
@@ -7724,7 +7877,7 @@
       "master": "BalisongSinger",
       "media_type": "audio",
       "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham), Adam Cooper (Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Dylan Gordon-Jones (s/w Kyle/Ensemble), Keanna Bloomfield (Enid), Ollie Hart-Bradford (s/w Nikos/Ensemble), Bradley Delarosbel (Carlos), James Lim (Ensemble), Daisy Twells (Ensemble), Raiaz Fisher (Ensemble), Louie Wood (Ensemble), Lauren Hampton (s/w Ensemble)",
-      "notes": "MASTER NOTES: Second Preview! (More notes to be added)<br><br>GENERAL NOTES: **DISCLAIMER - PLEASE don't change the cast list or add any notes to my Master without my permission first! As listed above, I'll add notes on the performance at a later date when I'm less busy! Thanks!\n\nPlease don't post this on any social media :)",
+      "notes": "MASTER NOTES: Second Preview of this LB production! Dylan's Kyle Debut, along with Ollie's and Lauren's Ensemble Debuts. Great quality audio with some talking and rustling throughout, but not loads. Full Audio including pre-show announcement and bows.<br><br>GENERAL NOTES: Please don't post this on any social media :)",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
@@ -10818,7 +10971,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Lindsay Mendez (Elphaba), Alli Mauzey (Glinda), Kyle Dean Massey (Fiyero), Tom McGowan (The Wizard), Carol Kane (Madame Morrible), Catherine Charlebois (Nessarose), Michael Wartella (Boq), K. Todd Freeman (Doctor Dillamond)",
-      "notes": "Lindsay, Alli, Kyle & Toms last performance. Amazing performance by the whole cast. HILARIOUS Popular (as per from Alli).",
+      "notes": "Lindsay, Alli, Kyle & Tom's last performance. Amazing performance by the whole cast. HILARIOUS Popular (as per from Alli).\nMultiple versions are circulating, including an untracked M4A (68.6 MB) and tracked MP3s (133.8 MB).",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
