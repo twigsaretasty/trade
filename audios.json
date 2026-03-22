@@ -689,12 +689,12 @@
       "id": 5497,
       "show": "A Chorus Line",
       "tour": "Off-Broadway",
-      "date": "1975-05-23",
+      "date": "1975-04",
       "time": "E",
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Robert LuPone (Zach), Donna McKechnie (Cassie), Clive Clerk (Larry), Kay Cole (Maggie), Baayork Lee (Connie), Pamela Blair (Val), Ron Kuhlman (Don), Nancy Lane (Bebe), Don Percassi (Al), Ronald Dennis (Richie), Michel Stuart (Greg), Priscilla Lopez (Diana), Wayne Cilento (Mike), Patricia Garland (Judy), Kelly Bishop (Sheila), Thommie Walsh (Bobby), Renne Baughman (Kristine), Sammy Williams (Paul), Cameron Mason (Mark)",
-      "notes": "The linked audio on youtube is sometimes identified as being from May 23, 1975, but it is definitely not from May 23, 1975. If you have this recording and you have that as the date, it is wrong. It's a recording of an early preview. Previews started on April 15, 1975. The official opening was on May 21. \n\nhttps://www.youtube.com/watch?v=hd45NOOpeRM&list=RDhd45NOOpeRM&start_radio=1&t=187s",
+      "notes": "Full show, circulates in various quality, runs about 2 hours. Often mislabeled as May 23, 1975, including on YouTube (https://youtu.be/hd45NOOpeRM?si=c_7voyo8Q19kY9F_), but this is incorrect. As Cassie does not make the final cut, this recording has to be from the first week of previews, between April 14 and 20. Often the April 16, 1975 recording circulates mislabeled as this date; check with traders.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -2036,8 +2036,8 @@
       "gifting_status": "Gift On Request",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "106.5 MB"
     },
     {
       "id": 2018225,
@@ -2070,8 +2070,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x3",
+      "size": "312.4 MB"
     },
     {
       "id": 2023772,
@@ -2316,6 +2316,23 @@
       "nft": false,
       "format": "WAV x2",
       "size": "30.7 MB"
+    },
+    {
+      "id": 1139446,
+      "show": "Hairspray",
+      "tour": "Third US National Tour (Non-Equity)",
+      "date": "2022-11-19",
+      "time": "M",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Niki Metcalf (Tracy Turnblad), Andrew Levitt | Nina West (Edna Turnblad), Sandie Lee (Motormouth Maybelle), Emery Henderson (Penny Pingleton), Addison Garner (Velma Von Tussle), Ryahn Evers (Amber Von Tussle), Ralph Prentice Daniel (Wilbur Turnblad), Nick Cortazzo (Link Larkin), Billy Dawson (Corny Collins), Charlie Bryant III (Seaweed J. Stubbs), Joi D. McCoy (Little Inez), Emmanuelle Zeesman (Prudy Pingleton/Gym Teacher/Matron), Greg Kalafatas (Mr. Pinky/Harriman F. Spritzer/Principal/Guard), Carly Haig (Brenda), Tommy Betz (Fender), Annie Gagen (Lou Ann), Faith Northcutt (u/s Tammy), Clint Maddox Thompson (IQ), Helene Britany (Shelley), Alex Fullerton (u/s Sketch), Nicholas Dion Reese (Duane), Craig First (Brad), Sage Lee (Gilbert), Lauren Johnson (Lorraine), Sydney Archibald (Dynamite/Peaches), Melanie Puente Ervin (Dynamite/Pearl), Kyle Kavully (Thad)",
+      "notes": "Never to be listed as NFT",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x36",
+      "size": "226.8 MB"
     }
   ],
   "Hamilton": [
@@ -3388,7 +3405,7 @@
       "time": "M",
       "master": "MusicalShoes",
       "media_type": "audio",
-      "cast": "Rebecca Stenhouse (u/s Elle Woods), David Barrett (Emmett Forrest), Liam Doyle (Warner Huntington III), Rita Simons (Paulette), Laura Harrison (Vivienne Kensington), Helen Petrovna (Brooke Wyndham/Shandi), Bill Ward (Professor Callahan), Alexandra Wright (u/s Margot), Rachel Grundy (Serena), Delycia Belgrave (Pilar), Nancy Hill (Enid/Veronica), Rosie Needham (Kate/Chutney), Lucyelle Cliffe (Mom/Whitney/Judge), Felipe Bejarano (Padamadan/Nikos), Laura Mullowney (s/w Leilani)",
+      "cast": "Rebecca Stenhouse (u/s Elle Woods), David Barrett (Emmett Forrest), Liam Doyle (Warner Huntington III), Rita Simons (Paulette), Laura Harrison (Vivienne Kensington), Helen Petrovna (Brooke Wyndham/Whitney), Bill Ward (Professor Callahan), Alexandra Wright (u/s Margot), Rachel Grundy (Serena), Delycia Belgrave (Pilar), Ben Harlow (Kyle/Lowell), Mark Peachey (Dewey/Dad/Winthrop), Brett Shiels (Grandmaster Chad), Nancy Hill (Enid), Rosie Needham (Kate/Chutney), Lucyelle Cliffe (Mom/Judge/Store Manager/Pforzheimer), Michael Hamway (Aaron/Stenographer), Felipe Bejarano (Padamadan/Nikos), Connor Collins (Carlos/Kiki), Laura Mullowney (s/w Leilani), Sally Frith (D.A. Joyce Riley), Bruisey Williams-Dodd the Dog (Bruiser), Bertie the Dog (Rufus)",
       "notes": "",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -3420,10 +3437,10 @@
       "tour": "Second UK Tour",
       "date": "2018-05-23",
       "time": "E",
-      "master": "Unknown",
+      "master": "bootliette",
       "media_type": "audio",
-      "cast": "Rebecca Stenhouse (u/s Elle Woods), David Barrett (Emmett Forrest), Liam Doyle (Warner Huntington III), Rita Simons (Paulette), Laura Harrison (Vivienne Kensington), Helen Petrovna (Brooke Wyndham/Shandi), Bill Ward (Professor Callahan), Alexandra Wright (u/s Margot), Rachel Grundy (Serena), Delycia Belgrave (Pilar), Lewis Griffiths (Kyle/Dewey/Grandmaster Chad), Nancy Hill (Enid/Veronica), Rosie Needham (Kate/Chutney), Andrew Simeon (s/w Dad/Winthrop), Lucyelle Cliffe (Mom/Whitney/Judge), Michael Hamway (Aaron), Felipe Bejarano (Padamadan/Nikos), Craig Tyler (s/w Carlos)",
-      "notes": "",
+      "cast": "Rebecca Stenhouse (u/s Elle Woods), David Barrett (Emmett Forrest), Liam Doyle (Warner Huntington III), Rita Simons (Paulette), Laura Harrison (Vivienne Kensington), Helen Petrovna (Brooke Wyndham/Whitney), Bill Ward (Professor Callahan), Alexandra Wright (u/s Margot), Rachel Grundy (Serena), Delycia Belgrave (Pilar), Ben Harlow (Kyle/Lowell), Andrew Simeon (e/c Dewey/Dad/Winthrop), Brett Shiels (Grandmaster Chad), Nancy Hill (Enid), Rosie Needham (Kate/Chutney), Lucyelle Cliffe (Mom/Judge/Store Manager/Pforzheimer), Michael Hamway (Aaron/Stenographer), Felipe Bejarano (Padamadan/Nikos), Craig Tyler (s/w Carlos/Kiki), Laura Mullowney (s/w Leilani), Sally Frith (D.A. Joyce Riley), Bruisey Williams-Dodd the Dog (Bruiser), Bertie the Dog (Rufus)",
+      "notes": "Andrew Simeon, who was on as Winthrop/Dewey/Elle's Dad, is the show's Resident Director.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -4204,7 +4221,7 @@
       "time": "E",
       "master": "daffygirl",
       "media_type": "audio",
-      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Beth Curry (Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Chico the Dog (Bruiser), Chloe the Dog (Rufus), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
+      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Tracy Jai Edwards (s/w Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Chico the Dog (Bruiser), Chloe the Dog (Rufus), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
       "notes": "While both masters from this show released in MP3 tracked, this version has 34 tracks, as opposed to CK's master, which has 26 tracks.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -4323,7 +4340,7 @@
       "time": "E",
       "master": "hitmewithyourbethshot",
       "media_type": "audio",
-      "cast": "Lucie Jones (Elle Woods), David Barrett (Emmett Forrest), Liam Doyle (Warner Huntington III), Rita Simons (Paulette), Laura Harrison (Vivienne Kensington), Helen Petrovna (Brooke Wyndham/Shandi), Bill Ward (Professor Callahan), Rebecca Stenhouse (Margot), Rachel Grundy (Serena), Delycia Belgrave (Pilar), Nancy Hill (Enid/Veronica), Rosie Needham (Kate/Chutney), Mark Peechey (Dad/Winthrop), Lucyelle Cliffe (Mom/Whitney/Judge), Michael Hamway (Aaron), Felipe Bejarano (Padamadan/Nikos), Connor Collins (Carlos), Alexandra Wright (Leilani)",
+      "cast": "Lucie Jones (Elle Woods), David Barrett (Emmett Forrest), Liam Doyle (Warner Huntington III), Rita Simons (Paulette), Laura Harrison (Vivienne Kensington), Helen Petrovna (Brooke Wyndham/Whitney), Bill Ward (Professor Callahan), Rebecca Stenhouse (Margot), Rachel Grundy (Serena), Delycia Belgrave (Pilar), Ben Harlow (Kyle/Lowell), Mark Peachey (Dewey/Dad/Winthrop), Brett Shiels (Grandmaster Chad), Nancy Hill (Enid), Rosie Needham (Kate/Chutney), Lucyelle Cliffe (Mom/Judge/Store Manager/Pforzheimer), Michael Hamway (Aaron/Stenographer), Felipe Bejarano (Padamadan/Nikos), Connor Collins (Carlos/Kiki), Alexandra Wright (Leilani), Sally Frith (D.A. Joyce Riley), Bruisey Williams-Dodd the Dog (Bruiser), Bertie the Dog (Rufus)",
       "notes": "",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -4800,7 +4817,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Beth Curry (Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
-      "notes": "",
+      "notes": "MY NOTES: A pretty good audio! The cast was fresh off their Tony noms iirc and the show is in good shape. Laura flubs a line in So Much Better. Listened 3/16/2026",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -6567,7 +6584,7 @@
       "time": "E",
       "master": "CK",
       "media_type": "audio",
-      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Beth Curry (Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Chico the Dog (Bruiser), Chloe the Dog (Rufus), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
+      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), DeQuina Moore (Pilar), Andy Karl (Kyle/Dewey/Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Tracy Jai Edwards (s/w Gabby/Stenographer), Matthew Risch (Carlos/Lowell), Becky Gulsvig (Leilani), April Berry (Kristine), Michelle Kittrell (Cece/D.A. Joyce Riley), Jason Gillman (Pforzheimer), Paul Canaan (Kiki), Chico the Dog (Bruiser), Chloe the Dog (Rufus), Nick Kenkel (Ensemble), Jason Patrick Sands (Ensemble)",
       "notes": "While both masters from this show released in MP3 tracked, this version has 26 tracks, as opposed to daffygirl's master, which has 34 tracks.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -7253,8 +7270,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "61.6 MB"
     },
     {
       "id": 1146488,
@@ -7474,8 +7491,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2 + MP4",
+      "size": "296.6 MB"
     },
     {
       "id": 2012886,
@@ -7859,7 +7876,7 @@
       "time": "E",
       "master": "raantaaro",
       "media_type": "audio",
-      "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Jaime Tait (Dewey/Nikos), Keanna Bloomfield (Grandmaster Chad/Enid/Courtney), Daisy Twells (Kate/Chutney), Bradley Delarosbel (Dad/Carlos), Aaron Shales (Winthrop/Mom/Whitney), James Lim (Aaron/Judge), Louie Wood (D.A. Joyce Riley/Cezar Tepesh), Dylan Gordon-Jones (Ensemble), Raiaz Fisher (Ensemble)",
+      "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Jaime Tait (Dewey/Nikos), Keanna Bloomfield (Grandmaster Chad/Enid/Courtney), Daisy Twells (Kate/Chutney), Bradley Delarosbel (Dad/Carlos), Aaron Shales (Winthrop/Mom/Stenographer/Kiki), James Lim (Aaron/Judge), Louie Wood (D.A. Joyce Riley/Cezar Tepesh), Dylan Gordon-Jones (Ensemble), Raiaz Fisher (Ensemble)",
       "notes": "MASTER NOTES: Fab first preview! Bit of chatter behind me at the top of each act<br><br>MY NOTES: Very nice and clear audio! I know it's the first preview so I don't feel like I can judge it too much, but a lot of the line deliveries felt very bland. Karen was my favourite part, I think she was excellent. Amber's Elle isn't sticking to me just yet. Listened 2/27/2026",
       "amount_recorded": "complete",
       "gifting_status": "Gift On Request",
@@ -7893,7 +7910,7 @@
       "time": "M",
       "master": "SvetlanaVassy",
       "media_type": "audio",
-      "cast": "Hannah Lowther (alt Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Keanna Bloomfield (u/s Paulette), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Daisy Twells (u/s Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Jaime Tait (Dewey/Nikos), Aaron Shales (u/s Grandmaster Chad/Enid/Courtney), Raiaz Fisher (s/w Kate/Chutney), Lauren Hampton (s/w Mom/Stenographer/Kiki), Alishia-Marie Blake (s/w Whitney), James Lim (Aaron), Bradley Delarosbel (Carlos), Louie Wood (Cezar Tepesh), Dylan Gordon-Jones (Ensemble)",
+      "cast": "Hannah Lowther (alt Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Keanna Bloomfield (u/s Paulette), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Daisy Twells (u/s Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Jaime Tait (Dewey/Nikos), Aaron Shales (u/s Grandmaster Chad/Enid/Courtney), Raiaz Fisher (s/w Kate/Chutney), Bradley Delarosbel (Dad/Carlos), Lauren Hampton (s/w Winthrop/Mom/Stenographer/Kiki), Alishia-Marie Blake (s/w Whitney), James Lim (Aaron/Judge), Louie Wood (D.A. Joyce Riley/Cezar Tepesh), Dylan Gordon-Jones (Ensemble)",
       "notes": "NFT Forever<br><br>All trades through the master.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
@@ -7901,6 +7918,23 @@
       "nft": true,
       "format": "M4A x2 + MP3 x2",
       "size": "800.4 MB"
+    },
+    {
+      "id": 2030477,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-03-14",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Hannah Lowther (alt Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Jodie Steele (e/c Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham/Store Manager), Bradley Delarosbel (u/s Professor Callahan), Emily Plews (e/c Margot), Grace Mouat (e/c Serena), Remi Ferdinand (Pilar), Ollie Hart-Bradford (u/s Kyle), Keanna Bloomfield (Grandmaster Chad/Enid/Courtney), James Lim (u/s Dad/Carlos)",
+      "notes": "Special concert performance of the show due to a lot of the cast falling ill! Jodie and Grace were brought back from previous productions of the show for this show only, both in roles they had never played before! Bradley's debut as Professor Callahan! Emily is the Associate Choreographer and had covered Margot earlier in the week. Gifted upon request as the master uploaded this on YouTube (the channel name is ShaftesburyTheatrics).",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift On Request",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -8464,6 +8498,23 @@
     }
   ],
   "Merrily We Roll Along": [
+    {
+      "id": 1135670,
+      "show": "Merrily We Roll Along",
+      "tour": "New York Theatre Workshop",
+      "date": "2022-12-07",
+      "time": "E",
+      "master": "Spoonsy",
+      "media_type": "audio",
+      "cast": "Jonathan Groff (Franklin Shepard), Daniel Radcliffe (Charley Kringas), Lindsay Mendez (Mary Flynn), Krystal Joy Brown (Gussie Carnegie), Katie Rose Clarke (Beth Spencer), Reg Rogers (Joe Josephson)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "66.7 MB"
+    },
     {
       "id": 2001815,
       "show": "Merrily We Roll Along",
