@@ -21,6 +21,7 @@ async function get_collection() {
         },
         muteHttpExceptions: true
         });
+        console.log(response); // debug
         
         const json = await response.json();
 
