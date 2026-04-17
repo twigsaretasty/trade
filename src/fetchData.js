@@ -31,7 +31,7 @@ async function getProfile() {
         wants: json.wants_count
     };
 
-    writeFileSync('./profile.json', JSON.stringify(formattedProfile, null, 2));
+    writeFileSync('../public/profile.json', JSON.stringify(formattedProfile, null, 2));
 
     console.log('Data saved to profile.json');
 }

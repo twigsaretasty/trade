@@ -31,7 +31,7 @@ async function getProfile() {
         wants: json.wants_count
     };
 
-    writeFileSync('./weekly-profile.json', JSON.stringify(formattedProfile, null, 2));
+    writeFileSync('../public/weekly-profile.json', JSON.stringify(formattedProfile, null, 2));
 
     console.log('Weekly profile info saved.');
 }
