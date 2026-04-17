@@ -15,7 +15,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.1 GB"
+      "size": "4.10 GB"
     }
   ],
   "101 Dalmatians (Hodge/McKnight)": [
@@ -88,8 +88,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls) + MP4",
-      "size": "3.07 GB + 4.54 GB"
+      "format": "MP4 + VOB (with smalls)",
+      "size": "7.61 GB"
     },
     {
       "id": 9977,
@@ -176,7 +176,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "3.43 GB"
+      "size": "3.42 GB"
     },
     {
       "id": 33477,
@@ -228,8 +228,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls)",
-      "size": "4.66 GB"
+      "format": "MKV x2 + VOB (with smalls)",
+      "size": "5.73 GB"
     }
   ],
   "The Addams Family": [
@@ -469,8 +469,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls)",
-      "size": "4.28 GB (no bugs) + 3.78 GB (bugs)"
+      "format": "MP4 + VOB (with smalls)",
+      "size": "14.84 GB"
     },
     {
       "id": 1119815,
@@ -506,7 +506,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "5.05 GB"
+      "size": "5.04 GB"
     }
   ],
   "Back to the Future: The Musical": [
@@ -705,7 +705,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "4.8 GB"
+      "size": "4.80 GB"
     }
   ],
   "Big Fish": [
@@ -759,8 +759,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "2.43 GB"
+      "format": "MKV + MP4 x2",
+      "size": "3.46 GB"
     }
   ],
   "Bonnie and Clyde (Wildhorn)": [
@@ -851,7 +851,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "10 GB"
+      "size": "10.00 GB"
     },
     {
       "id": 2012686,
@@ -868,7 +868,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "10.5 GB"
+      "size": "10.50 GB"
     },
     {
       "id": 2016707,
@@ -884,7 +884,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "10.89 GB"
     }
   ],
@@ -905,6 +905,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "8.51 GB"
+    }
+  ],
+  "Bring It On: The Musical": [
+    {
+      "id": 400,
+      "show": "Bring It On: The Musical",
+      "tour": "Broadway",
+      "date": "2012-10-24",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Taylor Louderman (Campbell), Adrienne Warren (Danielle), Elle McLemore (Eva), Janet Krupin (u/s Bridget), Jason Gotay (Randall), Ariana DeBose (Nautica), Michael Mindlin (u/s La Cienega), Neil Haskell (Steven), Calli Alden (u/s Kylar), Nikki Bohne (s/b Skylar), Nicolas Womack (Twig), Dominique Johnson (Cameron)",
+      "notes": "Heads at the bottom of the screen during a good part of the show when action takes place at the foot of the stage, but it's shot around well. A-",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.40 GB"
     }
   ],
   "Broadway on Broadway (Concerts)": [
@@ -1014,7 +1033,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "M4V",
-      "size": "10.7 GB"
+      "size": "10.70 GB"
     },
     {
       "id": 2005140,
@@ -1031,7 +1050,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "12.5 GB"
+      "size": "12.50 GB"
     }
   ],
   "Catch Me If You Can": [
@@ -1050,7 +1069,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.61 GB"
+      "size": "4.60 GB"
     },
     {
       "id": 1355,
@@ -1101,7 +1120,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "7.6 GB"
+      "size": "7.60 GB"
     }
   ],
   "Cats": [
@@ -1318,6 +1337,23 @@
       "size": "4.21 GB"
     },
     {
+      "id": 1004571,
+      "show": "A Chorus Line",
+      "tour": "Fifth US National Tour",
+      "date": "2008-10-21",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Michael Gruber (Zach), Nikki Snelson (Cassie), John Carroll (Larry), Stephanie Martignetti (u/s Maggie), Jessica Wu (Connie), Natalie Elise Hall (Val), Derek Hanson (Don), Pilar Millhollen (Bebe), Colt Prattes (Al), Anthony Wayne (Richie), Denis Lambert (Greg), Gabrielle Ruiz (Diana), Clyde Alves (Mike), Stephanie Gibson (Judy), Emily Fletcher (Sheila), Ian Liberto (Bobby), Jessica Latshaw (Kristine), Bryan Knowlton (u/s Paul), Jay Armstrong Johnson (Mark), J.R. Whittington (Butch)",
+      "notes": "Highlights including half-hour of the show: I Hope I Get It, I Can Do That,At The Ballet, Hello 12..., Gimme The Ball, Dance 10, Looks 3, Can The Adults Smoke? B",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "761.92 MB"
+    },
+    {
       "id": 1004622,
       "show": "A Chorus Line",
       "tour": "Broadway",
@@ -1359,7 +1395,7 @@
       "time": "E",
       "master": "Unknown",
       "media_type": "video",
-      "cast": "Joe Bennett (Zach), Eivind Harum (g/p Zach), Angelique Ilo (g/p Cassie), Wanda Richert (g/p Cassie), Pamela Sousa (Cassie), Deborah Henry (g/p Cassie), Vicki Fredrick (g/p Cassie), Cheryl Clark (g/p Cassie), Ann Reinking (g/p Cassie), Donna McKechnie (g/p Cassie), Clive Clerk (Larry), Kay Cole (Maggie), Baayork Lee (g/p Connie), Jennifer Ann Lee (Connie), Mitzi Hamilton (Val), DeLee Lively (g/p Val), Karen Jablons (g/p Val), Ron Kuhlman (g/p Don), David Thomé (Don), Terri Klausner (Bebe), Scott Plank (Al), Don Percassi (g/p Al), Ronald Dennis (g/p Richie), Gordon Owens (Richie), Michel Stuart (g/p Greg), Justin Ross (Greg), Priscilla Lopez (g/p Diana), Chikae Ishikawa (Diana), Wayne Cilento (Mike), Sandahl Bergman (Judy), Patricia Garland (g/p Judy), Kelly Bishop (Sheila), Thommie Walsh (Bobby), Renne Baughman (g/p Kristine), Kerry Casserly (Kristine), Tommy Aguilar (g/p Paul), Sam Viverito (g/p Paul), George Pesaturo (g/p Paul), Wayne Melendandri (g/p Paul), Drew Geraci (g/p Paul), Steve Crenshaw (g/p Paul), Rene Clemente (g/p Paul), Sammy Williams (g/p Paul), Timothy Wahrer (Paul), Cameron Mason (g/p Mark), Timothy Scott (Mark), Ann Louise Schaut (g/p Vicki), Evan Pappas (g/p Douglas)",
+      "cast": "Joe Bennett (Zach), Eivind Harum (g/p Zach), Vicki Frederick (g/p Cassie), Pamela Sousa (Cassie), Wanda Richert (g/p Cassie), Angelique Ilo (g/p Cassie), Deborah Henry (g/p Cassie), Cheryl Clark (g/p Cassie), Ann Reinking (g/p Cassie), Donna McKechnie (g/p Cassie), Clive Clerk (Larry), Kay Cole (Maggie), Jennifer Ann Lee (Connie), Baayork Lee (g/p Connie), Karen Jablons (g/p Val), DeLee Lively (g/p Val), Mitzi Hamilton (Val), David Thomé (Don), Ron Kuhlman (g/p Don), Terri Klausner (Bebe), Scott Plank (Al), Don Percassi (g/p Al), Gordon Owens (Richie), Ronald Dennis (g/p Richie), Michel Stuart (g/p Greg), Justin Ross (Greg), Priscilla Lopez (g/p Diana), Chikae Ishikawa (Diana), Wayne Cilento (Mike), Patricia Garland (g/p Judy), Sandahl Bergman (Judy), Kelly Bishop (Sheila), Thommie Walsh (Bobby), Renne Baughman (g/p Kristine), Kerry Casserly (Kristine), George Pesaturo (g/p Paul), Sam Viverito (g/p Paul), Wayne Melendandri (g/p Paul), Drew Geraci (g/p Paul), Steve Crenshaw (g/p Paul), Rene Clemente (g/p Paul), Sammy Williams (g/p Paul), Timothy Wahrer (Paul), Tommy Aguilar (g/p Paul), Cameron Mason (g/p Mark), Timothy Scott (Mark), Ann Louise Schaut (g/p Vicki), Evan Pappas (g/p Douglas)",
       "notes": "Not the complete show. This is an archive video of press and rehearsal footage from Chorus Line performance 3389, when it passed Grease to become the longest-running show in Broadway history; amazing footage A",
       "amount_recorded": "highlights",
       "gifting_status": "Gift at your Discretion",
@@ -1384,7 +1420,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MTS x4",
+      "format": "MTS x5",
       "size": "11.86 GB"
     }
   ],
@@ -1476,7 +1512,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV",
-      "size": "8.48 GB "
+      "size": "8.48 GB"
     },
     {
       "id": 1115623,
@@ -1493,7 +1529,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "20.7 GB"
+      "size": "20.70 GB"
     },
     {
       "id": 1139175,
@@ -1509,8 +1545,27 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 (4K)",
-      "size": "15.63 GB "
+      "format": "MP4",
+      "size": "15.63 GB"
+    }
+  ],
+  "The Comedy About Spies": [
+    {
+      "id": 2023664,
+      "show": "The Comedy About Spies",
+      "tour": "West End",
+      "date": "2025-06-25",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Dave Hearn (Lance Buchanan), Adele James (Rosemary Wilson), Chris Leask (Sergei Ivanov), Henry Lewis (Douglas Woodbead), Charlie Fay Russell (Elena Popov), Henry Shields (Bernard Wright), Greg Tannahill (Albert Tipton), Nancy Zamit (Janet Buchanan), Ashley Tucker (Ensemble), Matthew Cavendish (Ensemble)",
+      "notes": "Extremely pixellated during close shots, so it's very hard to see. Improves during wide shots. Some parts include a time stamp on the screen.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4 x4",
+      "size": "2.89 GB"
     }
   ],
   "Company": [
@@ -1564,8 +1619,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "1.98 GB"
+      "format": "MP4 + AVI",
+      "size": "3.45 GB"
     },
     {
       "id": 1111793,
@@ -1598,7 +1653,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "1.75 GB"
     },
     {
@@ -1615,8 +1670,27 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x6",
-      "size": "135.8 MB"
+      "format": "MP4 x12",
+      "size": "135.80 MB"
+    }
+  ],
+  "Damn Yankees": [
+    {
+      "id": 1002992,
+      "show": "Damn Yankees",
+      "tour": "First Broadway Revival",
+      "date": "1994-03-09",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Bebe Neuwirth (Lola), Victor Garber (Mr. Applegate), Dick Latessa (Van Buren)",
+      "notes": "Some generational loss, but a great bootleg version of show! Also features various TV clips.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.26 GB"
     }
   ],
   "Dance of the Vampires": [
@@ -1673,7 +1747,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "7 GB [Watermarked]"
+      "size": "7.00 GB"
     }
   ],
   "Dear Evan Hansen": [
@@ -1692,7 +1766,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "7.91 GB"
+      "size": "8.50 GB"
     },
     {
       "id": 338,
@@ -1709,7 +1783,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.3 GB"
+      "size": "8.30 GB"
     }
   ],
   "Death Becomes Her": [
@@ -1768,6 +1842,23 @@
     }
   ],
   "The Drowsy Chaperone": [
+    {
+      "id": 2355,
+      "show": "The Drowsy Chaperone",
+      "tour": "West End",
+      "date": "2007-05-13",
+      "time": "E",
+      "master": "house-cam",
+      "media_type": "video",
+      "cast": "Bob Martin (Man in Chair), Elaine Paige (The Drowsy Chaperone), Summer Strallen (Janet Van De Graaff), Joseph Alessi (Aldolpho), John Partridge (Robert Martin), Sean Kingsley (George), Nickolas Grace (Underling), Anne Rogers (Mrs. Tottendale), Nick Holder (Feldzieg), Selina Chilton (Kitty), Adam Stafford (Gangster #1), Cameron Jack (Gangster #2), Enyonam Gbesmete (Trix), Nina French (Ensemble), Mark Goldthorp (Ensemble), Paul Iveson (Ensemble), Sherrie Pennington (Ensemble)",
+      "notes": "Proshot. A producer's archive of the final dress rehearsal. Shot on a tripod with zooms.\nThere are two minutes missing: one minute immediately before Stumble Along and another immediately after Love Is Always Lovely (missing the announcement of the Chaperones' engagement).\nTwo versions circulate. One is 2.86 GB, this is where the first four screenshots are from. The other is 3.02 GB, with worse audio and video, and much blurrier motion (see fifth screnshot).",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "3.08 GB"
+    },
     {
       "id": 5781,
       "show": "The Drowsy Chaperone",
@@ -1859,7 +1950,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "4.14 GB"
+      "size": "4.12 GB"
     }
   ],
   "Evita": [
@@ -1948,7 +2039,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "2.43 GB"
+      "size": "6.59 GB"
     }
   ],
   "Fiddler on the Roof": [
@@ -2110,7 +2201,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MKV (1080p)",
+      "format": "MKV",
       "size": "5.27 GB"
     }
   ],
@@ -2130,7 +2221,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "7.9 GB"
+      "size": "7.90 GB"
     },
     {
       "id": 350,
@@ -2198,7 +2289,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x18",
-      "size": "738.3 MB"
+      "size": "738.35 MB"
     },
     {
       "id": 2015995,
@@ -2214,7 +2305,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MKV",
+      "format": "MKV x2",
       "size": "19.13 GB"
     }
   ],
@@ -2286,7 +2377,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x2 + M4A x1",
+      "format": "MP4 x3 + M4A x1",
       "size": "8.47 GB"
     }
   ],
@@ -2433,7 +2524,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "6.17 GB"
+      "size": "6.71 GB"
     }
   ],
   "Gypsy": [
@@ -2504,8 +2595,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "9.68"
+      "format": "MP4 x2",
+      "size": "9.68 GB"
     },
     {
       "id": 1155333,
@@ -2555,8 +2646,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "7.85 GB"
+      "format": "MP4 + MP3 x34",
+      "size": "8.49 GB"
     }
   ],
   "Hairspray": [
@@ -2592,7 +2683,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.3 GB"
+      "size": "4.30 GB"
     },
     {
       "id": 5950,
@@ -2771,7 +2862,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 (4K)",
+      "format": "MP4",
       "size": "20.98 GB"
     }
   ],
@@ -2884,7 +2975,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.7 GB"
+      "size": "4.70 GB"
     },
     {
       "id": 437,
@@ -2937,7 +3028,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.79 GB"
+      "size": "8.78 GB"
     },
     {
       "id": 18736,
@@ -3038,7 +3129,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MOV x2 + MP4 + M4A x2",
       "size": "9.42 GB"
     },
     {
@@ -3056,7 +3147,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x2",
-      "size": "9 GB"
+      "size": "9.00 GB"
     },
     {
       "id": 1147909,
@@ -3109,7 +3200,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.3 GB"
+      "size": "4.31 GB"
     }
   ],
   "Jersey Boys": [
@@ -3256,7 +3347,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "9.58 GB"
     }
   ],
@@ -3276,7 +3367,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "13.5 GB"
+      "size": "13.50 GB"
     }
   ],
   "The King and I": [
@@ -3333,7 +3424,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.4 GB"
+      "size": "4.40 GB"
     },
     {
       "id": 2013140,
@@ -3453,8 +3544,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls)",
-      "size": "7.63 GB"
+      "format": "MP4 x4 + VOB (with smalls)",
+      "size": "12.00 GB"
     },
     {
       "id": 2372,
@@ -3539,7 +3630,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.4 GB"
+      "size": "4.40 GB"
     },
     {
       "id": 5585,
@@ -3573,7 +3664,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.4 GB"
+      "size": "4.40 GB"
     },
     {
       "id": 6279,
@@ -3589,7 +3680,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls) + MKV",
+      "format": "MKV + VOB (with smalls)",
       "size": "15.44 GB"
     },
     {
@@ -3607,7 +3698,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.4 GB"
+      "size": "4.40 GB"
     },
     {
       "id": 6685,
@@ -3640,8 +3731,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x10",
-      "size": "98 MB"
+      "format": "MP4 x12",
+      "size": "97.98 MB"
     },
     {
       "id": 7566,
@@ -3657,8 +3748,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x6 + MOV (curtain call)",
-      "size": "217.7 MB"
+      "format": "MP4 x6 + MOV",
+      "size": "217.70 MB"
     },
     {
       "id": 8198,
@@ -3827,8 +3918,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls) + MKV",
-      "size": "972.3 MB + 1.01 GB"
+      "format": "MKV + VOB (with smalls)",
+      "size": "2.10 GB"
     },
     {
       "id": 18029,
@@ -3862,7 +3953,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "3.24 GB"
+      "size": "3.23 GB"
     },
     {
       "id": 32511,
@@ -3879,7 +3970,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "596 MB"
+      "size": "596.00 MB"
     },
     {
       "id": 1000412,
@@ -3896,7 +3987,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x3",
-      "size": "106.3 MB"
+      "size": "106.29 MB"
     },
     {
       "id": 1003372,
@@ -3912,7 +4003,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x10",
+      "format": "MP4 x12",
       "size": "1.05 GB"
     },
     {
@@ -3998,7 +4089,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "1.67 GB"
+      "size": "1.66 GB"
     },
     {
       "id": 1111835,
@@ -4014,7 +4105,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x19",
+      "format": "MOV x11 + MP4 x8",
       "size": "4.17 GB"
     },
     {
@@ -4032,7 +4123,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x4",
-      "size": "32.6 MB"
+      "size": "32.57 MB"
     },
     {
       "id": 1119277,
@@ -4049,7 +4140,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x2",
-      "size": "94.8 MB"
+      "size": "94.77 MB"
     },
     {
       "id": 1119748,
@@ -4066,7 +4157,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV x3",
-      "size": "52.1 MB"
+      "size": "52.08 MB"
     },
     {
       "id": 1119789,
@@ -4083,7 +4174,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV x2",
-      "size": "15.6 MB"
+      "size": "15.59 MB"
     },
     {
       "id": 1119792,
@@ -4100,7 +4191,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV x3",
-      "size": "50.8 MB"
+      "size": "101.00 MB"
     },
     {
       "id": 1119793,
@@ -4117,7 +4208,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV x4",
-      "size": "101 MB"
+      "size": "50.82 MB"
     },
     {
       "id": 1120533,
@@ -4134,7 +4225,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV x7",
-      "size": "276.8 MB"
+      "size": "276.78 MB"
     },
     {
       "id": 1122849,
@@ -4151,7 +4242,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x4",
-      "size": "52.7 MB"
+      "size": "52.65 MB"
     },
     {
       "id": 1125434,
@@ -4168,7 +4259,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MKV x4",
-      "size": "94.1 MB"
+      "size": "94.10 MB"
     },
     {
       "id": 1125933,
@@ -4219,7 +4310,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x5",
-      "size": "78.1 MB"
+      "size": "78.12 MB"
     },
     {
       "id": 1126303,
@@ -4236,7 +4327,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x4",
-      "size": "42.4 MB"
+      "size": "42.39 MB"
     },
     {
       "id": 1126337,
@@ -4304,7 +4395,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "10.1 GB"
+      "size": "10.10 GB"
     },
     {
       "id": 2005241,
@@ -4389,7 +4480,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.3 GB"
+      "size": "8.30 GB"
     },
     {
       "id": 2025878,
@@ -4405,8 +4496,44 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x22",
+      "format": "MP4 x28",
       "size": "2.46 GB"
+    }
+  ],
+  "The Lightning Thief: The Percy Jackson Musical": [
+    {
+      "id": 26680,
+      "show": "The Lightning Thief: The Percy Jackson Musical",
+      "tour": "Broadway",
+      "date": "2019-10",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Chris McCarrell (Percy Jackson), Kristin Stokes (Annabeth Chase), Jorrel Javier (Grover/Mr. D), James Hayden Rodriguez (Luke), Jalynn Steele (Sally Jackson), Sarah Beth Pfeifer (Clarisse), Ryan Knowles (Chiron)",
+      "notes": "Fantastic HD capture of the Broadway transfer of this show, filmed from the orchestra. The video starts part of the way through the first number. Act Two starts after the bus explodes. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "5.44 GB"
+    },
+    {
+      "id": 2011111,
+      "show": "The Lightning Thief: The Percy Jackson Musical",
+      "tour": "Off-West End",
+      "date": "2025-02-26",
+      "time": "E",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Max Harwood (Percy Jackson), Morgan Gregory (u/s Percy Jackson), Jessica Lee (Annabeth Chase), Scott Folan (Grover), Joe Allen (Mr. D), Joaquin Pedro Valdes (Luke), Paisley Billings (Sally Jackson), Samantha Mbolekwa (Clarisse), Greg Barnett (Mr. Brunner), Philip Catchpole (Ensemble), Charlotte O'Rourke (Ensemble), Alex Waxman (Ensemble)",
+      "notes": "Excellent 4K capture of this show! During “Son of Poseidon,” Max ran off and the show was stopped. Morgan replaced him for the rest of the show. Some wandering and unfocusing throughout, especially at the beginning. Includes curtain call, audio fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "9.57 GB"
     }
   ],
   "The Lion King": [
@@ -4497,7 +4624,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "4.8 GB"
+      "size": "4.80 GB"
     },
     {
       "id": 1129574,
@@ -4581,8 +4708,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "6.5 GB"
+      "format": "MP4 + MP3 x40",
+      "size": "7.29 GB"
     }
   ],
   "Little Women (Howland/Dickstein/Knee)": [
@@ -4620,7 +4747,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "3.3 GB"
+      "size": "3.30 GB"
     }
   ],
   "Mama I'm A Big Girl Now!": [
@@ -4696,7 +4823,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.1 GB"
+      "size": "4.10 GB"
     }
   ],
   "Matilda the Musical": [
@@ -4771,8 +4898,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls) + MOV x2",
-      "size": "4.53 GB + 10.09 GB"
+      "format": "MOV x2 + VOB (with smalls)",
+      "size": "15.46 GB"
     },
     {
       "id": 1681,
@@ -4839,7 +4966,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "6.73 GB"
     },
     {
@@ -5029,7 +5156,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x2",
-      "size": "9.63 GB"
+      "size": "9.83 GB"
     },
     {
       "id": 2001888,
@@ -5046,7 +5173,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "12.1 GB"
+      "size": "12.10 GB"
     },
     {
       "id": 2003216,
@@ -5062,8 +5189,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "M4V",
-      "size": "10.72 GB"
+      "format": "M4V x2",
+      "size": "10.69 GB"
     },
     {
       "id": 2004075,
@@ -5096,7 +5223,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MKV (1080p)",
+      "format": "MKV",
       "size": "10.84 GB"
     }
   ],
@@ -5206,6 +5333,23 @@
       "size": "3.79 GB"
     },
     {
+      "id": 1003517,
+      "show": "Monty Python's Spamalot",
+      "tour": "First US National Tour",
+      "date": "2006-05-23",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Michael Siberry (King Arthur), Pia Glenn (Lady of The Lake), David Turner (Sir Robin), Rick Holmes (Sir Lancelot), Christopher Gurr (Sir Bedevere/Dennis' Mother/Concorde), Tom Deckman (Historian/Prince Herbert), Jeff Dumas (Patsy), Bradley Dean (Sir Galahad), Justin Patterson (Guard/Monk), Kevin Crewell (Guard/Minstrel), John Cleese (God), Darryl Semira (Minstrel/Bors), Mia Price (Minstrel), Gavin Lodge (Sir Not Appearing), Christopher Sutton (Nun), Robyn Hurder (Ensemble), Naomi Kakuk (Ensemble), Amanda Kloots (Ensemble), Esther Stilwell (Ensemble), Craig Waletzko (Ensemble), Paula Wise (Ensemble), Nicole Long (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.04 GB"
+    },
+    {
       "id": 1143342,
       "show": "Monty Python's Spamalot",
       "tour": "Broadway Center Stage",
@@ -5236,7 +5380,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 (1080p)",
+      "format": "MP4",
       "size": "7.99 GB"
     },
     {
@@ -5288,7 +5432,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "5.7 GB"
+      "size": "5.70 GB"
     }
   ],
   "Moulin Rouge! The Musical": [
@@ -5325,6 +5469,23 @@
       "nft": false,
       "format": "MP4",
       "size": "8.86 GB"
+    },
+    {
+      "id": 2002921,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2024-07-28",
+      "time": "M",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Hailee Kaleem Wright (alt Satine), Aaron Tveit (Christian), Austin Durant (Harold Zidler), David Harris (The Duke of Monroth), Andre Ward (Toulouse-Lautrec), Alexander Gil Cruz (u/s Santiago), Sophie Carmen-Jones (Nini), Jacqueline B. Arnold (La Chocolat), Tasia Jungbauer (Arabia), Andres Quintero (Baby Doll), Jordan Wynn (Ensemble), Shaun-Avery Williams (Ensemble), Frank Viveros (Ensemble), Brooke Taylor (Ensemble), Brandon Stonestreet (s/w Ensemble), Jenn Stafford Yip (Ensemble), Kaitlin Mesh (Ensemble), Tyler John Logan (Ensemble), Kamal Lado (Ensemble), Bahiyah Hibah (Ensemble), Aaron C. Finley (Ensemble), Olivia Cece (s/w Ensemble), Nick Burrage (s/w Ensemble), Giovanni Bonaventura (s/w Ensemble)",
+      "notes": "Excellent 4K capture of Aaron and Hailee’s first show together! Action on the far left and on the walkway is obstructed. Act Two starts a little late into Christian’s monologue and has a momentary blackout during “Backstage Romance.” Some wandering and unfocusing throughout. Some washout throughout. Includes curtain call, and encore, audio is fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "11.47 GB"
     },
     {
       "id": 2005480,
@@ -5377,7 +5538,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "10.1 GB"
+      "size": "10.10 GB"
     }
   ],
   "The Muppets Take The Bowl": [
@@ -5427,8 +5588,8 @@
       "time": "U",
       "master": "StarCuffedJeans",
       "media_type": "video",
-      "cast": "Hugh Jackman (Harold Hill), Sutton Foster (Marian Paroo), Marie Mullen (Mrs. Paroo), Benjamin Pajak (Winthrop), Shuler Hensley (Marcellus Washburn), Branch Woodman (u/s Mayor Shinn), Gino Cosculluela (Tommy Djilas), Emma Crow (Zaneeta Shinn), Remy Auberjonois (Charlie Cowell), Kayla Teruel (Amaryllis), Phillip Boykin (Olin Britt/Barbershop Quartet), Jayne Houdyshell (Eulalie MacKecknie Shinn), Eddie Korbich (Jacey Squires/Barbershop Quartet), Daniel Torres (Ewart Dunlop/Barbershop Quartet), Jessica Sheridan (Maud Dunlop), Rema Webb (Mrs. Squires), Garrett Long (Ethel Toffelmier), Nicholas Ward (Barbershop Quartet/Oliver Hix), Lance Roberts (Constable Locke), Linda Mugleston (Alma Hix), Emily Jewel Hoder (Ensemble)",
-      "notes": "Master wrote down that Jefferson Mays was on as the mayor in this performance, but it's not him judging by the video. Given the actor playing the mayor is white and Branch was the only white u/s for the mayor, it's probably him.",
+      "cast": "Hugh Jackman (Harold Hill), Sutton Foster (Marian Paroo), Marie Mullen (Mrs. Paroo), Benjamin Pajak (Winthrop), Shuler Hensley (Marcellus Washburn), Jefferson Mays (Mayor Shinn), Gino Cosculluela (Tommy Djilas), Emma Crow (Zaneeta Shinn), Remy Auberjonois (Charlie Cowell), Kayla Teruel (Amaryllis), Phillip Boykin (Olin Britt/Barbershop Quartet), Jayne Houdyshell (Eulalie MacKecknie Shinn), Eddie Korbich (Jacey Squires/Barbershop Quartet), Daniel Torres (Ewart Dunlop/Barbershop Quartet), Jessica Sheridan (Maud Dunlop), Rema Webb (Mrs. Squires), Garrett Long (Ethel Toffelmier), Nicholas Ward (Barbershop Quartet/Oliver Hix), Lance Roberts (Constable Locke), Linda Mugleston (Alma Hix), Emily Jewel Hoder (Ensemble)",
+      "notes": "Previous note had Branch Woodman as Mayor Shin, but he is clearly seen in the quartet throughout the show (photos added). Relisted with Jefferson Mays as Mayor Shin per the Master's original listing, as both understudies are seen throughout the show in their normal roles. ",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -5445,13 +5606,30 @@
       "master": "StarCuffedJeans",
       "media_type": "video",
       "cast": "Hugh Jackman (Harold Hill), Sutton Foster (Marian Paroo), Marie Mullen (Mrs. Paroo), Benjamin Pajak (Winthrop), Shuler Hensley (Marcellus Washburn), Mark Linn-Baker (Mayor Shinn), Gino Cosculluela (Tommy Djilas), Emma Crow (Zaneeta Shinn), Remy Auberjonois (Charlie Cowell), Emily Jewel Hoder (Amaryllis), Phillip Boykin (Olin Britt/Barbershop Quartet), Jayne Houdyshell (Eulalie MacKecknie Shinn), Eddie Korbich (s/b Jacey Squires), Daniel Torres (Ewart Dunlop/Barbershop Quartet), Jessica Sheridan (Maud Dunlop), Rema Webb (Mrs. Squires), Garrett Long (Ethel Toffelmier), Nicholas Ward (Barbershop Quartet/Oliver Hix), Lance Roberts (Constable Locke), Linda Mugleston (Alma Hix), Kennedy Pitney (Gracie Shinn), Amanda LaMotte (Ensemble), Branch Woodman (Ensemble), Mitchell Tobin (Ensemble), Sherisse Springer (Ensemble), Ann Sanders (Ensemble), Tanner Quirk (Ensemble), Sean Montgomery (Ensemble), Drew Minard (Ensemble), Devin Miles Lugo (Ensemble), Ross Lekites (Ensemble), Kayla LaVine (Ensemble), Nick Alvino (Ensemble), Andrea Jones-Sojola (Ensemble), Ethen Green-Younger (Ensemble), Aydin Eyikan (Ensemble), Kammie Crum (Ensemble), William Thomas Colin (Ensemble), Michael Cash (Ensemble), Audrina Brudner (Ensemble), Ronnie S Bowman Jr. (Ensemble), Lauren Blackman (Ensemble), Jordan Beall (Ensemble)",
-      "notes": "",
+      "notes": "MY NOTES: Excellent video! I thought the cast was great too. Watched 3/28/2026",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "6.4 GB"
+      "size": "6.40 GB"
+    },
+    {
+      "id": 2011108,
+      "show": "The Music Man",
+      "tour": "First Broadway Revival",
+      "date": "1980",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Dick Van Dyke (Harold Hill), Meg Bussert (Marian Paroo), Carol Arthur (Mrs. Paroo), Christian Slater (Winthrop), Richard Warren Pugh (Marcellus Washburn), Iggie Wolfington (Mayor Shinn), Calvin McRae (Tommy Djilas), Christina Saffran (Zaneeta Shinn), Jay Stuart (Charlie Cowell), Lara Jill Miller (Amaryllis/Gracie Shinn), Ralph Braun (Olin Britt), Jen Jones (Eulalie MacKecknie Shinn), Mary Roche (Jacey Squires/Mrs. Squires), Larry Cahn (Ewart Dunlop), Mary Gaebler (Maud Dunlop), PJ Nelson (Ethel Toffelmier), Randy Morgan (Oliver Hix), Dennis Holland (Constable Locke), Marcia Brushingham (Alma Hix)",
+      "notes": "Missing overture and very beginning of Rock Island. Proshot on one tripod, possibly was going to be used for press footage. Some generational loss but still very much watchable.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MPG",
+      "size": "3.86 GB"
     }
   ],
   "Natasha, Pierre & The Great Comet of 1812": [
@@ -5470,7 +5648,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.4 GB"
+      "size": "8.40 GB"
     }
   ],
   "Newsies": [
@@ -5660,8 +5838,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MKV",
-      "size": "10.64 GB + 9.08 GB"
+      "format": "MKV x2",
+      "size": "19.72 GB"
     }
   ],
   "The Notebook": [
@@ -5698,8 +5876,27 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "6.49 GB"
+    }
+  ],
+  "Oklahoma!": [
+    {
+      "id": 19999,
+      "show": "Oklahoma!",
+      "tour": "National Theatre",
+      "date": "1999",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Hugh Jackman (Curly McLain), Josefina Gabrielle (Laurey Williams), Maureen Lipman (Aunt Eller Murphy), Jimmy Johnston (Will Parker), Shuler Hensley (Jud Fry), Vicki Simon (Ado Annie), Peter Polycarpou (Ali Hakim), Stuart Milligan (Cord Elam), Rebecca Thornhill (Gertie Cummings), Sydney Livingstone (Andrew Carnes), Philip Cox (Mike), Fergus Logan (Corky)",
+      "notes": "Mostly filmed in a studio, with partial scenes filmed at the Olivier stage. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MKV",
+      "size": "37.54 GB"
     }
   ],
   "Oliver!": [
@@ -5737,7 +5934,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "7.78 GB"
+      "size": "7.77 GB"
     },
     {
       "id": 1006476,
@@ -5773,7 +5970,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.6 GB"
+      "size": "4.60 GB"
     }
   ],
   "Once Upon A Mattress": [
@@ -5955,7 +6152,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4.33 GB"
+      "size": "4.32 GB"
     }
   ],
   "Peter Pan Goes Wrong": [
@@ -5973,7 +6170,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "1.12 GB"
     }
   ],
@@ -6117,7 +6314,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x9",
+      "format": "MP4 x11",
       "size": "1.26 GB"
     }
   ],
@@ -6136,8 +6333,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "632.3 MB"
+      "format": "MKV",
+      "size": "632.31 MB"
     }
   ],
   "The Producers": [
@@ -6156,7 +6353,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "4 GB"
+      "size": "4.00 GB"
     },
     {
       "id": 29751,
@@ -6193,6 +6390,25 @@
       "nft": false,
       "format": "MP4",
       "size": "4.99 GB"
+    }
+  ],
+  "Ragtime": [
+    {
+      "id": 2006365,
+      "show": "Ragtime",
+      "tour": "New York City Center Gala",
+      "date": "2024-11-03",
+      "time": "E",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Joshua Henry (Coalhouse Walker Jr.), Caissie Levy (Mother), Brandon Uranowitz (Tateh), Nichelle Lewis (Sarah), Colin Donnell (Father), Ben Levi Ross (Mother's Younger Brother), Shaina Taub (Emma Goldman), Matthew Lamb (The Little Boy), Stephanie Styles (Evelyn Nesbit), Tabitha Lawing (The Little Girl), Tom Nelis (Grandfather), Rodd Cyrus (Harry Houdini), Jacob Keith Watson (Willie Conklin), John Clay III (Booker T. Washington), John Rapson (Admiral Peary/J.P. Morgan), Jeff Kready (Henry Ford), Olivia Hernandez (Kathleen), Kai Latorre (Coalhouse Walker III), Tiffany Mann (Sarah's Friend), Morgan Marcell (Ensemble), Alan Wiggins (Ensemble), Kathy Voytko (Ensemble), Deandre Sevon (Ensemble), Destinee Rea (Ensemble), Ramone Nelson (Ensemble), Nicholas Barrón (Ensemble), Marina Kondo (Ensemble), David Jennings (Ensemble), Ta'Nika Gibson (Ensemble), Rheaume Crenshaw (Ensemble), Billy Cohen (Ensemble), Briana Carlson-Goodman (Ensemble)",
+      "notes": "Excellent 4K capture of this very anticipated production! Minor head obstruction blocks off some action on the far left during the opening number but disappears for the rest of the show. Increased wandering and unfocusing throughout. Some washout on the wider shots. Includes curtain call, audio is fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "11.66 GB"
     }
   ],
   "RENT": [
@@ -6245,7 +6461,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "1.1 GB"
+      "size": "1.10 GB"
     }
   ],
   "Richard II": [
@@ -6283,7 +6499,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "7 GB"
+      "size": "7.00 GB"
     }
   ],
   "Ride The Cyclone": [
@@ -6339,7 +6555,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "6.74 GB"
     }
   ],
@@ -6378,7 +6594,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.31 GB"
+      "size": "8.29 GB"
     },
     {
       "id": 5085,
@@ -6414,7 +6630,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "6.85 GB"
+      "size": "7.36 GB"
     }
   ],
   "Shrek: The Musical": [
@@ -6540,8 +6756,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MOV",
-      "size": "966.1 MB"
+      "format": "MOV + M4A x1",
+      "size": "984.50 MB"
     },
     {
       "id": 1157072,
@@ -6558,7 +6774,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "6 GB"
+      "size": "6.00 GB"
     }
   ],
   "Smash": [
@@ -6576,7 +6792,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MOV x3",
+      "format": "MOV x6",
       "size": "16.57 GB"
     },
     {
@@ -6595,6 +6811,23 @@
       "nft": false,
       "format": "MP4",
       "size": "9.78 GB"
+    },
+    {
+      "id": 2013974,
+      "show": "Smash",
+      "tour": "Broadway",
+      "date": "2025-04-07",
+      "time": "E",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Robyn Hurder (Ivy), Brooks Ashmanskas (Nigel), Krysta Rodriguez (Tracy), John Behlmann (Jerry), Kristine Nielsen (Susan), Caroline Bowman (Karen), Bella Coppola (Chloe), Jacqueline B. Arnold (Anita), Nicholas Matos (Scott), Casey Garvin (Charlie), Megan Kane (Holly), Wendi Bergamini (Ensemble), Sarah Bowden (Ensemble), Deanna Cudjoe (Ensemble), Daniel Gaymon (Ensemble), Merritt David Janes (Ensemble), David Paul Kidder (Ensemble), McGee Maddox (Ensemble), J Savage (Ensemble), Jake Trammel (Ensemble), Katie Webber (Ensemble)",
+      "notes": "Excellent 4K capture of this new show! Some head obstruction on the bottom that is mostly worked around well. Increased wandering and unfocusing throughout. Some washout on the wider shots. Includes curtain call, audio fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "10.41 GB"
     }
   ],
   "Some Like it Hot": [
@@ -6646,8 +6879,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "11.67 GB"
+      "format": "MP4 + M4A x2",
+      "size": "11.94 GB"
     },
     {
       "id": 1153551,
@@ -6682,7 +6915,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (with smalls) + MKV",
+      "format": "MKV + VOB (with smalls)",
       "size": "8.48 GB"
     },
     {
@@ -6751,7 +6984,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.05 GB"
+      "size": "8.04 GB"
     },
     {
       "id": 1220,
@@ -6767,8 +7000,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "VOB (incomplete smalls)",
-      "size": "9.28 GB"
+      "format": "VOB (with smalls)",
+      "size": "8.21 GB"
     },
     {
       "id": 1112371,
@@ -6785,7 +7018,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "5.37 GB"
+      "size": "5.36 GB"
     },
     {
       "id": 1147118,
@@ -6801,8 +7034,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "10.4 GB"
+      "format": "MP4 x2",
+      "size": "10.40 GB"
     },
     {
       "id": 2003716,
@@ -6818,7 +7051,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MTS x4",
+      "format": "MTS x8",
       "size": "12.75 GB"
     },
     {
@@ -6835,7 +7068,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "1.99 GB"
     }
   ],
@@ -6871,7 +7104,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MKV",
+      "format": "MKV x2 + M4A x1",
       "size": "3.56 GB"
     }
   ],
@@ -6894,6 +7127,25 @@
       "size": "4.63 GB"
     }
   ],
+  "Spirited Away": [
+    {
+      "id": 1147345,
+      "show": "Spirited Away",
+      "tour": "Japan Tour",
+      "date": "2022 (1)",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Kanna Hashimoto (Chihiro), Hiroki Miura (Haku), Tomohiko Tsujimoto (No Face), Fu Hinami (Lin/Chihiro's Mother), Kenya Osumi (Chihiro's Father/Aniyaku), Satoshi Hashimoto (Kamaji), Mari Natsuki (Yubaba/Zeniba), Sunao Yoshimura (Chichiyaku), Obata No Onisan (Aogaeru), Maria Abe (Ensemble), Kaito Arai (Ensemble), Yuya Igarashi (Ensemble), Yoko Ose (Ensemble), Wataru Ohshige (Ensemble), Hikaru Yamano (Ensemble), Yamato (Ensemble), Yuki Yahiro (Ensemble), Yuna Yasuno (Ensemble), 武者真由 Mayu Musha (Ensemble), 水野栄治 Eiji Mizuno (Ensemble), Teppen Matsunoki (Ensemble), Rei Hanashima (Ensemble), 折井理子 Motoko Orii (Ensemble), Hanano Teshirogi (Ensemble), Saya Chinen (Ensemble), Hayato Takehiro (Ensemble), Keiichi Tagawa (Ensemble), Mayu Suetomi (Ensemble), Toshihiko Jo (Ensemble), Saori Kouzuki (Ensemble), 可知寛子 Hiroko Kachi (Ensemble), Ayame Nakagami (Ensemble)",
+      "notes": "The first of this tour's two pro-shots, livestreamed on July 3rd, 2023 before being released on Blu-Ray. Shot on unspecified or possibly multiple dates, it includes English subtitles and Japanese closed-captions. \n\nThe bonus disc from the limited edition box set includes four hours of bonus features: a 200 day making-of documentary produced by NHK, the production's initial announcement event (November 9th, 2021), a press conference with Mari Natsuki and Toshio Suzuki at the Ghibli Museum (July 6th, 2021), the opening day press conference (March 3rd, 2022), and the closing day curtain call (July 4th, 2022).",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MKV",
+      "size": "4.90 GB"
+    }
+  ],
   "The SpongeBob Musical": [
     {
       "id": 6540,
@@ -6910,7 +7162,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "5.95 GB"
+      "size": "6.38 GB"
     }
   ],
   "Spring Awakening (Sheik/Sater)": [
@@ -6937,10 +7189,10 @@
       "tour": "Broadway",
       "date": "2008-05-18",
       "time": "E",
-      "master": "Unknown",
+      "master": "broadwayspunk",
       "media_type": "video",
       "cast": "Jonathan Groff (Melchior Gabor), Lea Michele (Wendla Bergmann), Blake Bashoff (Moritz Stiefel), Emma Hunton (Ilse Neumann), Lilli Cooper (Martha Bessell), Matt Doyle (Hanschen Rilow), Brian Charles Johnson (Otto Lämmermeier), Skylar Astin (Georg Zirschnitz), Remy Zaken (Thea), Phoebe Strole (Anna), Blake Daniel (Ernst Robel), Christine Estabrook (The Adult Women), Glenn Fleshler (The Adult Men), Gerard Canonico (Ensemble), Matt Shingledecker (Ensemble), Jenna Ushkowitz (Ensemble), Eryn Murman (Ensemble), Jesse Swenson (Ensemble), Alexandra Socha (Ensemble)",
-      "notes": "Jonathan Groff and Lea Michele's final performance.",
+      "notes": "Jonathan Groff and Lea Michele's final performance. The cast was on fire and the energy all around was buzzing. It wanders from time to time, but nothing too bad and a nice capture. Sound is iffy. Also includes the farewell speeches. A-",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -6964,7 +7216,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
+      "format": "MP4 x2",
       "size": "10.18 GB"
     }
   ],
@@ -6983,8 +7235,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "5.3 GB"
+      "format": "MP4 x2",
+      "size": "5.30 GB"
     }
   ],
   "Stranger Things: The First Shadow": [
@@ -7044,6 +7296,25 @@
       "size": "9.45 GB"
     }
   ],
+  "Sunday in the Park with George": [
+    {
+      "id": 506,
+      "show": "Sunday in the Park with George",
+      "tour": "Second Broadway Revival",
+      "date": "2017-03-08",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Jake Gyllenhaal (George/Georges Seurat), Annaleigh Ashford (Dot/Marie), Robert Sean Leonard (Jules/Bob Greenberg), Erin Davie (Yvonne/Naomi Eisen), Penny Fuller (Old Lady/Blair Daniels), David Turner (Franz/Dennis), Jennifer Sánchez (Nurse/Harriet Pawling/Samantha), Phillip Boykin (Boatman/Lee Randolph), Ashley Park (Celeste #1/Theresa), Jenni Barber (Celeste #2/Elaine), Brooks Ashmanskas (Mr./Charles Redmond), Ruthie Ann Miles (Frieda/Betty), Mattea Conforti (Louise), Jordan Gelber (Louis/Billy Webster), Liz McCartney (Mrs.), Claybourne Elder (Alex/Soldier)",
+      "notes": "Excellent HD capture of the Broadway transfer. The performances have really been fine tuned and beautifully performed. Jake and Annaleigh are perfection together. A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "8.15 GB"
+    }
+  ],
   "Sunset Boulevard": [
     {
       "id": 1138432,
@@ -7094,7 +7365,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "11 GB"
+      "size": "11.00 GB"
     }
   ],
   "Sweeney Todd: The Demon Barber of Fleet Street": [
@@ -7130,7 +7401,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "6.44 GB"
+      "size": "6.43 GB"
     },
     {
       "id": 1143661,
@@ -7163,8 +7434,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "12.3 GB"
+      "format": "MP4 x2",
+      "size": "12.30 GB"
     }
   ],
   "Tammy Faye": [
@@ -7199,7 +7470,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MOV",
+      "format": "MOV x2",
       "size": "10.62 GB"
     },
     {
@@ -7233,7 +7504,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 ",
+      "format": "MP4",
       "size": "6.44 GB"
     }
   ],
@@ -7324,8 +7595,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "2.01 GB"
+      "format": "MP4 x2 + MP3 x34",
+      "size": "2.63 GB"
     },
     {
       "id": 2010980,
@@ -7379,8 +7650,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4",
-      "size": "7.3 GB"
+      "format": "MP4 + MP3 x42",
+      "size": "7.92 GB"
     }
   ],
   "[title of show]": [
@@ -7439,6 +7710,23 @@
     }
   ],
   "Two Strangers (Carry a Cake Across New York)": [
+    {
+      "id": 2000092,
+      "show": "Two Strangers (Carry a Cake Across New York)",
+      "tour": "West End",
+      "date": "2024-05",
+      "time": "U",
+      "master": "hitmewithyourbethshot",
+      "media_type": "video",
+      "cast": "Sam Tutty (Dougal), Dujonna Gift (Robin)",
+      "notes": "<p>MTS, shot around safety rails</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MTS x4",
+      "size": "11.52 GB"
+    },
     {
       "id": 2003280,
       "show": "Two Strangers (Carry a Cake Across New York)",
@@ -7547,7 +7835,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.8 GB"
+      "size": "8.80 GB"
     },
     {
       "id": 9394,
@@ -7564,7 +7852,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "20.1 GB"
+      "size": "20.10 GB"
     },
     {
       "id": 16367,
@@ -7620,6 +7908,25 @@
       "size": "11.77 GB"
     }
   ],
+  "The Wedding Singer": [
+    {
+      "id": 29781,
+      "show": "The Wedding Singer",
+      "tour": "Broadway",
+      "date": "2006-04-15",
+      "time": "E",
+      "master": "Pigerty",
+      "media_type": "video",
+      "cast": "Stephen Lynch (Robbie Hart), Laura Benanti (Julia Sullivan), Matthew Saldivar (Sammy), Kevin Cahoon (George), Rita Gardner (Rosie), Amy Spanger (Holly), Richard H. Blake (Glen), Felicia Finley (Linda)",
+      "notes": "A bit of spotlight washout for the first 15 minutes. In Act 2 there are 2 cover ups totaling about 2 minutes each. This is the first video with the song Someday.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "3.58 GB"
+    }
+  ],
   "West Side Story": [
     {
       "id": 1440,
@@ -7655,7 +7962,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "8.84 GB"
+      "size": "8.78 GB"
     },
     {
       "id": 9,
@@ -7671,8 +7978,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "Original MP4",
-      "size": "2.9 GB"
+      "format": "MP4",
+      "size": "2.90 GB"
     },
     {
       "id": 14,
@@ -7757,7 +8064,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "3.87 GB"
+      "size": "3.86 GB"
     },
     {
       "id": 312,
@@ -7825,7 +8132,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x2",
-      "size": "478.9 MB"
+      "size": "478.94 MB"
     },
     {
       "id": 2008,
@@ -7927,7 +8234,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "5.2 GB"
+      "size": "5.20 GB"
     },
     {
       "id": 14125,
@@ -7978,7 +8285,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "979.3 MB"
+      "size": "978.87 MB"
     },
     {
       "id": 1122691,
@@ -8062,7 +8369,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 (4K)",
+      "format": "MP4",
       "size": "21.39 GB"
     },
     {
@@ -8080,7 +8387,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4",
-      "size": "12.1 GB"
+      "size": "12.10 GB"
     },
     {
       "id": 2007307,
@@ -8114,7 +8421,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "MP4 x3",
-      "size": "192.5 MB"
+      "size": "192.54 MB"
     },
     {
       "id": 2011721,
@@ -8153,6 +8460,25 @@
       "size": "10.71 GB"
     }
   ],
+  "A Wonderful Life": [
+    {
+      "id": 14089,
+      "show": "A Wonderful Life",
+      "tour": "Actors' Fund Benefit Concert",
+      "date": "2005-12-12",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Brian Stokes Mitchell (George Bailey), Judy Kuhn (Mary Bailey), Dominic Chianese (Henry Potter), Chuck Cooper (Uncle Billy), David Hyde Pierce (Clarence), Phylicia Rashad (Milly Bailey), Ronn Carroll (Tom Bailey), George S. Irving (Mr. Martini), Marian Seldes (Mrs. Hatch), Nancy Anderson (Violet Bick), Philip Bosco (Joseph), Marc Kudisch (Sam Wainwright), Karen Ziemba (MC)",
+      "notes": "Perfect multi-camera proshot, no generation loss. Benefit concert for the Actors Fund of America. Based on the Frank Capra classic, Its a Wonderful Life. Due to copyright complications and the death of composer Joe Raposo, it got shelved.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "3.42 GB"
+    }
+  ],
   "Xanadu": [
     {
       "id": 2500,
@@ -8182,7 +8508,7 @@
       "master": "SunsetBlvd79",
       "media_type": "video",
       "cast": "Roger Bart (Dr. Frederick Frankenstein), Megan Mullally (Elizabeth Benning), Christopher Fitzgerald (Igor), Sutton Foster (Inga), Andrea Martin (Frau Blücher), Shuler Hensley (The Monster), Fred Applegate (Inspector Hans Kemp/Hermit)",
-      "notes": "The changes from Seattle tighten up the show. Also includes Transylvania Mania, Roll in the Hay, and Together Again, performed on The Today Show. A+",
+      "notes": "GENERAL NOTES: The changes from Seattle tighten up the show. Also includes Transylvania Mania, Roll in the Hay, and Together Again, performed on The Today Show. A+<br><br>MY NOTES: Quite the show. Pretty nice video with just a couple of dropouts, captures all of the action. Watched 3/28/2026",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",

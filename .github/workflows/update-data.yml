@@ -29,7 +29,7 @@ jobs:
     - name: Run fetchData.js
       env:
         API_KEY: ${{ secrets.API_KEY }}
-      run: node fetchData.js
+      run: node src/fetchData.js
 
     - name: Commit changes
       run: |

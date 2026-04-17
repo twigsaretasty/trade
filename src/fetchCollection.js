@@ -364,19 +364,19 @@ async function main() {
     console.log(`Found ${thisWeekIns.length} new recordings from this week and ${lastWeekIns.length} from last week.`)
 
     writeFileSync(
-        `./audios.json`,
+        `../public/audios.json`,
         JSON.stringify(sortedGroupedAudios, null, 2),
         'utf-8'
     );
 
     writeFileSync(
-        `./videos.json`,
+        `../public/videos.json`,
         JSON.stringify(sortedGroupedVideos, null, 2),
         'utf-8'
     );
 
     writeFileSync(
-        `./new.json`,
+        `../public/new.json`,
         JSON.stringify(newRecordings, null, 2),
         'utf-8'
     );
