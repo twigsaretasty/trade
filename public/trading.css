@@ -150,7 +150,7 @@ h1 {
     gap: 90px;
 }
 
-#flex-container ul {
+ul {
     list-style-position: inside;
 }
 
@@ -389,7 +389,11 @@ details ul {
     text-align: center;
     margin: auto;
     margin-top: 20px;
-    width: 75vw;
+    width: 65%;
+}
+
+#info li {
+    padding: 5px;
 }
 
 #buttons {
