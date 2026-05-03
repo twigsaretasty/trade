@@ -2422,6 +2422,23 @@
   ],
   "Hamilton": [
     {
+      "id": 31000,
+      "show": "Hamilton",
+      "tour": "First US National Tour (Angelica)",
+      "date": "2018-11-18",
+      "time": "M",
+      "master": "httrading",
+      "media_type": "audio",
+      "cast": "Austin Scott (Alexander Hamilton), Isa Briones (u/s Eliza Hamilton), Nicholas Christopher (Aaron Burr), Stephanie Umoh (Angelica Schuyler), Paul Oakley Stovall (George Washington), Bryson Bruce (Marquis de Lafayette/Thomas Jefferson), Chaundre Hall-Broomfield (Hercules Mulligan/James Madison), Rubén J. Carbajal (John Laurens/Philip Hamilton), Dorcas Leung (s/b Peggy Schuyler/Maria Reynolds), Peter Matthew Smith (King George III), Alexander Ferguson (Philip Schuyler/James Reynolds/Doctor)",
+      "notes": "Won lottery! Recorded from front row right behind the conductor. This show is Nicholas and Rubén's FINAL matinee with the Angelica Company. First known recording of Isa Briones as Eliza, Dorcas Leung as Peggy, and Stephanie Uwoh as Angelica. This is a rare combination of people that will NEVER perform together again. Gifted upon request.\nTwo versions are circulating – ALAC m4a (1.23 GB) and AAC LC m4a (260.9 MB).",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2002990,
       "show": "Hamilton",
       "tour": "West End",
@@ -2437,6 +2454,40 @@
       "nft": true,
       "format": "MP3 x2",
       "size": "221.45 MB"
+    },
+    {
+      "id": 2018554,
+      "show": "Hamilton",
+      "tour": "Broadway",
+      "date": "2016-06-05",
+      "time": "E",
+      "master": "BoqTheMunchkin",
+      "media_type": "audio",
+      "cast": "Javier Muñoz (alt Alexander Hamilton), Phillipa Soo (Eliza Hamilton), Austin Smith (u/s Aaron Burr), Renée Elise Goldsberry (Angelica Schuyler), Christopher Jackson (George Washington), Daveed Diggs (Marquis de Lafayette/Thomas Jefferson), Okieriete Onaodowan (Hercules Mulligan/James Madison), Anthony Ramos (John Laurens/Philip Hamilton), Jasmine Cephas Jones (Peggy Schuyler/Maria Reynolds), Rory O'Malley (King George III)",
+      "notes": "Happy Hamilten! Full untracked audio of Javier and Austin as Ham and Burr!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "75.3 MB"
+    },
+    {
+      "id": 2020402,
+      "show": "Hamilton",
+      "tour": "Broadway",
+      "date": "2025-09-09",
+      "time": "E",
+      "master": "bobbyskazoo",
+      "media_type": "audio",
+      "cast": "Trey Curtis (Alexander Hamilton), Morgan Anita Wood (Eliza Hamilton), Leslie Odom Jr. (Aaron Burr), Jisel Soleil Ayon (Angelica Schuyler), Tamar Greene (George Washington), Bryson Bruce (Marquis de Lafayette/Thomas Jefferson), Ebrin R. Stanley (Hercules Mulligan/James Madison), David Guzman (John Laurens/Philip Hamilton), Cherry Torres (Peggy Schuyler/Maria Reynolds), Jarrod Spector (King George III), Christian Thompson (Philip Schuyler/James Reynolds/Doctor), Thayne Jasperson (Samuel Seabury), Rixey Terry (Charles Lee), Dharon E Jones (George Eacker), Reanne Acasio (Ensemble), Lauren Boyd (Ensemble), Jonathan Butler-Duplessis (Ensemble), Daniel Gaymon (Ensemble), Jennifer Geller (Ensemble), Shonica Gooden (Ensemble), Ashley Merritt (Ensemble)",
+      "notes": "Leslie’s return performance! Clear audio recorded from mid-orchestra; cheering and clapping occasionally overpower the recording. Standing ovations for Leslie’s entrance, Wait for It, The Room Where It Happens, and One Last Time.</p> <p><br></p><p>Do not post on any platform (TikTok, Tumblr, YouTube, Reddit, etc.). Please list as bobbyskazoo’s master. Feel free to trade as normal; never to be gifted or sold.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "479.9 MB"
     }
   ],
   "The Heart": [
@@ -8265,7 +8316,7 @@
       "tour": "Third UK Tour",
       "date": "2026-04-08",
       "time": "M",
-      "master": "Misterwicked13",
+      "master": "FiyeroDuke13",
       "media_type": "audio",
       "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar)",
       "notes": "MASTER NOTES: Good quality audio of the incredible Amber Davies as Elle Woods. Whole cast was on fire but especially Amber.<br><br>GENERAL NOTES: Includes photo of the master's view of the stage and a video of the curtain call.",
@@ -8472,6 +8523,23 @@
       "size": "284.77 MB"
     },
     {
+      "id": 1120501,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2022-02-05",
+      "time": "M",
+      "master": "HBCFG",
+      "media_type": "audio",
+      "cast": "Conrad Ricamora (Seymour), Joy Woods (u/s Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Jana Djenne Jackson (u/s Chiffon), Aveena Sawyer (Crystal), Salome Smith (Ronnette), Aaron Arnell Harrington (Voice of Audrey II)",
+      "notes": "Joy Woods first performance as Audrey",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "48.1 MB"
+    },
+    {
       "id": 1122967,
       "show": "Little Shop of Horrors",
       "tour": "Off-Broadway Revival",
@@ -8606,6 +8674,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "50.5 MB"
+    },
+    {
+      "id": 1156425,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2024-03-21",
+      "time": "E",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Darren Criss (Seymour), Evan Rachel Wood (Audrey), Bryce Pinkham (Orin/Others), Michael Iannucci (u/s Mr. Mushnik), Khadija Sankoh (Chiffon), Morgan Ashley Bryant (Crystal), Melissa Victor (u/s Ronnette), Major Attaway (Voice of Audrey II)",
+      "notes": "Recorded from the front of the theatre. I hit my phone at some point early in act 1, but otherwise there shouldn’t be much interruption/shuffling. Apologies for my laughter.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "51.8 MB"
     },
     {
       "id": 2016630,
@@ -9064,6 +9149,23 @@
       "size": "109.29 MB"
     },
     {
+      "id": 1152550,
+      "show": "Monty Python's Spamalot",
+      "tour": "First Broadway Revival",
+      "date": "2023-12-13",
+      "time": "M",
+      "master": "oconnorjenna",
+      "media_type": "audio",
+      "cast": "James Monroe Iglehart (King Arthur), Leslie Rodriguez Kritzer (Lady of The Lake), Michael Urie (Sir Robin/Brother Maynard/Guard 1), Taran Killam (Sir Lancelot/The French Taunter/Knight of Ni/Tim the Enchanter), Jimmy Smagula (Sir Bedevere/Dennis' Mother/Concorde), Ethan Slater (Historian/Not Dead Fred/Prince Herbert/Bunny), Christopher Fitzgerald (Mayor/Patsy/Guard 2), Nik Walker (Sir Galahad/Black Knight/Prince Herbert's Father)",
+      "notes": "Can gift or trade, do not sell. List as oconnorjenna’s master. Please do not post on youtube or any social media.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "57.7 MB"
+    },
+    {
       "id": 1153391,
       "show": "Monty Python's Spamalot",
       "tour": "Broadway",
@@ -9096,6 +9198,23 @@
       "nft": false,
       "format": "MP3 x27",
       "size": "134.94 MB"
+    },
+    {
+      "id": 1154802,
+      "show": "Monty Python's Spamalot",
+      "tour": "First Broadway Revival",
+      "date": "2024-02-10",
+      "time": "M",
+      "master": "BoqTheMunchkin",
+      "media_type": "audio",
+      "cast": "James Monroe Iglehart (King Arthur), Leslie Rodriguez Kritzer (Lady of The Lake), Jonathan Bennett (Sir Robin/Brother Maynard/Guard 1), Alex Brightman (Sir Lancelot/The French Taunter/Knight of Ni/Tim the Enchanter), Jimmy Smagula (Sir Bedevere/Dennis' Mother/Concorde), David Josefsberg (s/b Historian/Not Dead Fred/Prince Herbert/Bunny), Christopher Fitzgerald (Mayor/Patsy/Guard 2), Nik Walker (Sir Galahad/Black Knight/Prince Herbert's Father), Daniel Beeman (Ensemble), Maria Briggs (Ensemble), Gabriella Enriquez (Ensemble), Michael Fatica (Ensemble), Denis Lambert (Ensemble), Shina Ann Morris (Ensemble), Kaylee Olson (Ensemble), Kristin Piro (Ensemble), Drew Redington (Ensemble), Tyler Roberts (Ensemble)",
+      "notes": "Recorded from rear orchestra. What a hilarious and fun show with a true all-star cast of hilarious and fabulous people. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "59.4 MB"
     },
     {
       "id": 1155604,
@@ -9147,6 +9266,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "60.21 MB"
+    },
+    {
+      "id": 1156775,
+      "show": "Monty Python's Spamalot",
+      "tour": "First Broadway Revival",
+      "date": "2024-01-23",
+      "time": "E",
+      "master": "xoxomj",
+      "media_type": "audio",
+      "cast": "James Monroe Iglehart (King Arthur), Leslie Rodriguez Kritzer (Lady of The Lake), Jonathan Bennett (Sir Robin/Brother Maynard/Guard 1), Alex Brightman (Sir Lancelot/The French Taunter/Knight of Ni/Tim the Enchanter), Jimmy Smagula (Sir Bedevere/Dennis' Mother/Concorde), Ethan Slater (Historian/Prince Herbert), Christopher Fitzgerald (Patsy/Guard 2), Nik Walker (Sir Galahad/Black Knight/Prince Herbert's Father), Daniel Beeman (Ensemble), Tyler Roberts (Ensemble), Drew Redington (Ensemble), Kristin Piro (Ensemble), Kaylee Olson (Ensemble), Shina Ann Morris (Ensemble), Denis Lambert (Ensemble), Michael Fatica (Ensemble), Gabriella Enriquez (Ensemble), Maria Briggs (Ensemble)",
+      "notes": "Jonathan Bennetts first performance.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "64.5 MB"
     },
     {
       "id": 2000185,
@@ -9323,7 +9459,43 @@
       "size": "132.82 MB"
     }
   ],
+  "Newsies": [
+    {
+      "id": 1122534,
+      "show": "Newsies",
+      "tour": "Broadway",
+      "date": "2012-07-27",
+      "time": "E",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Mike Faist (u/s Jack Kelly), Ben Fankhauser (Davey Jacobs), Kara Lindsay (Katherine Plumber), Andrew Keenan-Bolger (Crutchie), John Dossett (Joseph Pulitzer), Julie Foldesi (u/s Medda Larkin), Matthew Schechter (Les Jacobs), Ryan Breslin (Race), Andy Richardson (Romeo), Michael Fatica (u/s Morris Delancey), Brendon Stimson (Oscar Delancey), Tommy Bracco (Spot Conlon), Aaron J. Albano (Finch), Ryan Steele (Specs), Evan Kasprzak (Elmer), Jack Scott (u/s Albert), John E. Brady (Wiesel/Mr. Jacobi/Mayor), Stuart Marland (Snyder), Kevin Carolan (Theodore Roosevelt), Kyle Coffman (Henry), Jess LeProtto (Buttons), JP Ferreri (Sniper/Scab), Mark Aldrich (Seitz), Nick Sullivan (Bunsen), Laurie Veldheer (Hannah), Ephraim Sykes (Mush), Thayne Jasperson (Darcy), Caitlyn Caughell (u/s Nun)",
+      "notes": "Mike's first time on as Jack. Julie's debut as Medda. JP Ferreri's debut in the Broadway production.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x47",
+      "size": "136.9 MB"
+    }
+  ],
   "Next to Normal": [
+    {
+      "id": 2431,
+      "show": "Next to Normal",
+      "tour": "Off-Broadway",
+      "date": "2008-01-19",
+      "time": "E",
+      "master": "soundboard",
+      "media_type": "audio",
+      "cast": "Alice Ripley (Diana), Brian d'Arcy James (Dan), Aaron Tveit (Gabe), Jennifer Damiano (Natalie), Adam Chanler-Berat (Henry), Asa Somers (Dr. Fine/Dr. Madden)",
+      "notes": "About 50 minutes of highlights from the Soundboard. A++ Quality.",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 2003918,
       "show": "Next to Normal",
@@ -11295,6 +11467,40 @@
   ],
   "Sweeney Todd: The Demon Barber of Fleet Street": [
     {
+      "id": 5636,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Broadway",
+      "date": "1979-02-06",
+      "time": "E",
+      "master": "JHHouse",
+      "media_type": "audio",
+      "cast": "Len Cariou (Sweeney Todd), Angela Lansbury (Mrs. Lovett), Victor Garber (Anthony Hope), Sarah Rice (Johanna), Edmund Lyndeck (Judge Turpin), Ken Jennings (Tobias Ragg), Jack Eric Williams (Beadle Bamford), Merle Louise (Beggar Woman), Joaquin Romaguera (Adolfo Pirelli)",
+      "notes": "First preview! Includes the “Johanna (Mea Culpa)” and a reprise for Sweeney of “Not While I'm Around” in the “Final Sequence.” Also, a fair number of other differences from the version that opened, including the fact that Mrs. Lovett is included in the opening “Ballad of Sweeney Todd,” some slightly different choral arrangements, and some slightly different vocal lines. Lansbury goes up on her lyrics during “Worst Pies in London” and “By the Sea,” and ends up singing a series of “la la las” for several bars on the latter.\n\nThere are three versions of this audio in circulation. \n\nAIFF (tracked) - 1.54 GB (52 files) is directly from the Master who recorded this and is the best/correct quality.\nMP3 (tracked) - 143 MB (60 files) has track 221 is mislabeled as 219, though some traders have corrected this. Not a 1st gen. \nMP3 (tracked) - 358 MB (52 files) appears to be a lower gen copy, but is not the original 1st Gen. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 5637,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Broadway",
+      "date": "1979-03-01",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Len Cariou (Sweeney Todd), Angela Lansbury (Mrs. Lovett), Victor Garber (Anthony Hope), Sarah Rice (Johanna), Edmund Lyndeck (Judge Turpin), Ken Jennings (Tobias Ragg), Jack Eric Williams (Beadle Bamford), Merle Louise (Beggar Woman), Joaquin Romaguera (Adolfo Pirelli)",
+      "notes": "Opening Night! Incredibly enthusiastic audience. Sometimes labeled as a Soundboard recording but it is a bootleg.\n\nThere are two versions of this audio in circulation. The first is the original untracked version with high pitch. The second version is a tracked set with 47 files, which appears to be a pitch corrected remastered copy.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1143955,
       "show": "Sweeney Todd: The Demon Barber of Fleet Street",
       "tour": "Third Broadway Revival",
@@ -11310,6 +11516,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "78.23 MB"
+    },
+    {
+      "id": 1147087,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Third Broadway Revival",
+      "date": "2023-08-23",
+      "time": "M",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Nicholas Christopher (u/s Sweeney Todd), Jeanna de Waal (s/b Mrs. Lovett), Nathan Salstone (u/s Anthony Hope), Maria Bilbao (Johanna), Jamie Jackson (Judge Turpin), Gaten Matarazzo (Tobias Ragg), John Rapson (Beadle Bamford), Ruthie Ann Miles (Beggar Woman), Daniel Torres (u/s Adolfo Pirelli), Stephen Tewksbury (Jonas Fogg), Jonathan Christopher (Bird Seller), Patricia Phillips (Passerby), Megan Ort (s/w Ensemble), Felix Torrez-Ponce (Ensemble), Tug Watson (s/w Ensemble), Kristie Dale Sanders (Ensemble), Dwayne Cooper (s/w Ensemble), Lexi Rabadi (Ensemble), Kyrie Courter (s/w Ensemble), Michael Kuhn (s/w Ensemble), Alicia Kaori (Ensemble), Paul-Jordan Jansen (Ensemble), Hennessy Winkler (s/w Ensemble), Taeler Cyrus (Ensemble), Galyana Castillo (Ensemble)",
+      "notes": "Nicholas and Jeannas first performance together. Recorded from the orchestra.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "151.5 MB"
     }
   ],
   "Take the Lead": [
@@ -11596,6 +11819,23 @@
       "size": "138.43 MB"
     },
     {
+      "id": 21648,
+      "show": "Wicked",
+      "tour": "Broadway",
+      "date": "2012-03-14",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Jackie Burns (Elphaba), Kate Fahrner (s/b Glinda), Richard H. Blake (Fiyero), P.J. Benjamin (The Wizard), Randy Danson (Madame Morrible), Jenny Fellner (Nessarose), Taylor Trensch (t/r Boq), Tom Flynn (Doctor Dillamond)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 23622,
       "show": "Wicked",
       "tour": "First US National Tour (Emerald City)",
@@ -11628,6 +11868,23 @@
       "nft": false,
       "format": "MP3 x40",
       "size": "207.18 MB"
+    },
+    {
+      "id": 26647,
+      "show": "Wicked",
+      "tour": "Los Angeles",
+      "date": "2007-08-12",
+      "time": "E",
+      "master": "juniper47",
+      "media_type": "audio",
+      "cast": "Julie Reiber (s/b Elphaba), Megan Hilty (Glinda), Adam Lambert (u/s Fiyero), Matthew Stocke (u/s The Wizard), Linda Kerns (u/s Madame Morrible), Jenna Leigh Green (Nessarose), Adam Wylie (Boq), Timothy Britten Parker (Doctor Dillamond), Phillip Spaeth (s/w Chistery), Laura Dysarczyk (s/w Midwife), Kristen Faith Oei (s/w Witch's Mother), Brian Munn (Witch's Father/Ozian Official)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x42",
+      "size": "216.6 MB"
     },
     {
       "id": 27620,
