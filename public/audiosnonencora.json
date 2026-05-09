@@ -79,5 +79,39 @@
             "format": "MP3 x2 + x36",
             "size": "535.8 MB"
         }
+    ],
+    "The Music Man": [
+        {
+            "show": "The Music Man",
+            "tour": "Third Broadway Revival",
+            "date": "2022-07-03",
+            "time": "M",
+            "master": "Unknown",
+            "cast": "Hugh Jackman (Harold Hill), Kathy Voytko (u/s Marian Paroo), Shuler Hensley (Marcellus Washburn), Marie Mullen (Mrs. Paroo), Jefferson Mays (Mayor Shinn), Jayne Houdyshell (Eulalie Mackecknie Shinn), Kammie Crum (u/s Zaneeta Shinn), Gino Cosculluela (Tommy Djilas), Benjamin Pajak (Winthrop Paroo), Kayla La Vine (Amaryllis), Linda Mugleston (Ethel Toffelmier), Nicholas Ward (Jacey Squires), Ryan Worsing (u/s Oliver Hix), Daniel Torres (Olin Britt), Remo Webb (Ewart Dunlop), Richard Gatta (u/s Traveling Salesman), Daniel Patrick Russell (u/s Traveling Salesman), Ensemble: Aidan Eykian, Andrea Jones-Sojola, Audrey Cardwell, Audrina Brudner, Curtis Holland, Devin Miles Lugo, Eddie Korbich, Eloise Kropp, Emily Jewel Hoder, Emma Crow, Ethan Green-Younger, Garrett Long, Haley Fish, Jane Brockman, Jordan Beall, Kadee Evia, Kennedy Pitney, Lance Roberts, Maria Briggs, Max Clayton, Michael Cash, Nick Alvino, Philip Boykin, Remy Auberjonois, Ronnie S. Bowman Jr., Sean Montgomery, William Thomas Colin",
+            "notes": "A lovely performance of this lovely revival of THE MUSIC MAN, even with the awful lyric changes to “Shipoopi” - if you’re going to sanitize it, you still have to be clever! That said, Kathy is a lovely, lovely Marian who sings the songs beautifully in the keys as written, which is such a treat. Jayne Houdyshell left no scenery unchewed. This is the kind of role Hugh Jackman is perfect for (deception? By someone who hangs with the Trumps? Never!), and he is pretty stellar, in my humble opinion.",
+            "amount_recorded": "Full",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": false,
+            "format": "M4A x2",
+            "size": "65.3 MB"
+        }
+    ],
+    "Sweeney Todd: The Demon Barber of Fleet Street": [
+        {
+            "show": "The Music Man",
+            "tour": "Third Broadway Revival",
+            "date": "2023-02-26",
+            "time": "E",
+            "master": "ColorAndLight",
+            "cast": "Josh Groban (Sweeney Todd), Annaleigh Ashford (Mrs. Lovett), Jordan Fisher (Anthony), Gaten Matarazzo (Tobias), Ruthie Ann Miles (Beggar Woman), Maria Bilbao (Johanna), Jamie Jackson (Jusge Turpin), John Rapson (Beadle Bamford), Nicholas Christopher (Pirelli), Ensemble: Galvan’s Castillo, Jonathan Christopher, Taeler Cyrus, Timothy Hughes, Paul-Jordan Jansen, Alicia Kaori, Raymond J. Lee, Patricia Phillips, Samantha Pollino, Lexi Rabadi, Nathan Salstone, Kristie Dale Sanders, Stephen Tewksbury, Daniel Torres, Felix Torrez-Ponce, DeLaney Westfall",
+            "notes": "First preview. Responsive crowd, also talkative. Especially the women behind me. You may also hear some of my…reactions. DO NOT LIST ON ENCORA  - Trade, gift, share, but do not post on any social media because that’s annoying and will make me hate you. ",
+            "amount_recorded": "Full",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": false,
+            "format": "M4A x2 + x49",
+            "size": "409.5 MB"
+        }
     ]
 }

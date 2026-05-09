@@ -55,7 +55,7 @@ Promise.all([
     let pendingCount = recordingsCount - weeklyRecordingsCount;
 
     // Calculate full count
-    let nonencora = 12; // <-- UPDATE HERE
+    let nonencora = 14; // <-- UPDATE HERE
     let newTotal = (weeklyRecordingsCount + nonencora)
 
     // Add recordings count
