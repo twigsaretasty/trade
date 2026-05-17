@@ -9478,6 +9478,23 @@
   ],
   "Newsies": [
     {
+      "id": 4887,
+      "show": "Newsies",
+      "tour": "Broadway",
+      "date": "2012-04-29",
+      "time": "M",
+      "master": "Autistic Jellicle Cat",
+      "media_type": "audio",
+      "cast": "Jeremy Jordan (Jack Kelly), Ben Fankhauser (Davey Jacobs), Kara Lindsay (Katherine Plumber), Andrew Keenan-Bolger (Crutchie), Capathia Jenkins (Medda Larkin), Lewis Grosso (Les Jacobs), Jack Scott (u/s Elmer), Kevin Carolan (Theodore Roosevelt)",
+      "notes": "At 0:22:10 in Act 1, the police officer sneezes when he makes his entrance. Jack says bless you, and then Les coughs.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "313.2 MB"
+    },
+    {
       "id": 1122534,
       "show": "Newsies",
       "tour": "Broadway",
@@ -9565,6 +9582,25 @@
       "nft": false,
       "format": "M4A x1 + MP3 x29",
       "size": "418.35 MB"
+    }
+  ],
+  "Octet": [
+    {
+      "id": 11156,
+      "show": "Octet",
+      "tour": "Off-Broadway",
+      "date": "2019-05-02",
+      "time": "E",
+      "master": "OrRatherAGhost",
+      "media_type": "audio",
+      "cast": "Margo Seibert (Jessica), Kuhoo Verma (Velma), Kim Blanck (Karly), Starr Busby (Paula), Justin Gregory Lopez (Toby), J.D. Mollison (Marvin), Alex Gibson (Henry), Adam Bashian (Ed)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1 + x20",
+      "size": "309.7 MB"
     }
   ],
   "The Office: A Musical Parody": [
@@ -11608,6 +11644,23 @@
     }
   ],
   "tick, tick...BOOM!": [
+    {
+      "id": 15502,
+      "show": "tick, tick...BOOM!",
+      "tour": "Encores!",
+      "date": "2014-06-28",
+      "time": "E",
+      "master": "playbill-love",
+      "media_type": "audio",
+      "cast": "Lin-Manuel Miranda (Jon), Leslie Odom Jr. (Michael), Karen Olivo (Susan)",
+      "notes": "This recording is very clear but quiet. I recommend using the Vocal Boost equalizer and volume adjustment in iTunes. I felt the sound design of this show was poor, and had trouble hearing some songs from the rear orchestra.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "46 MB"
+    },
     {
       "id": 1154531,
       "show": "tick, tick...BOOM!",
