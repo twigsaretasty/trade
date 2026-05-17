@@ -1706,7 +1706,7 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP4 x12",
+      "format": "MP4 x6",
       "size": "135.80 MB"
     }
   ],
@@ -2780,7 +2780,7 @@
       "time": "E",
       "master": "Unknown",
       "media_type": "video",
-      "cast": "Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Laura Bell Bundy (Amber Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin), Jackie Hoffman (Prudy Pingleton/Female Authority Figure), Shoshana Bean (Shelley), Joel Vig (Male Authority Figure), Kamilah Martin (Dynamite #1), Shayna Steele (Dynamite #2), Judine Richard (Dynamite #3)",
+      "cast": "Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Mary Bond Davis (Motormouth Maybelle), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Laura Bell Bundy (Amber Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin), Corey Reynolds (Seaweed J. Stubbs), Jackie Hoffman (Prudy Pingleton/Female Authority Figure), Shoshana Bean (Shelley), Joel Vig (Male Authority Figure), Kamilah Martin (Dynamite #1), Shayna Steele (Dynamite #2), Judine Richard (Dynamite #3)",
       "notes": "Digital, Shot from first row mezz. Lots of close ups.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -5770,6 +5770,25 @@
       "nft": false,
       "format": "MPG",
       "size": "3.86 GB"
+    }
+  ],
+  "The Mystery of Edwin Drood": [
+    {
+      "id": 385,
+      "show": "The Mystery of Edwin Drood",
+      "tour": "First Broadway Revival",
+      "date": "2013-03-10",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Stephanie J. Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Erin Davie (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andrew Samonsky (Neville Landless/Mr. Victor Grinstead), Robert Creighton (Durdles/Mr. Nick Cricker), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Peter Benson (Mr. Phillip Bax/Bazzard), Nicholas Barasch (Deputy/Master Nick Cricker)",
+      "notes": "Excellent HD capture of the final show. The audience was full of fans of the show, so great energy and applause throughout. Includes the only time three lovers were selected, including John Jasper. Touching final curtain speech by the director and Rupert Holmes. Datchery: Bazzard, Murderer: Puffer, Lovers: Helena and Jasper and Rosa Bud. A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "13.28 GB"
     }
   ],
   "Natasha, Pierre & The Great Comet of 1812": [
