@@ -251,6 +251,25 @@
       "size": "4.25 GB"
     }
   ],
+  "Aida": [
+    {
+      "id": 2350,
+      "show": "Aida",
+      "tour": "Broadway",
+      "date": "2000-03-29",
+      "time": "M",
+      "master": "Major",
+      "media_type": "video",
+      "cast": "Heather Headley (Aida), Adam Pascal (Radames), Sherie Rene Scott (Amneris), John Hickok (Zoser), Damian Perkins (Mereb), Schele Williams (Nehebka)",
+      "notes": "GENERAL NOTES: Excellent capture with many great close ups. Shot at a 2 pm show by Major. A\n\nMultiple copies circulate:\n\nVOB + Smalls (4.26 GB) - 2 discs and has a lot of generational loss.\nVOB + Smalls (2.21 GB) - Better copy however the color is off and the picture has some bending across the screen in wide shots.\nVOB + Smalls (2.49 GB) - 2nd Generation copy, rare in this condition and was received from SunsetBlvd79’s collection. Much better copy with great colors though it still isn’t as clear as the master copy which isn’t circulating. \n\nScreenshots below are from the 2nd Generation copy\n<br><br>MY NOTES: Better copy, but some bending across wide shots",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "2.15 GB"
+    }
+  ],
   "Ain't Too Proud": [
     {
       "id": 1148853,
@@ -1229,6 +1248,23 @@
       "nft": false,
       "format": "MKV",
       "size": "11.05 GB"
+    },
+    {
+      "id": 2023065,
+      "show": "Chess",
+      "tour": "First Broadway Revival",
+      "date": "2025-10",
+      "time": "E",
+      "master": "The Riddle",
+      "media_type": "video",
+      "cast": "Lea Michele (Florence Vassy), Aaron Tveit (Freddie Trumper), Nicholas Christopher (Anatoly Sergievsky), Hannah Cruz (Svetlana Sergievsky), Bryce Pinkham (The Arbiter), Bradley Dean (Molokov), Sean Allan Krill (Walter de Courcey), Katie Webber (Ensemble), Regine Sophia (Ensemble), Samantha Pollino (Ensemble), Aleksandr Ivan Pevec (Ensemble), Katerina Papacostas (Ensemble), Michael Olaribigbe (Ensemble), Ramone Nelson (Ensemble), Sarah Meahl (Ensemble), Sean MacLaughlin (Ensemble), Sydney Jones (Ensemble), Aliah James (Ensemble), Adam Halpin (Ensemble), Casey Garvin (Ensemble), Shavey Brown (Ensemble), Daniel Beeman (Ensemble), Kyla Bartholomeusz (Ensemble)",
+      "notes": "Great 4k capture of the electric first preview of this revival! Little to no obstruction throughout, although unfortunately a lighting rig blocks the right of the upper level. Some washout in wider shots and wandering throughout, with minor instances of the camera focusing on the wrong thing due to usher activity. Many blackouts during the first ten minutes or so, also due to usher activity. Includes bows and audio of most of the overture.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "13.32 GB"
     }
   ],
   "Chicago": [
@@ -1496,6 +1532,25 @@
       "size": "4.64 GB"
     }
   ],
+  "Clue": [
+    {
+      "id": 2003607,
+      "show": "Clue",
+      "tour": "First US National Tour",
+      "date": "2024-08",
+      "time": "E",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Tari Kelly (Mrs. White), Joanna Glushak (Mrs. Peacock), Michelle Elaine (Miss Scarlet), Elisabeth Yancy (Yvette), Jonathan Spivey (Professor Plum), Mark Price (Wadsworth), John Shartzer (Mr. Green), John Treacy Egan (Colonel Mustard), Mariah Burks (Cook), Alex Syiek (Mr. Boddy), Teddy Trice (Cop)",
+      "notes": "Excellent capture of this utterly hysterical play. Shot in a great mix of wides, mediums, and close-ups, with wides being more prevalent here due to the ensemble nature of the play. Some small heads at the very bottom of the stage that don’t block any action. Some wandering, shaking, and re-adjusting throughout. My cough can be heard throughout the video but isn’t too distracting and you can still hear everything. Overall an excellent capture of this show. ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "5.67 GB"
+    }
+  ],
   "Clueless (KT Tunstall)": [
     {
       "id": 2021160,
@@ -1674,6 +1729,23 @@
       "nft": false,
       "format": "MP4",
       "size": "1.28 GB"
+    },
+    {
+      "id": 1140529,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "Standing Ovations",
+      "date": "2004-05-23",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Stephanie J. Block (Performer), Felicia Finley (Performer), Alison Fraser (Performer), Cheyenne Jackson (Performer), Erin Leigh Peck (Performer), Kate Shindle (Performer), Laura Bell Bundy (Performer), Matt Cavenaugh (Performer), Susan Egan (Performer), Max von Essen (Performer), Andrea McArdle (Performer), Mandy Gonzalez (Performer)",
+      "notes": "Benefit concert for BCEFA. https://www.imdb.com/title/tt0881327/",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "2.39 GB"
     },
     {
       "id": 2009812,
@@ -1892,6 +1964,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "7.89 GB"
+    }
+  ],
+  "Dreamgirls": [
+    {
+      "id": 5779,
+      "show": "Dreamgirls",
+      "tour": "Broadway",
+      "date": "1981-12",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Jennifer Holliday (Effie Melody White), Sheryl Lee Ralph (Deena Jones), Loretta Devine (Lorrell Robinson), Ben Harney (Curtis Taylor Jr.), Cleavant Derricks (James \"Thunder\" Early), Obba Babatundé (C.C. White)",
+      "notes": "Incredible quality for its age, but doesnt compare A/V wise to digital age videos.  Perfectly watchable, has good facial details and solid albeit bass-heavy sound.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "3.71 GB"
     }
   ],
   "The Drowsy Chaperone": [
@@ -2240,6 +2331,23 @@
     }
   ],
   "Frankenstein (Nick Dear)": [
+    {
+      "id": 8178,
+      "show": "Frankenstein (Nick Dear)",
+      "tour": "National Theatre",
+      "date": "2011-03-17",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Jonny Lee Miller (Victor Frankenstein), Benedict Cumberbatch (The Creature), Ella Smith (Gretel/Clarice), John Killoran (Gustav/Constable), Steven Elliott (Klaus), Karl Johnson (De Lacey), Daniel Millar (Felix de Lacey), Lizzie Winkler (Agatha de Lacey), Andreea Padurariu (The Female Creature), William Nye (William Frankenstein), George Harris (M. Frankenstein), Naomie Harris (Elizabeth Lavenza), John Stahl (Ewan), Mark Armstrong (Rab)",
+      "notes": "GENERAL NOTES: Proshot for National Theatre Live. Two versions of this exist, one that is censored and one that is uncensored but has a watermark. Check with traders.<br><br>MY NOTES: Uncensored but watermarked",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MKV",
+      "size": "5.27 GB"
+    },
     {
       "id": 23189,
       "show": "Frankenstein (Nick Dear)",
@@ -2915,6 +3023,25 @@
       "nft": false,
       "format": "MP4",
       "size": "11.51 GB"
+    }
+  ],
+  "Hello, Dolly!": [
+    {
+      "id": 6071,
+      "show": "Hello, Dolly!",
+      "tour": "Fourth Broadway Revival",
+      "date": "2017-07",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Donna Murphy (alt Dolly Gallagher Levi), David Hyde Pierce (Horace Vandergelder), Kate Baldwin (Irene Molloy), Gavin Creel (Cornelius Hackl), Taylor Trensch (Barnaby Tucker), Beanie Feldstein (Minnie Fay), Melanie Moore (Ermengarde), Will Burton (Ambrose Kemper), Jennifer Simard (Ernestina), Kevin Ligon (Rudolph Reisenweber)",
+      "notes": "Wonderful HD capture in semi-proshot style. Whole show is done in stable set position, medium stage shot with no movement or zooms. Donna really knocks Dolly out of the park with her vocals, acting and stage presence! A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "8.42 GB"
     }
   ],
   "Hercules": [
@@ -5386,6 +5513,23 @@
       "size": "4.53 GB"
     },
     {
+      "id": 29002,
+      "show": "Les Misérables",
+      "tour": "25th Anniversary Concert Live At The O2",
+      "date": "2010-10-03",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Alfie Boe (Jean Valjean), Norm Lewis (Javert), Lea Salonga (Fantine), Katie Hall (Cosette), Nick Jonas (Marius), Samantha Barks (Éponine), Matt Lucas (Thénardier), Ramin Karimloo (Enjolras), Jenny Galloway (Madame Thénardier), Rob Madge (Gavroche), Mia Jenkins (Little Cosette), Hadley Fraser (Grantaire), Owain Williams (Feuilly), Killian Donnelly (Courfeyrac), Jonathan Williams (Combeferre), Jamie Muscato (Joly), Jeff Nicholson (Factory Foreman), Cameron Blakely (Bamatabois), Alistair Brammer (Jean Prouvaire), Keith Burns (Montparnasse), Tony Timberlake (Claquesous), Edward Baruwa (Lesgles), Phil Snowden (Brujon), Stephen Tate (Babet), Grainne Renihan (Factory Girl), Peter Polycarpou (Pimp), Valda Aviks (Crone), Earl Carpenter (The Bishop of Digne)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MKV",
+      "size": "25.24 GB"
+    },
+    {
       "id": 1157600,
       "show": "Les Misérables",
       "tour": "Sixth US National Tour",
@@ -5774,6 +5918,23 @@
   ],
   "The Mystery of Edwin Drood": [
     {
+      "id": 383,
+      "show": "The Mystery of Edwin Drood",
+      "tour": "First Broadway Revival",
+      "date": "2012-10-23",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Stephanie J. Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Betsy Wolfe (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andy Karl (Neville Landless/Mr. Victor Grinstead), Robert Creighton (Durdles/Mr. Nick Cricker), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Peter Benson (Mr. Phillip Bax/Bazzard), Nicholas Barasch (Deputy/Master Nick Cricker), Nick Corley (Mr. James Throttle/Stage Manager)",
+      "notes": "Beautiful HD capture of this wonderful show. This show is so much fun and the cast is perfection! I really can not single out one person as I could rave about every single person. This is one of the best shows to come along in a while, flawless! Datchery: Helena, Murderer: Rosa, Lovers: Puffer & Crisparkle. A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "8.36 GB"
+    },
+    {
       "id": 385,
       "show": "The Mystery of Edwin Drood",
       "tour": "First Broadway Revival",
@@ -5789,6 +5950,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "13.28 GB"
+    },
+    {
+      "id": 424,
+      "show": "The Mystery of Edwin Drood",
+      "tour": "First Broadway Revival",
+      "date": "2013-03-10",
+      "time": "E",
+      "master": "Lanelle",
+      "media_type": "video",
+      "cast": "Stephanie J. Block (Edwin Drood/Miss Alice Nutting), Will Chase (John Jasper/Mr. Clive Paget), Chita Rivera (The Princess Puffer/Miss Angela Prysock), Jim Norton (Chairman/Mr. William Cartwright), Erin Davie (Rosa Bud/Miss Deirdre Peregrine), Jessie Mueller (Helena Landless/Miss Janet Conover), Andrew Samonsky (Neville Landless/Mr. Victor Grinstead), Robert Creighton (Durdles/Mr. Nick Cricker), Gregg Edelman (Reverend Mr. Crisparkle/Mr. Cedric Moncrieffe), Peter Benson (Mr. Phillip Bax/Bazzard), Nicholas Barasch (Deputy/Master Nick Cricker)",
+      "notes": "Final Broadway Performance. Excellent HD capture of the final show. The audience was full of fans of the show, so great energy and applause throughout. Three lovers were selected, including John Jasper. Touching final curtain speech by the Director and Rupert Holmes.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "3.97 GB"
     }
   ],
   "Natasha, Pierre & The Great Comet of 1812": [
@@ -5999,6 +6177,25 @@
       "nft": false,
       "format": "MKV x2",
       "size": "19.72 GB"
+    }
+  ],
+  "Nice Work If You Can Get It": [
+    {
+      "id": 393,
+      "show": "Nice Work If You Can Get It",
+      "tour": "Broadway",
+      "date": "2012-03-31",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Matthew Broderick (Jimmy Winter), Kelli O'Hara (Billie Bendix), Judy Kaye (Duchess Estonia Dulworth), Michael McGrath (Cookie McGee), Jennifer Laura Thompson (Eileen Evergreen), Chris Sullivan (Duke Mahoney), Estelle Parsons (Millicent Winter), Robyn Hurder (Jeannie Muldoon), Terry Beaver (Senator Max Evergreen), Stanley Wayne Mathis (Chief Berry)",
+      "notes": "Beautiful capture of this all-new production. Kelli, Judy and Jennifer seem to steal the show in this one. A great old-fashioned style musical with some great production numbers. Ran very long, so probably a lot of material to be cut here! A+",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "5.39 GB"
     }
   ],
   "The Notebook": [
@@ -7561,6 +7758,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "6.43 GB"
+    },
+    {
+      "id": 17860,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Broadway",
+      "date": "1980-01",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Len Cariou (Sweeney Todd), Angela Lansbury (Mrs. Lovett), Cris Groenendaal (Anthony Hope), Betsy Joslyn (Johanna), Edmund Lyndeck (Judge Turpin), Ken Jennings (Tobias Ragg), Jack Eric Williams (Beadle Bamford), Merle Louise (Beggar Woman), Joaquin Romaguera (Adolfo Pirelli), Robert Ousley (Jonas Fogg), Maggie Task (Ensemble), Candace Rogers (Ensemble), Duane Morris (Ensemble), Pamela McLernon (Ensemble), Kevin Marcum (Ensemble), Craig Lucas (Ensemble), Spain Logue (Ensemble), Frank Kopyc (Ensemble), Nancy Killmer (Ensemble), Marthe Ihde (Ensemble), Skip Harris (Ensemble), Mary-Pat Green (Ensemble), Nancy Eaton (Ensemble), Carole Doscher (Ensemble), Walter Charles (Ensemble), Duane Bodin (Ensemble)",
+      "notes": "Excellent video and audio but dark and hard to see at times. Includes a commercial for the show. A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.27 GB"
     },
     {
       "id": 1143661,
