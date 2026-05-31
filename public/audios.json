@@ -2617,6 +2617,25 @@
       "size": "66.50 MB"
     }
   ],
+  "Hercules": [
+    {
+      "id": 2018184,
+      "show": "Hercules",
+      "tour": "West End",
+      "date": "2025-07-24",
+      "time": "M",
+      "master": "bobbyskazoo",
+      "media_type": "audio",
+      "cast": "Luke Brady (Hercules), Mae Ann Jorolan (Meg), Candace Furbert (Thalia), Stephen Carlile (Hades), Malinda Parris (Calliope), Joel Benjamin (Zeus/Ensemble), Robyn Rose (Terpsichore), Ellie Mitchell (Hera/Ensemble), Sharlene Hector (Clio), Trevor Dion Nicholas (Phil), Brianna Ogunbawo (Melpomene), Saffi Needham (Despina/Ensemble), Craig Gallivan (Bob), Lee Zarrett (Charles), Marie Finlayson (Ensemble), Jason Winter (Ensemble), Ope Sowande (Ensemble), Matt Overfield (Ensemble), Ben Nicholas (Ensemble), Stefan Lagoulis (Ensemble), Travis Kerry (Ensemble), Cruz-Troy Hunter (Ensemble), Nicole Carlisle (Ensemble), Jack Butcher (Ensemble), Sarah Benbelaid (Ensemble), Lana Antoniou (Ensemble), Rhianne Alleyne (Ensemble)",
+      "notes": "<p>Clear audio recorded from the front stalls. Shuffling from latecomers and early leavers. Includes encore and playout.</p><p><br></p><p>Do not post on any platform (TikTok, Tumblr, YouTube, Reddit, etc.). Please list as bobbyskazoo’s master. Feel free to trade as normal; never to be gifted or sold.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Here We Are": [
     {
       "id": 1148627,
@@ -3339,8 +3358,8 @@
       "time": "E",
       "master": "Unknown",
       "media_type": "audio",
-      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Andy Karl (u/s Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), Asmeret Ghebremichael (Pilar), Matthew Risch (u/s Kyle/Dewey/Lowell), Nick Kenkel (u/s Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney)",
-      "notes": "",
+      "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Andy Karl (u/s Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), Asmeret Ghebremichael (Pilar), Matthew Risch (u/s Kyle/Dewey/Lowell), Nick Kenkel (u/s Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Michelle Kittrell (Cece/D.A. Joyce Riley)",
+      "notes": "MY NOTES: FANTASTIC audio!!! The quality is amazingly clear which makes for a great performance. Jason DeBord conducted this performance and the subtle changes to the score were so nice to hear. Sounds like Laura blows a raspberry at Christian after he says \"the room just got colder\" in Chip, and he is trying not to laugh until the transition. Rufus also starts barking before Kyle exits following the ballad, which leads to some improv from both Matthew and Orfeh. Andy was better was Callahan compared to the first audio I listened with him, but the choices he made I still didn't really like. Great performances from everyone! ",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -8413,6 +8432,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "119.2 MB"
+    },
+    {
+      "id": 2033609,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-05-21",
+      "time": "E",
+      "master": "makeupmyheart",
+      "media_type": "audio",
+      "cast": "Hannah Lowther (alt Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Daisy Twells (u/s Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Jaime Tait (Dewey/Nikos), Keanna Bloomfield (Grandmaster Chad/Enid/Courtney), Raiaz Fisher (u/s Kate/Chutney), Bradley Delarosbel (Dad/Carlos), Aaron Shales (Mom/Stenographer/Kiki), Lauren Hampton (u/s Whitney), James Lim (Aaron/Judge), Louie Wood (D.A. Joyce Riley/Cezar Tepesh)",
+      "notes": "NFT Forever<br><br>MASTER NOTES: I wish the audience had more etiquette. No, I don't want to hear you constantly rustling around and being loud with your snacks. A very clear capture of this show with a couple covers on! May hear people playing with their plastic cups and being noisy in general alongside shuffling since I was beginning to nod off near the end of the first act. Show started fifteen minutes late. Partial recording— act 1 is full, act 2 ends 15 minutes in. Does not include video of the curtain call. Audio edited by wombatinee and tracked by twigsaretasty.<br><br>GENERAL NOTES: Do not trade with others, or upload any portion of this audio publicly on all social media platforms.",
+      "amount_recorded": "partial",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "",
+      "size": ""
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -9713,6 +9749,25 @@
       "nft": false,
       "format": "M4A x2",
       "size": "59.20 MB"
+    }
+  ],
+  "The Princess Bride": [
+    {
+      "id": 1144854,
+      "show": "The Princess Bride",
+      "tour": "Demo",
+      "date": "2007",
+      "time": "U",
+      "master": "Demo",
+      "media_type": "audio",
+      "cast": "Andy Karl (Westley), Jennifer Hope Wills (The Princess Bride)",
+      "notes": "Three tracks. Music and lyrics by Andy Karl as part of his the second year BMI-Lehman Engel Musical Theatre Workshop. Sometimes circulates as 2010 but based on the metadata and news articles about his participation in the program, 2007 is more accurate.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Romy and Michele's High School Reunion": [
