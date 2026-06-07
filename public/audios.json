@@ -171,6 +171,25 @@
       "size": "1.9 GB"
     }
   ],
+  "Aladdin": [
+    {
+      "id": 23884,
+      "show": "Aladdin",
+      "tour": "West End",
+      "date": "2018-04-05",
+      "time": "E",
+      "master": "GoodMorningVanessa",
+      "media_type": "audio",
+      "cast": "Antony Hewitt (u/s Aladdin), Lauren Chia (u/s Jasmine), Trevor Dion Nicholas (Genie), Don Gallagher (Jafar), Irvine Iqbal (Sultan), Nick Cavaliere (Iago), Leon Craig (Babkak), Miles Barrow (Omar), Daniel De Bourg (Kassim), Albey Brookes (Prince Abdullah), Ian Oswald (s/w Razoul), Kayleigh Thadani (s/w Fortune Teller/Attendant), Monica Swayne (Attendant), Sadie-Jean Shirley (Attendant), Chanelle Anthony (Ensemble), Danny Becker (Ensemble), Cindy Belliot (Ensemble), Filippo Coffano (Ensemble), Bianca Cordice (Ensemble), Sinead Kenny (Ensemble), Travis Kerry (Ensemble), Kyle Seeley (Ensemble), Ricardo Spriggs (Ensemble), Damien Winchester (Ensemble), Niko Wirachman (Ensemble), Jermaine Woods (Ensemble), Joshua Steel (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "117.5 MB"
+    }
+  ],
   "All Out: Comedy About Ambition": [
     {
       "id": 2026394,
@@ -336,6 +355,23 @@
       "nft": false,
       "format": "M4A x25",
       "size": "63.59 MB"
+    },
+    {
+      "id": 15407,
+      "show": "Beauty and the Beast (Disney)",
+      "tour": "Broadway",
+      "date": "2007-07-28",
+      "time": "E",
+      "master": "minoriko",
+      "media_type": "audio",
+      "cast": "Anneliese van der Pol (Belle), Steve Blanchard (Beast), Chris Hoch (Gaston), Jamie Ross (Maurice), David DeVries (Lumière), Glenn Rainey (Cogsworth), Jeanne Lehman (Mrs. Potts), Ann Mandrella (Babette), Mary Stout (Madame de la Grande Bouche), Aldrin Gonzalez (Le Fou), Trevor Braun (Chip)",
+      "notes": "MY NOTES: Includes zipped version",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x41",
+      "size": "255.1 MB"
     },
     {
       "id": 2022783,
@@ -2195,6 +2231,25 @@
       "size": "166.84 MB"
     }
   ],
+  "The Greatest Showman": [
+    {
+      "id": 2030244,
+      "show": "The Greatest Showman",
+      "tour": "Bristol Tryout",
+      "date": "2026-03-15",
+      "time": "E",
+      "master": "YummyYummyScrummy",
+      "media_type": "audio",
+      "cast": "Oliver Tompsett (P.T. Barnum), Samantha Barks (Charity Barnum), Ben Joyce (Phillip Carlyle), Malinda Parris (Lettie Lutz), Lorna Courtney (Anne Wheeler), Vajèn van den Bosch (Jenny Lind), Michael Patterson (Circus Ensemble), Will Meager (Circus Ensemble), Emily McCarthy (Circus Ensemble), Jessica Judge (Circus Ensemble), Georgie Hutchinson (Circus Ensemble), Bobby Cookson (Circus Ensemble), Cornelius Atkinson (Circus Ensemble), Emile Ruddock (Ensemble), Derek Aidoo (Ensemble), Jeremy Batt (Ensemble), Nikki Bentley (Ensemble), Courtenay Brady (Ensemble), Thea Bunting (Ensemble), Amara Campbell (Ensemble), Jonathan Cordin (Ensemble), Annie Southall (Ensemble), Nathan Louis-Fernand (Ensemble), Stuart Matthew Price (Ensemble), Suzie McAdam (Ensemble), Ayesha Maynard (Ensemble), Liam Marcellino (Ensemble), Annie Knight (Ensemble), Barney Hudson (Ensemble), Ryesha Higgs (Ensemble)",
+      "notes": "Full audio of the first ever showing of this incredible production including the five new songs and the pre-show speech from director/choreographer Casey Nicholaw\nNFT except through master until April 15th ",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "69.8 MB"
+    }
+  ],
   "Gutenberg! The Musical!": [
     {
       "id": 1150970,
@@ -2437,6 +2492,23 @@
       "nft": false,
       "format": "MP3 x72",
       "size": "226.97 MB"
+    },
+    {
+      "id": 2021024,
+      "show": "Hairspray",
+      "tour": "Workshop",
+      "date": "2000",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Kerry Butler (Penny Pingleton), Dick Latessa (Wilbur Turnblad)",
+      "notes": "Contains the cut tracks No One on This TV Show and Positivity",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x20",
+      "size": "60.7 MB"
     }
   ],
   "Hamilton": [
@@ -2632,8 +2704,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "365.9 MB"
     }
   ],
   "Here We Are": [
@@ -3359,7 +3431,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Laura Bell Bundy (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Nikki Snelson (Brooke Wyndham/Shandi), Andy Karl (u/s Professor Callahan), Annaleigh Ashford (Margot), Leslie Rodriguez Kritzer (Serena), Asmeret Ghebremichael (Pilar), Matthew Risch (u/s Kyle/Dewey/Lowell), Nick Kenkel (u/s Grandmaster Chad), Natalie Joy Johnson (Enid/Veronica), Kate Wetherhead (Kate/Chutney), Kevin Pariseau (Dad/Winthrop/Reporter), Gaelen Gilliland (Mom/Courtney/Whitney), Noah Weisberg (Aaron), Manuel Herrera (Padamadan/Nikos), Amber Efé (Judge/Store Manager), Michelle Kittrell (Cece/D.A. Joyce Riley)",
-      "notes": "MY NOTES: FANTASTIC audio!!! The quality is amazingly clear which makes for a great performance. Jason DeBord conducted this performance and the subtle changes to the score were so nice to hear. Sounds like Laura blows a raspberry at Christian after he says \"the room just got colder\" in Chip, and he is trying not to laugh until the transition. Rufus also starts barking before Kyle exits following the ballad, which leads to some improv from both Matthew and Orfeh. Andy was better was Callahan compared to the first audio I listened with him, but the choices he made I still didn't really like. Great performances from everyone! ",
+      "notes": "MY NOTES: FANTASTIC audio!!! The quality is amazingly clear which makes for a great performance. Jason DeBord conducted this performance and the subtle changes to the score were so nice to hear. Sounds like Laura blows a raspberry at Christian after he says \"the room just got colder\" in Chip, and he is trying not to laugh until the transition. Rufus also starts barking before Kyle exits following the ballad, which leads to some improv from both Matthew and Orfeh. Andy was better as Callahan compared to the first audio I listened with him, but the choices he made I still didn't really like. Great performances from everyone! ",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -8434,6 +8506,40 @@
       "size": "119.2 MB"
     },
     {
+      "id": 2032638,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-04-14",
+      "time": "E",
+      "master": "batbootlegs",
+      "media_type": "audio",
+      "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Lauren Hampton (s/w Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle/Ensemble), Aaron Shales (s/w Dewey/Nikos/Ensemble), Keanna Bloomfield (Grandmaster Chad/Enid/Courtney), Daisy Twells (Kate/Chutney/Ensemble), Bradley Delarosbel (Dad/Carlos/Ensemble), Raiaz Fisher (s/w Mom/Stenographer/Kiki/Ensemble), James Lim (Aaron/Judge/Ensemble), Louie Wood (D.A. Joyce Riley/Cezar Tepesh/Ensemble), Sprout the Dog (Bruiser), Milo the Dog (Rufus), Dylan Gordon-Jones (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "97.9 MB"
+    },
+    {
+      "id": 2033605,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-05-27",
+      "time": "M",
+      "master": "deathbecomesus",
+      "media_type": "audio",
+      "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Keanna Bloomfield (u/s Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham), Bradley Delarosbel (u/s Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Aaron Shales (u/s Enid), Jaime Tait (u/s Dad)",
+      "notes": "Bit crackly in places as the cheering was loud. Incredible show.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "165.1 MB"
+    },
+    {
       "id": 2033609,
       "show": "Legally Blonde",
       "tour": "Third UK Tour",
@@ -8447,8 +8553,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": true,
-      "format": "",
-      "size": ""
+      "format": "FLAC x4 + WAV x34",
+      "size": "1.45 GB"
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -8797,6 +8903,40 @@
       "nft": false,
       "format": "M4A x1",
       "size": "35.50 MB"
+    },
+    {
+      "id": 2018584,
+      "show": "Little Shop of Horrors",
+      "tour": "Broadway",
+      "date": "2004-08-14",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Joey Fatone (Seymour), Jessica Snow-Wilson (Audrey), Rob Evan (Orin/Others), Rob Bartlett (Mr. Mushnik), DeQuina Moore (Chiffon), Trisha Jeffrey (Crystal), Carla J. Hargrove (Ronnette)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x31",
+      "size": "68.1 MB"
+    },
+    {
+      "id": 2021108,
+      "show": "Little Shop of Horrors",
+      "tour": "Broadway",
+      "date": "2003",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Hunter Foster (Seymour), Kerry Butler (Audrey)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x36",
+      "size": "100 MB"
     },
     {
       "id": 2024263,
@@ -9425,6 +9565,76 @@
       "nft": false,
       "format": "MP3 x25",
       "size": "101.08 MB"
+    },
+    {
+      "id": 2029873,
+      "show": "Monty Python's Spamalot",
+      "tour": "Broadway",
+      "date": "2005-09-25",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Tim Curry (King Arthur), Rosena M. Hill Jackson (s/b Lady of The Lake), David Hyde Pierce (Sir Robin), Hank Azaria (Sir Lancelot), Christopher Sieber (Sir Galahad)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x45",
+      "size": "222.1 MB"
+    }
+  ],
+  "Moulin Rouge! The Musical": [
+    {
+      "id": 1117822,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2021-09-24",
+      "time": "E",
+      "master": "pirellis miracle elixir",
+      "media_type": "audio",
+      "cast": "Natalie Mendoza (Satine), Aaron Tveit (Christian), Danny Burstein (Harold Zidler), Tam Mutu (The Duke of Monroth), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Robyn Hurder (Nini), Jacqueline B. Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre)",
+      "notes": "GENERAL NOTES: re-opening night, recorded from the can-can seats. absolutely crazy energy that night: every time someone new came on stage they got wild applause, especially for Aaron & Danny, Im pretty sure the first 20 minutes of the show consisted solely of applause and cheers, everyone on stage was crying by the end of the show, it was incredible. you can tell everyone is having a great time, cast and audience alike. also includes a video of the bows and other fun stuff at the end of the show!<br><br>MY NOTES: Includes tracked/untracked as well as two bow videos",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2 + MP3 x36 + M4V x2",
+      "size": "741.9 MB"
+    },
+    {
+      "id": 2000233,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2024-05-25",
+      "time": "M",
+      "master": "madeapactwithsatine",
+      "media_type": "audio",
+      "cast": "Courtney Reed (Satine), Derek Klena (Christian), Austin Durant (Harold Zidler), Dylan Paul (u/s The Duke of Monroth), Andre Ward (Toulouse-Lautrec), Ricky Rojas (Santiago), Sophie Carmen-Jones (Nini), Jacqueline B. Arnold (La Chocolat), Tasia Jungbauer (Arabia), Jeigh Madjus (Baby Doll), Giovanni Bonaventura (s/w Pierre)",
+      "notes": "<p>We’re back baby!!! Normal annoyances like coughing and blowing noses and occasional chatter around me. Mics are a little quiet as well, so music overpowers the performers. Audio includes a tribute speech for George Floyd and the Black Theatre Coalition and play out. Never to be posted on any social media including, but not limited to, TikTok, Instagram or YouTube.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "207.1 MB"
+    },
+    {
+      "id": 2012554,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2025-04-13",
+      "time": "E",
+      "master": "madeapactwithsatine",
+      "media_type": "audio",
+      "cast": "Solea Pfeiffer (Satine), John Cardoza (Christian), Boy George (Harold Zidler), Andy Karl (The Duke of Monroth), Frank Viveros (u/s Toulouse-Lautrec), Pepe Muñoz (Santiago), Samantha Dodemaide (Nini), Donnie Hammond (La Chocolat), Rayven Bailey (Arabia), Heather Makalani (u/s Baby Doll), Nick Martinez (Pierre), Ricardo A. Zayas (Ensemble), Shaun-Avery Williams (Ensemble), Brooke Taylor (Ensemble), Benjamin Rivera (s/w Ensemble), Dylan Paul (s/w Ensemble), Kelsey Orem (s/w Ensemble), Melissa Hunter McCann (s/w Ensemble), Bahiyah Hibah (Ensemble), Mark Doyle (s/w Ensemble), Alexa de Barr (s/w Ensemble), Alexander Gil Cruz (Ensemble), Olivia Cece (Ensemble), Nick Burrage (s/w Ensemble), Giovanni Bonaventura (s/w Ensemble)",
+      "notes": "John's last show.  Let's be real for a second, this might be my worst audio yet both bc i kept covering the mic and also bc of the audience and Boy George's existence. Be that as it may, if you really wanna hear what it was like to be me experiencing this show it is a perfect representation of that. If you wanna hear a good audio i recommend my last rouge audio. Rowdy audience, the people next to me start trying to have a full convo for some reason, I keep brushing the mic so the audio goes in and out etc etc. Includes video of bows and tracked and untracked audio.  Never to be posted gift upon request and all that good stuff",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift On Request",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2 + MP3 x35 + MOV",
+      "size": "709 MB"
     }
   ],
   "The Music Man": [
@@ -9766,8 +9976,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x3",
+      "size": "13.6 MB"
     }
   ],
   "Romy and Michele's High School Reunion": [
@@ -9997,6 +10207,23 @@
       "nft": false,
       "format": "MP3 x21",
       "size": "296 MB"
+    },
+    {
+      "id": 1123185,
+      "show": "Shrek: The Musical",
+      "tour": "Broadway",
+      "date": "2009-10-02",
+      "time": "E",
+      "master": "cursetheflame",
+      "media_type": "audio",
+      "cast": "Brian d'Arcy James (Shrek), Sutton Foster (Princess Fiona), Bobby Daye (u/s Donkey), Jennifer Simard (Wicked Witch)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "239.1 MB"
     }
   ],
   "Smash": [
@@ -11724,7 +11951,7 @@
       "time": "E",
       "master": "BlackbirdFly",
       "media_type": "audio",
-      "cast": "Tam Mutu (Pierre Dulaine), Adrienne Bailon-Houghton (Arianna Rey), Matthew Risch (Alan Ford), Vincent J. Hooper (Rock), Savy Jackson (La Rhette), Tosh Harris Santiago | Sequoiia (Monster), Brandon O'Neal Bomer (Eddie), Natalia Nieves-Melchor (Egypt), Salome Smith (Gucci), Christian Whan (Kurd), Megan Elyse Fulmer (Lola), Kevin Trinio Perdido (Miguel), Grace Slear (Caitlin), Jonalyn Saxer (Morgan), Ryan Raffloer (Lance), David Jennings (Mr. O'Hara/Police Officer/Doctor), Gaelen Gilliland (Mrs. Buford/TV Executive), Deon Releford-Lee (Daniel/Competition Announcer), Dillon Lehman (Ensemble), Eric Ascione (Ensemble), Stephani Sosa (Ensemble), Tatiana Seliverstova (Ensemble)",
+      "cast": "Tam Mutu (Pierre Dulaine), Adrienne Bailon-Houghton (Arianna Rey), Matthew Risch (Alan Ford), Vincent J. Hooper (Rock), Savy Jackson (La Rhette), SeQuoiia (Monster), Brandon O'Neal Bomer (Eddie), Natalia Nieves-Melchor (Egypt), Salome Smith (Gucci), Christian Whan (Kurd), Megan Elyse Fulmer (Lola), Kevin Trinio Perdido (Miguel), Grace Slear (Caitlin), Jonalyn Saxer (Morgan), Ryan Raffloer (Lance), David Jennings (Mr. O'Hara/Police Officer/Doctor), Gaelen Gilliland (Mrs. Buford/TV Executive), Deon Releford-Lee (Daniel/Competition Announcer), Dillon Lehman (Ensemble), Eric Ascione (Ensemble), Stephani Sosa (Ensemble), Tatiana Seliverstova (Ensemble)",
       "notes": "NFT Forever<br><br>Preview performance. A bit of shuffling and talking at the beginning due to latecomers, plus some coughing, but it’s otherwise clear. In Act 2, the woman next to me screamed a couple of times. Sometimes the lyrics are hard to hear over the music due to the sound design in the theater. Includes pre-show announcement, curtain call and exit music. NFT except through master. Never to be sold and/or posted anywhere.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
