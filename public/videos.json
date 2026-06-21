@@ -528,6 +528,23 @@
       "size": "14.84 GB"
     },
     {
+      "id": 10026,
+      "show": "Assassins",
+      "tour": "Off-Broadway",
+      "date": "1990-12-21",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Victor Garber (John Wilkes Booth), Jonathan Hadary (Charles Guiteau), Terrence Mann (Leon Czolgosz), Lee Wilkof (Samuel Byck), Annie Golden (Lynette \"Squeaky\" Fromme), Patrick Cassidy (Lee Harvey Oswald/Balladeer), Debra Monk (Sara Jane Moore), William Parry (The Proprietor), Greg Germann (John Hinckley Jr.)",
+      "notes": "Lap shot with no zooms from the front of the theatre. Right top and bottom corners are blacked out by a head, blocks about a third of the screen.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1119815,
       "show": "Assassins",
       "tour": "Off-Broadway Revival",
@@ -1685,10 +1702,10 @@
       "tour": "West End",
       "date": "2025-06-25",
       "time": "E",
-      "master": "pro-shot",
+      "master": "house-cam",
       "media_type": "video",
       "cast": "Dave Hearn (Lance Buchanan), Adele James (Rosemary Wilson), Chris Leask (Sergei Ivanov), Henry Lewis (Douglas Woodbead), Charlie Fay Russell (Elena Popov), Henry Shields (Bernard Wright), Greg Tannahill (Albert Tipton), Nancy Zamit (Janet Buchanan), Ashley Tucker (Ensemble), Matthew Cavendish (Ensemble)",
-      "notes": "Extremely pixellated during close shots, so it's very hard to see. Improves during wide shots. Some parts include a time stamp on the screen.",
+      "notes": "Guide video that has zooms edited in. Extremely pixellated during the zooms. Improves during wide shots. Some parts include a time stamp on the screen.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -2368,6 +2385,25 @@
       "size": "3.45 GB"
     }
   ],
+  "Footloose": [
+    {
+      "id": 2009755,
+      "show": "Footloose",
+      "tour": "First US National Tour",
+      "date": "1999-12-16",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Matthew Morrison (u/s Ren McCormack), Teresa Marie Sanchez (Ariel Moore)",
+      "notes": "Highlights. Missing the songs performed by adult characters. Great zooms.",
+      "amount_recorded": "highlights",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Frankenstein (Nick Dear)": [
     {
       "id": 8178,
@@ -3018,7 +3054,7 @@
       "master": "MTTZ",
       "media_type": "video",
       "cast": "Heidi Blickenstaff (Claire/Others), Lincoln Clauss (Thomas Driscoll/Others), Bre Jackson (Cordelia Owl/Others), Max McKenna (Juliette/Others), Kenita R. Miller (Marianne Lamar/Others), Paul Alexander Nolan (Dr. Breva/Others), Zachary Noah Piser (Simon Lamar/Others), Wren Rivera (Marthe/Others), Jason Tam (Sean Lamar/Others)",
-      "notes": "Great capture of this world premiere musical! Shot in a great mix of wides, mediums, and close-ups. Shot over minor head obstruction that never obstructs significant action. Some increased wandering, shaking, and re-adjusting throughout. Audio is patched in from an external source. Overall a great capture. ",
+      "notes": "Great capture of this world premiere musical! Shot in a great mix of wides, mediums, and close-ups. Shot over minor head obstruction that never obstructs significant action. Some increased wandering, shaking, and re-adjusting throughout. Audio is patched in from an external source. Overall a great capture.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -3190,6 +3226,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "2.47 GB"
+    }
+  ],
+  "The Hunger Games: On Stage": [
+    {
+      "id": 2025820,
+      "show": "The Hunger Games: On Stage",
+      "tour": "London",
+      "date": "2025-10",
+      "time": "U",
+      "master": "hitmewithyourbethshot",
+      "media_type": "video",
+      "cast": "Mia Carragher (Katniss Everdeen), Euan Garrett (Peeta Mellark), Joshua Lacey (Haymitch Abernathy), Tristan Waterson (Gale Hawthorne), Sophia Ally (Primrose Everdeen/Heddle), Ruth Everett (Mrs Everdeen), Tamsin Carroll (Effie Trinket), Stavros Demetraki (Caesar Flickerman), Nathan Ives-Moiba (Cinna/Mayor), Aiya Agustin (Rue), Artemis Stamouli (u/s Clove), Lewis Easter (Marvel), Marcellus Hill (Thresh), Mariana Lewis (Glimmer), Felipe Pacheco (Cato), Alexandra Barredo (u/s Fossa)",
+      "notes": "External audio synced, shot around heads & safety rails, ends 40 minutes into act 2",
+      "amount_recorded": "partial",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "I Love You, You're Perfect, Now Change": [
@@ -4231,7 +4286,7 @@
     {
       "id": 18029,
       "show": "Legally Blonde",
-      "tour": "Second US National Tour",
+      "tour": "Second US National Tour (Non-Equity)",
       "date": "2010-12-02",
       "time": "E",
       "master": "Unknown",
@@ -4486,7 +4541,7 @@
     {
       "id": 1119792,
       "show": "Legally Blonde",
-      "tour": "Second US National Tour",
+      "tour": "Second US National Tour (Non-Equity)",
       "date": "2011-03-31",
       "time": "E",
       "master": "Unknown",
@@ -4503,7 +4558,7 @@
     {
       "id": 1119793,
       "show": "Legally Blonde",
-      "tour": "Second US National Tour",
+      "tour": "Second US National Tour (Non-Equity)",
       "date": "2010-10-09",
       "time": "E",
       "master": "Unknown",
@@ -4554,7 +4609,7 @@
     {
       "id": 1125434,
       "show": "Legally Blonde",
-      "tour": "Second US National Tour",
+      "tour": "Second US National Tour (Non-Equity)",
       "date": "2010",
       "time": "U",
       "master": "FoxyYoutubeLynn",
@@ -4881,16 +4936,16 @@
       "size": "4.39 GB"
     },
     {
-      "id": 1127381,
+      "id": 1127382,
       "show": "The Little Mermaid",
       "tour": "Hollywood Bowl",
-      "date": "2016-06-06",
+      "date": "2016-06-04",
       "time": "E",
       "master": "Unknown",
       "media_type": "video",
-      "cast": "Jodi Benson (Ariel), Rebel Wilson (Ursula), Darren Criss (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Joshua Colley (Flounder), John Stamos (Chef Louis)",
-      "notes": "GENERAL NOTES: Closing Night! Full concert, split into different videos. Includes pre-show performances by Brad Kane and Susan Egan.<br><br>MY NOTES: Looking for replacement",
-      "amount_recorded": "complete",
+      "cast": "Sara Bareilles (Ariel), Rebel Wilson (Ursula), Darren Criss (Prince Eric), Norm Lewis (King Triton), Tituss Burgess (Sebastian), Joshua Colley (Flounder), John Stamos (Chef Louis)",
+      "notes": "Highlights include Part of Your World, Part of Your World (Reprise), She's In Love, Daughters of Triton, Under the Sea, Poor Unfortunate Souls, Her Voice, and Part of Your World sang by Jodi Benson.",
+      "amount_recorded": "highlights",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
@@ -5733,7 +5788,7 @@
       "master": "juniper47",
       "media_type": "video",
       "cast": "James Monroe Iglehart (King Arthur), Leslie Rodriguez Kritzer (Lady of The Lake), Michael Urie (Sir Robin/Brother Maynard/Guard 1), Alex Brightman (Sir Lancelot/The French Taunter/Knight of Ni/Tim the Enchanter), Jimmy Smagula (Sir Bedevere/Dennis' Mother/Concorde), Rob McClure (Historian/Prince Herbert), Matthew Saldivar (Patsy/Guard 2), Nik Walker (Sir Galahad/Black Knight/Prince Herbert's Father), Michael Fatica (Ensemble), Kaylee Olson (Ensemble), Ryan Kasprzak (Ensemble), Phillip Attmore (Ensemble), Daniel Beeman (Ensemble), Maria Briggs (Ensemble), Eloise Kropp (Ensemble), Daniel May (Ensemble), Shina Ann Morris (Ensemble), Kristin Piro (Ensemble)",
-      "notes": "Filmed in 4K, released as 1080p and 4K. Filmed from balcony at closing performance, almost no obstructions, dropouts only for applause/scene breaks. Mix of wide shots and closer zooms. A little shaky at times because I was uncontrollably laughing so hard. Includes curtain call. ",
+      "notes": "Filmed in 4K, released as 1080p and 4K. Filmed from balcony at closing performance, almost no obstructions, dropouts only for applause/scene breaks. Mix of wide shots and closer zooms. A little shaky at times because I was uncontrollably laughing so hard. Includes curtain call.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -5794,6 +5849,40 @@
     }
   ],
   "Moulin Rouge! The Musical": [
+    {
+      "id": 14809,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Pre-Broadway / Boston",
+      "date": "2018-08",
+      "time": "U",
+      "master": "house-cam",
+      "media_type": "video",
+      "cast": "Karen Olivo (Satine), Aaron Tveit (Christian), Danny Burstein (Harold Zidler), Tam Mutu (The Duke of Monroth), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Robyn Hurder (Nini), Jacqueline B. Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll)",
+      "notes": "Housecam with soundboard audio. Original file is 5.33 GB MP4. Check with traders for files! Multiple files exist",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 25759,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2019-12",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Karen Olivo (Satine), Aaron Tveit (Christian), Danny Burstein (Harold Zidler), Tam Mutu (The Duke of Monroth), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Jodi McFadden (u/s Nini), Jacqueline B. Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre), Kyle Brown (Ensemble)",
+      "notes": "Beautiful HD capture of the original Broadway cast. Starts after Welcome to the Moulin Rouge!. Filmed in 16:9 with a mix of wides, mediums, and close-ups.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 1117710,
       "show": "Moulin Rouge! The Musical",
@@ -6739,7 +6828,7 @@
       "master": "MTTZ",
       "media_type": "video",
       "cast": "Trent Mills (Robert Grove), John Sanders (Chris Bean), Garrett Clayton (Max Bennett), Regina Fernandez (Sandra Wilkinson), Reggie De Leon (Dennis Tyde), Sterling Sulieman (Jonathan Harris), Mary Faber (Annie Twilliol), Michael-Leon Wooley (Trevor Watson)",
-      "notes": "Great capture of this hilarious replica production! Shot with alternate camera. Shot above and around heads that only occasionally block action and are worked around well — a bit of a miracle in this absurdly difficult theater. Shot in a mix of wides and mediums with some close-ups thrown in. Some wandering, shaking, and re-adjusting throughout — it shakes a little harder when I’m laughing at the jokes, sorry about that. Very reactive audience. Overall a great capture of this amazing show. ",
+      "notes": "Great capture of this hilarious replica production! Shot with alternate camera. Shot above and around heads that only occasionally block action and are worked around well — a bit of a miracle in this absurdly difficult theater. Shot in a mix of wides and mediums with some close-ups thrown in. Some wandering, shaking, and re-adjusting throughout — it shakes a little harder when I’m laughing at the jokes, sorry about that. Very reactive audience. Overall a great capture of this amazing show.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -7660,7 +7749,7 @@
       "master": "MTTZ",
       "media_type": "video",
       "cast": "Bernadette Peters (Performer), Lea Salonga (Performer), Jacob Dickey (Performer), Kevin Earley (Performer), Jasmine Forsberg (Performer), Kate Jennings Grant (Performer), Bonnie Langford (Performer), Beth Leavel (Performer), Gavin Lee (Performer), Jason Pennycooke (Performer), Joanna Riding (Performer), Jeremy Secomb (Performer), Kyle Selig (Performer), Maria Wirries (Performer), Daniel Yearwood (Performer)",
-      "notes": "Excellent capture of this star-studded lovely Sondheim revue in its LA run before it heads to Broadway! Shot with alternate camera in a great mix of wides, mediums, and close-ups. Some wandering, shaking, and re-adjusting throughout. Minor obstruction on the right that never obstructs action. So incredible to see these Broadway powerhouses sing these wonderful songs. Overall an excellent capture. ",
+      "notes": "Excellent capture of this star-studded lovely Sondheim revue in its LA run before it heads to Broadway! Shot with alternate camera in a great mix of wides, mediums, and close-ups. Some wandering, shaking, and re-adjusting throughout. Minor obstruction on the right that never obstructs action. So incredible to see these Broadway powerhouses sing these wonderful songs. Overall an excellent capture.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
