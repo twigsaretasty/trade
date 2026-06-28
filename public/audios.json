@@ -169,6 +169,23 @@
       "nft": false,
       "format": "WAV x1",
       "size": "1.9 GB"
+    },
+    {
+      "id": 2034692,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Off-Broadway Revival",
+      "date": "2026-06-21",
+      "time": "M",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Lilli Cooper (Rona Lisa Peretti), Cecilia Snow (u/s Olive Ostrovsky), Kevin McHale (William Barfée), Autumn Best (Logainne Schwartzandgrubenierre), Matt Manuel (Mitch Mahoney), Justin Cooley (Leaf Coneybear), Leana Rae Concepcion (Marcy Park), Philippe Arroyo (Chip Tolentino), Jon Cryer (Douglas Panch), Jonathan Groff (g/p Guest Speller), Lindsey Mendez (g/p Guest Speller)",
+      "notes": "A lot of loud laughter. Very responsive audience. Guest spellers included Jonathan Groff and Lindsay Mendez.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x1",
+      "size": "104.3 MB"
     }
   ],
   "Aladdin": [
@@ -332,8 +349,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x1",
+      "size": "64.7 MB"
     },
     {
       "id": 1140585,
@@ -349,8 +366,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x19",
+      "size": "154.8 MB"
     }
   ],
   "Back to the Future: The Musical": [
@@ -1117,8 +1134,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x1",
+      "size": "264.3 MB"
     }
   ],
   "Concerts (54 Below)": [
@@ -10082,8 +10099,8 @@
       "gifting_status": "Gift On Request",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x1",
+      "size": "150.5 MB"
     }
   ],
   "Romy and Michele's High School Reunion": [
@@ -10286,7 +10303,7 @@
       "tour": "Broadway",
       "date": "2009-01-20",
       "time": "E",
-      "master": "Unknown",
+      "master": "ellixian",
       "media_type": "audio",
       "cast": "Brian d'Arcy James (Shrek), Sutton Foster (Princess Fiona), Christopher Sieber (Lord Farquaad), Daniel Breaker (Donkey), John Tartaglia (Pinocchio/Magic Mirror/Dragon Puppeteer), Haven Burton (Dragonette/Gingy/Sugar Plum Fairy), Jennifer Simard (Wicked Witch/Queen Lillian/Magic Mirror Assistant), Carolyn Ockert-Haythe (s/w Ugly Duckling/Blind Mouse), Bobby Daye (Sticks the Pig/Bishop), Ryan Duncan (Bricks the Pig)",
       "notes": "MY NOTES: Missing Track 4 - Story of My Life",
@@ -11188,8 +11205,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "134.5 MB"
     },
     {
       "id": 1006754,
@@ -12228,6 +12245,25 @@
       "nft": false,
       "format": "MP3 x45 + M4A x2",
       "size": "392.79 MB"
+    }
+  ],
+  "West Side Story": [
+    {
+      "id": 2034635,
+      "show": "West Side Story",
+      "tour": "Paper Mill Playhouse Revival",
+      "date": "2026-06-21",
+      "time": "M",
+      "master": "BoqTheMunchkin",
+      "media_type": "audio",
+      "cast": "Noah Henry (Tony), Sarah-Anne Martinez (Maria), Sean Harrison Jones (Riff), Mikaela Secada (Anita), Anthony Sanchez (Bernardo), Nick Alvino (Action), Hugo Pizano Orozco (Chino), Jasper Thomas Moore (Baby John), Taven Blanke (A-Rab), Benjamin Freemantle (Diesel), Cydney Kutcipal (Anybodys), Brett Rawlings (Big Deal), Adam Monley (Lt. Schrank), Stuart Zagnit (Doc), Jamie LaVerdiere (Glad Hand), Daniel Patrick Russell (Snow Boy)",
+      "notes": "MASTER NOTES: Recorded from mid orchestra. A fantastic regional production of one of my favorite musicals. This cast sang and danced their faces off. Typical annoying audience things like talking during the entr'acte of Act Two, alarms going off during the final scene, shock about the gun shot turning to laughter ahead. File includes photo of cast board.<br><br>GENERAL NOTES: No TikTok, no Reddit, no Tumblr. List as BoqTheMunchkin’s Master.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "68.8 MB"
     }
   ],
   "Wicked": [
