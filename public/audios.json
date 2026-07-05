@@ -408,6 +408,40 @@
       "size": "63.59 MB"
     },
     {
+      "id": 4760,
+      "show": "Beauty and the Beast (Disney)",
+      "tour": "Broadway",
+      "date": "2007-07-29",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Anneliese van der Pol (Belle), Steve Blanchard (Beast), Donny Osmond (Gaston), Jamie Ross (Maurice), David DeVries (Lumière), Glenn Rainey (Cogsworth), Jeanne Lehman (Mrs. Potts), Ann Mandrella (Babette), Mary Stout (Madame de la Grande Bouche), Aldrin Gonzalez (Le Fou), Trevor Braun (Chip)",
+      "notes": "Closing Night",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x25",
+      "size": "136.5 MB"
+    },
+    {
+      "id": 11739,
+      "show": "Beauty and the Beast (Disney)",
+      "tour": "Broadway",
+      "date": "1994-07-16",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Susan Egan (Belle), Terrence Mann (Beast), Burke Moses (Gaston)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x40 + MP3 x2",
+      "size": "679.4 MB"
+    },
+    {
       "id": 15407,
       "show": "Beauty and the Beast (Disney)",
       "tour": "Broadway",
@@ -2649,6 +2683,25 @@
       "nft": false,
       "format": "M4A x2",
       "size": "479.9 MB"
+    }
+  ],
+  "Harry Potter and the Cursed Child": [
+    {
+      "id": 2027094,
+      "show": "Harry Potter and the Cursed Child",
+      "tour": "Broadway",
+      "date": "2026-01-07",
+      "time": "E",
+      "master": "RetroHutTrader",
+      "media_type": "audio",
+      "cast": "John Skelley (Harry Potter), Emmet Smith (Albus Severus Potter), Aidan Close (Scorpius Malfoy), Daniel Fredrick (Ron Weasley), Rachel Christopher (Hermione Granger), Trish Lindström (Ginny Potter), Tom Felton (Draco Malfoy), Janae Hammond (Rose Granger-Weasley/Young Hermione), Kristen Martin (Delphi Diggory), Isaac Phaman Reynolds (Craig Bowker Jr.), Allie Re (Moaning Myrtle), Kiaya Scott (u/s Polly Chapman), Stephen Spinella (Severus Snape/Amos Diggory/Albus Dumbledore), Ted Deasy (Lord Voldemort), Chadd Alexander (Sorting Hat), Bradley Patchett (Yann Fredericks), Alexis Gordon (Madam Hooch), Megan Byrne (Dolores Umbridge/Professor McGonagall), Maren Searle (Trolley Witch), Caleb Hafen (Cedric Diggory/James Potter Jr./James Potter Sr.), Jay Mack (Karl Jenkins/Viktor Krum), Baylen Thomas (Station Master), Logan James Hall (Professor Mazoni), Paul Thornley (Voice of Ludo Bagman), Chris Jarman (Voice of Phone Box)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift On Request",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "WAV x2",
+      "size": "427.3 MB"
     }
   ],
   "The Heart": [
@@ -8682,6 +8735,23 @@
   ],
   "The Little Mermaid": [
     {
+      "id": 23603,
+      "show": "The Little Mermaid",
+      "tour": "Broadway",
+      "date": "2009-02-22",
+      "time": "M",
+      "master": "decipherated",
+      "media_type": "audio",
+      "cast": "Sierra Boggess (Ariel), Heidi Blickenstaff (Ursula), Sean Palmer (Prince Eric), Norm Lewis (King Triton), Rogelio Douglas Jr. (Sebastian), Trevor Braun (Flounder), Eddie Korbich (Scuttle), Jonathan Freeman (Grimsby), Tyler Maynard (Flotsam), Eric LaJuan Summers (Jetsam), Robert Creighton (Chef Louis), Julie Barnes (s/w Carlotta)",
+      "notes": "MY NOTES: Tracks are not numbered",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x60",
+      "size": "106.4 MB"
+    },
+    {
       "id": 26930,
       "show": "The Little Mermaid",
       "tour": "Broadway",
@@ -10258,6 +10328,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "130.2 MB"
+    },
+    {
+      "id": 2033201,
+      "show": "Schmigadoon!",
+      "tour": "Broadway",
+      "date": "2026-05-15",
+      "time": "E",
+      "master": "RetroHutTrader",
+      "media_type": "audio",
+      "cast": "Sara Chase (Melissa Gimble), Alex Brightman (Josh Skinner), Isabelle McCalla (Emma Tate), Ivan Hernandez (Doc Lopez), McKenzie Kurtz (Betsy McDonough), Max Clayton (Danny Bailey), Brad Oscar (Mayor Aloysius Menlove), Lauralyn McClelland (s/w Florence Menlove), Maulik Pancholy (Reverend Layton), Ana Gasteyer (Mildred Layton), Ayaan Diop (Carson Tate), Afra Hines (Countess Gabrielle Von Blerkom), Richard Riaz Yoder (Harvey the Innkeeper), Nathan Lucrezio (Farmer McDonough), Jess LeProtto (Pete), Zachary Downer (Freddy), Kaleigh Cronin (Helen Pritt), Joshua Burrage (Larry the Fireman), Lyrica Woodruff (Nancy), Becca Petersen (Annie), Clyde Alves (Tommy), Kimberly Immanuel (Carrie), Maria Briggs (s/w Meg)",
+      "notes": "iPhone recording of this great new show! Includes curtain call video",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2 + MOV (bows)",
+      "size": "969.4 MB"
     }
   ],
   "Seesaw": [
