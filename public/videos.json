@@ -1242,7 +1242,7 @@
       "time": "E",
       "master": "bikinibottomday",
       "media_type": "video",
-      "cast": "Chasity \"Tempress\" Moore (Grizabella), André De Shields (Old Deuteronomy), Junior LaBeija (Gus), Tara Lashan Clinkscales (u/s Bombalurina), Dudney Joseph Jr. (Munkustrap), Sydney James Harcourt (Rum Tum Tugger), Bebe Nicole Simpson (Demeter), Emma Sofia (Cassandra/Skimbleshanks), Garnet Williams (u/s Bustopher Jones), Jonathan Burke (Mungojerrie), Dava Huesca (Rumpleteazer), Shereen Pimentel (Jellylorum), Xavier Reyes (Jennyanydots), Robert \"Silk\" Mason (Mr. Mistoffelees), Antwayn Hopper (Macavity), Primo Thee Ballerino (Tumblebrutus), Teddy Wilson Jr. (Sillabub), Kendall Grayson Stroud (Electra), Baby Byrne (Victoria), Frank Viveros (Booth/Police Officer/Server), Shelby Griswold (u/s Booth/Police Officer/Server), Capital Kaos (DJ Griddlebone)",
+      "cast": "Chasity \"Tempress\" Moore (Grizabella), André De Shields (Old Deuteronomy), Junior LaBeija (Gus), Tara Lashan Clinkscales (u/s Bombalurina), Dudney Joseph Jr. (Munkustrap), Sydney James Harcourt (Rum Tum Tugger), Bebe Nicole Simpson (Demeter), Emma Sofia (Cassandra/Skimbleshanks), Garnet Williams (u/s Bustopher Jones), Jonathan Burke (Mungojerrie), Dava Huesca (Rumpleteazer), Shereen Pimentel (Jellylorum), Xavier Reyes (Jennyanydots), Robert \"Silk\" Mason (Mr. Mistoffelees), Antwayn Hopper (Macavity), Primo Thee Ballerino (Tumblebrutus), Teddy Wilson Jr. (Sillabub), Kendall Grayson Stroud (Electra), Capital Kaos (DJ Griddlebone), Baby Byrne (Victoria), Frank Viveros (Booth/Police Officer/Server), Shelby Griswold (u/s Booth/Police Officer/Server)",
       "notes": "<p>Excellent 4K capture of this much-anticipated production. Some action on the balconies or in the audience couldn’t be captured, and because a lot of the staging uses the entire theatre, there are frequent wideshots. Some very minor obstruction in the top right that blocks off a tiny bit of action. Some moments of wandering and unfocusing. Includes curtain call, audio is fed from external source.</p>",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
@@ -1884,7 +1884,7 @@
       "time": "E",
       "master": "Unknown",
       "media_type": "video",
-      "cast": "Bebe Neuwirth (Lola), Victor Garber (Mr. Applegate), Dick Latessa (Van Buren)",
+      "cast": "Bebe Neuwirth (Lola), Jarrod Emick (Joe Hardy), Victor Garber (Mr. Applegate), Dennis Kelly (Joe Boyd), Vicki Lewis (Gloria Thorpe), Dick Latessa (Van Buren), Linda Stephens (Meg Boyd)",
       "notes": "Some generational loss, but a great bootleg version of show! Also features various TV clips.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -5220,6 +5220,23 @@
       "nft": false,
       "format": "MP4",
       "size": "7.15 GB"
+    },
+    {
+      "id": 2027537,
+      "show": "Mama I'm A Big Girl Now!",
+      "tour": "Off-Broadway",
+      "date": "2024-12",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Laura Bell Bundy (Performer), Kerry Butler (Performer), Marissa Jaret Winokur (Performer), Carla J. Hargrove (Ensemble), Mitchell Gerrard Johnson (Ensemble), Margot Plum (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "3.7 GB"
     }
   ],
   "Mame": [
@@ -6041,6 +6058,23 @@
       "nft": false,
       "format": "MP4",
       "size": "11.59 GB"
+    },
+    {
+      "id": 2005651,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2024-10-15",
+      "time": "E",
+      "master": "bikinibottomday",
+      "media_type": "video",
+      "cast": "Solea Pfeiffer (Satine), John Cardoza (Christian), Frank Viveros (u/s Harold Zidler), David Harris (The Duke of Monroth), Andre Ward (Toulouse-Lautrec), Pepe Muñoz (Santiago), Sophie Carmen-Jones (Nini), Jacqueline B. Arnold (La Chocolat), Nicci Claspell (Arabia), Jeigh Madjus (Baby Doll), Nick Martinez (Pierre), Jenn Stafford Yip (Ensemble), Jordan Wynn (Ensemble), Shaun-Avery Williams (Ensemble), Cole Wachman (Ensemble), Alec Varcas (Ensemble), Brooke Taylor (Ensemble), Brandon Stonestreet (s/w Ensemble), Dylan Paul (s/w Ensemble), Heather Makalani (Ensemble), Kamal Lado (Ensemble), Bahiyah Hibah (Ensemble), Aaron C. Finley (Ensemble), Olivia Cece (s/w Ensemble), Cameron Burke (s/w Ensemble)",
+      "notes": "Excellent 4K capture of John, Solea, and Pepe’s (scheduled) first performances on Broadway! Roughly one minute total of blackouts due to people walking in the aisles. Action on the far left and on the walkway is obstructed. Some washout on the wider shots. Some wandering and unfocusing throughout. Includes curtain call and encore, audio is fed from external source.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "11.17 GB"
     }
   ],
   "Mrs. Doubtfire": [
@@ -7203,6 +7237,25 @@
       "nft": false,
       "format": "MP4 x2",
       "size": "6.74 GB"
+    }
+  ],
+  "Romy and Michele's High School Reunion": [
+    {
+      "id": 2025033,
+      "show": "Romy and Michele's High School Reunion",
+      "tour": "Off-Broadway",
+      "date": "2025-11-28",
+      "time": "M",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Laura Bell Bundy (Romy White), Kara Lindsay (Michele Weinberger), Jordan Kai Burnett (Heather Mooney), Michael Thomas Grant (Sandy Frink), Je'Shaun Jackson (Toby Walters), Lauren Zakrin (Christie Masters), Pascal Pastrana (Billy Christianson), Erica Dorfler (Kelly Possenger), Ninako Donville (Lisa Luder), DeMarius R. Copes (DJ)",
+      "notes": "Single view camera.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.22 GB"
     }
   ],
   "The Roommate": [

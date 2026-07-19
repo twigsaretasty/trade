@@ -416,7 +416,7 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "Anneliese van der Pol (Belle), Steve Blanchard (Beast), Donny Osmond (Gaston), Jamie Ross (Maurice), David DeVries (Lumière), Glenn Rainey (Cogsworth), Jeanne Lehman (Mrs. Potts), Ann Mandrella (Babette), Mary Stout (Madame de la Grande Bouche), Aldrin Gonzalez (Le Fou), Trevor Braun (Chip)",
-      "notes": "Closing Night",
+      "notes": "Closing Night.\n\nFinal performance!  Includes speeches.  Donny came back to the show for the final show to play Gaston.\n\nxSprite Onx's Master.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -450,7 +450,7 @@
       "master": "minoriko",
       "media_type": "audio",
       "cast": "Anneliese van der Pol (Belle), Steve Blanchard (Beast), Chris Hoch (Gaston), Jamie Ross (Maurice), David DeVries (Lumière), Glenn Rainey (Cogsworth), Jeanne Lehman (Mrs. Potts), Ann Mandrella (Babette), Mary Stout (Madame de la Grande Bouche), Aldrin Gonzalez (Le Fou), Trevor Braun (Chip)",
-      "notes": "MY NOTES: Includes zipped version",
+      "notes": "GENERAL NOTES: Final Public Performance.\n\nRecorded by minoriko, split and tracked by lefemmedarla.<br><br>MY NOTES: Includes zipped version",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -1193,6 +1193,23 @@
   ],
   "Concerts (Miscellaneous)": [
     {
+      "id": 1119276,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "Broadway's Greatest Showstoppers",
+      "date": "2008-05-20",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Michel Bell (Performer), Kristin Chenoweth (Performer), Raúl Esparza (Performer), Marvin Hamlisch (Performer), J Mark McVey (Performer)",
+      "notes": "Hamlisch is the conductor and host of the 7:30 PM evening at Avery Fisher Hall entitled Broadway's Greatest Showstoppers. The performance also boasts the talents of Tony Award winner Kristin Chenoweth; 2008 Tony nominee Raúl Esparza; bass-baritone Michel Bell, nominated for his work in the most recent Broadway revival of Show Boat; and longtime Les Misérables singer-actor J. Mark McVey.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x16",
+      "size": "78.6 MB"
+    },
+    {
       "id": 1120780,
       "show": "Concerts (Miscellaneous)",
       "tour": "Broadway's Back!",
@@ -1208,6 +1225,23 @@
       "nft": false,
       "format": "MP3 x10",
       "size": "20.74 MB"
+    },
+    {
+      "id": 1148463,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "The Very, Very Best of Broadway",
+      "date": "2011-07-09",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Martin Short (Performer), Jane Krakowski (Performer), Brian Stokes Mitchell (Performer), Audra McDonald (Performer), Raúl Esparza (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x1",
+      "size": "220.4 MB"
     },
     {
       "id": 2004828,
@@ -9945,6 +9979,23 @@
       "nft": false,
       "format": "MP3 x2 + MP3 x35 + MOV",
       "size": "709 MB"
+    },
+    {
+      "id": 2017437,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2025-07-16",
+      "time": "M",
+      "master": "bobbyskazoo",
+      "media_type": "audio",
+      "cast": "Solea Pfeiffer (Satine), Jordan Fisher (Christian), Austin Durant (Harold Zidler), Andy Karl (The Duke of Monroth), Andre Ward (Toulouse-Lautrec), Pepe Muñoz (Santiago), Samantha Dodemaide (Nini), Donnie Hammond (La Chocolat/Ensemble), Nicci Claspell (t/r Arabia/Ensemble), Jeigh Madjus (Baby Doll/Ensemble), Nick Martinez (Pierre/Ensemble), Bahiyah Hibah (Ensemble), Ricardo A. Zayas (Ensemble), Tyler John Logan (Ensemble), Heather Makalani (Ensemble), Melissa Hunter McCann (s/w Ensemble), Alec Varcas (Ensemble), Frank Viveros (Ensemble), Michael Bryan Wang (s/w Ensemble), Shaun-Avery Williams (Ensemble), Mia Deweese (s/w Ensemble), Alexander Gil Cruz (Ensemble), Olivia Cece (Ensemble), Jack Cahill-Lemme (s/w Ensemble), Dabria Aguilar (s/w Ensemble)",
+      "notes": "<p>Clear audio recorded from the rear orchestra. Includes Encore and playout.</p><p><br></p><p>Do not post on any platform (TikTok, Tumblr, YouTube, Reddit, etc.). Please list as bobbyskazoo’s master. Feel free to trade as normal; never to be gifted or sold.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "445.1 MB"
     }
   ],
   "The Music Man": [
