@@ -1,11 +1,16 @@
 function getDays(timestamp) {
+    if (!timestamp) { return "unknown"}
     const date = new Date(timestamp);
     const now = new Date();
     
-    const diffDays = (now - date) / (1000 * 60 * 60 * 24);
+    const dateMidnight = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+    const nowMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+
+    const diffTime = nowMidnight - dateMidnight;
+    const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
 
     if (diffDays < 1) {
-        return "today";
+        return "Today";
     } else if (Math.floor(diffDays) === 1) {
         return "Yesterday";
     } else {
