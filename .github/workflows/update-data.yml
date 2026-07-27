@@ -2,7 +2,7 @@ name: Update JSON Data
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight UTC
+    - cron: '0 1 * * *'  # every day at midnight UTC
   workflow_dispatch:     
 
 permissions:
@@ -44,9 +44,6 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Checkout repo
-      uses: actions/checkout@v4
     
     - name: Upload public folder
       uses: actions/upload-pages-artifact@v3
