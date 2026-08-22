@@ -215,16 +215,18 @@ function formatRecording(id, records) {
         }).join(', ');
 
     // Push all recordings in a given timeframe to the respective lists
+
+    // First get today's today
     const today = new Date()
 
-    // The exact day to stop calculating
-    const endThisWeekDay = today.getDate()
-    const startThisWeek = new Date(today)
-    const startLastWeek = new Date(today)
-    
-    startThisWeek.setDate(endThisWeekDay - 7)
-    startLastWeek.setDate(endThisWeekDay - 14)
-    const endLastWeek = new Date(startLastWeek)
+    // find most recent sunday in UTC
+    const startThisWeek = new Date(today);
+    startThisWeek.setUTCHours(0, 0, 0, 0);
+    startThisWeek.setUTCDate(today.getUTCDate() - today.getUTCDay());
+
+    // set start of last week
+    const startLastWeek = new Date(startThisWeek);
+    startLastWeek.setUTCDate(startThisWeek.getUTCDate() - 7);
 
     const compareDate = new Date(match.collected_at)
 
@@ -232,7 +234,7 @@ function formatRecording(id, records) {
         // If the collected date is between the start of the count and today, add it to the list
         thisWeekIds.push(rec.id)
     }
-    else if (startLastWeek <= compareDate && compareDate >= endLastWeek) {
+    else if (startLastWeek <= compareDate && compareDate < startThisWeek) {
         lastWeekIds.push(rec.id)
     }
 
