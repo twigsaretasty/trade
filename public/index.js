@@ -57,7 +57,7 @@ Promise.all([
     const weeklyRecordingsCount = weeklyData.recordings
 
     // Calculate recordings count
-    let pendingCount = recordingsCount - weeklyRecordingsCount;
+    // let pendingCount = recordingsCount - weeklyRecordingsCount;
 
     // Calculate full count
     let nonencora = 14; // <-- UPDATE HERE
@@ -65,7 +65,7 @@ Promise.all([
 
     // Add recordings count
     document.getElementById('recordings').textContent = newTotal;
-    document.getElementById('pending').textContent = pendingCount;
+    // document.getElementById('pending').textContent = pendingCount;
 
     // update the profile info
     document.getElementById('profile').innerHTML = profile;
