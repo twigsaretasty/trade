@@ -519,7 +519,7 @@
       "master": "Unknown",
       "media_type": "video",
       "cast": "Michael Cerveris (John Wilkes Booth), Denis O'Hare (Charles Guiteau), James Barbour (Leon Czolgosz), Mario Cantone (Samuel Byck), Jeffrey Kuhn (Giuseppe Zangara), Mary Catherine Garrison (Lynette \"Squeaky\" Fromme), Neil Patrick Harris (Lee Harvey Oswald/Balladeer), Becky Ann Baker (Sara Jane Moore), Marc Kudisch (The Proprietor), Alexander Gemignani (John Hinckley Jr.), Anne L. Nathan (Emma Goldman)",
-      "notes": "GENERAL NOTES: After rummaging through old trading sites and checking different videos it seems that April 10 (the version with no generation loss) is the correct date and is from the master copy. This master's videos are notorious for having playback glitches and this video is an example of that. While there's no real fix for the glitchy playback, it has been recommend on sites to convert the disc to an MKV file or play it through certain apps, specifically the Mac DVD player app.\n\nThere are 2 full length videos from this production that circulate with various dates and copies. This one is most commonly listed as April 4th or 10th, but has also been listed as April 20th, 24th, and has even been mixed up with the May 29th video. Check your copy against the screenshots to see which one you have.\n\nTwo versions of this particular recording circulate: one with no playback glitches but lots of generation loss (April, 2004 or April 4) and one with glitchy playback but no generation loss (April 10, 2004, Master copy screenshots below)<br><br>MY NOTES: I have four copies of this video. Three are VOB with smalls. I believe I have two versions of the non-bugged lower quality copy, 4.57 GB and 4.28 GB. I also have the bugged higher quality copy at 3.78 GB. A MP4 (2.22 GB) copy of the higher quality files is also included.",
+      "notes": "GENERAL NOTES: After rummaging through old trading sites and checking different videos it seems that April 10 (the version with no generation loss) is the correct date and is from the master copy. This master's videos are notorious for having playback glitches and this video is an example of that. While there's no real fix for the glitchy playback, it has been recommend on sites to convert the disc to an MKV file or play it through certain apps, specifically the Mac DVD player app.\n\nThere are 2 full length videos from this production that circulate with various dates and copies. This one is most commonly listed as April 4th or 10th, but has also been listed as April 20th, 24th, and has even been mixed up with the May 29th video. Check your copy against the screenshots to see which one you have.\n\nTwo versions of this particular recording circulate: one with no playback glitches but lots of generation loss (April, 2004 or April 4 - 3.98 VOB and smalls) and one with glitchy playback but no generation loss (April 10, 2004, Master copy screenshots below - 3.51 VOB and smalls)<br><br>MY NOTES: I have four copies of this video. Three are VOB with smalls. I believe I have two versions of the non-bugged lower quality copy, 4.57 GB and 4.28 GB. I also have the bugged higher quality copy at 3.78 GB. A MP4 (2.22 GB) copy of the higher quality files is also included.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
@@ -1036,6 +1036,25 @@
       "size": "4.40 GB"
     }
   ],
+  "Broadway Bares (Concerts)": [
+    {
+      "id": 2007723,
+      "show": "Broadway Bares (Concerts)",
+      "tour": "Broadway Bares XVII: Myth Behavior",
+      "date": "2007-06-17",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Nick Kenkel (Performer), Nancy Anderson (Performer), Marielys Molina (Performer), Christopher Sieber (Performer), Leslie Rodriguez Kritzer (Performer), Michael Balderrama (Performer), Greg Butler (Performer), Brian O'Brien (Performer), Keith Roberts (Performer), Megan Sikora (Performer), Kissy Simmons (Performer), Michelle Camaya (Performer), Lorin Latarro (Performer), Tim Bish (Performer), Ashley Brown (Performer), Eric Hatch (Performer), Corbin Popp (Performer), Todd Buonopane (Performer), Nick Adams (Performer), Annaleigh Ashford (Performer), Daphne Rubin-Vega (Performer), Bebe Neuwirth (Performer), David Hyde Pierce (Performer), Capathia Jenkins (Performer), Deidre Goodwin (Performer), Harvey Fierstein (Performer), Laura Bell Bundy (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.23 GB"
+    }
+  ],
   "Broadway on Broadway (Concerts)": [
     {
       "id": 1120181,
@@ -1322,6 +1341,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "7.31 GB"
+    },
+    {
+      "id": 1157206,
+      "show": "Charlie and the Chocolate Factory",
+      "tour": "Broadway",
+      "date": "2017",
+      "time": "U",
+      "master": "ThemeParkMagic",
+      "media_type": "video",
+      "cast": "Christian Borle (Willy Wonka), Jake Ryan Flynn (Charlie Bucket), John Rubinstein (Grandpa Joe), Emily Padgett (Mrs. Bucket), Michael Wartella (Mike Teavee), Jackie Hoffman (Mrs. Teavee), Emma Sofia (Veruca Salt), Ben Crawford (Mr. Salt), Trista Dollison (Violet Beauregarde), Alan H. Green (Mr. Beauregarde), Elliott Mattox (u/s Augustus Gloop), Kathy Fitzgerald (Mrs. Gloop), Paul Slade Smith (Grandpa George), Kristy Cates (Grandma Josephine), Madeleine Doherty (Grandma Georgina)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "899.2 MB"
     }
   ],
   "Chess": [
@@ -1788,7 +1824,43 @@
       "size": "29.61 GB"
     }
   ],
+  "Concerts (54 Below)": [
+    {
+      "id": 1136398,
+      "show": "Concerts (54 Below)",
+      "tour": "Something Really Rotten",
+      "date": "2016-04-25",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Wayne Kirkpatrick (Performer), Karey Kirkpatrick (Performer), Christian Borle (Performer), Brad Oscar (Performer), John Cariani (Performer), David Hibbard (Performer), Marisha Wallace (Performer), Kate Reinders (Performer), Aaron Kaburick (Performer), Matt Allen (Performer), Heidi Blickenstaff (Performer)",
+      "notes": "Featuring the writers Wayne & Karey Kirkpatrick and the original cast of Broadway’s Something Rotten! singing songs that got revamped, revised or rejected.\r\n",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "880.3 MB"
+    }
+  ],
   "Concerts (Miscellaneous)": [
+    {
+      "id": 1110167,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "Show of Titles",
+      "date": "2021-06-13",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Danny Burstein (Performer), Michael Rupert (Performer), Ernie Sabella (Performer), Lea Salonga (Performer), Phillipa Soo (Performer), Will Swenson (Performer), Aaron Tveit (Performer), Leslie Uggams (Performer), Vanessa Williams (Performer), Patrick Wilson (Performer), Candice Bergen (Performer), Steven Pasquale (Performer), Bryan Cranston (Performer), John Kander (Performer), Angela Lansbury (Performer), John Lithgow (Performer), Lindsay Mendez (Performer), Phylicia Rashad (Performer), Ben Vereen (Performer), B.D. Wong (Performer), Florian Zeller (Performer), Isabelle Huppert (Performer), Kerry Butler (Performer), Len Cariou (Performer), Glenn Close (Performer), Gavin Creel (Performer), Darren Criss (Performer), Santino Fontana (Performer), Kelsey Grammer (Performer), David Alan Grier (Performer), Jake Gyllenhaal (Performer), Annaleigh Ashford (Performer), Norm Lewis (Performer), Patti LuPone (Performer), Rob McClure (Performer), Brian Stokes Mitchell (Performer), Melba Moore (Performer), Jessie Mueller (Performer), Eva Noblezada (Performer), Kelli O'Hara (Performer), Laura Osnes (Performer)",
+      "notes": "Broadway's Best Plays Livestream - A rousing and memorable celebration of title songs from more than two dozen Broadway musicals spanning nine decades, ranging from Lady Be Good to The Light in the Piazza. The show is featuring favorite works by Lee Adams, Maxwell Anderson, Burt Bacharach, Irving Berlin, Jerry Bock, Bertolt Brecht, Cy Coleman, Betty Comden, Joe Darion, Hal David, Fred Ebb, Gary Geld, George Gershwin, Ira Gershwin, Adolph Green, Adam Guettel, Oscar Hammerstein, Sheldon Harnick, Jerry Herman, John Kander, Burton Lane, Mitch Leigh, Alan Jay Lerner, Frank Loesser, Frederick Loewe, Galt MacDermot, Cole Porter, James Rado, Gerome Ragni, Richard Rodgers, Charles Strouse, Jule Styne, Peter Udell and Kurt Weill. Multiple rips available.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "3.71 GB"
+    },
     {
       "id": 1110849,
       "show": "Concerts (Miscellaneous)",
@@ -2002,6 +2074,23 @@
       "nft": false,
       "format": "MP4",
       "size": "7.41 GB"
+    },
+    {
+      "id": 2019551,
+      "show": "Dear Evan Hansen",
+      "tour": "The Muny",
+      "date": "2025-07",
+      "time": "E",
+      "master": "allisforgiven",
+      "media_type": "video",
+      "cast": "Michael Fabisch (Evan Hansen), Jackie Burns (Heidi Hansen), Afra Sophia Tully (Zoe Murphy), Maggie Lakis (Cynthia Murphy), Rob McClure (Larry Murphy), Joshua Bess (Connor Murphy), Bryan Munar (Jared Kleinman), Savy Jackson (Alana Beck), Kaley Bender (Virtual Community Voice), Vera Brown (Virtual Community Voice), Alex Daspit (Virtual Community Voice), Spencer Davis Milford (Virtual Community Voice), Zoë Brooke Reed (Virtual Community Voice), Essence Anisa Tyler (Virtual Community Voice), Noah Van Ess (Virtual Community Voice), Oscar Williams (Virtual Community Voice)",
+      "notes": "Great shot of this regional production! Some mild washout throughout. There is one prominent head dead center which occasionally gets in the way and obstructs large portions of the stage. It is never obstructed for a significant period and is worked around as well as possible. In the dinner scene immediately before For Forever, it started raining. As the MUNY is an outdoor venue, the show was stopped until the rain passed. The show stopping and resuming has been included.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Death Becomes Her": [
@@ -2076,6 +2165,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "3.71 GB"
+    },
+    {
+      "id": 2015078,
+      "show": "Dreamgirls",
+      "tour": "Actors Fund Benefit Concert",
+      "date": "2001-09-23",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Lillias White (Effie Melody White), Audra McDonald (Deena Jones), Heather Headley (Lorrell Robinson), Norm Lewis (Curtis Taylor Jr.), Billy Porter (James \"Thunder\" Early), Darius de Haas (C.C. White), Tamara Tunie (Michelle Morris), James Stovall (Marty Madison), Bobby Daye (Wayne), Rosa Curry (Stepp Sister), Kyra Da Costa (Stepp Sister), Deidre Goodwin (Stepp Sister), Brian Stokes Mitchell (Jerry), Adrian Bailey (Tiny Joe Dixon), Aisha de Haas (Charlene/Les Style), John Bolton (Dwight), Eric Woodall (Frank), Adriane Lenox (Joann/Les Style), Lee Summers (Mr. Morgan), Alice Ripley (Sweetheart), Emily Skinner (Sweetheart), Paul Castree (Dave), Richard E. Waits (Little Albert and the Tru-Tones/The Five Tuxedos), Dennis Stowe (Little Albert and the Tru-Tones/The Five Tuxedos), André Garner (Little Albert and the Tru-Tones/The Five Tuxedos), Bernard Dotson (Little Albert and the Tru-Tones/The Five Tuxedos), Tomé Cousin (Little Albert and the Tru-Tones/The Five Tuxedos), Montego Glover (Les Style), Brandi Chavonne Massey (Les Style), Patrick Wilson (Film Executive), Malcolm Gets (Film Executive), Brad Oscar (Film Executive), Virginia Ann Woodruff (Ensemble), T. Oliver Reid (Ensemble), Steve Geary (Ensemble), Shoshana Bean (Ensemble), Sara Ramirez (Ensemble), Ric Ryder (Ensemble), Philip Michael Baskerville (Ensemble), Orfeh (Ensemble), Leslie Odom Jr. (Ensemble), Kate Coffman-Lloyd (Ensemble), Jason Opsahl (Ensemble), James Harkness (Ensemble), Edgar Godineaux (Ensemble), E. Lynn Harris (Ensemble), Derric Harris (Ensemble), Denis Jones (Ensemble), David Benoit (Ensemble), Darren Lee (Ensemble), Christopher F. Davis (Ensemble), Audrey Klinger (Ensemble), Angelo Fraboni (Ensemble), Adam Hunter (Ensemble)",
+      "notes": "Rehearsal shot from the house right audience. Run time 2:33:09. Complete run through of the show. Average VHS quality for the time.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.23 GB"
     }
   ],
   "The Drowsy Chaperone": [
@@ -3008,6 +3114,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "2.41 GB"
+    },
+    {
+      "id": 1133271,
+      "show": "Hairspray",
+      "tour": "Broadway",
+      "date": "2002-07-22",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Marissa Jaret Winokur (Tracy Turnblad), Harvey Fierstein (Edna Turnblad), Mary Bond Davis (Motormouth Maybelle), Kerry Butler (Penny Pingleton), Linda Hart (Velma Von Tussle), Laura Bell Bundy (Amber Von Tussle), Dick Latessa (Wilbur Turnblad), Matthew Morrison (Link Larkin), Clarke Thorell (Corny Collins), Corey Reynolds (Seaweed J. Stubbs), Danelle Eugenia Wilson (Little Inez)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4 x2",
+      "size": "4.27 GB"
     }
   ],
   "Hamilton": [
@@ -3080,6 +3203,44 @@
       "nft": false,
       "format": "MP4",
       "size": "14.99 GB"
+    }
+  ],
+  "Harry Potter and the Cursed Child - Part One": [
+    {
+      "id": 367,
+      "show": "Harry Potter and the Cursed Child - Part One",
+      "tour": "Broadway",
+      "date": "2018-04-15",
+      "time": "M",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Jamie Parker (Harry Potter), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Susan Heyward (Rose Granger-Weasley/Young Hermione), Jessie Fisher (Delphi Diggory), Adam McNamara (Hagrid/Sorting Hat), Benjamin Wheelwright (Cedric Diggory/James Potter Jr./James Potter Sr.)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.55 GB"
+    }
+  ],
+  "Harry Potter and the Cursed Child - Part Two": [
+    {
+      "id": 416,
+      "show": "Harry Potter and the Cursed Child - Part Two",
+      "tour": "Broadway",
+      "date": "2018-04-15",
+      "time": "E",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Jamie Parker (Harry Potter), Sam Clemmett (Albus Severus Potter), Anthony Boyle (Scorpius Malfoy), Paul Thornley (Ron Weasley), Noma Dumezweni (Hermione Granger), Poppy Miller (Ginny Potter), Alex Price (Draco Malfoy), Susan Heyward (Rose Granger-Weasley/Young Hermione), Jessie Fisher (Delphi Diggory), Adam McNamara (Hagrid/Sorting Hat), Benjamin Wheelwright (Cedric Diggory/James Potter Jr./James Potter Sr.)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.52 GB"
     }
   ],
   "The Heart": [
@@ -3228,6 +3389,25 @@
       "nft": false,
       "format": "MP4",
       "size": "10.04 GB"
+    }
+  ],
+  "High School Musical on Stage!": [
+    {
+      "id": 30435,
+      "show": "High School Musical on Stage!",
+      "tour": "First US National Tour",
+      "date": "2007-01-28",
+      "time": "E",
+      "master": "house-cam",
+      "media_type": "video",
+      "cast": "John Jeffrey Martin (Troy Bolton), Arielle Jacobs (Gabriella Montez), Patti Murin (Sharpay Evans), Shakiem Evans (Chad Danforth), Bobby List (Ryan Evans), Alison Fraser (Ms. Darbus), Ron Bohmer (Coach Bolton), Shaullandra Lacombe (Taylor McKessie), Olivia Oguma (Kelsi Nelson)",
+      "notes": "Stage Managers Calling Copy so you hear a voice calling the show throughout the video; house camera video with good sound but no closeups A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.64 GB"
     }
   ],
   "How to Succeed in Business Without Really Trying": [
@@ -6060,6 +6240,23 @@
       "size": "8.86 GB"
     },
     {
+      "id": 1152548,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "First US National Tour",
+      "date": "2023-07 (2)",
+      "time": "U",
+      "master": "stillreprise",
+      "media_type": "video",
+      "cast": "Yvette González-Nacer (Satine), John Cardoza (Christian), Austin Durant (Harold Zidler), Andrew Brewer (The Duke of Monroth), Nick Rashad Burroughs (Toulouse-Lautrec), Gabe Martinez (Santiago), Libby Lloyd (Nini), Harper Miles (La Chocolat), Nicci Claspell (Arabia), Andres Quintero (Baby Doll), Kamal Lado (Pierre)",
+      "notes": "About 25 minutes of highlights, including halfway through Opening through Shut Up, Elephant Love Medley, and the Satine solo parts of Crazy Rolling. Not a great video and from not a great angle, but still captures Yvette's principal run well. Heavy obstruction from heads and upper lights along with some grain from zoom. It still follows the action well and would have been great if my camera battery hadn't decided to die twenty minutes in.",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4 x4",
+      "size": "6.85 GB"
+    },
+    {
       "id": 2002921,
       "show": "Moulin Rouge! The Musical",
       "tour": "Broadway",
@@ -6202,6 +6399,23 @@
       "nft": false,
       "format": "MP4",
       "size": "6.56 GB"
+    },
+    {
+      "id": 1130767,
+      "show": "The Music Man",
+      "tour": "Olney Theatre",
+      "date": "2022-07",
+      "time": "U",
+      "master": "TheatreCouple14",
+      "media_type": "video",
+      "cast": "James Caverly (Harold Hill), Florrie Bagel (alt Marian Paroo), Nicki Runge (Mrs. Paroo/Mrs. Squires), Christopher Tester (Winthrop/Oliver Hix), Vishal Vaidya (Marcellus Washburn), Andrew Morrill (Mayor Shinn), Matthew August (Tommy Djilas), Angel Piñero (Zaneeta Shinn), Jay Frisbee (Charlie Cowell/Jacey Squires), Sarah Anne Sillers (Amaryllis), Gregor Lopes (Olin Britt), Amelia Hensley (Eulalie MacKecknie Shinn), Dylan Toms (Ewart Dunlop), Mervin Primeaux-o'Bryant (Maud Dunlop/Constable Locke), Heather Beck (Alma Hix)",
+      "notes": "<p>Decent phone boot of an interesting Sign Language version of the musical. Exported at 4:3 so that you can see the captions projected above the stage. If listening to the audio only, you might not get much out of it, as almost all of the dialogue was signed, but still tracked in case you want the songs individually. Never to be sold. Gifting Encouraged.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4 + MP3 x1 + MP3 x54",
+      "size": "4.69 GB"
     },
     {
       "id": 1154097,
@@ -7254,6 +7468,25 @@
       "size": "2.82 GB"
     }
   ],
+  "Rock of Ages": [
+    {
+      "id": 1134543,
+      "show": "Rock of Ages",
+      "tour": "All Star Reunion Concert",
+      "date": "2021-04-23",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Constantine Maroulis (Drew), James Snyder (Drew), Laura Bell Bundy (Sherrie), Amy Spanger (Sherrie), Becca Kotte (Sherrie), Callandra Olivia (Sherrie), Kerry Butler (Sherrie), Willam (Sherrie), Kate Rockwell (Sherrie), James Carpinello (Stacee Jaxx), Chris Hardwick (Stacee Jaxx), Matt Wolpe (Lonny/Hertz), Dan Finnerty (Lonny), Mitchell Jarvis (Lonny), Reginia Levert (Justice), Michele Mais (Justice), Dot-Marie Jones (Dennis), Adam Dannheisser (Dennis), Dee Snider (Dennis), Kyle Gass (Dennis), Lauren Molina (Regina), Wesley Taylor (Franz), Tom Lenk (Franz), Frankie Grande (Franz), Andre Ward (Mayor/Ja'Keith Gill)",
+      "notes": "Prepare to STREAM at the top of your lungs to some of the greatest 80’s hits, like you’ve never heard them before – live from the REAL Bourbon Room Hollywood stage.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "3.94 GB"
+    }
+  ],
   "Romeo and Juliet (Shakespeare)": [
     {
       "id": 2006015,
@@ -8186,6 +8419,25 @@
       "nft": false,
       "format": "MP4 x2",
       "size": "12.30 GB"
+    }
+  ],
+  "Sympathy Jones": [
+    {
+      "id": 1005224,
+      "show": "Sympathy Jones",
+      "tour": "New York Musical Theatre Festival (NYMF)",
+      "date": "2007-10-04",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Kate Shindle (Sympathy Jones), Jane Summerhays (Kitty Hawk), Glenn Peters (Tick Tock), Tony Chiroldes (Henry Oscill), Jimmy Ray Bennett (Nick Steele), Lucy Sorensen (Caprice Nova), Thursday Farrar (Ann), Charlie Pollock (David Hunter), Christopher Carl (Roger Pinkerton), Amanda Ryan Paige (Doris)",
+      "notes": "Kate was injured and sits in a chair stage left for most of the show.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.34 GB"
     }
   ],
   "Tammy Faye": [
