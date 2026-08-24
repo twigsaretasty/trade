@@ -350,6 +350,23 @@ async function main() {
         sortedGroupedVideos[key] = groupedVideos[key];
     });
 
+    const timeOrder = { "M": 0, "E": 1, "U": 2 };
+    const sortByDateThenTime = (a, b) => {
+        const dateComparison = a.date.localeCompare(b.date);
+
+        if (dateComparison !== 0) return dateComparison;
+
+        return timeOrder[a.time] - timeOrder[b.time];
+    };
+
+    Object.values(sortedGroupedAudios).forEach(recordings => {
+        recordings.sort(sortByDateThenTime);
+    });
+
+    Object.values(sortedGroupedVideos).forEach(recordings => {
+        recordings.sort(sortByDateThenTime);
+    });
+
     // Deal with new ins
     const thisWeekIns = []
     const lastWeekIns = []
