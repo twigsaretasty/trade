@@ -9,37 +9,43 @@ function formatNum(num) {
 }
 
 Promise.all([
-    fetch('weekly-profile.json').then(response => response.json()),
     fetch('new.json').then(response => response.json()),
-]).then(([profileData, newData]) => {
-    // Get the date from profile data
-    const endThisWeek = new Date(profileData.last_seen);
+]).then(([newData]) => {
 
-    // Get the exact day of the last logged date
-    const endThisWeekDay = endThisWeek.getDate();
-    
-    // Set up the start and end times
-    const startThisWeek = new Date(endThisWeek);
-    const startLastWeek = new Date(endThisWeek)
+    // first get today
+    const today = new Date();
 
-    // Set the start to 7 and 14 days before
-    startThisWeek.setDate(endThisWeekDay - 7);
-    startLastWeek.setDate(endThisWeekDay - 14);
+    // find the most recent sunday in in UTC
+    const startThisWeek = new Date(today);
+    startThisWeek.setUTCHours(0,0,0,0); // reset to midnight
+    startThisWeek.setUTCDate(today.getUTCDate() - today.getUTCDay()) // set to most recent sunday
 
-    const nowMonth = formatNum(endThisWeek.getMonth() + 1);
-    const nowDay = formatNum(endThisWeek.getDate());
-    const startThisMonth = formatNum(startThisWeek.getMonth() + 1);
-    const startThisDay = formatNum(startThisWeek.getDate());
+    // set the start of last week
+    const startLastWeek = new Date(startThisWeek);
+    startLastWeek.setUTCDate(startThisWeek.getUTCDate() - 7); // set to a week before
 
-    const thisWeekDates = `${startThisMonth}-${startThisDay} - ${nowMonth}-${nowDay}`;
+    const endThisWeek = new Date(startThisWeek);
+    endThisWeek.setUTCDate(startThisWeek.getUTCDate() + 6); // set to saturday 
+    console.log("end this week", endThisWeek)
+
+    const endThisMonth = formatNum(endThisWeek.getUTCMonth() + 1);
+    const endThisDay = formatNum(endThisWeek.getUTCDate());
+    const startThisMonth = formatNum(startThisWeek.getUTCMonth() + 1);
+    const startThisDay = formatNum(startThisWeek.getUTCDate());
+
+    const thisWeekDates = `${startThisMonth}-${startThisDay} - ${endThisMonth}-${endThisDay}`;
+
+    // set the end of last week
+    const endLastWeek = new Date(startThisWeek);
+    endLastWeek.setUTCDate(startThisWeek.getUTCDate() - 1);
     
     // These are the same values just renaming for clarity
-    const endLastMonth = startThisMonth;
-    const endLastDay = startThisDay;
+    const endLastMonth = formatNum(endLastWeek.getUTCMonth() + 1);;
+    const endLastDay = formatNum(endLastWeek.getUTCDate());;
 
     // Set values for last week's count
-    const startLastMonth = formatNum(startLastWeek.getMonth() + 1);
-    const startLastDay = formatNum(startLastWeek.getDate());
+    const startLastMonth = formatNum(startLastWeek.getUTCMonth() + 1);
+    const startLastDay = formatNum(startLastWeek.getUTCDate());
     const lastWeekDates = `${startLastMonth}-${startLastDay} - ${endLastMonth}-${endLastDay}`;
 
     // add this to html
