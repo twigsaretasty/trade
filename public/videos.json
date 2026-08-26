@@ -3408,6 +3408,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.64 GB"
+    },
+    {
+      "id": 31863,
+      "show": "High School Musical on Stage!",
+      "tour": "Music Theatre of Wichita",
+      "date": "2007-06",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Matthew Elliott (Troy Bolton), Desi Oakley (Gabriella Montez), Sophia Drummond (Sharpay Evans), Elliot Metz (Chad Danforth), Evan Kilgore (Ryan Evans), Karen L. Robu (Ms. Darbus), Timothy W. Robu (Coach Bolton), Shina Ann Morris (Taylor McKessie), Maurice Sims (Zeke Baylor), Alex Johnson (Kelsi Nelson), Miles Mattal (Jack Scott), Emma Craig (Martha), Tom Wine (Ms. Tenny)",
+      "notes": "Filmed using one camera on a tripod. Very clear with excellent sound and closeups.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "How to Succeed in Business Without Really Trying": [
@@ -9460,6 +9477,25 @@
       "nft": false,
       "format": "MP4",
       "size": "3.04 GB"
+    }
+  ],
+  "Winx Power Show": [
+    {
+      "id": 1130806,
+      "show": "Winx Power Show",
+      "tour": "Italy",
+      "date": "2005",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Mary Dima (Bloom), Sara Marinaccio (Stella), Erika Iacono (Musa), Claudia Alfonso (Flora), Annamaria DeMatteo (Tecna), Melissa Marchetto (Melissa), Dania Mansi (Icy), Valentina Beretta (Darcy), Rari Lo Cicero (Stormy), Giacomo Bia (Sky), Ettore Romano (Helia), Daniele Cauduro (Timmy), Manuel Ferruggia (Riven), Luca Peruzzi (Brandon), Germano Aledda (Lord Darkar)",
+      "notes": "Multi-cam pro-shot, comes with backstage video",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "The Wiz": [
