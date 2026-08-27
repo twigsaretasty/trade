@@ -342,6 +342,25 @@
       "size": "5.92 GB"
     }
   ],
+  "Alice By Heart": [
+    {
+      "id": 8398,
+      "show": "Alice By Heart",
+      "tour": "Off-Broadway",
+      "date": "2019-03",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Molly Gordon (Alice Spencer/Alice), Colton Ryan (Alfred Hallam/White Rabbit/March Hare), Kim Blanck (Tabatha/Cheshire Cat/Caterpillar 2), Noah Galvin (Dodgy/Duchess/Dodo/Mock Mock Mock Mock Turtle), Grace McLean (Red Cross Nurse/Queen of Hearts/Magpie), Andrew Kober (Dr. Butridge/King of Hearts/Jabberwocky/Duck/Mock Turtle), Wesley Taylor (Harold Pudding/Mad Hatter/Knave of Spades/Pigeon/Mock Mock Turtle), Catherine Ricafort (Clarissa/Queen of Diamonds/Canary/Mock Mock Mock Turtle), Heath Saunders (Angus/Caterpillar/Knave of Hearts), Z Infante (Nigel/Dormouse/Knave of Clubs/Eaglet), Mia DiLena (Ensemble), Zachary Downer (Ensemble)",
+      "notes": "Really beautiful shot in an intimate space. Lots of zooms, but a good amount of wider shots too with a very limited (almost nonexistent) amount of heads. The lighting in this theater really liked my camera and I know the show almost “by heart” so I think I followed the action as well as possible. My battery died during the last song, but it starts at the very beginning with only one drop out during dialogue.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "7.13 GB"
+    }
+  ],
   "All Shook Up": [
     {
       "id": 28817,
@@ -1767,6 +1786,23 @@
       "nft": false,
       "format": "MP4",
       "size": "15.63 GB"
+    },
+    {
+      "id": 2018285,
+      "show": "Come From Away",
+      "tour": "Ogunquit Playhouse",
+      "date": "2025-05-21",
+      "time": "E",
+      "master": "shesmydoctor",
+      "media_type": "video",
+      "cast": "Mary Kate Morrissey (Beverley/Annette), Kyle Nicholas Anderson (Kevin T./Garth), David Benoit (Claude/Others), Ben Roseberry (Oz/Others), Hashini Amarasinghe (Janice/Others), John El-Jor (Kevin J./Ali), Kent M. Lewis (Nick/Doug), Liz Pearce (Diane/Others), Dayna Jarae Dantzler (Hannah/Others), Joy Hermalyn (Beulah/Others), Erica Spyres (Bonnie/Others), Isaiah Bailey (Bob/Others)",
+      "notes": "Not the best video but captures all the best parts of this fantastic production, just with some shakiness and obstruction on the left side. The set is very detailed and this video shows it off well",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "7.06 GB"
     }
   ],
   "The Comedy About Spies": [
@@ -2089,8 +2125,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "11.35 GB"
     }
   ],
   "Death Becomes Her": [
@@ -2331,7 +2367,7 @@
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "VOB (with smalls)",
-      "size": "6.59 GB"
+      "size": "2.43 GB"
     },
     {
       "id": 1445,
@@ -3044,6 +3080,23 @@
       "nft": false,
       "format": "MP4 + MP3 x34",
       "size": "8.49 GB"
+    },
+    {
+      "id": 2037885,
+      "show": "Hadestown",
+      "tour": "West End",
+      "date": "2025",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Reeve Carney (Orpheus), Eva Noblezada (Eurydice), Amber Gray (Persephone), Patrick Page (Hades), André De Shields (Hermes), Bella Brown (Fate), Madeline Charlemagne (Fate), Allie Daniel (Fate), Tiago Dhondt Bamberger (Worker), Waylon Jacobs (Worker), Lauren Azania (Worker), Christopher Short (Worker)",
+      "notes": "Footage was captured during three live performances on February 28 and March 1, 2025. Premiered on June 8, 2026; released in the United States on July 24, 2026. https://www.imdb.com/title/tt36307021/",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MKV (1080p)",
+      "size": "10.63 GB"
     }
   ],
   "Hairspray": [
@@ -3423,8 +3476,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "7.24 GB"
     }
   ],
   "How to Succeed in Business Without Really Trying": [
@@ -9494,8 +9547,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "297.2 MB"
     }
   ],
   "The Wiz": [
