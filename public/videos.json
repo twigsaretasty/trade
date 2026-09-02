@@ -382,6 +382,23 @@
   ],
   "Amélie": [
     {
+      "id": 1345,
+      "show": "Amélie",
+      "tour": "Broadway",
+      "date": "2017-03-29",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Phillipa Soo (Amélie Poulain), Adam Chanler-Berat (Nino Quincampoix), Tony Sheldon (Raymond Dufayel/Collignon), Manoel Felciano (Raphaël Poulain/Bretodeau), Alison Cimmet (Amandine Poulain/Philomene), Savvy Crawford (Young Amélie), Alyse Alan Louis (Georgette/Sylvie/Collignon's Mother), Harriett D. Foy (Suzanne), Heath Calvert (Lucien/Mysterious Man/Adrien Wells), Maria-Christina Oliveras (Gina), Randy Blair (Elton John/Hipolito/Suicidal Tourist), Paul Whitty (Fluffy/Collignon's Father/Joseph), David Andino (Blind Beggar/Garden Gnome)",
+      "notes": "Excellent HD capture of the new whimsical musical. The entire cast gives great performances in this fun and sweet tale of a dreamer! A-",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 20438,
       "show": "Amélie",
       "tour": "First UK Tour",
@@ -1199,6 +1216,25 @@
       "nft": false,
       "format": "MP4",
       "size": "12.50 GB"
+    }
+  ],
+  "Carousel": [
+    {
+      "id": 5388,
+      "show": "Carousel",
+      "tour": "Third Broadway Revival",
+      "date": "2018-08",
+      "time": "E",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Joshua Henry (Billy Bigelow), Jessie Mueller (Julie Jordan), Renée Fleming (Nettie Fowler), Lindsay Mendez (Carrie Pipperidge), Alexander Gemignani (Enoch Snow), John Douglas Thompson (The Starkeeper), Amar Ramasar (Jigger Craigin), Garett Hawe (Enoch Snow Jr.), Brittany Pollack (Louise Bigelow)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Catch Me If You Can": [
@@ -2163,6 +2199,25 @@
       "nft": false,
       "format": "MP4",
       "size": "10.82 GB"
+    }
+  ],
+  "Disaster!": [
+    {
+      "id": 406,
+      "show": "Disaster!",
+      "tour": "Broadway",
+      "date": "2016-02-20",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Kerry Butler (Marianne), Jennifer Simard (Sister Mary Downy), Seth Rudetsky (Professor Ted Scheider), Rachel York (Jackie), Faith Prince (Shirley), Adam Pascal (Chad), Kevin Chamberlin (Maury), Roger Bart (Tony), Max Crumm (Scott), Lacretta Nicole (Levora), Baylee Litrell (Ben)",
+      "notes": "Excellent HD capture of the new campy musical filled with 70s hits! The cast does a wonderful job with camp and really commits, which makes it a very fun show! A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Dogfight": [
@@ -3813,6 +3868,23 @@
       "nft": false,
       "format": "MOV x2 + MP4 + M4A x2",
       "size": "9.42 GB"
+    },
+    {
+      "id": 2029449,
+      "show": "Into the Woods",
+      "tour": "Bridge Theatre",
+      "date": "2026-02",
+      "time": "U",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Kate Fleetwood (Witch), Jamie Parker (Baker), Katie Brayben (Baker's Wife), Chumisa Dornford-May (Cinderella), Gracie McGonigal (Little Red Riding Hood), Jo Foster (Jack), Taite-Elliot Drew (s/b Wolf/Cinderella's Prince), Rhys Whitfield (Rapunzel's Prince), Michael Gould (Narrator/Mysterious Man), Julie Jupp (Jack's Mother), Jennifer Hepburn (Cinderella's Stepmother), Gabrielle Lewis-Dodson (Florinda), Hana Ichijo (Lucinda), Geoffrey Aymer (Cinderella's Father), Hughie O'Donnell (Steward), Bella Brown (Rapunzel), Valda Aviks (Granny/Giant's Voice)",
+      "notes": "Great capture of this acclaimed revival! Shot in a great mix of wides, mediums, and close-ups. Increased wandering, shaking, and re-adjusting throughout, with some moments of washout and unfocusing. Audio is patched in from an external source; some scraping and rustling might be heard during readjustment periods. Overall a great capture.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Jekyll and Hyde (Wildhorn)": [
@@ -5101,6 +5173,23 @@
       "size": "10.10 GB"
     },
     {
+      "id": 2036351,
+      "show": "Legally Blonde",
+      "tour": "Brazil",
+      "date": "2024",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Myra Ruiz (Elle Woods), Hipólyto (Emmett Forrest), Renan Rosiq (Warner Huntington III), Gigi Debei (Vivienne Kensington)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "1.18 GB"
+    },
+    {
       "id": 2025878,
       "show": "Legally Blonde",
       "tour": "Brazil",
@@ -6259,6 +6348,23 @@
       "size": "5.88 GB"
     },
     {
+      "id": 1119017,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2021-10",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Natalie Mendoza (Satine), Aaron Tveit (Christian), Danny Burstein (Harold Zidler), Tam Mutu (The Duke of Monroth), Sahr Ngaujah (Toulouse-Lautrec), Ricky Rojas (Santiago), Robyn Hurder (Nini), Jacqueline B. Arnold (La Chocolat), Holly James (Arabia), Jeigh Madjus (Baby Doll), Reed Luplau (Pierre), Bahiyah Hibah (Ensemble), Mia Deweese (s/w Ensemble), Julius Anthony Rubio (Ensemble), Benjamin Rivera (Ensemble), Khori Michelle Petinaud (Ensemble), Fredric Odgaard (Ensemble), Kaitlin Mesh (Ensemble), Aaron C. Finley (Ensemble), Dylan Paul (s/w Ensemble), Sam J. Cahn (Ensemble), Kyle Brown (Ensemble), Maya Bowles (Ensemble), Olutayo Bosede (Ensemble), Giovanni Bonaventura (Ensemble), Keely Beirne (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1117710,
       "show": "Moulin Rouge! The Musical",
       "tour": "Broadway",
@@ -6512,7 +6618,7 @@
       "time": "U",
       "master": "StarCuffedJeans",
       "media_type": "video",
-      "cast": "Hugh Jackman (Harold Hill), Sutton Foster (Marian Paroo), Marie Mullen (Mrs. Paroo), Benjamin Pajak (Winthrop), Shuler Hensley (Marcellus Washburn), Mark Linn-Baker (Mayor Shinn), Gino Cosculluela (Tommy Djilas), Emma Crow (Zaneeta Shinn), Remy Auberjonois (Charlie Cowell), Emily Jewel Hoder (Amaryllis), Phillip Boykin (Olin Britt/Barbershop Quartet), Jayne Houdyshell (Eulalie MacKecknie Shinn), Eddie Korbich (s/b Jacey Squires), Daniel Torres (Ewart Dunlop/Barbershop Quartet), Jessica Sheridan (Maud Dunlop), Rema Webb (Mrs. Squires), Garrett Long (Ethel Toffelmier), Nicholas Ward (Barbershop Quartet/Oliver Hix), Lance Roberts (Constable Locke), Linda Mugleston (Alma Hix), Kennedy Pitney (Gracie Shinn), Amanda LaMotte (Ensemble), Branch Woodman (Ensemble), Mitchell Tobin (Ensemble), Sherisse Springer (Ensemble), Ann Sanders (Ensemble), Tanner Quirk (Ensemble), Sean Montgomery (Ensemble), Drew Minard (Ensemble), Devin Miles Lugo (Ensemble), Ross Lekites (Ensemble), Kayla LaVine (Ensemble), Nick Alvino (Ensemble), Andrea Jones-Sojola (Ensemble), Ethen Green-Younger (Ensemble), Aydin Eyikan (Ensemble), Kammie Crum (Ensemble), William Thomas Colin (Ensemble), Michael Cash (Ensemble), Audrina Brudner (Ensemble), Ronnie S Bowman Jr. (Ensemble), Lauren Blackman (Ensemble), Jordan Beall (Ensemble)",
+      "cast": "Hugh Jackman (Harold Hill), Sutton Foster (Marian Paroo), Marie Mullen (Mrs. Paroo), Benjamin Pajak (Winthrop), Shuler Hensley (Marcellus Washburn), Mark Linn-Baker (Mayor Shinn), Gino Cosculluela (Tommy Djilas), Emma Crow (Zaneeta Shinn), Remy Auberjonois (Charlie Cowell), Emily Jewel Hoder (Amaryllis), Phillip Boykin (Olin Britt/Barbershop Quartet), Jayne Houdyshell (Eulalie MacKecknie Shinn), Eddie Korbich (s/b Jacey Squires), Daniel Torres (Ewart Dunlop/Barbershop Quartet), Jessica Sheridan (Maud Dunlop), Rema Webb (Mrs. Squires), Garrett Long (Ethel Toffelmier), Nicholas Ward (Barbershop Quartet/Oliver Hix), Lance Roberts (Constable Locke), Linda Mugleston (Alma Hix), Kennedy Pitney (Gracie Shinn), Amanda LaMotte (Ensemble), Branch Woodman (Ensemble), Mitchell Tobin (Ensemble), Sherisse Springer (Ensemble), Ann Sanders (Ensemble), Tanner Quirk (Ensemble), Sean Montgomery (Ensemble), Drew Minard (Ensemble), Devin Miles Lugo (Ensemble), Ross Lekites (Ensemble), Kayla LaVine (Ensemble), Nick Alvino (Ensemble), Andrea Jones-Sojola (Ensemble), Ethen Green-Younger (Ensemble), Aydin Eyikan (Ensemble), Kammie Crum (Ensemble), William Thomas Colin (Ensemble), Michael Cash (Ensemble), Audrina Brudner (Ensemble), Ronnie S. Bowman Jr. (Ensemble), Lauren Blackman (Ensemble), Jordan Beall (Ensemble)",
       "notes": "MY NOTES: Excellent video! I thought the cast was great too. Watched 3/28/2026",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -6592,6 +6698,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "8.40 GB"
+    }
+  ],
+  "A New Brain": [
+    {
+      "id": 484,
+      "show": "A New Brain",
+      "tour": "Encores! Off-Center",
+      "date": "2015-06-24",
+      "time": "E",
+      "master": "NYCG8R",
+      "media_type": "video",
+      "cast": "Jonathan Groff (Gordon), Dan Fogler (Mr. Bungee), Ana Gasteyer (Mimi), Alyse Alan Louis (Rhoda), Aaron Lazar (Roger), Josh Lamon (Richard), Rema Webb (Lisa), Jenni Barber (Nancy D.), Bradley Dean (Dr. Jafar Berensteiner), Quentin Earl Darrington (Minister)",
+      "notes": "Nicely filmed. The disc also includes about three minutes of press reel footage.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Newsies": [
