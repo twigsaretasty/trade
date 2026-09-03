@@ -395,8 +395,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "6.68 GB"
     },
     {
       "id": 20438,
@@ -1233,8 +1233,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "4.53 GB"
     }
   ],
   "Catch Me If You Can": [
@@ -2216,8 +2216,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls) + MP4",
+      "size": "14.24 GB"
     }
   ],
   "Dogfight": [
@@ -3883,8 +3883,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "11.01 GB"
     }
   ],
   "Jekyll and Hyde (Wildhorn)": [
@@ -5273,6 +5273,23 @@
       "nft": false,
       "format": "MP4",
       "size": "9.67 GB"
+    },
+    {
+      "id": 2030007,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-02",
+      "time": "U",
+      "master": "hitmewithyourbethshot",
+      "media_type": "video",
+      "cast": "Amber Davies (Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham/Store Manager), Adam Cooper (Professor Callahan), Hannah Lowther (Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Keanna Bloomfield (Enid)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP4",
+      "size": "13.76 GB"
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -6361,8 +6378,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "6.54 GB"
     },
     {
       "id": 1117710,
@@ -6715,8 +6732,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls) + MP4",
+      "size": "9.84 GB"
     }
   ],
   "Newsies": [
@@ -7070,7 +7087,7 @@
       "master": "juniper47",
       "media_type": "video",
       "cast": "Sutton Foster (Princess Winnifred), Michael Urie (Prince Dauntless), Ana Gasteyer (Queen Aggravain), David Patrick Kelly (King Sextimus), Daniel Breaker (Jester), Nikki Renée Daniels (Lady Larken), Ben Davis (u/s Sir Harry), Brooks Ashmanskas (Wizard), Richard Riaz Yoder (Ensemble), Darius Wright (Ensemble), Jeffrey Schecter (Ensemble), Adam Roberts (Ensemble), Michael Olaribigbe (Ensemble), Amanda LaMotte (Ensemble), Sarah Michele Lindsey (s/w Ensemble), Sheldon Henry (s/w Ensemble), Cicily Daniels (Ensemble), Taylor Marie Daniel (Ensemble), Wendi Bergamini (Ensemble), Daniel Beeman (Ensemble)",
-      "notes": "Filmed from orchestra in 4K. No obstruction except for a couple moments where action is on the far right side. A few dropouts for applause or late-comers. Act 2 filmed slightly darker than Act 1 - corrected as best as possible in editing. Most of curtain call (filmed using another device) included. \nNFT (NOT FOR TRADE) and sales only through master until August 28, 2025.",
+      "notes": "MASTER NOTES: Filmed from orchestra in 4K. No obstruction except for a couple moments where action is on the far right side. A few dropouts for applause or late-comers. Act 2 filmed slightly darker than Act 1 - corrected as best as possible in editing. Most of curtain call (filmed using another device) included. \nNFT (NOT FOR TRADE) and sales only through master until August 28, 2025.<br><br>GENERAL NOTES: Ben Davis appears only in the first scene, Daniel Beeman takes over the role after in a little while.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
