@@ -1,5 +1,6 @@
 {
-  "thisWeekIns": [
+  "thisWeekIns": [],
+  "lastWeekIns": [
     "Disaster! | Broadway | 2016-02-20 | SunsetBlvd79 (video)",
     "A New Brain | Encores! Off-Center | 2015-06-24 | NYCG8R (video)",
     "Amélie | Broadway | 2017-03-29 | SunsetBlvd79 (video)",
@@ -8,12 +9,5 @@
     "Into the Woods | Bridge Theatre | 2026-02 | MTTZ (video)",
     "Legally Blonde | Third UK Tour | 2026-02 | hitmewithyourbethshot (video)",
     "Legally Blonde | Brazil | 2024 | Unknown (video)"
-  ],
-  "lastWeekIns": [
-    "Alice By Heart | Off-Broadway | 2019-03 | StarCuffedJeans (video)",
-    "High School Musical on Stage! | Music Theatre of Wichita | 2007-06 | pro-shot (video)",
-    "Winx Power Show | Italy | 2005 | pro-shot (video)",
-    "Come From Away | Ogunquit Playhouse | 2025-05-21 | shesmydoctor (video)",
-    "Hadestown | West End | 2025 | pro-shot (video)"
   ]
 }
