@@ -878,6 +878,23 @@
   ],
   "A Bronx Tale: The Musical": [
     {
+      "id": 35009,
+      "show": "A Bronx Tale: The Musical",
+      "tour": "Broadway",
+      "date": "2017-01-25",
+      "time": "E",
+      "master": "cursetheflame",
+      "media_type": "audio",
+      "cast": "Bobby Conte Thornton (Calogero), Ariana DeBose (Jane), Nick Cordero (Sonny), Richard H. Blake (Lorenzo), Hudson Loverro (Young Calogero), Lucia Giannetta (Rosina), Bradley Gibson (Tyrone)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2023996,
       "show": "A Bronx Tale: The Musical",
       "tour": "Broadway",
@@ -1606,6 +1623,23 @@
       "nft": false,
       "format": "MP3 x1",
       "size": "220.4 MB"
+    },
+    {
+      "id": 1133429,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "Concert for America: Stand Up, Sing Out!",
+      "date": "2017-05-24",
+      "time": "E",
+      "master": "Token Goat",
+      "media_type": "audio",
+      "cast": "Chita Rivera (Performer), Diane Kelber (Performer), Wendy Liebman (Performer), Jane Lynch (Performer), Melissa Manchester (Performer), Alec Mapa (Performer), Lisa Mordente (Performer), Kate Pazakis (Performer), Helen Reddy (Performer), Justin Jones (Performer), Brad Sharp (Performer), Keesha Sharp (Performer), Ben Vereen (Performer), Paul Vogt (Performer), Mollie Weaver (Performer), Marissa Jaret Winokur (Performer), Christopher Youngsman (Performer), Anthony Fedorov (Performer), Jesimiel Jenkins (Performer), Rachel Bloom (Performer), Dedrick Bonner (Performer), Wayne Brady (Performer), Laura Bell Bundy (Performer), Kevin Chamberlin (Performer), Quinn Cummings (Performer), Mary Bond Davis (Performer), Sam Harris (Performer), Juan Pablo Espinosa (Performer), John Feliciano (Performer), Kate Flannery (Performer), Barrett Foa (Performer), Malynda Hale (Performer), Carly Huges (Performer), Seth Rudetsky (Host), James Wesley (Host)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 1148241,
@@ -2644,6 +2678,25 @@
       "size": "136.07 MB"
     }
   ],
+  "Fun Home": [
+    {
+      "id": 32575,
+      "show": "Fun Home",
+      "tour": "First US National Tour",
+      "date": "2017-02-22",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Kate Shindle (Alison), Abby Corrigan (Medium Alison), Alessandra Baldacchino (Small Alison), Robert Petkoff (Bruce), Susan Moniz (Helen), Karen Eilbacher (Joan), Pierson Salvador (Christian), Lennon Nate Hammond (John), Robi Hager (Roy/Others)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Good Vibrations": [
     {
       "id": 1111273,
@@ -2661,6 +2714,25 @@
       "nft": false,
       "format": "MP3 x18",
       "size": "126.06 MB"
+    }
+  ],
+  "The Great American Trailer Park Musical": [
+    {
+      "id": 18687,
+      "show": "The Great American Trailer Park Musical",
+      "tour": "Off-Broadway",
+      "date": "2005-10-16",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Linda Hart (Betty), Marya Grandy (Lin), Leslie Rodriguez Kritzer (Pickles), Shuler Hensley (Norbert), Kaitlin Hopkins (Jeannie), Orfeh (Pippi), Wayne Alan Wilcox (Duke)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "The Great Gatsby (Howland/Tysen/Kerrigan)": [
@@ -8168,6 +8240,23 @@
       "size": "170.6 MB"
     },
     {
+      "id": 4285,
+      "show": "Legally Blonde",
+      "tour": "Wolverhampton Musical Comedy Company",
+      "date": "2015-03-14",
+      "time": "E",
+      "master": "tinyrevolt",
+      "media_type": "audio",
+      "cast": "Katie Astbury (Elle Woods), Liam Sargeant (Emmett Forrest), Tye Harris (Warner Huntington III), Harry Golightly (Paulette), Pascale Rollings (Vivienne Kensington), Kimberley Robinson (Brooke Wyndham), Chris Frost (Professor Callahan), Emma Marsh (Margot), Georgia Hudson (Serena), Shannon Spence (Pilar), Zachary Hollinshead (Kyle), Matthew Colley (Dewey/Aaron), Ben Evans (Grandmaster Chad), Jessamin Osborne (Enid), Helen Taylor (Kate/Stenographer), Megan Russell (Chutney), Adam Starr (Dad/Carlos), Phillip Drinkwater (Winthrop), Jo Evans (Mom), Rose Lister (Whitney), Dominic Smith (Padamadan), Tracey Hudson (Store Manager), Adam Partridge (Nikos), Stuart Brooke (Lowell), Alan Compson (Pforzheimer), Marcelle Rollings (D.A. Joyce Riley), Amy Evans (Ensemble), Jessica McKenzie (Ensemble), Amy Chwiej (Ensemble), Jessica Fellows (Ensemble)",
+      "notes": "Closing night of the amateur production by Wolverhampton Musical Comedy Company. Not that youd know it was amateur - Katie Astbury and Harry Golightly in particular were outstanding, and if Katie never gets to perform on the West End, I dont know what the world will have come to.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1120693,
       "show": "Legally Blonde",
       "tour": "Kilworth House Theatre",
@@ -8882,6 +8971,23 @@
       "size": "365.58 MB"
     },
     {
+      "id": 1142159,
+      "show": "Legally Blonde",
+      "tour": "Fourth US National Tour (Non-Equity)",
+      "date": "2023-04-30",
+      "time": "M",
+      "master": "matchedinrenown",
+      "media_type": "audio",
+      "cast": "Hannah Bonnett (Elle Woods), Woody White (Emmett Forrest), James Oblak (Warner Huntington III), Ashley Morton (Paulette), Lea Sevola (Vivienne Kensington), Kaelee Albritton (Brooke Wyndham), Chris Carsten (Professor Callahan), Jesse Lynn Harte (Margot), Taylor Lloyd (Serena), Rory Furey King (Pilar), Matthew Dean Hollis (Kyle/Dewey/Grandmaster Chad), Harley Barton (Enid/Veronica), Alexis Loiselle (Kate), Emma Wilcox (Chutney), Jack Gimpel (Aaron), Pablo Pernia (Padamadan/Nikos), Brandon Moreno (Carlos/Lowell), Gill Vaughn-Spencer (Pforzheimer)",
+      "notes": "Includes two recording from different devices. NEVER to be gifted outside of one-on-one gifts, sold, or posted on social media in any way.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1146488,
       "show": "Legally Blonde",
       "tour": "Fourth US National Tour (Non-Equity)",
@@ -9424,6 +9530,23 @@
       "nft": false,
       "format": "M4A x2 + MOV",
       "size": "1.36 GB"
+    },
+    {
+      "id": 2039443,
+      "show": "Legally Blonde",
+      "tour": "Third UK Tour",
+      "date": "2026-07-08",
+      "time": "E",
+      "master": "LittleStars",
+      "media_type": "audio",
+      "cast": "Hannah Lowther (alt Elle Woods), George Crawford (Emmett Forrest), Jamie Chatterton (Warner Huntington III), Karen Mavundukure (Paulette), Annabelle Terry (Vivienne Kensington), Jocasta Almgill (Brooke Wyndham), Adam Cooper (Professor Callahan), Daisy Twells (u/s Margot), Rosanna Harris (Serena), Remi Ferdinand (Pilar), Ty-Reece Stewart (Kyle), Keanna Bloomfield (Enid), Raiaz Fisher (s/w Kate/Chutney), Lauren Hampton (s/w Whitney), Bradley Delarosbel (Carlos), James Lim (Ensemble), Aaron Shales (Ensemble), Jaime Tait (Ensemble), Louie Wood (Ensemble), Dylan Gordon-Jones (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "283.7 MB"
     },
     {
       "id": 2035541,
@@ -12007,6 +12130,76 @@
       "nft": false,
       "format": "MP3 x17",
       "size": "118.4 MB"
+    }
+  ],
+  "Pretty Woman: The Musical": [
+    {
+      "id": 1137085,
+      "show": "Pretty Woman: The Musical",
+      "tour": "Pre-Broadway / Chicago",
+      "date": "2018-03-25",
+      "time": "M",
+      "master": "ohsweetchristabel",
+      "media_type": "audio",
+      "cast": "Samantha Barks (Vivian Ward), Steve Kazee (Edward Lewis), Orfeh (Kit De Luca), Jason Danieley (Philip Stuckey), Eric Anderson (Mr. Thompson), Kingsley Leggs (James Morse)",
+      "notes": "Missing the first few seconds of the Entr’acte, but otherwise complete.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 29197,
+      "show": "Pretty Woman: The Musical",
+      "tour": "Pre-Broadway / Chicago",
+      "date": "2018-04-05",
+      "time": "E",
+      "master": "WhatTradingCanDo",
+      "media_type": "audio",
+      "cast": "Samantha Barks (Vivian Ward), Steve Kazee (Edward Lewis), Orfeh (Kit De Luca), Jason Danieley (Philip Stuckey), Eric Anderson (Happy Man/Mr. Thompson), Kingsley Leggs (James Morse)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 6397,
+      "show": "Pretty Woman: The Musical",
+      "tour": "Broadway",
+      "date": "2018-10-26",
+      "time": "E",
+      "master": "FetchHappened",
+      "media_type": "audio",
+      "cast": "Samantha Barks (Vivian Ward), Andy Karl (Edward Lewis), Orfeh (Kit De Luca), Matthew Stocke (Philip Stuckey), Eric Anderson (Happy Man/Mr. Thompson), Robby Clater (David Morse), Brian Cali (Alfredo/Fred), Tommy Bracco (Giulio), Allison Blackwell (Violetta), Anna Eilinsfeld (Scarlett/Susan), Ezra Knight (James Morse)",
+      "notes": "A fantastic audio taken by a friend of mine from the Balcony level!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 33756,
+      "show": "Pretty Woman: The Musical",
+      "tour": "Broadway",
+      "date": "2019-07-13",
+      "time": "M",
+      "master": "Donnynovabandstand",
+      "media_type": "audio",
+      "cast": "Samantha Barks (Vivian Ward), Andy Karl (Edward Lewis), Orfeh (Kit De Luca), Charlie Pollock (Philip Stuckey), Eric Anderson (Happy Man/Mr. Thompson), Sam Seferian (Giulio), Allison Blackwell (Violetta), Kingsley Leggs (James Morse)",
+      "notes": "Same day as Broadway Blackout",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "The Princess Bride": [
