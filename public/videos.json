@@ -5207,6 +5207,23 @@
       "size": "2.46 GB"
     },
     {
+      "id": 2038071,
+      "show": "Legally Blonde",
+      "tour": "Brazil",
+      "date": "2024-08",
+      "time": "E",
+      "master": "vnnogue",
+      "media_type": "video",
+      "cast": "Myra Ruiz (Elle Woods), Renan Rosiq (Warner Huntington III), Gigi Debei (Vivienne Kensington)",
+      "notes": "About 29 minutes of the show",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2005241,
       "show": "Legally Blonde",
       "tour": "Brazil",
@@ -5222,6 +5239,23 @@
       "nft": false,
       "format": "MP4",
       "size": "2.32 GB"
+    },
+    {
+      "id": 2038070,
+      "show": "Legally Blonde",
+      "tour": "Brazil",
+      "date": "2024-10",
+      "time": "E",
+      "master": "vnnogue",
+      "media_type": "video",
+      "cast": "Myra Ruiz (Elle Woods), Hipólyto (Emmett Forrest), Renan Rosiq (Warner Huntington III), Gigi Debei (Vivienne Kensington)",
+      "notes": "About 1hr47min of the show (focus on the songs, cutting the scenes).",
+      "amount_recorded": "partial",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 2005308,
@@ -7532,6 +7566,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "2.96 GB"
+    },
+    {
+      "id": 1113463,
+      "show": "Ragtime",
+      "tour": "First US National Tour",
+      "date": "1998-07-04",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "David Jennings (u/s Coalhouse Walker Jr.), Rebecca Eichenberger (Mother), Michael Rupert (Tateh), Rosanna Hill (u/s Sarah), Cris Groenendaal (Father), Alouysis Gigl (Mother's Younger Brother), Nathan Keen (The Little Boy), Amy Carey (The Little Girl), Melissa Dye (Evelyn Nesbit)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 2006365,
