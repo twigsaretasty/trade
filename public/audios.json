@@ -891,8 +891,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x37",
+      "size": "220.3 MB"
     },
     {
       "id": 2023996,
@@ -1638,8 +1638,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x1",
+      "size": "157.3 MB"
     },
     {
       "id": 1148241,
@@ -2379,8 +2379,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x38",
+      "size": "274.1 MB"
     },
     {
       "id": 21096,
@@ -2396,8 +2396,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "158.1 MB"
     },
     {
       "id": 2013054,
@@ -2498,8 +2498,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "335.9 MB"
     },
     {
       "id": 19522,
@@ -2515,8 +2515,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "136.2 MB"
     },
     {
       "id": 1145456,
@@ -2761,8 +2761,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x1",
+      "size": "139.9 MB"
     }
   ],
   "Good Vibrations": [
@@ -2799,8 +2799,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x24",
+      "size": "89.2 MB"
     }
   ],
   "The Great Gatsby (Howland/Tysen/Kerrigan)": [
@@ -3433,8 +3433,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x30",
+      "size": "176.6 MB"
     },
     {
       "id": 2016237,
@@ -3685,8 +3685,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x51",
+      "size": "236.9 MB"
     },
     {
       "id": 18584,
@@ -8355,8 +8355,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "65.1 MB"
     },
     {
       "id": 1120693,
@@ -9073,23 +9073,6 @@
       "size": "365.58 MB"
     },
     {
-      "id": 1142159,
-      "show": "Legally Blonde",
-      "tour": "Fourth US National Tour (Non-Equity)",
-      "date": "2023-04-30",
-      "time": "M",
-      "master": "matchedinrenown",
-      "media_type": "audio",
-      "cast": "Hannah Bonnett (Elle Woods), Woody White (Emmett Forrest), James Oblak (Warner Huntington III), Ashley Morton (Paulette), Lea Sevola (Vivienne Kensington), Kaelee Albritton (Brooke Wyndham), Chris Carsten (Professor Callahan), Jesse Lynn Harte (Margot), Taylor Lloyd (Serena), Rory Furey King (Pilar), Matthew Dean Hollis (Kyle/Dewey/Grandmaster Chad), Harley Barton (Enid/Veronica), Alexis Loiselle (Kate), Emma Wilcox (Chutney), Jack Gimpel (Aaron), Pablo Pernia (Padamadan/Nikos), Brandon Moreno (Carlos/Lowell), Gill Vaughn-Spencer (Pforzheimer)",
-      "notes": "Includes two recording from different devices. NEVER to be gifted outside of one-on-one gifts, sold, or posted on social media in any way.",
-      "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
-      "limited_status": "Unrestricted",
-      "nft": false,
-      "format": "",
-      "size": ""
-    },
-    {
       "id": 1146488,
       "show": "Legally Blonde",
       "tour": "Fourth US National Tour (Non-Equity)",
@@ -9324,8 +9307,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4 x1",
+      "size": "185.1 MB"
     },
     {
       "id": 2037742,
@@ -9341,8 +9324,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MOV x1",
+      "size": "130.5 MB"
     },
     {
       "id": 2028561,
@@ -9734,6 +9717,23 @@
       "nft": false,
       "format": "M4A x2 + MOV",
       "size": "1.31 GB"
+    },
+    {
+      "id": 2037475,
+      "show": "Legally Blonde",
+      "tour": "Singapore Repertory Theatre",
+      "date": "2026-08",
+      "time": "E",
+      "master": "superlativec",
+      "media_type": "audio",
+      "cast": "Nathania Ong (Elle Woods), Benjamin Chow (Emmett Forrest), Nathan Hartono (Warner Huntington III), Siti Khalijah Zainal (Paulette), Vanessa Kee (Vivienne Kensington), Sandra Riley Tang (Brooke Wyndham), Dwayne Lau (Professor Callahan), Nadya Zaheer (Margot), Atiqah Roslee (Serena), Victoria Lam (Pilar), Pierre Png (Kyle), Angelo Martinez (Grandmaster Chad/Ensemble), Suhaili Safari (Enid), Beatrice Jaymes Pung (Kate), Seah Janice (Chutney/Ensemble), Timothy Wan (Dad/Winthrop/Ensemble), Mae Elliessa (Mom/Ensemble), Juni Goh (Aaron/Ensemble), Kevin Brendan (Padamadan/Ensemble), Afiq Abdul (Nikos/Ensemble), Jaeda Aalliya (Leilani), Tan Rui Shan (Gaelen), Pat Jon Gregory (Guard/Ensemble)",
+      "notes": "NFT Forever<br><br>Generally clear audio and extremely energetic crowd!",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "WAV x2",
+      "size": "1.47 GB"
     },
     {
       "id": 2036626,
@@ -10551,6 +10551,23 @@
       "nft": false,
       "format": "MP3 x2",
       "size": "66.59 MB"
+    },
+    {
+      "id": 18746,
+      "show": "Mean Girls",
+      "tour": "Broadway",
+      "date": "2019-09-08",
+      "time": "E",
+      "master": "StarCuffedJeans",
+      "media_type": "audio",
+      "cast": "Erika Henningsen (Cady Heron), Taylor Louderman (Regina George), Krystina Alabado (Gretchen Wieners), Becca Petersen (u/s Karen Smith), Olivia Kaufmann (s/b Janis Sarkisian), Darius Barnes (u/s Damian Hubbard), Kyle Selig (Aaron Samuels), Cheech Manohar (Kevin Gnapoor), Jennifer Simard (Mrs. Heron/Ms. Norbury/Mrs. George), Rick Younger (Principal Duvall), Gianna Yanelli (Ensemble), Bria Jené Williams (Ensemble), Christine Shepard (Ensemble), Maria Briggs (s/w Ensemble), Daryl Tofa (Ensemble), Curtis Holland (Ensemble), Susie Carroll (s/w Ensemble), Riza Takahashi (Ensemble), Kevin Cosculluela (Ensemble), Iain Young (s/w Ensemble), Jake Swain (Ensemble), Collins Conley (Ensemble), Morgan Harrison (Ensemble), Myles McHale (Ensemble), Brendon Stimson (Ensemble)",
+      "notes": "Taylor's final show.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x1",
+      "size": "97.7 MB"
     },
     {
       "id": 1121394,
@@ -12131,8 +12148,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "154.2 MB"
     },
     {
       "id": 2003918,
@@ -12300,8 +12317,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "64.9 MB"
     },
     {
       "id": 29197,
@@ -12317,8 +12334,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "128.4 MB"
     },
     {
       "id": 6397,
@@ -12334,8 +12351,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "WAV x2",
+      "size": "335.7 MB"
     },
     {
       "id": 33756,
@@ -12351,8 +12368,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "115.6 MB"
     }
   ],
   "The Princess Bride": [
@@ -12389,8 +12406,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x45",
+      "size": "230.6 MB"
     }
   ],
   "Rob Lake Magic with Special Guests the Muppets": [
@@ -14177,8 +14194,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x36",
+      "size": "68.2 MB"
     },
     {
       "id": 1122325,
@@ -14347,8 +14364,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2",
+      "size": "63.1 MB"
     },
     {
       "id": 1122334,
@@ -14653,8 +14670,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "70.2 MB"
     },
     {
       "id": 2007120,
