@@ -9617,6 +9617,23 @@
       "size": "165.1 MB"
     },
     {
+      "id": 2036536,
+      "show": "Legally Blonde",
+      "tour": "Singapore Repertory Theatre",
+      "date": "2026-07",
+      "time": "E",
+      "master": "bwaystarkidgeek",
+      "media_type": "audio",
+      "cast": "Nathania Ong (Elle Woods), Benjamin Chow (Emmett Forrest), Angelo Martinez (u/s Warner Huntington III), Siti Khalijah Zainal (Paulette), Vanessa Kee (Vivienne Kensington), Sandra Riley Tang (Brooke Wyndham/Shandi), Dwayne Lau (Professor Callahan), Nadya Zaheer (Margot), Atiqah Roslee (Serena), Victoria Lam (Pilar), Pierre Png (Kyle), Pat Jon Gregory (u/s Grandmaster Chad/Ensemble), Suhaili Safari (Enid), Beatrice Jaymes Pung (Kate), Janice Seah (Chutney/Ensemble), Timothy Wan (Dad/Winthrop/Reporter/Ensemble), Mae Elliessa (Mom/Ensemble), Juni Goh (Aaron), Kevin Brendan (Padamadan/Ensemble), Afiq Abdul (Nikos/Ensemble), Jaeda Aalliya (Leilani), Tan Rui Shan (Gaelen), Seong Hui Xuan (s/w Ensemble)",
+      "notes": "NFT Forever<br><br>MASTER NOTES: not to be shared on social media | previews<br><br>GENERAL NOTES: audio cuts off unexpectedly at times",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2037305,
       "show": "Legally Blonde",
       "tour": "Singapore Repertory Theatre",
@@ -9768,6 +9785,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "185.6 MB"
+    },
+    {
+      "id": 2037200,
+      "show": "Legally Blonde",
+      "tour": "Singapore Repertory Theatre",
+      "date": "2026-08-09",
+      "time": "M",
+      "master": "bwaystarkidgeek",
+      "media_type": "audio",
+      "cast": "Nathania Ong (Elle Woods), Benjamin Chow (Emmett Forrest), Nathan Hartono (Warner Huntington III), Siti Khalijah Zainal (Paulette), Vanessa Kee (Vivienne Kensington), Sandra Riley Tang (Brooke Wyndham), Dwayne Lau (Professor Callahan), Nadya Zaheer (Margot), Atiqah Roslee (Serena), Victoria Lam (Pilar), Pierre Png (Kyle), Angelo Martinez (Grandmaster Chad/Ensemble), Suhaili Safari (Enid), Beatrice Jaymes Pung (Kate), Seah Janice (Chutney/Ensemble), Timothy Wan (Dad/Winthrop/Ensemble), Mae Elliessa (Mom/Ensemble), Juni Goh (Aaron/Ensemble), Kevin Brendan (Padamadan/Ensemble), Afiq Abdul (Nikos/Ensemble), Jaeda Aalliya (Leilani), Tan Rui Shan (Gaelen), Pat Jon Gregory (Guard/Ensemble)",
+      "notes": "NFT Forever<br><br>not to be shared on social media",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": true,
+      "format": "",
+      "size": ""
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -12314,7 +12348,7 @@
       "cast": "Samantha Barks (Vivian Ward), Steve Kazee (Edward Lewis), Orfeh (Kit De Luca), Jason Danieley (Philip Stuckey), Eric Anderson (Mr. Thompson), Kingsley Leggs (James Morse)",
       "notes": "Missing the first few seconds of the Entr’acte, but otherwise complete.",
       "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
+      "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
       "format": "M4A x2",
