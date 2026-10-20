@@ -929,6 +929,25 @@
       "size": "100.4 MB"
     }
   ],
+  "Bye Bye Birdie": [
+    {
+      "id": 2003459,
+      "show": "Bye Bye Birdie",
+      "tour": "Broadway Center Stage",
+      "date": "2024-06-15",
+      "time": "E",
+      "master": "bobbyskazoo",
+      "media_type": "audio",
+      "cast": "Christian Borle (Albert Peterson), Krysta Rodriguez (Rose Alvarez), Ephraim Sykes (Conrad Birdie), Ashlyn Maddox (Kim MacAfee), Caroline Aaron (Mae Peterson), Richard Kind (Harry MacAfee), Miguel Gil (Hugo Peabody), Henry Kirk (Randolph MacAfee), Jennifer Laura Thompson (Doris MacAfee), Megan Sikora (Gloria Rasputin/Mrs. Johnson), Allison Blackwell (Mayor's Wife), Kevin Ligon (Mayor), Jackera Davis (Ursula Merkle), Linda Mugleston (Mrs. Merkle), Kevin S. McAllister (Charles Maude), Victor De Paula Rocha (Harvey Johnson), Sarah Chiu (Helen), Evan Kinnane (Mike), Kelly Lomonte (Margie), Jalen Michael Jones (Freddie), Luke Kolbe Mannikus (Karl), Maria Cristina Posada Slye (Penelope), Dori Waymer (Nancy), Renell Taylor (Charlie)",
+      "notes": "<p>Closing night. Clear audio recorded from the front orchestra. Includes pre-show announcement from Richard Kind, overture, and entr'acte.</p><p><br></p><p>Do not post on any platform (TikTok, Tumblr, YouTube, Reddit etc.). Please list as bobbyskazoo’s master. Feel free to trade as normal; never to be gifted or sold.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "368.9 MB"
+    }
+  ],
   "Cabaret": [
     {
       "id": 2003507,
@@ -2653,6 +2672,40 @@
       "nft": false,
       "format": "MP3 x36",
       "size": "130.80 MB"
+    },
+    {
+      "id": 2041079,
+      "show": "Falsettos",
+      "tour": "10-Year Revival Anniversary Concert",
+      "date": "2026-10-18",
+      "time": "E",
+      "master": "bobbyskazoo",
+      "media_type": "audio",
+      "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Matthew Eby (Jason), Anthony Rosenthal (g/p Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
+      "notes": "<p>Clear audio recorded from the rear parquet; includes introductory speech from Betsy. Anthony made a special appearance as Jason for the Bar Mitzvah.</p><p><br> </p><p>Do not post on any platform (TikTok, Tumblr, YouTube, Reddit, etc.). Please list as bobbyskazoo’s master. Feel free to trade as normal; never to be gifted or sold.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "456.5 MB"
+    },
+    {
+      "id": 2041088,
+      "show": "Falsettos",
+      "tour": "10-Year Revival Anniversary Concert",
+      "date": "2026-10-18",
+      "time": "E",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Christian Borle (Marvin), Andrew Rannells (Whizzer), Stephanie J. Block (Trina), Brandon Uranowitz (Mendel), Matthew Eby (Jason), Anthony Rosenthal (g/p Jason), Tracie Thoms (Dr. Charlotte), Betsy Wolfe (Cordelia)",
+      "notes": "Recorded from the orchestra. Occasional shuffling. The first of 3 reunion concerts in NY. Very enthusiastic audience. Includes the pre-show speech by Betsy Wolfe.",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "146.1 MB"
     }
   ],
   "Floyd Collins": [
@@ -3408,7 +3461,7 @@
       "time": "M",
       "master": "ColorAndLight",
       "media_type": "audio",
-      "cast": "Heidi Blickenstaff (Claire), Drew Gehling (Thomas Driscoll), Jay Armstrong Johnson (Dr. Breva), Zachary Noah Piser (Simon Lamar), Wren Rivera (Marthe), Lisa Brescia (Performer), Miguel Cervantes (Performer), Gizel Jimenez (Performer), Taylor Iman Jones (Performer)",
+      "cast": "Heidi Blickenstaff (Claire), Drew Gehling (Thomas Driscoll), Taylor Iman Jones (Cordelia Owl), Gizel Jimenez (Juliette), Lisa Brescia (Marianne Lamar), Jay Armstrong Johnson (Dr. Breva), Zachary Noah Piser (Simon Lamar), Wren Rivera (Marthe), Miguel Cervantes (Sean Lamar)",
       "notes": "A staged reading of a new musical with music and lyrics by Anne and Ian Eisendrath, with book and additional lyrics by Kait Kerrigan. Based on the novel Réparer Les Vivants by Maylis deKerangal.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -4171,6 +4224,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "241.8 MB"
+    },
+    {
+      "id": 2041077,
+      "show": "Just In Time",
+      "tour": "Broadway",
+      "date": "2026-10-18",
+      "time": "M",
+      "master": "jjorbust",
+      "media_type": "audio",
+      "cast": "Jeremy Jordan (Bobby Darin), Ariana Madix (Connie Francis), Carrie St. Louis (Sandra Dee), Debbie Shapiro Gravitte (Polly Walden), Emily Bergl (Nina Cassotto/Mary Douvan), Joe Barbara (Charlie Maffia/Steve Blauner), Caesar Samayoa (Don Kirshner/Giorgio/Angelo), Lance Roberts (Murray the K/Ahmet Ertegun), Valeria Yamin (Siren), Jaime Foord (s/w Siren), Courtney Echols (s/w Siren)",
+      "notes": "Tracked audio of Jeremy Jordan's last show as Bobby Darin and Carrie St. Louis's last show as Sandra Dee. Lots of cheering and applause throughout.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x44",
+      "size": "161.1 MB"
     }
   ],
   "The Last Five Years": [
@@ -6072,12 +6142,12 @@
       "master": "decipherated",
       "media_type": "audio",
       "cast": "Bailey Hanks (Elle Woods), Christian Borle (Emmett Forrest), Richard H. Blake (Warner Huntington III), Orfeh (Paulette), Kate Shindle (Vivienne Kensington), Emily Padgett (u/s Brooke Wyndham/Shandi), Michael Rupert (Professor Callahan), Kate Rockwell (Margot), Tracy Jai Edwards (Serena), Asmeret Ghebremichael (Pilar), Ven Daniel (Kyle/Dewey/Grandmaster Chad), Lucia Spina (Enid/Veronica), Dani Spieler (s/w Cece/D.A. Joyce Riley)",
-      "notes": "Emily Padgett's debut as Brooke Wyndham.",
+      "notes": "Emily Padgett's debut as Brooke Wyndham. The files that circulate often skip over 1.22 and 2.16 because they were named incorrectly. No tracks are missing.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP3 x47",
+      "format": "MP3 x41",
       "size": "119.02 MB"
     },
     {
@@ -6094,7 +6164,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP3 x95",
+      "format": "MP3 x45 + MP3 x44",
       "size": "238.78 MB"
     },
     {
@@ -6247,7 +6317,7 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP3 x80",
+      "format": "MP3 x40",
       "size": "188.62 MB"
     },
     {
@@ -7080,8 +7150,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "MP3 x76",
-      "size": "179.00 MB"
+      "format": "MP3 x38",
+      "size": "179.2 MB"
     },
     {
       "id": 14940,
@@ -9923,6 +9993,23 @@
       "nft": false,
       "format": "MP4 + WAV x2",
       "size": "352.44 MB"
+    },
+    {
+      "id": 2032942,
+      "show": "The Lightning Thief: The Percy Jackson Musical",
+      "tour": "Off-West End",
+      "date": "2025-03-02",
+      "time": "M",
+      "master": "bobbyskazoo",
+      "media_type": "audio",
+      "cast": "Max Harwood (Percy Jackson), Jessica Lee (Annabeth Chase), Scott Folan (Grover), Joe Allen (Mr. D), Joaquin Pedro Valdes (Luke), Paisley Billings (Sally Jackson), Samantha Mbolekwa (Clarisse), Greg Barnett (Mr. Brunner), Philip Catchpole (Ensemble), Charlotte O'Rourke (Ensemble), Alex Waxman (Ensemble), Morgan Gregory (Ensemble)",
+      "notes": "<p>Penultimate show of the original cast. Clear audio recorded from the rear orchestra; occasional shuffling. Includes curtain call, encore, and playout.</p><p><br></p><p>Do not post on any platform (TikTok, Tumblr, YouTube, Reddit, etc.). Please list as bobbyskazoo’s master. Feel free to trade as normal; never to be gifted or sold.</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "400.2 MB"
     }
   ],
   "The Little Mermaid": [
@@ -15052,7 +15139,7 @@
       "time": "E",
       "master": "BlackbirdFly",
       "media_type": "audio",
-      "cast": "Tam Mutu (Pierre Dulaine), Adrienne Bailon-Houghton (Arianna Rey), Matthew Risch (Alan Ford), Vincent J. Hooper (Rock), Savy Jackson (La Rhette), SeQuoiia (Monster), Brandon O'Neal Bomer (Eddie), Natalia Nieves-Melchor (Egypt), Salome Smith (Gucci), Christian Whan (Kurd), Megan Elyse Fulmer (Lola), Kevin Trinio Perdido (Miguel), Grace Slear (Caitlin), Jonalyn Saxer (Morgan), Ryan Raffloer (Lance), David Jennings (Mr. O'Hara/Police Officer/Doctor), Gaelen Gilliland (Mrs. Buford/TV Executive), Deon Releford-Lee (Daniel/Competition Announcer), Dillon Lehman (Ensemble), Eric Ascione (Ensemble), Stephani Sosa (Ensemble), Tatiana Seliverstova (Ensemble)",
+      "cast": "Tam Mutu (Pierre Dulaine), Adrienne Bailon-Houghton (Arianna Rey), Matthew Risch (Alan Ford), Vincent Jamal Hooper (Rock), Savy Jackson (La Rhette), SeQuoiia (Monster), Brandon O'Neal Bomer (Eddie), Natalia Nieves-Melchor (Egypt), Salome Smith (Gucci), Christian Whan (Kurd), Megan Elyse Fulmer (Lola), Kevin Trinio Perdido (Miguel), Grace Slear (Caitlin), Jonalyn Saxer (Morgan), Ryan Raffloer (Lance), David Jennings (Mr. O'Hara/Police Officer/Doctor), Gaelen Gilliland (Mrs. Buford/TV Executive), Deon Releford-Lee (Daniel/Competition Announcer), Dillon Lehman (Ensemble), Eric Ascione (Ensemble), Stephani Sosa (Ensemble), Tatiana Seliverstova (Ensemble)",
       "notes": "NFT Forever<br><br>Preview performance. A bit of shuffling and talking at the beginning due to latecomers, plus some coughing, but it’s otherwise clear. In Act 2, the woman next to me screamed a couple of times. Sometimes the lyrics are hard to hear over the music due to the sound design in the theater. Includes pre-show announcement, curtain call and exit music. NFT except through master. Never to be sold and/or posted anywhere.",
       "amount_recorded": "complete",
       "gifting_status": "Never Gift",
