@@ -61,6 +61,21 @@
             "nft": false,
             "format": "MP3 x1 + MP3 x48",
             "size": "706.5 MB"
+        },
+        {
+            "show": "Legally Blonde",
+            "tour": "Singapore Repertory Theatre",
+            "date": "2026-08",
+            "time": "E",
+            "master": "",
+            "cast": "Nathania Ong (Elle Woods), Benjamin Chow (Emmett Forrest), Nathan Hartono (Warner Huntington III), Siti Khalijah Zainal (Paulette), Vanessa Kee (Vivienne Kensington), Sandra Riley Tang (Brooke Wyndham), Dwayne Lau (Professor Callahan), Nadya Zaheer (Margot), Atiqah Roslee (Serena), Victoria Lam (Pilar), Pierre Png (Kyle), Angelo Martinez (Grandmaster Chad/Ensemble), Suhaili Safari (Enid), Beatrice Jaymes Pung (Kate), Seah Janice (Chutney/Ensemble), Timothy Wan (Dad/Winthrop/Ensemble), Mae Elliessa (Mom/Ensemble), Juni Goh (Aaron/Ensemble), Kevin Brendan (Padamadan/Ensemble), Afiq Abdul (Nikos/Ensemble), Jaeda Aalliya (Leilani), Tan Rui Shan (Gaelen), Pat Jon Gregory (Guard/Ensemble)",
+            "notes": "NFT Forever.<br><br>closing night!! | occasional pickup from those near me",
+            "amount_recorded": "Full",
+            "gifting_status": "Gift at your Discretion",
+            "limited_status": "Unrestricted",
+            "nft": true,
+            "format": "MP3 x39",
+            "size": "92.6 MB"
         }
     ],
     "Little Shop of Horrors": [
@@ -99,7 +114,7 @@
     ],
     "Sweeney Todd: The Demon Barber of Fleet Street": [
         {
-            "show": "The Music Man",
+            "show": "Sweeney Todd: The Demon Barber of Fleet Street",
             "tour": "Third Broadway Revival",
             "date": "2023-02-26",
             "time": "E",

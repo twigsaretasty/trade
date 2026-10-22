@@ -1,13 +1,15 @@
 function getDays(timestamp) {
     if (!timestamp) { return "unknown"}
     const date = new Date(timestamp);
-    const now = new Date();
+    console.log(date)
+    let now = new Date();
     
-    const dateMidnight = new Date(date.getFullYear(), date.getMonth(), date.getDate());
-    const nowMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const dateMidnight = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate());
+    const nowMidnight = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
 
     const diffTime = nowMidnight - dateMidnight;
     const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
+    console.log(`Last seen: ${diffDays} days ago`);
 
     if (diffDays < 1) {
         return "Today";
@@ -16,6 +18,7 @@ function getDays(timestamp) {
     } else {
         return `${Math.floor(diffDays)}` + " days ago";
     }
+
 }
 
 Promise.all([
@@ -56,7 +59,7 @@ Promise.all([
     // let pendingCount = recordingsCount - weeklyRecordingsCount;
 
     // Calculate full count
-    let nonencora = 14; // <-- UPDATE HERE
+    let nonencora = 15; // <-- UPDATE HERE
     let newTotal = (recordingsCount + nonencora)
 
     // Add recordings count
