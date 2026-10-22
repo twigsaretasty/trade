@@ -109,7 +109,7 @@ fetch('videos.json')
                     if (item.limited_status?.toLowerCase?.() === 'limited')
                         row.classList.add('limited')
 
-                    if (item.gifting_status.toLowerCase() === 'gift on request')
+                    if (item.gifting_status?.toLowerCase?.() === 'gift on request')
                         row.classList.add('gift-on-req')
                     else if (item.gifting_status?.toLowerCase?.() === 'never gift')
                         row.classList.add('never-gift')
