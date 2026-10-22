@@ -1,5 +1,3 @@
-console.log("I'm alive!")
-
 function formatNum(num) {
     // If less than 10, add a leading zero
     if (num < 10) {
@@ -26,7 +24,6 @@ Promise.all([
 
     const endThisWeek = new Date(startThisWeek);
     endThisWeek.setUTCDate(startThisWeek.getUTCDate() + 6); // set to saturday 
-    console.log("end this week", endThisWeek)
 
     const endThisMonth = formatNum(endThisWeek.getUTCMonth() + 1);
     const endThisDay = formatNum(endThisWeek.getUTCDate());
@@ -76,12 +73,10 @@ Promise.all([
 })
 
 function showAudios() {
-    console.log("adding current class")
     document.getElementById("audios").classList.toggle("display");
 }
 
 function showVideos() {
-    console.log("adding current class")
     document.getElementById("videos").classList.toggle("display");
 }
 

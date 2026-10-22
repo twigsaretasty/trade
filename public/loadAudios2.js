@@ -95,7 +95,6 @@ fetch('audiosnonencora.json')
 
             const tbody = document.querySelector(`#${tableElement.id} tbody`);
             
-            console.log(data)
             data[name].sort((a, b) => {
                 return new Date(a.date) - new Date(b.date);
             })
@@ -151,12 +150,10 @@ fetch('audiosnonencora.json')
     .catch(error => console.error('Error fetching JSON:', error));
 
 function showAudios() {
-    console.log("adding current class")
     document.getElementById("audios").classList.toggle("display");
 }
 
 function showVideos() {
-    console.log("adding current class")
     document.getElementById("videos").classList.toggle("display");
 }
 

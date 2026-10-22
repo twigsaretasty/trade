@@ -1,7 +1,6 @@
 function getDays(timestamp) {
     if (!timestamp) { return "unknown"}
     const date = new Date(timestamp);
-    console.log(date)
     let now = new Date();
     
     const dateMidnight = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate());
@@ -9,7 +8,6 @@ function getDays(timestamp) {
 
     const diffTime = nowMidnight - dateMidnight;
     const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
-    console.log(`Last seen: ${diffDays} days ago`);
 
     if (diffDays < 1) {
         return "Today";

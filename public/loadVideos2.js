@@ -1,6 +1,5 @@
 var acc = document.getElementsByClassName('accordion');
 var i;
-console.log("yyup im alive");
 
 for (i = 0; i < acc.length; i++) {
 acc[i].addEventListener('click', function() {
@@ -95,8 +94,6 @@ fetch('videosnonencora.json')
 
             const tbody = document.querySelector(`#${tableElement.id} tbody`);
 
-            console.log(data)
-
             data[name].sort((a, b) => {
                 return new Date(a.date) - new Date(b.date);
             })
@@ -154,12 +151,10 @@ fetch('videosnonencora.json')
     .catch(error => console.error('Error fetching JSON:', error));
 
 function showAudios() {
-    console.log("adding current class")
     document.getElementById("audios").classList.toggle("display");
 }
 
 function showVideos() {
-    console.log("adding current class")
     document.getElementById("videos").classList.toggle("display");
 }
 

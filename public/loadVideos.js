@@ -1,6 +1,5 @@
 var acc = document.getElementsByClassName('accordion');
 var i;
-console.log("yyup im alive");
 
 for (i = 0; i < acc.length; i++) {
 acc[i].addEventListener('click', function() {
@@ -152,12 +151,10 @@ fetch('videos.json')
 
 
 function showAudios() {
-    console.log("adding current class")
     document.getElementById("audios").classList.toggle("display");
 }
 
 function showVideos() {
-    console.log("adding current class")
     document.getElementById("videos").classList.toggle("display");
 }
 
