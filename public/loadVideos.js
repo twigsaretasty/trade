@@ -95,51 +95,57 @@ fetch('videos.json')
 
             const tbody = document.querySelector(`#${tableElement.id} tbody`);
 
-            console.log(data)
-
             data[name].sort((a, b) => {
                 return new Date(a.date) - new Date(b.date);
             })
 
-
             data[name].forEach(item => {
-                const row = document.createElement('tr');
-                row.classList.add('data-row');
+                try {
+                    const row = document.createElement('tr');
+                    row.classList.add('data-row');
 
-                if (item.nft === true)
-                    row.classList.add('nft');
+                    if (item.nft === true)
+                        row.classList.add('nft');
 
-                if (item.limited_status === 'limited')
-                    row.classList.add('limited')
+                    if (item.limited_status?.toLowerCase?.() === 'limited')
+                        row.classList.add('limited')
 
-                if (item.gifting_status.toLowerCase() === 'gift on request')
-                    row.classList.add('gift-on-req')
-                else if (item.gifting_status.toLowerCase() === 'never gift')
-                    row.classList.add('never-gift')
+                    if (item.gifting_status.toLowerCase() === 'gift on request')
+                        row.classList.add('gift-on-req')
+                    else if (item.gifting_status?.toLowerCase?.() === 'never gift')
+                        row.classList.add('never-gift')
 
-                if (item.amount_recorded.toLowerCase() == 'partial')
-                    row.classList.add('partial')
-                else if (item.amount_recorded.toLowerCase() == 'highlights')
-                    row.classList.add('highlights')
+                    if (item.amount_recorded?.toLowerCase?.() === 'partial')
+                        row.classList.add('partial')
+                    else if (item.amount_recorded?.toLowerCase?.() === 'highlights')
+                        row.classList.add('highlights')
 
-
-                row.innerHTML = `
-                    <td>${item.tour}</td>
-                    <td>${item.date}</td>
-                    <td>${item.time}</td>
-                    <td>${item.master}</td>
-                    <td><div class='scroll'>${item.cast}</div></td>
-                    <td><div class='scroll'>${item.notes}</div></td>
-                    <td>${item.format}</td>
-                    <td>${item.size}</td>
-                `;
-                tbody.appendChild(row)
+                    row.innerHTML = `
+                        <td>${item.tour}</td>
+                        <td>${item.date}</td>
+                        <td>${item.time}</td>
+                        <td>${item.master}</td>
+                        <td><div class='scroll'>${item.cast}</div></td>
+                        <td><div class='scroll'>${item.notes}</div></td>
+                        <td>${item.format}</td>
+                        <td>${item.size}</td>
+                    `;
+                    tbody.appendChild(row)
+                }
+                catch(err) {
+                    console.error(`Error loading ${name} - ${item.date} - ${item.master} (${item.id})`, err)
+                }
             })
         }
 
         Object.keys(data).forEach(title => {
-            const slug = slugMaker(title)
-            showInfo(title, slug)
+            try {
+                const slug = slugMaker(title)
+                showInfo(title, slug)
+            }
+            catch (err) {
+                console.error(`Error rendering with ${title}`, err)
+            }
         })
     })
     .catch(error => console.error('Error fetching JSON:', error));
