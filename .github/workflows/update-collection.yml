@@ -46,8 +46,8 @@ jobs:
         git add public/audios.json public/videos.json public/weekly-profile.json public/new.json public/profile.json
         git commit -m "Update collection and profile" || echo "No changes to commit"
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ 
-        git pull --rebase origin main
         github.repository }}.git
+        git pull --rebase origin main
 
         git push
       env:
