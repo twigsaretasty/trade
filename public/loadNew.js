@@ -6,7 +6,9 @@ function formatNum(num) {
     return num
 }
 
-fetch('new.json').then((newData) => {
+fetch('new.json')
+    .then(res => res.json())
+    .then(newData => {
 
     // first get today
     const today = new Date();
@@ -50,6 +52,7 @@ fetch('new.json').then((newData) => {
     // NEW DATA
 
     const thisWeek = newData.thisWeekIns;
+    console.log(newData)
     const lastWeek = newData.lastWeekIns;
 
     if (thisWeek.length != 0) {
