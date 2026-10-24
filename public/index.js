@@ -20,8 +20,9 @@ function getDays(timestamp) {
 }
 
 Promise.all([
-    fetch('profile.json').then(response => response.json())
-]).then(([profileData]) => {
+    fetch('profile.json').then(res => res.json()),
+    fetch('wants.json').then(res => res.json())
+]).then(([profileData, wantsData]) => {
     const profile = profileData.profile;
     // const slug = data.slug; // should be the same    
     // const username = data.username; // should be the same
@@ -54,7 +55,8 @@ Promise.all([
     document.getElementById('seen').textContent = lastSeenString;
 
     // Calculate recordings count
-    // let pendingCount = recordingsCount - weeklyRecordingsCount;
+    // get the count for in progress
+    let pendingCount = wantsData.inprogress.length
 
     // Calculate full count
     let nonencora = 15; // <-- UPDATE HERE
@@ -62,7 +64,7 @@ Promise.all([
 
     // Add recordings count
     document.getElementById('recordings').textContent = newTotal;
-    // document.getElementById('pending').textContent = pendingCount;
+    document.getElementById('pending').textContent = pendingCount;
 
     // update the profile info
     document.getElementById('profile').innerHTML = profile;

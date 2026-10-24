@@ -195,7 +195,7 @@ function formatRecording(id, records) {
 
     if (isNft) {
         // Add to the beginning of the notes
-        formattedNotes = `NFT Date: ${rec.nft.nft_date.split[0]}<br><br>` + formattedNotes
+        formattedNotes = `NFT Date: ${rec.nft.nft_date.split('T')[0]}<br><br>` + formattedNotes
         isNft = true
     }
     

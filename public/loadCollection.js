@@ -1,26 +1,8 @@
-var acc = document.getElementsByClassName('accordion');
-var i;
+const source = document.currentScript.dataset.source
 
-for (i = 0; i < acc.length; i++) {
-acc[i].addEventListener('click', function() {
-    /* Toggle between adding and removing the 'active' class,
-    to highlight the button that controls the panel */
-    this.classList.toggle('active');
-
-    /* Toggle between hiding and showing the active panel */
-    var panel = this.nextElementSibling;
-    if (panel.style.display === 'block') {
-    panel.style.display = 'none';
-    } else {
-    panel.style.display = 'block';
-    }
-});
-}
-
-fetch('audiosnonencora.json')
+fetch(source)
     .then(response => response.json())
     .then(data => {
-
         function slugMaker(text) {
             return "id-" + text
             .toLowerCase()
@@ -94,10 +76,11 @@ fetch('audiosnonencora.json')
             }
 
             const tbody = document.querySelector(`#${tableElement.id} tbody`);
-            
+
             data[name].sort((a, b) => {
                 return new Date(a.date) - new Date(b.date);
             })
+
             data[name].forEach(item => {
                 try {
                     const row = document.createElement('tr');

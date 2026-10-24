@@ -6,9 +6,7 @@ function formatNum(num) {
     return num
 }
 
-Promise.all([
-    fetch('new.json').then(response => response.json()),
-]).then(([newData]) => {
+fetch('new.json').then((newData) => {
 
     // first get today
     const today = new Date();

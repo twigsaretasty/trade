@@ -39,12 +39,17 @@ jobs:
         API_KEY: ${{ secrets.API_KEY }}
       run: node src/fetchCollection.js
 
+    - name: Run fetchWants.js
+      env:
+        API_KEY: ${{ secrets.API_KEY }}
+      run: node src/fetchWants.js
+
     - name: Commit changes
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add public/audios.json public/videos.json public/weekly-profile.json public/new.json public/profile.json
-        git commit -m "Update collection and profile" || echo "No changes to commit"
+        git commit -m "Update collection, wants, and profile" || echo "No changes to commit"
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ 
         github.repository }}.git
         git pull --rebase origin main
