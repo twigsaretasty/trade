@@ -2,7 +2,7 @@ import fetch from 'node-fetch';
 
 import { writeFileSync } from 'fs';
 
-const API_KEY = "REMOVED";
+const API_KEY = process.env.API_KEY;
 const BASE_URL = 'https://encora.it/api/';
 
 // lists
