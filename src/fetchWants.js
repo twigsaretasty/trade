@@ -220,7 +220,7 @@ async function main() {
 
     [lowest, low, mid, high, highest].forEach(sortByShowTitle);
 
-    const wants = { lowest, low, mid, high, highest }
+    const wants = { lowest, low, mid, high, highest, inprogress }
 
     writeFileSync(
         `public/wants.json`,
