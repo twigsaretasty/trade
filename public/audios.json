@@ -492,6 +492,23 @@
       "size": "154.8 MB"
     },
     {
+      "id": 7313,
+      "show": "Assassins",
+      "tour": "Off-West End",
+      "date": "2014-11-25",
+      "time": "E",
+      "master": "thisgreyweather",
+      "media_type": "audio",
+      "cast": "Aaron Tveit (John Wilkes Booth), Andy Nyman (Charles Guiteau), David Seadon-Young (Leon Czolgosz), Mike McShane (Samuel Byck), Stewart Clarke (Giuseppe Zangara), Carly Bawden (Lynette \"Squeaky\" Fromme), Jamie Parker (Lee Harvey Oswald/Balladeer), Catherine Tate (Sara Jane Moore), Simon Lipkin (The Proprietor), Harry Morrison (John Hinckley Jr.)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x1",
+      "size": "252.6 MB"
+    },
+    {
       "id": 1138345,
       "show": "Assassins",
       "tour": "Off-West End",
@@ -2850,6 +2867,23 @@
       "nft": false,
       "format": "MP3 x1",
       "size": "139.9 MB"
+    },
+    {
+      "id": 8841,
+      "show": "Fun Home",
+      "tour": "First US National Tour",
+      "date": "2017-03-22",
+      "time": "E",
+      "master": "Token Goat",
+      "media_type": "audio",
+      "cast": "Kate Shindle (Alison), Abby Corrigan (Medium Alison), Alessandra Baldacchino (Small Alison), Robert Petkoff (Bruce), Susan Moniz (Helen), Karen Eilbacher (Joan), Pierson Salvador (Christian), Robi Hager (Roy)",
+      "notes": "Includes BC/EFA Speech by Kate Shindle and Robert Petkoff",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x2",
+      "size": "145 MB"
     }
   ],
   "Good Vibrations": [
@@ -9989,8 +10023,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x1",
+      "size": "281.8 MB"
     }
   ],
   "The Lightning Thief: The Percy Jackson Musical": [
@@ -10950,6 +10984,23 @@
   ],
   "Miscast (Concerts)": [
     {
+      "id": 1110687,
+      "show": "Miscast (Concerts)",
+      "tour": "2013",
+      "date": "2013-03-04",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Jeremy Jordan (Performer), Jonathan Groff (Performer), Cheyenne Jackson (Performer), Victor Garber (Performer), Christian Borle (Performer), Jane Krakowski (Performer), Marin Mazzie (Performer), Jesse L. Martin (Performer), Nicole Parker (Performer), Jason Danieley (Performer), Patrick Wilson (Performer)",
+      "notes": "Different than NicoleMWright's master. Released untracked. Tracked version by ChicaFrom3 also circulates.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x24",
+      "size": "62.6 MB"
+    },
+    {
       "id": 1145099,
       "show": "Miscast (Concerts)",
       "tour": "2013",
@@ -11804,6 +11855,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "72.6 MB"
+    },
+    {
+      "id": 2024825,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2025-05-25",
+      "time": "E",
+      "master": "antitheatre",
+      "media_type": "audio",
+      "cast": "Hailee Kaleem Wright (alt Satine), Jordan Fisher (Christian), Boy George (Harold Zidler), Andy Karl (The Duke of Monroth), Andre Ward (Toulouse-Lautrec), Pepe Muñoz (Santiago), Samantha Dodemaide (Nini), Brooke Taylor (u/s La Chocolat), Rayven Bailey (Arabia), Jeigh Madjus (Baby Doll), Giovanni Bonaventura (u/s Pierre), Ricardo A. Zayas (Ensemble), Michael Bryan Wang (s/w Ensemble), Frank Viveros (Ensemble), Alec Varcas (Ensemble), Clay Rice-Thomson (Ensemble), Dylan Paul (s/w Ensemble), Melissa Hunter McCann (s/w Ensemble), Heather Makalani (Ensemble), Tyler John Logan (Ensemble), Bahiyah Hibah (Ensemble), Tamrin Goldberg (s/w Ensemble), Alexa de Barr (s/w Ensemble), Alexander Gil Cruz (Ensemble), Olivia Cece (Ensemble)",
+      "notes": "Recorded from front orchestra, super clear. Final performance for Dylan Paul and Boy George. Jordan continues to get better and better and Hailee may be my new favorite Satine??? Absolutely adored them together. This is a good one, so enjoy!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "67.4 MB"
     },
     {
       "id": 2017437,
