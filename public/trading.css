@@ -522,19 +522,6 @@ details ul {
     gap: 10px;
 }
 
-.link-button {
-    text-decoration: none;
-    font-family: Lexend, Arial, Helvetica, sans-serif;
-    color: white;
-    background-color: black;
-    padding: 20px;
-    border-radius: 10px;
-}
-
-.link-button:hover {
-    background-color: #7598C5;
-}
-
 footer {
     flex: 2;
     display: flex;

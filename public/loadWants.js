@@ -11,7 +11,7 @@ fetch('wants.json')
             // create the button
             const button = document.createElement('button');
             button.className = 'accordion'
-            button.textContent = `${properName}`
+            button.textContent = `${properName} (${list.length})`
 
             // add an event listener for this button
             button.addEventListener('click', function() {
