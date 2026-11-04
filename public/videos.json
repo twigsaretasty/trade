@@ -4731,23 +4731,6 @@
       "size": "5.75 GB"
     },
     {
-      "id": 18002,
-      "show": "Legally Blonde",
-      "tour": "West End",
-      "date": "2010",
-      "time": "U",
-      "master": "Unknown",
-      "media_type": "video",
-      "cast": "Sheridan Smith (Elle Woods), Alex Gaumond (Emmett Forrest), Sean Mulligan (u/s Warner Huntington III), Jill Halfpenny (Paulette), Caroline Keiff (Vivienne Kensington), Aoife Mulholland (Brooke Wyndham/Shandi), Peter Davison (Professor Callahan), Emma Bateman (u/s Margot), Susan McFadden (Serena), Ibinabo Jack (Pilar), Chris Ellis-Stanton (Kyle/Dewey/Grandmaster Chad)",
-      "notes": "",
-      "amount_recorded": "complete",
-      "gifting_status": "Gift at your Discretion",
-      "limited_status": "Unrestricted",
-      "nft": false,
-      "format": "VOB (with smalls)",
-      "size": "4.64 GB"
-    },
-    {
       "id": 1125434,
       "show": "Legally Blonde",
       "tour": "Second US National Tour (Non-Equity)",
@@ -4797,6 +4780,23 @@
       "nft": false,
       "format": "MP4 x4",
       "size": "42.39 MB"
+    },
+    {
+      "id": 18002,
+      "show": "Legally Blonde",
+      "tour": "West End",
+      "date": "2010 (1)",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Sheridan Smith (Elle Woods), Alex Gaumond (Emmett Forrest), Sean Mulligan (u/s Warner Huntington III), Jill Halfpenny (Paulette), Caroline Keiff (Vivienne Kensington), Aoife Mulholland (Brooke Wyndham/Shandi), Peter Davison (Professor Callahan), Emma Bateman (u/s Margot), Susan McFadden (Serena), Ibinabo Jack (Pilar), Chris Ellis-Stanton (Kyle/Dewey/Grandmaster Chad)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "VOB (with smalls)",
+      "size": "4.64 GB"
     },
     {
       "id": 1119748,
