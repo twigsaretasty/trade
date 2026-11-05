@@ -292,6 +292,59 @@
       "size": "70.5 MB"
     }
   ],
+  "9 to 5: The Musical": [
+    {
+      "id": 16633,
+      "show": "9 to 5: The Musical",
+      "tour": "Pre-Broadway / Center Theatre Group",
+      "date": "2008-10-11",
+      "time": "E",
+      "master": "juniper47",
+      "media_type": "audio",
+      "cast": "Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J. Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Van Hughes (Josh), Daniel Cooney (Dick), Ioana Alfonso (Maria), Ann Harada (Kathy), Lisa Howard (Missy), Jeremy Davis (Bob Enright), Michael X. Martin (Tinsworthy), Karen Murphy (Margaret), Maia Nkenge Wilson (Anita), Tory Ross (Daphne), Timothy George Anderson (Ensemble), Justin Bohon (Ensemble), Paul Castree (Ensemble), Autumn Guzzardi (Ensemble), Kevin Kern (Ensemble), Brendan King (Ensemble), Michael Mindlin (Ensemble), Jessica Lea Patty (Ensemble), Wayne Schroder (Ensemble), Brandi Wooten (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 26980,
+      "show": "9 to 5: The Musical",
+      "tour": "Pre-Broadway / Center Theatre Group",
+      "date": "2008-10-18",
+      "time": "M",
+      "master": "juniper47",
+      "media_type": "audio",
+      "cast": "Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J. Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Van Hughes (Josh), Daniel Cooney (Dick), Ioana Alfonso (Maria), Ann Harada (Kathy), Lisa Howard (Missy), Jeremy Davis (Bob Enright), Michael X. Martin (Tinsworthy), Karen Murphy (Margaret), Maia Nkenge Wilson (Anita), Tory Ross (Daphne)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1110436,
+      "show": "9 to 5: The Musical",
+      "tour": "Broadway",
+      "date": "2009-06-14",
+      "time": "M",
+      "master": "juniper47",
+      "media_type": "audio",
+      "cast": "Allison Janney (Violet Newstead), Megan Hilty (Doralee Rhodes), Stephanie J. Block (Judy Bernly), Kathy Fitzgerald (Roz Keith), Marc Kudisch (Franklin Hart Jr.), Andy Karl (Joe), Charlie Pollock (Dwayne), Van Hughes (Josh), Daniel Cooney (Dick), Jennifer Balagna (u/s Maria), Ann Harada (Kathy), Lisa Howard (Missy), Jeremy Davis (Bob Enright), Michael X. Martin (Tinsworthy), Karen Murphy (Margaret), Maia Nkenge Wilson (Anita), Tory Ross (Daphne), Autumn Guzzardi (Ensemble), Paul Castree (Ensemble), Justin Bohon (Ensemble), Spencer Liff (Ensemble), Michael Mindlin (Ensemble), Jessica Lea Patty (Ensemble), Timothy George Anderson (Ensemble), Wayne Schroder (Ensemble), Brandi Wooten (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Aladdin": [
     {
       "id": 23884,
@@ -581,6 +634,42 @@
       "size": "63.57 MB"
     }
   ],
+  "A Beautiful Noise": [
+    {
+      "id": 2024010,
+      "show": "A Beautiful Noise",
+      "tour": "Broadway",
+      "date": "2023-01-24",
+      "time": "E",
+      "master": "xoxomj",
+      "media_type": "audio",
+      "cast": "Will Swenson (Neil Then), Mark Jacoby (Neil Now), Linda Powell (Doctor), Robyn Hurder (Marcia Murphey), Becky Gulsvig (u/s Ellie Greenwich/Rose Diamond), Tom Alan Robbins (Kieve Diamond/Bert Berns), Jessie Fisher (Jaye Posner), Michael McCormick (Fred Colby/Tommy O'Rourke), Kalonjee Gallimore (The Beautiful Noise), Samantha Gershman (The Beautiful Noise), Alex Hairston (The Beautiful Noise), Jess LeProtto (The Beautiful Noise), Tatiana Lofton (The Beautiful Noise), Aaron James McKenzie (The Beautiful Noise), Mary Page Nance (The Beautiful Noise), Max Sangerman (The Beautiful Noise), Deandre Sevon (The Beautiful Noise), MiMi Scardulla (The Beautiful Noise)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2024012,
+      "show": "A Beautiful Noise",
+      "tour": "Broadway",
+      "date": "2023-12-17",
+      "time": "U",
+      "master": "xoxomj",
+      "media_type": "audio",
+      "cast": "Max Sangerman (u/s Neil Then), Mark Jacoby (Neil Now), Shirine Babb (Doctor), Robyn Hurder (Marcia Murphey), Bri Sudia (Ellie Greenwich/Rose Diamond), Tom Alan Robbins (Kieve Diamond/Bert Berns), Becky Gulsvig (u/s Jaye Posner), Michael McCormick (Fred Colby/Tommy O'Rourke), Jordan Dobson (The Beautiful Noise), Paige Faure (The Beautiful Noise), Jess LeProtto (The Beautiful Noise), Tatiana Lofton (The Beautiful Noise), Mary Page Nance (The Beautiful Noise), Aveena Sawyer (The Beautiful Noise), Vanessa Sierra (The Beautiful Noise), Deandre Sevon (The Beautiful Noise), Sean Watkinson (The Beautiful Noise), Travis Ward-Osborne (The Beautiful Noise)",
+      "notes": "Robyn's last show! ",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Beauty and the Beast (Disney)": [
     {
       "id": 11739,
@@ -666,6 +755,127 @@
       "nft": false,
       "format": "M4A x2",
       "size": "63.02 MB"
+    }
+  ],
+  "Beetlejuice": [
+    {
+      "id": 2026453,
+      "show": "Beetlejuice",
+      "tour": "Broadway",
+      "date": "2019-04-03 (2)",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Alex Brightman (Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), Rob McClure (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Rodriguez Kritzer (Delia Deetz), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxine Dean/Juno)",
+      "notes": "Show stopped in Act 1 due to technical difficulties with the microphone issues.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2038788,
+      "show": "Beetlejuice",
+      "tour": "Broadway",
+      "date": "2019-07-17",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Alex Brightman (Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), Rob McClure (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Rodriguez Kritzer (Delia Deetz/Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxine Dean/Juno), Dana Steingold (Girl Scout)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2018264,
+      "show": "Beetlejuice",
+      "tour": "Broadway",
+      "date": "2019-09-01",
+      "time": "E",
+      "master": "in48frames",
+      "media_type": "audio",
+      "cast": "Alex Brightman (Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), Rob McClure (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Rodriguez Kritzer (Delia Deetz/Miss Argentina), Kelvin Moon Loh (Otho), Sean Montgomery (u/s Maxie Dean), Natalie Charle Ellis (u/s Maxine Dean/Juno), Dana Steingold (Girl Scout)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 23671,
+      "show": "Beetlejuice",
+      "tour": "Broadway",
+      "date": "2019-10-15",
+      "time": "E",
+      "master": "myvacsrock",
+      "media_type": "audio",
+      "cast": "Will Blum (u/s Beetlejuice), Sophia Anne Caruso (Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Rodriguez Kritzer (Delia Deetz/Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (Maxine Dean/Juno), Dana Steingold (Girl Scout)",
+      "notes": "Act 1 is full. Act 2 starts about 4 minutes into the show. Untracked but good quality, right by a monitor.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2018265,
+      "show": "Beetlejuice",
+      "tour": "Broadway",
+      "date": "2020-02-22",
+      "time": "M",
+      "master": "in48frames",
+      "media_type": "audio",
+      "cast": "Alex Brightman (Beetlejuice), Presley Ryan (u/s Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Rodriguez Kritzer (Delia Deetz/Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Natalie Charle Ellis (u/s Maxine Dean/Juno), Dana Steingold (Girl Scout)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2023587,
+      "show": "Beetlejuice",
+      "tour": "First Broadway Remount",
+      "date": "2022-11-20",
+      "time": "M",
+      "master": "TJonC",
+      "media_type": "audio",
+      "cast": "Alex Brightman (Beetlejuice), Dana Steingold (u/s Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Rodriguez Kritzer (Delia Deetz), Michelle Aravena (Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Jill Abramovitz (t/r Maxine Dean/Juno), Brooke Leigh Engen (u/s Girl Scout)",
+      "notes": "Dana’s “Dead Mom” is truly the best I have ever head. She riffs up the ending and makes it her own. Fantastic performance. Alex is ad lib crazy. The book falls into the floor and Alex throws a tantrum on stage and has fun with the spare book. And other ad lib moments",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2023589,
+      "show": "Beetlejuice",
+      "tour": "First Broadway Remount",
+      "date": "2023-01-08",
+      "time": "E",
+      "master": "TJonC",
+      "media_type": "audio",
+      "cast": "Alex Brightman (Beetlejuice), Elizabeth Teeter (Lydia Deetz), Kerry Butler (Barbara Maitland), David Josefsberg (Adam Maitland), Adam Dannheisser (Charles Deetz), Leslie Rodriguez Kritzer (Delia Deetz), Michelle Aravena (Miss Argentina), Kelvin Moon Loh (Otho), Danny Rutigliano (Maxie Dean), Zonya Love (Maxine Dean/Juno), Dana Steingold (Girl Scout)",
+      "notes": "Runs almost 3 hours. Includes end of show speech by director Alex Timbers.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Boop! The Musical": [
@@ -911,6 +1121,23 @@
     }
   ],
   "A Bronx Tale: The Musical": [
+    {
+      "id": 35005,
+      "show": "A Bronx Tale: The Musical",
+      "tour": "Paper Mill Playhouse",
+      "date": "2016-02-07",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Jason Gotay (Calogero), Coco Jones (Jane), Nick Cordero (Sonny), Richard H. Blake (Lorenzo), Joshua Colley (Young Calogero), Lucia Giannetta (Rosina), Isaiah Tyrelle Boyd (Tyrone), Gilbert L Bailey II (Jesse), Joe Barbara (Carmine), Ted Brunetti (Frankie Coffeecake), Michael Barra (JoJo the Whale), Jonathan Brody (Eddie Mush), Dominic Nolfi (Crazy Mario), Paul Salvatoriello (Tony Ten to Two), Aisha Jackson (Denise), Joey Sorge (Rudy the Voice), Keith White (Slick), Jess LeProtto (Nicky Zero), Trista Dollison (Frieda), Brittany Conigatti (Ensemble), Kaleigh Cronin (Ensemble), Kim Dodson (Ensemble), Vincenzo Faruolo (Ensemble), David Michael Garry (Ensemble), Carlos Lopez (Ensemble), Corey Mosello (Ensemble), Christie Schwartzman (Ensemble), Kirstin Tucker (Ensemble), Eean Cochran (Ensemble), Phil Colgan (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 35009,
       "show": "A Bronx Tale: The Musical",
@@ -1222,6 +1449,25 @@
       "nft": false,
       "format": "MP3 x4",
       "size": "155.24 MB"
+    }
+  ],
+  "A Catered Affair": [
+    {
+      "id": 2025832,
+      "show": "A Catered Affair",
+      "tour": "Broadway",
+      "date": "2008-05-21",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Tom Wopat (Tom), Faith Prince (Aggie), Harvey Fierstein (Winston), Leslie Rodriguez Kritzer (Janey)",
+      "notes": "Tracked",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "A Chorus Line": [
@@ -2349,6 +2595,25 @@
       "size": "119.96 MB"
     }
   ],
+  "Dreamgirls": [
+    {
+      "id": 1115873,
+      "show": "Dreamgirls",
+      "tour": "Actors Fund Benefit Concert",
+      "date": "2001-09-24",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Lillias White (Effie Melody White), Audra McDonald (Deena Jones), Heather Headley (Lorrell Robinson), Norm Lewis (Curtis Taylor Jr.), Billy Porter (James \"Thunder\" Early), Darius de Haas (C.C. White), Tamara Tunie (Michelle Morris), James Stovall (Marty Madison), Bobby Daye (Wayne), Deidre Goodwin (Stepp Sister), Kyra Da Costa (Stepp Sister), Rosa Curry (Stepp Sister), Brian Stokes Mitchell (Jerry), Adrian Bailey (Tiny Joe Dixon), Aisha de Haas (Charlene/Les Style), John Bolton (Dwight), Eric Woodall (Frank), Adriane Lenox (Joann/Les Style), Lee Summers (Mr. Morgan), Alice Ripley (Sweetheart), Emily Skinner (Sweetheart), Paul Castree (Dave), Bernard Dotson (Little Albert and the Tru-Tones/The Five Tuxedos), André Garner (Little Albert and the Tru-Tones/The Five Tuxedos), Dennis Stowe (Little Albert and the Tru-Tones/The Five Tuxedos), Richard E. Waits (Little Albert and the Tru-Tones/The Five Tuxedos), Tomé Cousin (Little Albert and the Tru-Tones/The Five Tuxedos), Brandi Chavonne Massey (Les Style), Montego Glover (Les Style), Brad Oscar (Film Executive), Malcolm Gets (Film Executive), Patrick Wilson (Film Executive), Jason Opsahl (Ensemble), Virginia Ann Woodruff (Ensemble), Kate Coffman-Lloyd (Ensemble), Leslie Odom Jr. (Ensemble), Orfeh (Ensemble), Philip Michael Baskerville (Ensemble), Ric Ryder (Ensemble), Sara Ramirez (Ensemble), Shoshana Bean (Ensemble), Steve Geary (Ensemble), T. Oliver Reid (Ensemble), James Harkness (Ensemble), Edgar Godineaux (Ensemble), E. Lynn Harris (Ensemble), Derric Harris (Ensemble), Denis Jones (Ensemble), David Benoit (Ensemble), Darren Lee (Ensemble), Christopher F. Davis (Ensemble), Audrey Klinger (Ensemble), Angelo Fraboni (Ensemble), Adam Hunter (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Falsettos": [
     {
       "id": 12750,
@@ -3136,6 +3401,40 @@
       "nft": false,
       "format": "M4A x31",
       "size": "153.4 MB"
+    },
+    {
+      "id": 1147896,
+      "show": "Hair",
+      "tour": "Second Broadway Revival",
+      "date": "2010-03-14",
+      "time": "M",
+      "master": "oydtrades",
+      "media_type": "audio",
+      "cast": "Kyle Riabko (Claude), Ace Young (Berger), Diana DeGarmo (Sheila), Jason Wooten (Woof), Wallace Smith (Hud), Jeannette Bayardelle (Dionne/White Boys Trio), Annaleigh Ashford (Jeanie), Briana Carlson-Goodman (u/s Crissy), Josh Lamon (Margaret Mead/Father), Rachel Bay Jones (Mother/Buddhadalirama), Lee Zarrett (Hubert/Principal/John Wilkes Booth/Tribe), Paris Remillard (Tribe), Natalie Bradshaw (Tribe), Mykal Kilgore (Tribe), Rashidra Scott (Tribe), Terrance Thomas (Tribe), Lawrence Stallings (Tribe), Larkin Bogan (Tribe), Kate Rockwell (Tribe), Justin Badger (Tribe), Jen Sese (Tribe), Erika Jerry (Tribe), Catherine Brookman (Tribe), Cailan Rose (Tribe), Antwayn Hopper (Tribe), Anastacia McCleskey (Tribe)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1110474,
+      "show": "Hair",
+      "tour": "Second Broadway Revival",
+      "date": "2010-06-06",
+      "time": "M",
+      "master": "juniper47",
+      "media_type": "audio",
+      "cast": "Kyle Riabko (Claude), Ace Young (Berger), Diana DeGarmo (Sheila), Jason Wooten (Woof), Wallace Smith (Hud), Jeannette Bayardelle (Dionne), Annaleigh Ashford (Jeanie), Cailan Rose (u/s Crissy), Lee Zarrett (u/s Margaret Mead/Father), Rachel Bay Jones (Mother), Arbender Robinson (s/w Hubert), Nicholas Belton (s/w Tribe), Terrance Thomas (Tribe), Lawrence Stallings (Tribe), Jen Sese (Tribe), Rashidra Scott (Tribe), Emma Zaks (Tribe), Kate Rockwell (Tribe), Paris Remillard (Tribe), Anastacia McCleskey (Tribe), Mykal Kilgore (Tribe), Erika Jerry (Tribe), Antwayn Hopper (Tribe), Catherine Brookman (Tribe), Natalie Bradshaw (Tribe), Larkin Bogan (Tribe), Justin Badger (Tribe)",
+      "notes": "<p>Nicolas Belton in Lee Zarrett's track, Emma Zaks performed in Cailan Rose's track</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Hairspray": [
@@ -3980,6 +4279,23 @@
       "size": "71.89 MB"
     },
     {
+      "id": 1141129,
+      "show": "Into the Woods",
+      "tour": "Second Broadway Revival",
+      "date": "2022-10-11",
+      "time": "E",
+      "master": "Breathe in Life Trades",
+      "media_type": "audio",
+      "cast": "Montego Glover (Witch), Sebastian Arcelus (Baker), Stephanie J. Block (Baker's Wife), Krysta Rodriguez (Cinderella), Katy Geraghty (Little Red Riding Hood), Cole Thompson (Jack), Gavin Creel (Wolf/Cinderella's Prince), Andy Karl (t/r Rapunzel's Prince), David Patrick Kelly (Narrator/Mysterious Man), Ann Harada (Jack's Mother), Nancy Opel (Cinderella's Stepmother), Brooke Ishibashi (Florinda), Ta'Nika Gibson (Lucinda), Albert Guerzon (Cinderella's Father), Jim Stanek (Steward), Alysia Velez (Rapunzel), Annie Golden (Granny/Cinderella's Mother/Giant's Voice), Kennedy Kanagawa (Milky White)",
+      "notes": "Recorded by a friend.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1155883,
       "show": "Into the Woods",
       "tour": "Second Broadway Revival",
@@ -4014,6 +4330,40 @@
       "size": "418.91 MB"
     },
     {
+      "id": 2024095,
+      "show": "Into the Woods",
+      "tour": "Second Broadway Revival",
+      "date": "2022-11-07",
+      "time": "E",
+      "master": "TJonC",
+      "media_type": "audio",
+      "cast": "Montego Glover (Witch), Sebastian Arcelus (Baker), Stephanie J. Block (Baker's Wife), Krysta Rodriguez (Cinderella), Katy Geraghty (Little Red Riding Hood), Cole Thompson (Jack), Gavin Creel (Wolf/Cinderella's Prince), Andy Karl (Rapunzel's Prince), David Patrick Kelly (Narrator/Mysterious Man), Ann Harada (Jack's Mother), Nancy Opel (Cinderella's Stepmother), Brooke Ishibashi (Florinda), Ta'Nika Gibson (Lucinda), Albert Guerzon (Cinderella's Father), Jim Stanek (Steward), Alysia Velez (Rapunzel), Annie Golden (Granny/Cinderella's Mother/Giant's Voice), Kennedy Kanagawa (Milky White)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1136871,
+      "show": "Into the Woods",
+      "tour": "Second Broadway Revival",
+      "date": "2022-11-13",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Patina Miller (Witch), Brian d'Arcy James (Baker), Stephanie J. Block (Baker's Wife), Krysta Rodriguez (Cinderella), Katy Geraghty (Little Red Riding Hood), Cole Thompson (Jack), Gavin Creel (Wolf/Cinderella's Prince), Andy Karl (t/r Rapunzel's Prince), David Patrick Kelly (Narrator/Mysterious Man), Ann Harada (Jack's Mother), Nancy Opel (Cinderella's Stepmother), Brooke Ishibashi (Florinda), Ta'Nika Gibson (Lucinda), Albert Guerzon (Cinderella's Father), Jim Stanek (Steward), Alysia Velez (Rapunzel), Annie Golden (Granny/Cinderella's Mother/Giant's Voice), Kennedy Kanagawa (Milky White)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1139273,
       "show": "Into the Woods",
       "tour": "Second US National Tour",
@@ -4029,6 +4379,23 @@
       "nft": false,
       "format": "M4A x55 + WAV x2",
       "size": "952.97 MB"
+    },
+    {
+      "id": 1147969,
+      "show": "Into the Woods",
+      "tour": "Second US National Tour",
+      "date": "2023-02-26",
+      "time": "M",
+      "master": "oydtrades",
+      "media_type": "audio",
+      "cast": "Montego Glover (Witch), Jason Forbach (u/s Baker), Stephanie J. Block (Baker's Wife), Diane Phelan (Cinderella), Katy Geraghty (Little Red Riding Hood), Cole Thompson (Jack), Gavin Creel (Wolf/Cinderella's Prince), Andy Karl (e/c Rapunzel's Prince), David Patrick Kelly (Narrator/Mysterious Man), Rayanne Gonzales (t/r Jack's Mother), Marya Grandy (u/s Cinderella's Stepmother), Brooke Ishibashi (Florinda), Ta'Nika Gibson (Lucinda), Josh Breckenridge (Cinderella's Father), Jim Stanek (Steward), Alysia Velez (Rapunzel), Felicia Curry (Granny/Cinderella's Mother/Giant's Voice), Kennedy Kanagawa (Milky White)",
+      "notes": "Andy went to D.C. for the tour's opening weekend to cover Rapunzel's Prince so Jason could go on as the Baker after Sebastian Arcelus sustained an injury. Marya's first as Cinderella's Stepmother.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Jersey Boys": [
@@ -4275,6 +4642,93 @@
       "nft": false,
       "format": "M4A x44",
       "size": "161.1 MB"
+    }
+  ],
+  "Kinky Boots": [
+    {
+      "id": 2005041,
+      "show": "Kinky Boots",
+      "tour": "Broadway",
+      "date": "2013-12-22",
+      "time": "E",
+      "master": "Forpluto",
+      "media_type": "audio",
+      "cast": "Billy Porter (Lola), Stark Sands (Charlie Price), Annaleigh Ashford (Lauren), Daniel Stewart Sherman (Don), Marcus Neville (George), Lena Hall (Nicola), Andy Kelso (Harry), Jennifer Perry (Trish), Stephen Berger (Mr. Price), Tory Ross (Pat), Eugene Barry-Hill (Simon Sr.), John Jeffrey Martin (Richard Bailey), Adinah Alexander (Milan Stage Manager)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2005042,
+      "show": "Kinky Boots",
+      "tour": "Broadway",
+      "date": "2013-12-23",
+      "time": "E",
+      "master": "Forpluto",
+      "media_type": "audio",
+      "cast": "Billy Porter (Lola), Stark Sands (Charlie Price), Annaleigh Ashford (Lauren), Daniel Stewart Sherman (Don), Marcus Neville (George), Lena Hall (Nicola), Andy Kelso (Harry), Stephen Berger (Mr. Price), Eugene Barry-Hill (Simon Sr.)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 4657,
+      "show": "Kinky Boots",
+      "tour": "Broadway",
+      "date": "2018-03-18",
+      "time": "E",
+      "master": "oydtrades",
+      "media_type": "audio",
+      "cast": "Wayne Brady (Lola), Jake Shears (Charlie Price), Kirstin Maldonado (Lauren), Daniel Stewart Sherman (Don), Marcus Neville (George), Caroline Bowman (Nicola), Corey Mach (Harry), Jennifer Perry (Trish), Stephen Berger (Mr. Price), Natalie Joy Johnson (Pat), Eugene Barry-Hill (Simon Sr.), Stephane Duret (u/s Richard Bailey), Cooper Lantz (Young Charlie), Jesús Del Orden (Young Lola), Adinah Alexander (Milan Stage Manager), Alfred Dalpino (u/s Angel), Fredric Odgaard (Angel), Kyle Post (Angel), Charlie Sutton (Angel), Michael Milkanin (u/s Angel), Kevin Smith Kirkwood (Angel), Mia Gentile (Ensemble), Blair Goldberg (Ensemble), Damien Brett (s/w Ensemble), Stephen Tewksbury (Ensemble)",
+      "notes": "Damien was on for Eric Leviton.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 34961,
+      "show": "Kinky Boots",
+      "tour": "Broadway",
+      "date": "2018-04-28",
+      "time": "E",
+      "master": "norikateatro",
+      "media_type": "audio",
+      "cast": "Blaine Alden Krauss (u/s Lola), David Cook (Charlie Price), Kirstin Maldonado (Lauren), Daniel Stewart Sherman (Don), Marcus Neville (George), Caroline Bowman (Nicola), Jake Odmark (Harry), Jennifer Perry (Trish), Stephen Berger (Mr. Price), Natalie Joy Johnson (Pat), Eugene Barry-Hill (Simon Sr.), Ciarán McCarthy (Richard Bailey), Cooper Lantz (alt Young Charlie), Jesús Del Orden (Young Lola), Adinah Alexander (Milan Stage Manager), Kevin Smith Kirkwood (Angel), Alfred Dalpino (u/s Angel), Fredric Odgaard (Angel), Kyle Post (Angel), Charlie Sutton (Angel), Joey Taranto (Angel)",
+      "notes": "Got to see a good friend of mine perform, Ciarán Mccarthys Broadway debut!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 6280,
+      "show": "Kinky Boots",
+      "tour": "Broadway",
+      "date": "2019-01-20",
+      "time": "E",
+      "master": "twistingboulevard",
+      "media_type": "audio",
+      "cast": "Callum Francis (Lola), Andy Kelso (Charlie Price), Carrie St. Louis (Lauren), Tiki Barber (Don), Marcus Neville (George), Caroline Bowman (Nicola), Corey Mach (Harry), Adinah Alexander (Trish), Stephen Berger (Mr. Price), Natalie Joy Johnson (Pat), Eugene Barry-Hill (Simon Sr.), Ciarán McCarthy (Richard Bailey), Connor Mills (Young Charlie), Christian Mullins (Young Lola), Gaelen Gilliland (Milan Stage Manager), Kevin Smith Kirkwood (Angel), Kyle Post (Angel), James Delisco Beeks (Angel), Ian Gallagher Fitzgerald (Angel), Joey Taranto (Angel), Callan Bergmann (Angel)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "The Last Five Years": [
@@ -8930,12 +9384,12 @@
       "master": "yeoldespacebuns",
       "media_type": "audio",
       "cast": "Courtney Bowman (Elle Woods), Michael Ahomka-Lindsay (Emmett Forrest), Alistair Toovey (Warner Huntington III), Nadine Higgin (Paulette), Vanessa Fisher (Vivienne Kensington), Lauren Drew (Brooke Wyndham/Shandi), Eugene McCoy (Professor Callahan), Iz Hesketh (Margot), Hannah Yun Chamberlain (Serena), Grace Mouat (Pilar), Dominic Lamb (Kyle/Dad), Billy Nevers (Dewey/Grandmaster Chad/Store Manager), Alžbeta Matyšáková (Enid), Jasmin Colangelo (Kate/Chutney), Jo Foster (Winthrop/Aaron/Carlos/Rufus), Esme Laudat (Reporter/Mom/Whitney/Stenographer/Leilani/Pforzheimer), Allie Daniel (Courtney/D.A. Joyce Riley), Gabriela Benedetti (Judge), Lucca Chadwick-Patel (Nikos/Lowell/Cezar Tepesh), Liam McEvoy (Bruiser)",
-      "notes": "gift upon ask. it started raining just before take it like a man and the show was briefly stopped after so act 2 is split into 2 parts. there were a few microphone timing issues but that was expected as it's previews. you can also hear a plane overhead briefly.",
+      "notes": "GENERAL NOTES: gift upon ask. it started raining just before take it like a man and the show was briefly stopped after so act 2 is split into 2 parts. there were a few microphone timing issues but that was expected as it's previews. you can also hear a plane overhead briefly.<br><br>MY NOTES: Same files as WhatTradingCanDo's master. Unclear which is the correct master.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "M4A x3",
+      "format": "SEE NOTES M4A x3",
       "size": "106.38 MB"
     },
     {
@@ -8947,12 +9401,12 @@
       "master": "WhatTradingCanDo",
       "media_type": "audio",
       "cast": "Courtney Bowman (Elle Woods), Michael Ahomka-Lindsay (Emmett Forrest), Alistair Toovey (Warner Huntington III), Nadine Higgin (Paulette), Vanessa Fisher (Vivienne Kensington), Lauren Drew (Brooke Wyndham/Shandi), Eugene McCoy (Professor Callahan), Iz Hesketh (Margot), Hannah Yun Chamberlain (Serena), Grace Mouat (Pilar), Dominic Lamb (Kyle/Dad), Billy Nevers (Dewey/Grandmaster Chad/Store Manager), Alžbeta Matyšáková (Enid), Jasmin Colangelo (Kate/Chutney), Jo Foster (Winthrop/Aaron/Carlos/Rufus), Esme Laudat (Reporter/Mom/Whitney/Stenographer/Leilani/Pforzheimer), Allie Daniel (Courtney/D.A. Joyce Riley), Gabriela Benedetti (Judge), Lucca Chadwick-Patel (Nikos/Lowell/Cezar Tepesh), Liam McEvoy (Bruiser)",
-      "notes": "Show stop in the middle of act two due to rain. Act 2 in two parts due to this",
+      "notes": "GENERAL NOTES: Show stop in the middle of act two due to rain. Act 2 in two parts due to this<br><br>MY NOTES: Same files as yeoldespacebuns's master. Unclear which is the correct master.",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "M4A x3",
+      "format": "SEE NOTES M4A x3",
       "size": "106.38 MB"
     },
     {
@@ -10027,6 +10481,59 @@
       "size": "281.8 MB"
     }
   ],
+  "Lempicka": [
+    {
+      "id": 2024340,
+      "show": "Lempicka",
+      "tour": "Broadway",
+      "date": "2024-03-19",
+      "time": "E",
+      "master": "Today4UTomorrow4Lulu",
+      "media_type": "audio",
+      "cast": "Eden Espinosa (Tamara de Lempicka), Amber Iman (Rafaela), Andrew Samonsky (Tadeusz Lempicki), George Abud (Marinetti), Natalie Joy Johnson (Suzy Solidor), Nathaniel Stampley (The Baron), Beth Leavel (The Baroness), Zoe Glick (Kizette), Nicholas Ward (Ensemble), Ximone Rose (Ensemble), Khori Michelle Petinaud (Ensemble), Jimin Moon (Ensemble), Abby Matsusaka (Ensemble), Holli' Conway (Ensemble), Kyle Brown (Ensemble), Stephen Brower (Ensemble), Lauren Blackman (Ensemble), Alex Aquilino (Ensemble)",
+      "notes": "A beautiful quality audio taken from the center orchestra. First Preview! A very supportive audience that loved the show. You may hear me rustle my phone at the beginning of In the Blasted California Sun.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2024336,
+      "show": "Lempicka",
+      "tour": "Broadway",
+      "date": "2024-03-20",
+      "time": "E",
+      "master": "Today4UTomorrow4Lulu",
+      "media_type": "audio",
+      "cast": "Eden Espinosa (Tamara de Lempicka), Amber Iman (Rafaela), Andrew Samonsky (Tadeusz Lempicki), George Abud (Marinetti), Natalie Joy Johnson (Suzy Solidor), Nathaniel Stampley (The Baron), Beth Leavel (The Baroness), Zoe Glick (Kizette), Nicholas Ward (Ensemble), Ximone Rose (Ensemble), Khori Michelle Petinaud (Ensemble), Jimin Moon (Ensemble), Abby Matsusaka (Ensemble), Holli' Conway (Ensemble), Kyle Brown (Ensemble), Stephen Brower (Ensemble), Lauren Blackman (Ensemble), Alex Aquilino (Ensemble)",
+      "notes": "An excellent quality audio taken from the left balcony. The projections weren't working for Plan and Design. New intro to Rafaela was added right before “Don’t Bet Your Heart.”  The set broke during Act 2 right during Women that stopped the show for 20 minutes. I dropped my phone right after Speed. Not my best audio cause I was really exhausted so you could hear the phone move around a bit as I adjusted in my seat.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2024337,
+      "show": "Lempicka",
+      "tour": "Broadway",
+      "date": "2024-04-24",
+      "time": "E",
+      "master": "TJonC",
+      "media_type": "audio",
+      "cast": "Mariand Torres (s/b Tamara de Lempicka), Amber Iman (Rafaela), Andrew Samonsky (Tadeusz Lempicki), George Abud (Marinetti), Natalie Joy Johnson (Suzy Solidor), Nathaniel Stampley (The Baron), Beth Leavel (The Baroness), Zoe Glick (Kizette), Nicholas Ward (Ensemble), Ximone Rose (Ensemble), Khori Michelle Petinaud (Ensemble), Jimin Moon (Ensemble), Abby Matsusaka (Ensemble), Holli' Conway (Ensemble), Kyle Brown (Ensemble), Stephen Brower (Ensemble), Lauren Blackman (Ensemble), Alex Aquilino (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "The Lightning Thief: The Percy Jackson Musical": [
     {
       "id": 2008764,
@@ -10526,6 +11033,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "344.3 MB"
+    },
+    {
+      "id": 2023674,
+      "show": "Little Shop of Horrors",
+      "tour": "Paris Revival",
+      "date": "2025-09-19",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Guillaume Andrieux (Seymour), Judith Fa (Audrey), Arnaud Denissel (Orin), David Alexis (Mr. Mushnik), Laura Nanou (Chiffon), Sofia Mountassir (Crystal), Anissa Brahmi (Ronnette), Daniel Njo Lobé (Voice of Audrey II)",
+      "notes": "Master authorized release. Do not post or share publicly. \n\nNFT except through gee_dee until the end of the initial run.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 2024263,
@@ -11243,6 +11767,23 @@
       "size": "64.5 MB"
     },
     {
+      "id": 2008670,
+      "show": "Monty Python's Spamalot",
+      "tour": "First Broadway Revival",
+      "date": "2024-01-26",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "James Monroe Iglehart (King Arthur), Leslie Rodriguez Kritzer (Lady of The Lake), Jonathan Bennett (Sir Robin/Brother Maynard/Guard 1), Alex Brightman (Sir Lancelot/The French Taunter/Knight of Ni/Tim the Enchanter), Jimmy Smagula (Sir Bedevere/Dennis' Mother/Concorde), Ethan Slater (Historian/Not Dead Fred/Prince Herbert/Bunny), Drew Redington (u/s Mayor/Patsy/Guard 2), Nik Walker (Sir Galahad/Black Knight/Prince Herbert's Father)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1154802,
       "show": "Monty Python's Spamalot",
       "tour": "First Broadway Revival",
@@ -11755,6 +12296,23 @@
       "size": "1.48 GB"
     },
     {
+      "id": 2038346,
+      "show": "Moulin Rouge! The Musical",
+      "tour": "Broadway",
+      "date": "2025-02-19",
+      "time": "M",
+      "master": "grumpystump",
+      "media_type": "audio",
+      "cast": "Solea Pfeiffer (Satine), John Cardoza (Christian), Austin Durant (Harold Zidler), Andy Karl (The Duke of Monroth), Andre Ward (Toulouse-Lautrec), Pepe Muñoz (Santiago), Samantha Dodemaide (Nini), Donnie Hammond (La Chocolat), Rayven Bailey (Arabia), Nick Martinez (u/s Baby Doll), Brandon Stonestreet (u/s Pierre)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2012406,
       "show": "Moulin Rouge! The Musical",
       "tour": "Broadway",
@@ -12233,6 +12791,59 @@
       "size": "229.4 MB"
     }
   ],
+  "My Fair Lady": [
+    {
+      "id": 2009790,
+      "show": "My Fair Lady",
+      "tour": "Sixth US National Tour",
+      "date": "2021-12-08",
+      "time": "E",
+      "master": "hannah2013",
+      "media_type": "audio",
+      "cast": "Nicole Ferguson (u/s Eliza Doolittle), Laird Mackintosh (Henry Higgins), Sam Simahk (Freddy Eynsford-Hill), Leslie Alexander (Mrs. Higgins), Adam Grupper (Alfred P. Doolittle), Gayton Scott (Mrs. Pearce), Joanna Rhinehart (Mrs. Eynsford-Hill), Kevin Pariseau (Colonel Hugh Pickering), Lee Zarrett (Professor Zoltan Karpathy/A Selsey Man), Elena Camp (Queen of Transylvania), William Michals (Jamie/\"Loverly\" Quartet/Hoxton Man/Footman), Patrick Kerr (Harry), Mary Callanan (Mrs. Hopkins/Higgins' Maid), Samantha Sturm (Lady Boxington/Hostess), Gerard M. Williams (\"Loverly\" Quartet/Constable/Steward), Colin Anderson (\"Loverly\" Quartet/Higgins' Butler), Christopher Faison (\"Loverly\" Quartet/Lord Boxington/Footman/Higgins' Butler), Michael Biren (Constable/Steward), Colleen Grate (Higgins' Maid/Flower Girl), Juliane Godfrey (Higgins' Maid), Sarah Quinn Taylor (s/w Higgins' Maid), Brandon Leffler (Charles/Servant), Rommel Pierre O'Choa (Servant), Mark Banik (Frank), Rajeer Alford (Ensemble), Nathalie Marrable (Ensemble), Aisha Mitchell (Ensemble), Keven Quillon (Ensemble), Minami Yusui (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2009788,
+      "show": "My Fair Lady",
+      "tour": "Sixth US National Tour",
+      "date": "2022-01-06",
+      "time": "E",
+      "master": "hannah2013",
+      "media_type": "audio",
+      "cast": "Nicole Ferguson (u/s Eliza Doolittle), Laird Mackintosh (Henry Higgins), Sam Simahk (Freddy Eynsford-Hill), Leslie Alexander (Mrs. Higgins), Adam Grupper (Alfred P. Doolittle), Gayton Scott (Mrs. Pearce), Elena Camp (u/s Mrs. Eynsford-Hill), Kevin Pariseau (Colonel Hugh Pickering), Lee Zarrett (Professor Zoltan Karpathy), William Michals (Jamie/\"Loverly\" Quartet), Patrick Kerr (Harry), Mary Callanan (Mrs. Hopkins), Colin Anderson (\"Loverly\" Quartet), Christopher Faison (\"Loverly\" Quartet), Gerard M. Williams (\"Loverly\" Quartet), John T. Wolfe (s/w Charles), Mark Banik (Frank), Minami Yusui (Ensemble), Michael Williams (s/w Ensemble), Samantha Sturm (Ensemble), Keven Quillon (Ensemble), Rommel Pierre O'Choa (Ensemble), Aisha Mitchell (Ensemble), Colleen Grate (Ensemble), Juliane Godfrey (Ensemble), Brandon Block (Ensemble), Michael Biren (Ensemble), Rajeer Alford (Ensemble), Kaitlyn Frank (s/w Ensemble), Lauralyn McClelland (s/w Ensemble), George Psomas (s/w Ensemble), Sarah Quinn Taylor (s/w Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1157954,
+      "show": "My Fair Lady",
+      "tour": "Fifth US National Tour",
+      "date": "2022-05-14",
+      "time": "M",
+      "master": "idk",
+      "media_type": "audio",
+      "cast": "Nicole Ferguson (u/s Eliza Doolittle), Wade McCollum (e/c Henry Higgins), Richard Riaz Yoder (u/s Freddy Eynsford-Hill), Leslie Alexander (Mrs. Higgins), Martin Fisher (Alfred P. Doolittle), Samantha Sturm (u/s Mrs. Pearce), Kevin Pariseau (Colonel Hugh Pickering), Lee Zarrett (Professor Zoltan Karpathy), Patrick Kerr (u/s Harry), Lauralyn McClelland (u/s Lady Boxington), John T. Wolfe (u/s Lord Boxington), Sarah Quinn Taylor (s/w Ensemble)",
+      "notes": "Wade understudied Higgins on the 2020 tour. Nicole is an excellent Eliza. The theater has weird acoustics so not the best audio.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "The Mystery of Edwin Drood": [
     {
       "id": 13710,
@@ -12551,6 +13162,44 @@
       "nft": false,
       "format": "M4A x1",
       "size": "39.93 MB"
+    }
+  ],
+  "On The Twentieth Century": [
+    {
+      "id": 1123141,
+      "show": "On The Twentieth Century",
+      "tour": "First Broadway Revival",
+      "date": "2015-02-14",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Kristin Chenoweth (Lily Garland/Mildred Plotka), Peter Gallagher (Oscar Jaffee), Andy Karl (Bruce Granit), Mary Louise Wilson (Letitia Peabody Primrose), Mark Linn-Baker (Oliver Webb), Michael McGrath (Owen O'Malley), James Moye (Max Jacobs), Andy Taylor (Congressman Lockwood), Paula Leggett Chase (Imelda Thornton), Jim Walton (Conductor Flanagan), Linda Mugleston (Dr. Johnson), Analisa Leaming (Anita), Mamie Parris (Agnes), Erica Mansfield (Officer/Can-Can Girl), Kevin Ligon (Officer/Otto Von Bismarck/Simon Finch), Justin Bowen (Train Secretary), Bahiyah Hibah (Can-Can Girl), Richard Riaz Yoder (Porter), Drew King (Porter), Phillip Attmore (Porter), Rick Faugno (Porter), Jenifer Foote (s/w Ensemble), Ben Crawford (Ensemble), Preston Truman Boyd (s/w Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
+  "Once Upon A Mattress": [
+    {
+      "id": 1154212,
+      "show": "Once Upon A Mattress",
+      "tour": "Encores!",
+      "date": "2024-01-24",
+      "time": "E",
+      "master": "TheTolerableTrivium",
+      "media_type": "audio",
+      "cast": "Sutton Foster (Princess Winnifred), Michael Urie (Prince Dauntless), Harriet Harris (Queen Aggravain), David Patrick Kelly (King Sextimus), J. Harrison Ghee (Jester), Nikki Renée Daniels (Lady Larken), Cheyenne Jackson (Sir Harry), Francis Jue (Wizard), Jaquez André Sims (Ensemble), Richard Riaz Yoder (Ensemble), Kristin Yancy (Ensemble), Ryan Worsing (Ensemble), Adam Roberts (Ensemble), Abby Matsusaka (Ensemble), Paul Kreppel (Ensemble), Amanda LaMotte (Ensemble), Andrea Jones-Sojola (Ensemble), Gaelen Gilliland (Ensemble), Ta'Nika Gibson (Ensemble), Ben Davis (Ensemble), Cicily Daniels (Ensemble), Kaleigh Cronin (Ensemble), DeMarius R. Copes (Ensemble), Shavey Brown (Ensemble)",
+      "notes": "Opening night. Includes preshow speech by Lear DeBessonet.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Orfeh In Concert": [
@@ -13053,6 +13702,42 @@
       "size": "315.9 MB"
     }
   ],
+  "Slut": [
+    {
+      "id": 1121964,
+      "show": "Slut",
+      "tour": "Off-Broadway",
+      "date": "2005-09-13",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Andy Karl (Adam), Jim Stanek (Dan), Jenn Colella (Delia), David Josefsberg (J-Dogg/Buddy Pendleton), Mary Faber (Yesterday's News/Veronica), Harriett D. Foy (Lilly/Janey's Mother), Kevin Pariseau (Doug/Sea Captain/Janey's Father), Sara Chase (Janey)",
+      "notes": "First preview",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1113806,
+      "show": "Slut",
+      "tour": "Off-Broadway",
+      "date": "2005-10-09",
+      "time": "M",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Andy Karl (Adam), Jim Stanek (Dan), Jenn Colella (Delia), David Josefsberg (J-Dogg/Buddy Pendleton), Mary Faber (Yesterday's News/Veronica), Harriett D. Foy (Lilly/Janey's Mother), Kevin Pariseau (Doug/Sea Captain/Janey's Father), Sara Chase (Janey)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Smash": [
     {
       "id": 2015414,
@@ -13142,6 +13827,23 @@
       "nft": false,
       "format": "MP3 x2",
       "size": "335.3 MB"
+    },
+    {
+      "id": 1145558,
+      "show": "Some Like it Hot",
+      "tour": "Broadway",
+      "date": "2022-11-10",
+      "time": "E",
+      "master": "SBP30",
+      "media_type": "audio",
+      "cast": "J. Harrison Ghee (Jerry | Daphne), Christian Borle (Joe | Josephine), Adrianna Hicks (Sugar Kane), NaTasha Yvette Williams (Sweet Sue), Kevin Del Aguila (Osgood Fielding III), Adam Heller (Agent Mulligan), Mark Lotito (Spats Colombo), Raena White (Ensemble), Brendon Stimson (Ensemble), Charles South (Ensemble), Angie Schworer (Ensemble), Richard Riaz Yoder (Ensemble), Amber Owens (Ensemble), Brian Martin (Ensemble), Jarvis B. Manning Jr. (Ensemble), Abby Matsusaka (Ensemble), KJ Hippensteel (Ensemble), Jenny Hill (Ensemble), Devon Hadsell (Ensemble), Casey Garvin (Ensemble), DeMarius R. Copes (Ensemble), TyNia René Brandon (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 1135641,
@@ -15071,6 +15773,42 @@
       "size": "111.6 MB"
     }
   ],
+  "The SpongeBob Musical": [
+    {
+      "id": 2031174,
+      "show": "The SpongeBob Musical",
+      "tour": "Pre-Broadway / Chicago",
+      "date": "2016",
+      "time": "U",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Lilli Cooper (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Nick Blaemire (Sheldon Plankton), Stephanie Hsu (Karen the Computer), Carlos Lopez (Eugene Krabs), Emmy Raver-Lampman (Pearl Krabs), Gaelen Gilliland (The Mayor), Kelvin Moon Loh (Perch Perkins), Abby C. Smith (Mrs. Puff), Allan K Washington (Larry the Lobster), Mark Ledbetter (Old Man Jenkins/French Narrator), Tom Kenny (Gary), Jason Michael Snow (Patchy the Pirate), Curtis Holbrook (Electric Skate), L'ogan J'ones (Electric Skate), JC Schuster (Electric Skate), Lauralyn McClelland (Sardine Corps), Vasthy Mompoint (Sardine Corps)",
+      "notes": "Cast assumed. \nFile name: SpongeBob - The Musical.m4a\nFile size: 62.27 mb (windows), 65.3 mb (mac)",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 2003849,
+      "show": "The SpongeBob Musical",
+      "tour": "Broadway",
+      "date": "2017-12-01",
+      "time": "E",
+      "master": "BoqTheMunchkin",
+      "media_type": "audio",
+      "cast": "Ethan Slater (SpongeBob SquarePants), Danny Skinner (Patrick Star), Lilli Cooper (Sandy Cheeks), Gavin Lee (Squidward Q. Tentacles), Wesley Taylor (Sheldon Plankton), Stephanie Hsu (Karen the Computer), Brian Ray Norris (Eugene Krabs), Jai'len Christine Li Josey (Pearl Krabs), Gaelen Gilliland (The Mayor), Kelvin Moon Loh (Perch Perkins), Abby C. Smith (Mrs. Puff), Allan K Washington (Larry the Lobster), JC Schuster (Old Man Jenkins/Security Guard), Jon Rua (Patchy the Pirate/Sardine Corps), Tom Kenny (French Narrator), Curtis Holbrook (Electric Skate), L'ogan J'ones (Electric Skate), Kyle Matthew Hamilton (Electric Skate), Vasthy Mompoint (Sardine Corps/Security Guard), Lauralyn McClelland (Sardine Corps), Oneika Phillips (Sardine Corps), Robert Taylor Jr. (Sardine Corps)",
+      "notes": "Never to be publicly shared.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Spring Awakening (Sheik/Sater)": [
     {
       "id": 1123158,
@@ -15145,6 +15883,25 @@
       "size": "170.9 MB"
     }
   ],
+  "Summer: The Donna Summer Musical": [
+    {
+      "id": 2010357,
+      "show": "Summer: The Donna Summer Musical",
+      "tour": "First US National Tour",
+      "date": "2020-01-08",
+      "time": "E",
+      "master": "hannah2013",
+      "media_type": "audio",
+      "cast": "Dan'yelle Williamson (Diva Donna/Mary Gaines), Alex Hairston (Disco Donna), Olivia Elease Hardy (Duckling Donna/Mimi), John Gardiner (Neil Bogart/Sommelier/Gunther), Erick Pinnick (Andrew Gaines/Doctor), Steven Grant Douglas (Bruce Sudano), Kyli Rae (Giorgio Moroder), Jay Garcia (Brian/Helmuth Sommer), Jennifer Byrne (Pete Bellotte/Don Engel), Cameron Anika Hill (Amanda/Young Dara), Brooke Lacy (David Geffen/Detective/Bob), De'Ja Simone (Brooklyn/Young Mary Ellen), DeQuina Moore (Adult Mary Ellen), Candace Washington (Michael), Brittany Nicole Williams (Maid), Sir Brock Warren (Pastor), Tamrin Goldberg (Norman Brokaw), Trish Lindström (Joyce Bogart), Crystal Sha'nae (Adult Dara)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Sweeney Todd: The Demon Barber of Fleet Street": [
     {
       "id": 5636,
@@ -15213,6 +15970,76 @@
       "nft": false,
       "format": "M4A x2",
       "size": "151.5 MB"
+    },
+    {
+      "id": 2022888,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Third Broadway Revival",
+      "date": "2023-09-14",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Paul-Jordan Jansen (u/s Sweeney Todd), Annaleigh Ashford (Mrs. Lovett), Daniel Yearwood (Anthony Hope), Maria Bilbao (Johanna), Jamie Jackson (Judge Turpin), Gaten Matarazzo (Tobias Ragg), John Rapson (Beadle Bamford), Jeanna de Waal (s/b Beggar Woman), Raymond J. Lee (u/s Adolfo Pirelli)",
+      "notes": "Files erroneously distributed with .MP4 file extension; they are actually M4A",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1150267,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Third Broadway Revival",
+      "date": "2023-11-01",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Nicholas Christopher (u/s Sweeney Todd), Annaleigh Ashford (Mrs. Lovett), Daniel Yearwood (Anthony Hope), Maria Bilbao (Johanna), Jamie Jackson (Judge Turpin), Gaten Matarazzo (Tobias Ragg), John Rapson (Beadle Bamford), Ruthie Ann Miles (Beggar Woman), Daniel Torres (u/s Adolfo Pirelli), Stephen Tewksbury (Jonas Fogg), Jonathan Christopher (Bird Seller), Joanna Carpenter (s/w Passerby), DeLaney Westfall (Ensemble), Felix Torrez-Ponce (Ensemble), Kristie Dale Sanders (Ensemble), Nathan Salstone (Ensemble), Lexi Rabadi (Ensemble), Samantha Pollino (Ensemble), Raymond J. Lee (Ensemble), Michael Kuhn (s/w Ensemble), Alicia Kaori (Ensemble), Paul-Jordan Jansen (Ensemble), Timothy Hughes (Ensemble), Taeler Cyrus (Ensemble), Kyrie Courter (s/w Ensemble)",
+      "notes": "Some rustling occasionally. Act Two is split into two parts with about 10-15 seconds of dialogue missing.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1151090,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Third Broadway Revival",
+      "date": "2023-11-18",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Nicholas Christopher (u/s Sweeney Todd), Annaleigh Ashford (Mrs. Lovett), Daniel Yearwood (Anthony Hope), Maria Bilbao (Johanna), Jamie Jackson (Judge Turpin), Nathan Salstone (u/s Tobias Ragg), John Rapson (Beadle Bamford), Ruthie Ann Miles (Beggar Woman), Raymond J. Lee (u/s Adolfo Pirelli), Stephen Tewksbury (Jonas Fogg), Jonathan Christopher (Bird Seller), Joanna Carpenter (Passerby), Mia Pinero (s/w Ensemble), Felix Torrez-Ponce (Ensemble), Kristie Dale Sanders (Ensemble), Keven Quillon (s/w Ensemble), Daniel Torres (Ensemble), Lexi Rabadi (Ensemble), Michael Kuhn (s/w Ensemble), Alicia Kaori (Ensemble), Paul-Jordan Jansen (Ensemble), Timothy Hughes (Ensemble), Tug Watson (s/w Ensemble), Galyana Castillo (Ensemble), Taeler Cyrus (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
+  "Sweet Charity": [
+    {
+      "id": 24194,
+      "show": "Sweet Charity",
+      "tour": "Off-Broadway Revival",
+      "date": "2016-12-12",
+      "time": "E",
+      "master": "intothefiretrades",
+      "media_type": "audio",
+      "cast": "Sutton Foster (Charity Hope Valentine), Shuler Hensley (Oscar Lindquist), Joel Perez (Vittorio Vidal/Daddy Brubeck/Herman), Asmeret Ghebremichael (Nickie), Nikka Graff Lanzarone (Ursula), Emily Padgett (Helene), Sasha Hutchings (Rosie), Cody Williams (Manfred/Maitre D'/Walter), James Brown III (Barney/Daddy's Assistant/Man with Dog), Yesenia Ayala (Daddy's Assistant/Betsy/Panhandler), Darius Barnes (Doorman/Marvin/Thomas), Donald Jones Jr. (Ice Cream Vendor/Philip)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Take the Lead": [
@@ -15637,6 +16464,23 @@
       "nft": false,
       "format": "MP3 x47",
       "size": "138.80 MB"
+    },
+    {
+      "id": 2021596,
+      "show": "Wicked",
+      "tour": "Broadway",
+      "date": "2010-08-12",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Mandy Gonzalez (Elphaba), Katie Rose Clarke (Glinda), Andy Karl (Fiyero), P.J. Benjamin (The Wizard), Kathy Fitzgerald (Madame Morrible), Jenny Fellner (Nessarose), Alex Brightman (Boq), Timothy Britten Parker (Doctor Dillamond)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 18298,
