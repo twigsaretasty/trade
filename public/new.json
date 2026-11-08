@@ -1,13 +1,17 @@
 {
-  "thisWeekIns": [
+  "thisWeekIns": [],
+  "lastWeekIns": [
     "On The Twentieth Century | First Broadway Revival | 2015-02-21 | SunsetBlvd79 (video)",
     "Kinky Boots | Broadway | 2018-03-18 | oydtrades (audio)",
     "Kinky Boots | Broadway | 2019-01-20 | twistingboulevard (audio)",
     "35mm | 54 Below | 2013-10-07 | sarcasticstagemanager (audio)",
+    "Beautiful: The Carole King Musical | First US National Tour | 2015-10-31 | HBCFG (audio)",
     "9 to 5: The Musical | Pre-Broadway / Center Theatre Group | 2008-10-11 | juniper47 (audio)",
     "Beetlejuice | Broadway | 2019-10-15 | myvacsrock (audio)",
     "Sweet Charity | Off-Broadway Revival | 2016-12-12 | intothefiretrades (audio)",
     "9 to 5: The Musical | Pre-Broadway / Center Theatre Group | 2008-10-18 | juniper47 (audio)",
+    "The 25th Annual Putnam County Spelling Bee | Broadway | 2006-01-10 | Unknown (audio)",
+    "The 25th Annual Putnam County Spelling Bee | Broadway | 2006-05-28 | Unknown (audio)",
     "Next to Normal | TheaterWorks Hartford | 2017-05 | pro-shot (video)",
     "Kinky Boots | Broadway | 2018-04-28 | norikateatro (audio)",
     "A Bronx Tale: The Musical | Paper Mill Playhouse | 2016-02-07 | Unknown (audio)",
@@ -16,17 +20,20 @@
     "Broadway Loves the '80s (Concerts) | Volume 1 | 2007-06-13 | Unknown (video)",
     "Slut | Off-Broadway | 2005-10-09 | Unknown (audio)",
     "Dreamgirls | Actors Fund Benefit Concert | 2001-09-24 | Unknown (audio)",
+    "Beautiful: The Carole King Musical | First US National Tour | 2015-12-27 | emotionshaveanecho (audio)",
     "Slut | Off-Broadway | 2005-09-13 | Unknown (audio)",
     "On The Twentieth Century | First Broadway Revival | 2015-02-14 | Unknown (audio)",
     "Into the Woods | Second Broadway Revival | 2022-11-13 | Unknown (audio)",
     "Into the Woods | Second Broadway Revival | 2022-10-11 | Breathe in Life Trades (audio)",
     "Sweeney Todd: The Demon Barber of Fleet Street | Third Broadway Revival | 2023-03 | StarCuffedJeans (video)",
     "Some Like it Hot | Broadway | 2022-11-10 | SBP30 (audio)",
+    "Legally Blonde | Regent's Park Open Air Theatre | 2022-05-28 | bluebottlebootlegs (audio)",
     "Hair | Second Broadway Revival | 2010-03-14 | oydtrades (audio)",
     "Into the Woods | Second US National Tour | 2023-02-26 | oydtrades (audio)",
     "Sweeney Todd: The Demon Barber of Fleet Street | Third Broadway Revival | 2023-11-01 | Unknown (audio)",
     "Sweeney Todd: The Demon Barber of Fleet Street | Third Broadway Revival | 2023-11-18 | Unknown (audio)",
     "Once Upon A Mattress | Encores! | 2024-01-24 | TheTolerableTrivium (audio)",
+    "Legally Blonde | Regent's Park Open Air Theatre | 2022-06-29 | Cookie (audio)",
     "My Fair Lady | Fifth US National Tour | 2022-05-14 | idk (audio)",
     "The SpongeBob Musical | Broadway | 2017-12-01 | BoqTheMunchkin (audio)",
     "Kinky Boots | Broadway | 2013-12-22 | Forpluto (audio)",
@@ -59,11 +66,5 @@
     "Legally Blonde | Third UK Tour | 2026-10-07 | LostInEudaimonia (audio)",
     "Legally Blonde | Third UK Tour | 2026-10-10 | LostInEudaimonia (audio)",
     "Legally Blonde | Third UK Tour | 2026-10-22 | miscaah (audio)"
-  ],
-  "lastWeekIns": [
-    "Assassins | Off-West End | 2014-11-25 | thisgreyweather (audio)",
-    "Fun Home | First US National Tour | 2017-03-22 | Token Goat (audio)",
-    "Miscast (Concerts) | 2013 | 2013-03-04 | Unknown (audio)",
-    "Moulin Rouge! The Musical | Broadway | 2025-05-25 | antitheatre (audio)"
   ]
 }

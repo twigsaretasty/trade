@@ -1,6 +1,40 @@
 {
   "The 25th Annual Putnam County Spelling Bee": [
     {
+      "id": 31482,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Broadway",
+      "date": "2006-01-10",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Lisa Howard (Rona Lisa Peretti), Kate Wetherhead (u/s Olive Ostrovsky), Dan Fogler (William Barfée), Sarah Saltzberg (Logainne Schwartzandgrubenierre), Derrick Baskin (Mitch Mahoney), Todd Buonopane (u/s Leaf Coneybear), Deborah S. Craig (Marcy Park), Jose Llana (Chip Tolentino), Jay Reiss (Douglas Panch)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x33",
+      "size": "102.5 MB"
+    },
+    {
+      "id": 31488,
+      "show": "The 25th Annual Putnam County Spelling Bee",
+      "tour": "Broadway",
+      "date": "2006-05-28",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Lisa Yuen (u/s Rona Lisa Peretti), Sarah Stiles (u/s Olive Ostrovsky), Josh Gad (William Barfée), Kate Wetherhead (u/s Logainne Schwartzandgrubenierre), Derrick Baskin (Mitch Mahoney), Todd Buonopane (u/s Leaf Coneybear), Deborah S. Craig (Marcy Park), Jose Llana (Chip Tolentino), Greg Stuhr (Douglas Panch)",
+      "notes": "First 20 minutes only",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x9",
+      "size": "33.4 MB"
+    },
+    {
       "id": 17799,
       "show": "The 25th Annual Putnam County Spelling Bee",
       "tour": "Broadway",
@@ -687,6 +721,42 @@
       "size": "56.5 MB"
     }
   ],
+  "Beautiful: The Carole King Musical": [
+    {
+      "id": 11534,
+      "show": "Beautiful: The Carole King Musical",
+      "tour": "First US National Tour",
+      "date": "2015-10-31",
+      "time": "M",
+      "master": "HBCFG",
+      "media_type": "audio",
+      "cast": "Abby Mueller (Carole King), Liam Tobin (Gerry Goffin), Becky Gulsvig (Cynthia Weil), Ben Fankhauser (Barry Mann), Curt Bouril (Don Kirshner), Suzanne Grodner (Genie Klein)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "MP3 x56",
+      "size": "76.3 MB"
+    },
+    {
+      "id": 1118624,
+      "show": "Beautiful: The Carole King Musical",
+      "tour": "First US National Tour",
+      "date": "2015-12-27",
+      "time": "E",
+      "master": "emotionshaveanecho",
+      "media_type": "audio",
+      "cast": "Abby Mueller (Carole King), Liam Tobin (Gerry Goffin), Becky Gulsvig (Cynthia Weil), Ben Fankhauser (Barry Mann)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "61.1 MB"
+    }
+  ],
   "Beauty and the Beast (Disney)": [
     {
       "id": 11739,
@@ -1146,7 +1216,7 @@
       "time": "E",
       "master": "Unknown",
       "media_type": "audio",
-      "cast": "Jason Gotay (Calogero), Coco Jones (Jane), Nick Cordero (Sonny), Richard H. Blake (Lorenzo), Joshua Colley (Young Calogero), Lucia Giannetta (Rosina), Isaiah Tyrelle Boyd (Tyrone), Gilbert L Bailey II (Jesse), Joe Barbara (Carmine), Ted Brunetti (Frankie Coffeecake), Michael Barra (JoJo the Whale), Jonathan Brody (Eddie Mush), Dominic Nolfi (Crazy Mario), Paul Salvatoriello (Tony Ten to Two), Aisha Jackson (Denise), Joey Sorge (Rudy the Voice), Keith White (Slick), Jess LeProtto (Nicky Zero), Trista Dollison (Frieda), Brittany Conigatti (Ensemble), Kaleigh Cronin (Ensemble), Kim Dodson (Ensemble), Vincenzo Faruolo (Ensemble), David Michael Garry (Ensemble), Carlos Lopez (Ensemble), Corey Mosello (Ensemble), Christie Schwartzman (Ensemble), Kirstin Tucker (Ensemble), Eean Cochran (Ensemble), Phil Colgan (Ensemble)",
+      "cast": "Jason Gotay (Calogero), Coco Jones (Jane), Nick Cordero (Sonny), Richard H. Blake (Lorenzo), Joshua Colley (Young Calogero), Lucia Giannetta (Rosina), Isaiah Tyrelle Boyd (Tyrone), Gilbert L. Bailey II (Jesse), Joe Barbara (Carmine), Ted Brunetti (Frankie Coffeecake), Michael Barra (JoJo the Whale), Jonathan Brody (Eddie Mush), Dominic Nolfi (Crazy Mario), Paul Salvatoriello (Tony Ten to Two), Aisha Jackson (Denise), Joey Sorge (Rudy the Voice), Keith White (Slick), Jess LeProtto (Nicky Zero), Trista Dollison (Frieda), Brittany Conigatti (Ensemble), Kaleigh Cronin (Ensemble), Kim Dodson (Ensemble), Vincenzo Faruolo (Ensemble), David Michael Garry (Ensemble), Carlos Lopez (Ensemble), Corey Mosello (Ensemble), Christie Schwartzman (Ensemble), Kirstin Tucker (Ensemble), Eean Cochran (Ensemble), Phil Colgan (Ensemble)",
       "notes": "",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -1180,7 +1250,7 @@
       "time": "M",
       "master": "Today4UTomorrow4Lulu",
       "media_type": "audio",
-      "cast": "Bobby Conte Thornton (Calogero), Ariana DeBose (Jane), Nick Cordero (Sonny), Richard H. Blake (Lorenzo), Athan Sporek (alt Young Calogero), Lucia Giannetta (Rosina), Bradley Gibson (Tyrone), Keith White (Ensemble), Kirstin Tucker (Ensemble), Cary Tedder (Ensemble), Joey Sorge (Ensemble), Paul Salvatoriello (Ensemble), Christiani Pitts (Ensemble), Dominic Nolfi (Ensemble), Rory Max Caplan (Ensemble), David Michael Garry (Ensemble), Trista Dollison (Ensemble), Kaleigh Cronin (Ensemble), Brittany Conigatti (Ensemble), Ted Brunetti (Ensemble), Jonathan Brody (Ensemble), Michael Barra (Ensemble), Joe Barbara (Ensemble), Gilbert L Bailey II (Ensemble)",
+      "cast": "Bobby Conte Thornton (Calogero), Ariana DeBose (Jane), Nick Cordero (Sonny), Richard H. Blake (Lorenzo), Athan Sporek (alt Young Calogero), Lucia Giannetta (Rosina), Bradley Gibson (Tyrone), Keith White (Ensemble), Kirstin Tucker (Ensemble), Cary Tedder (Ensemble), Joey Sorge (Ensemble), Paul Salvatoriello (Ensemble), Christiani Pitts (Ensemble), Dominic Nolfi (Ensemble), Rory Max Caplan (Ensemble), David Michael Garry (Ensemble), Trista Dollison (Ensemble), Kaleigh Cronin (Ensemble), Brittany Conigatti (Ensemble), Ted Brunetti (Ensemble), Jonathan Brody (Ensemble), Michael Barra (Ensemble), Joe Barbara (Ensemble), Gilbert L. Bailey II (Ensemble)",
       "notes": "A fantastic quality audio taken from the left box. The show was insanely good with a stellar cast and wonderful performances!",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
@@ -9478,6 +9548,23 @@
       "size": "304.83 MB"
     },
     {
+      "id": 1146751,
+      "show": "Legally Blonde",
+      "tour": "Regent's Park Open Air Theatre",
+      "date": "2022-05-28",
+      "time": "E",
+      "master": "bluebottlebootlegs",
+      "media_type": "audio",
+      "cast": "Courtney Bowman (Elle Woods), Michael Ahomka-Lindsay (Emmett Forrest), Alistair Toovey (Warner Huntington III), Nadine Higgin (Paulette), Vanessa Fisher (Vivienne Kensington), Lauren Drew (Brooke Wyndham/Shandi), Eugene McCoy (Professor Callahan), Iz Hesketh (Margot), Hannah Yun Chamberlain (Serena), Grace Mouat (Pilar), Dominic Lamb (Kyle/Dad), Billy Nevers (Dewey/Grandmaster Chad/Store Manager), Alžbeta Matyšáková (Enid), Jasmin Colangelo (Kate/Chutney), Jo Foster (Winthrop/Aaron/Carlos/Rufus), Shakira Simpson (s/w Reporter/Mom/Whitney/Stenographer/Leilani/Pforzheimer), Allie Daniel (Courtney/D.A. Joyce Riley), Gabriela Benedetti (Judge), Lucca Chadwick-Patel (Nikos/Lowell/Cezar Tepesh), Liam McEvoy (Bruiser)",
+      "notes": "GENERAL NOTES: Managed to sit right in front of a speaker so the audio is super clear, although the volume varies because of the shows audio mixing. Includes photo of understudy board.<br><br>MY NOTES: Two formats, not sure which is the original.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "WAV x2 + MP3 x2",
+      "size": "1.56 GB"
+    },
+    {
       "id": 1125992,
       "show": "Legally Blonde",
       "tour": "Regent's Park Open Air Theatre",
@@ -9612,6 +9699,23 @@
       "nft": false,
       "format": "MP3 x2",
       "size": "237.85 MB"
+    },
+    {
+      "id": 1157478,
+      "show": "Legally Blonde",
+      "tour": "Regent's Park Open Air Theatre",
+      "date": "2022-06-29",
+      "time": "E",
+      "master": "Cookie",
+      "media_type": "audio",
+      "cast": "Courtney Bowman (Elle Woods), Michael Ahomka-Lindsay (Emmett Forrest), Alistair Toovey (Warner Huntington III), Nadine Higgin (Paulette), Vanessa Fisher (Vivienne Kensington), Lauren Drew (Brooke Wyndham/Shandi), Eugene McCoy (Professor Callahan), Iz Hesketh (Margot), Hannah Yun Chamberlain (Serena), Grace Mouat (Pilar), Alžbeta Matyšáková (Enid), Allie Daniel (Courtney/D.A. Joyce Riley)",
+      "notes": "Cookie's master, not for public gifting/selling/social media",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "221.7 MB"
     },
     {
       "id": 1128977,
