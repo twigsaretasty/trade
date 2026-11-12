@@ -251,7 +251,6 @@
     "Charlie and the Chocolate Factory | Broadway | 2017-05-20 | bubbledress | Audio",
     "Charlie and the Chocolate Factory | Broadway | 2017-03-28 | HBCFG | Audio",
     "Charlie and the Chocolate Factory | Broadway | 2017 | soundboard | Audio",
-    "Charlie and the Chocolate Factory | First US National Tour | 2019-06-12 | hannah2013 | Audio",
     "Chasing the Song | La Jolla Playhouse | 2014-06-14 | SJ Bernly | Video",
     "Chicago | First Broadway Revival | 2011-10-25 | NYCG8R | Video",
     "Chicago | First Broadway Revival | 2017-12-03 | Unknown | Audio",
@@ -2071,6 +2070,7 @@
     "Sweeney Todd: The Demon Barber of Fleet Street | Third Broadway Revival | 2023-04-05 | mirrorbluenight | Audio"
   ],
   "high": [
+    "The 25th Annual Putnam County Spelling Bee | Broadway | 2007-01-30 | Unknown | Audio",
     "The 25th Annual Putnam County Spelling Bee | Broadway | 2006-01-18 | Unknown | Audio",
     "The 25th Annual Putnam County Spelling Bee | Broadway | 2006-10-08 | Unknown | Audio",
     "The 25th Annual Putnam County Spelling Bee | Broadway | 2006-08-20 | Unknown | Audio",
@@ -2894,6 +2894,7 @@
     "Three Days of Rain | Broadway | 2006-04-13 | Pigerty | Video"
   ],
   "inprogress": [
-    "Mean Girls | First US National Tour | 2019-11 | StarCuffedJeans | Video"
+    "Mean Girls | First US National Tour | 2019-11 | StarCuffedJeans | Video",
+    "Charlie and the Chocolate Factory | First US National Tour | 2019-06-12 | hannah2013 | Audio"
   ]
 }
