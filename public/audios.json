@@ -668,6 +668,23 @@
   ],
   "Back to the Future: The Musical": [
     {
+      "id": 1147209,
+      "show": "Back to the Future: The Musical",
+      "tour": "West End",
+      "date": "2022-10-27",
+      "time": "M",
+      "master": "whereigowhenigothere",
+      "media_type": "audio",
+      "cast": "Ben Joyce (Marty McFly), Roger Bart (Doc Brown), Oliver Nicholas (George McFly), Amber Davies (Lorraine Baines), Harry Jobson (Biff Tannen), Tavio Wright (u/s Goldie Wilson/Marvin Berry), Gary Trainor (Principal Strickland), Sophie Naglik (Jennifer Parker), Charley Warburton (u/s Linda McFly), Will Haswell (Dave McFly), Tyler Davis (Ensemble), Simeon Beckett (Ensemble), Sia Dauda (Ensemble), Melissa Rose (Ensemble), Laura Mullowney (Ensemble), Justin Thomas (Ensemble), Jon Reynolds (Ensemble), Glen Facey (Ensemble), Georgia Tapp (Ensemble), Dylan Gordon-Jones (Ensemble), Cameron McAllister (Ensemble), Bryan Mottram (Ensemble), Anna Murray (Ensemble), Amy Barker (Ensemble), Alessia McDermott (Ensemble), Adam Margilewski (Ensemble)",
+      "notes": "Includes blurry photo of the cast board.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1145864,
       "show": "Back to the Future: The Musical",
       "tour": "Broadway",
@@ -10986,6 +11003,23 @@
       "size": "284.77 MB"
     },
     {
+      "id": 1117139,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2021-10-21",
+      "time": "E",
+      "master": "voiceinadream",
+      "media_type": "audio",
+      "cast": "Jeremy Jordan (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Aveena Sawyer (Crystal), Salome Smith (Ronnette), Aaron Arnell Harrington (Voice of Audrey II)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1120501,
       "show": "Little Shop of Horrors",
       "tour": "Off-Broadway Revival",
@@ -11256,6 +11290,23 @@
       "nft": false,
       "format": "M4A x3",
       "size": "114.13 MB"
+    },
+    {
+      "id": 2030810,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2026-03-25",
+      "time": "E",
+      "master": "PTSnucka",
+      "media_type": "audio",
+      "cast": "Jordan Fisher (Seymour), Nikki M. James (Audrey), Andy Karl (Orin), Christopher Swan (Mr. Mushnik), Morgan Ashley Bryant (Chiffon), Savannah Lee Birdsong (Crystal), Hailey Thomas (Ronnette), Christian McQueen (Voice of Audrey II)",
+      "notes": "Clear audio recorded from front-side orchestra. Near a speaker so a little muddy during louder parts. Includes BCEFA speech. Nikki M. James! Nikki M.F. James!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 2036126,
@@ -12791,6 +12842,23 @@
       "nft": false,
       "format": "MP3 x20",
       "size": "37.3 MB"
+    },
+    {
+      "id": 2000241,
+      "show": "The Music Man",
+      "tour": "Broadway Center Stage",
+      "date": "2019-02-08",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Norm Lewis (Harold Hill), Jessie Mueller (Marian Paroo), Rosie O'Donnell (Mrs. Paroo), John Cariani (Marcellus Washburn), Damon J. Gillespie (Tommy Djilas), Eloise Kropp (Zaneeta Shinn), Nicholas Ward (Olin Britt), Veanne Cox (Eulalie MacKecknie Shinn)",
+      "notes": "<p>Recorded from the top row of the theatre so it might be a little quiet. I can’t find a full cast list anywhere so I did this from memory. Rules: No YouTube/social media etc. but feel free to gift/share. List as unknown master.&nbsp;</p>",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 1120166,
@@ -16193,6 +16261,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "74.7 MB"
+    },
+    {
+      "id": 2022318,
+      "show": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "tour": "Third Broadway Revival",
+      "date": "2023-11-19",
+      "time": "M",
+      "master": "PTSnucka",
+      "media_type": "audio",
+      "cast": "Nicholas Christopher (u/s Sweeney Todd), Annaleigh Ashford (Mrs. Lovett), Daniel Yearwood (Anthony Hope), Maria Bilbao (Johanna), Jamie Jackson (Judge Turpin), Nathan Salstone (u/s Tobias Ragg), John Rapson (Beadle Bamford), Ruthie Ann Miles (Beggar Woman), Raymond J. Lee (u/s Adolfo Pirelli)",
+      "notes": "Recording starts from No Place Like London. Good audio recorded from rear orchestra.",
+      "amount_recorded": "partial",
+      "gifting_status": "Gift On Request",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Sweet Charity": [
