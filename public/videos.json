@@ -52,8 +52,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MTS x4",
+      "size": "11.93 GB"
     }
   ],
   "1984 (Icke)": [
@@ -556,8 +556,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "7.54 GB"
     }
   ],
   "Anything Goes": [
@@ -704,6 +704,25 @@
       "size": "5.04 GB"
     }
   ],
+  "Baby": [
+    {
+      "id": 28029,
+      "show": "Baby",
+      "tour": "Paper Mill Playhouse",
+      "date": "2004-04",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Chad Kimball (Danny Hooper), LaChanze (Pam Sakarian), Norm Lewis (Nick Sakarian), Carolee Carmello (Arlene McNally), Michael Rupert (Alan McNally), Moeisha McGill (Scarlett)",
+      "notes": "Highlights only. Lots of cover-ups and heads in the way but very clear at times",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Back to the Future: The Musical": [
     {
       "id": 1145151,
@@ -757,6 +776,25 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.51 GB"
+    }
+  ],
+  "Bare: A Pop Opera": [
+    {
+      "id": 336,
+      "show": "Bare: A Pop Opera",
+      "tour": "Off-Broadway",
+      "date": "2004-04-17",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "John Hill (Jason McConnell), Michael Arden (Peter Simmonds), Jenna Leigh Green (Ivy Robinson), Natalie Joy Johnson (Nadia McConnell), Aaron Lohr (Matt Lloyd), Romelda Benjamin (Sister Chantelle), Jim Price (Priest), Kay Trinidad (Diane Lee), Kearran Giovanni (Kyra), Kaitlin Hopkins (Claire Simmonds), Mike Cannon (Zack), Adam Fleming (Lucas Carter), Sasha Allen (Tanya Garrett), Lindsay Scott (Rory), Isaac Calpito (Alan)",
+      "notes": "One cam pro shot. A bit of generation loss.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Bash: Latter-Day Plays": [
@@ -848,8 +886,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4 x2",
+      "size": "10.35 GB"
     }
   ],
   "Beetlejuice": [
@@ -1036,6 +1074,23 @@
   ],
   "The Book of Mormon": [
     {
+      "id": 1577,
+      "show": "The Book of Mormon",
+      "tour": "Workshop",
+      "date": "2010-09-01",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Andrew Rannells (Elder Price), Josh Gad (Elder Cunningham), Nikki M. James (Nabulungi), Rory O'Malley (Elder McKinley), Michael Potts (Mafala Hatimbi), Lewis Cleale (Mission President/Joseph Smith/Price's Father), Kevin Duda (Cunningham's Father), Clark Johnsen (Elder Michaels), Scott Barnhardt (Elder Thomas), Justin Bohon (Elder Zelder), John Eric Parker (Guard), Asmeret Ghebremichael (Ensemble)",
+      "notes": "Workshop all staged on barebones sets. Very interesting changes from the eventual Broadway version, including a much different “All American Prophet” (a squaredancey number called “The Bible is a Trilogy, Too”) This version is far less polished and focused but incredibly interesting to see for fans of the show.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 281,
       "show": "The Book of Mormon",
       "tour": "Broadway",
@@ -1138,6 +1193,25 @@
       "nft": false,
       "format": "MP4 x2",
       "size": "10.89 GB"
+    }
+  ],
+  "Bright Lights, Big City": [
+    {
+      "id": 23335,
+      "show": "Bright Lights, Big City",
+      "tour": "Prince Music Theater",
+      "date": "2006-06-22",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Jeremy Kushnier (Jamie), Andy Karl (Tad), Kelli Barrett (Amanda), Orfeh (Clara)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Bright Star": [
@@ -1932,6 +2006,23 @@
       "size": "20.70 GB"
     },
     {
+      "id": 1130794,
+      "show": "Come From Away",
+      "tour": "First US National Tour",
+      "date": "2022-01-26",
+      "time": "E",
+      "master": "shesmydoctor",
+      "media_type": "video",
+      "cast": "Becky Gulsvig (t/r Beverley/Annette), Jeremy Woodard (Kevin T./Garth), Kevin Carolan (Claude/Others), Brandon Springman (s/b Oz/Others), Julia Knitel (Janice/Others), Nick Duckart (Kevin J./Ali), Chamblee Ferguson (Nick/Doug), Christine Toy Johnson (Diane/Others), Sharriese Hamilton (Hannah/Others), Julie Johnson (Beulah/Others), Sharone Sayegh (Bonnie/Others), James Earl Jones II (Bob/Others)",
+      "notes": "Ensemble focused, shot from start to finish. There’s a slight obstruction on the far left and some minor dropouts throughout, plus a bigger one during Phoning Home.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 1139175,
       "show": "Come From Away",
       "tour": "Broadway",
@@ -2127,6 +2218,23 @@
       "size": "3.71 GB"
     },
     {
+      "id": 1120661,
+      "show": "Concerts (Miscellaneous)",
+      "tour": "I'm Still Here",
+      "date": "2021-06-23",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Philip Seymour Hoffman (Performer), Craig Bierko (Performer), Christian Borle (Performer), Andréa Burns (Performer), Glenn Close (Performer), Tim Curry (Performer), Robin de Jesús (Performer), Christine Ebersole (Performer), Rupert Everett (Performer), Sutton Foster (Performer), Savion Glover (Performer), Ariana Grande (Performer), Marcia Gay Harden (Performer), Angela Bassett (Performer), George Hearn (Performer), Christopher Jackson (Performer), Samuel L. Jackson (Performer), LaChanze (Performer), Angela Lansbury (Performer), Rebecca Luker (Performer), Bette Midler (Performer), Lin-Manuel Miranda (Performer), Brian Stokes Mitchell (Performer), Kelli O'Hara (Performer), Karen Olivo (Performer), Meryl Streep (Performer), Paulo Szot (Performer)",
+      "notes": "A star-studded evening celebrating the 90th anniversary of The New York Public Library for the Performing Arts’ Billy Rose Theatre Division and the 50th anniversary of its Theatre on Film and Tape Archive. Honoring Tony-winning directors George C. Wolfe and the late Harold Prince, the evening features archival content of several Broadway productions preserved in the archives.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2009812,
       "show": "Concerts (Miscellaneous)",
       "tour": "Broadway's Leading Men: A Musical Celebration",
@@ -2197,8 +2305,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "8.53 GB"
     },
     {
       "id": 1154838,
@@ -2510,6 +2618,25 @@
       "size": "4.12 GB"
     }
   ],
+  "Emmett Otter's Jug-Band Christmas": [
+    {
+      "id": 1152868,
+      "show": "Emmett Otter's Jug-Band Christmas",
+      "tour": "Studebaker Theater",
+      "date": "2023-12-03",
+      "time": "M",
+      "master": "Medium Observation",
+      "media_type": "video",
+      "cast": "Andy Mientus (Emmett Otter), Emily Rohm (Gretchen Fox/Hetty Muskrat/Owl), David Stephens (Yancy Woodchuck/Skippy Squirrel/Scatfish), Anney Ozar (Old Lady Possum/Nutella Squirrel/Howard Snake), Matthew Furtado (Stan Weasel/Stinky Skunk), Jordan Brownlee (Doc Bullfrog/Tiny Squirrel/Chuck Stoat), Kathleen Elizabeth Monteleone (Ma Otter), Nick Cearley (Charlie Muskrat), Sawyer Smith (Madame Squirrel), Sharriese Hamilton (Mrs. Mink), Kevin Covert (Mayor Fox), James Silson (Fred Lizard/Jiffy Squirrel), Ben Mathew (Harvey Beaver), Steven Huynh (Wendell Porcupine), Leah Morrow (Chorus)",
+      "notes": "Excellent video of this fantastic production! No obstruction due to an unfortunately empty theater. 11am matinee.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Ever After": [
     {
       "id": 2003830,
@@ -2549,6 +2676,23 @@
     }
   ],
   "Falsettos": [
+    {
+      "id": 5788,
+      "show": "Falsettos",
+      "tour": "Broadway",
+      "date": "1993",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Mandy Patinkin (Marvin), Stephen Bogardus (Whizzer), Barbara Walsh (Trina), Chip Zien (Mendel), Sivan Cotel (Jason), Heather MacRae (Dr. Charlotte), Maureen Moore (Cordelia)",
+      "notes": "Filmed sometime in January-February.\nThere are at least two versions, 2.98 GB and 4.09 GB. The 2.98 GB DVD has better video and audio, and runs a few seconds longer (2:11:34 compared to 2:11:08). The subtitles are for the 2.98 GB version.\nThe SRT subtitles contain speaker names, which are sometimes heavily abbreviated out of reading speed considerations. In an attempt to alleviate this, the ASS subtitles have the speaker names replaced with emoji. Also, in extreme cases, there are as many as four speakers per subtitle, since it just can't be helped sometimes.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 5787,
       "show": "Falsettos",
@@ -2779,6 +2923,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.07 GB"
+    },
+    {
+      "id": 540,
+      "show": "Footloose",
+      "tour": "West End",
+      "date": "2006",
+      "time": "U",
+      "master": "house-cam",
+      "media_type": "video",
+      "cast": "Derek Hough (Ren McCormack), Lorna Want (Ariel Moore), Stephen McGann (Reverend Shaw Moore)",
+      "notes": "Recorded through the house camera, so its a stationary full-stage shot with sound patched in directly from the soundboard",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Frankenstein (Nick Dear)": [
@@ -3154,6 +3315,23 @@
       "nft": false,
       "format": "MP4",
       "size": "6.71 GB"
+    },
+    {
+      "id": 1154832,
+      "show": "Gutenberg! The Musical!",
+      "tour": "Broadway",
+      "date": "2023-12",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Josh Gad (Bud), Andrew Rannells (Doug), Jackie Hoffman (g/p Producer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Gypsy": [
@@ -3747,8 +3925,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP4",
+      "size": "9.72 GB"
     }
   ],
   "I Love You, You're Perfect, Now Change": [
@@ -3978,6 +4156,23 @@
       "nft": false,
       "format": "MP4 x2",
       "size": "3.24 GB"
+    },
+    {
+      "id": 1136151,
+      "show": "Into the Woods",
+      "tour": "Second Broadway Revival",
+      "date": "2022-11",
+      "time": "U",
+      "master": "juniper47",
+      "media_type": "video",
+      "cast": "Patina Miller (Witch), Brian d'Arcy James (Baker), Mary Kate Moore (u/s Baker's Wife), Krysta Rodriguez (Cinderella), Katy Geraghty (Little Red Riding Hood), Cole Thompson (Jack), Gavin Creel (Wolf/Cinderella's Prince), Andy Karl (t/r Rapunzel's Prince), David Patrick Kelly (Narrator/Mysterious Man), Ann Harada (Jack's Mother), Nancy Opel (Cinderella's Stepmother), Brooke Ishibashi (Florinda), Ta'Nika Gibson (Lucinda), Albert Guerzon (Cinderella's Father), Jim Stanek (Steward), Alysia Velez (Rapunzel), Annie Golden (Granny/Cinderella's Mother/Giant's Voice), Kennedy Kanagawa (Milky White)",
+      "notes": "Filmed in 4K, released in 1080p and 4K. A bit of obstruction from a head for action on right side of screen, a few brief instances where the camera went in and out of focus, but otherwise a great video of Mary Kate Moore as the Baker's Wife and the current combination of everchanging cast members. Includes Gavin Creel's farewell speech as it was Krysta Rodriguez's final performance and his emotional BC/EFA speech (as it was the day after the Club Q shooting).",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 1136630,
@@ -6078,6 +6273,23 @@
       "size": "6.73 GB"
     },
     {
+      "id": 27633,
+      "show": "Mean Girls",
+      "tour": "First US National Tour",
+      "date": "2019-11",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Danielle Wade (Cady Heron), Mariah Rose Faith Casillas (Regina George), Megan Masako Haley (Gretchen Wieners), Jonalyn Saxer (Karen Smith), Mary Kate Morrissey (Janis Sarkisian), Eric Huffman (Damian Hubbard), Adante Carter (Aaron Samuels), Kabir Bery (Kevin Gnapoor), Gaelen Gilliland (Mrs. Heron/Ms. Norbury/Mrs. George), Lawrence E. Street (Principal Duvall), Sarah Crane (Ensemble), Sydney Mei Ruf-Wong (Ensemble), Marcus Shane (s/w Ensemble), DeShawn Bowens (Ensemble), Blake Zelesnikar (Ensemble), Asia Kreitz (Ensemble), Grace Romanello (s/w Ensemble), David Wright Jr. (Ensemble), Fernell Hogan II (Ensemble), Olivia Renteria (Ensemble), Morgan Ashley Bryant (Ensemble), Niani Feelings (Ensemble), Kaitlyn Louise Smith (Ensemble), Will Branner (Ensemble)",
+      "notes": "Phenomenal HD capture of the First National Tour of the show, shot from the left balcony with a mix of wides, mediums, and many closeups. The video starts at the beginning of both acts and covers all of the action and the fantastic performances of the tour cast. Please do not post screenshots of this video on Twitter ever. Gifs on Tumblr are okay after the NFT date, but don't go linking things to actors and shows.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 24905,
       "show": "Mean Girls",
       "tour": "Broadway",
@@ -6437,6 +6649,23 @@
       "nft": false,
       "format": "MTS x5",
       "size": "15.24 GB"
+    },
+    {
+      "id": 2019150,
+      "show": "Les Misérables",
+      "tour": "West End Revival",
+      "date": "2025-08 (1)",
+      "time": "U",
+      "master": "AndrewLloydWebbersiPad",
+      "media_type": "video",
+      "cast": "Matthew Dale (u/s Jean Valjean), Sam Oladeinde (Javert), Katie Hall (Fantine), Izzi Levine (Cosette), Thiago Phillip Felizardo (Marius), Amena El-Kindy (Éponine), Adam Gillen (Thénardier), Joe Griffiths-Brown (Enjolras), Claire Machin (Madame Thénardier), Adam Pearce (The Bishop of Digne)",
+      "notes": "This is for sure a capture of Les mis.\nIt loses focus, much like the recent works of Andrew Lloyd Webber, mid way through act 1, but seems to be fine for act 2.\nOccasionally the camera pans down rapidly during applause.\n\nGenerally some decent moments, a little shaky but what isn’t blurry is fine",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Monty Python's Spamalot": [
@@ -7579,6 +7808,25 @@
       "size": "4.32 GB"
     }
   ],
+  "Peter Pan (Charlap & Leigh)": [
+    {
+      "id": 8216,
+      "show": "Peter Pan (Charlap & Leigh)",
+      "tour": "NBC Live",
+      "date": "2014-12-04",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Allison Williams (Peter Pan), Christopher Walken (Captain Hook), Taylor Louderman (Wendy Darling), John Allyn (Michael Darling), Jake Lucas (John Darling), Kelli O'Hara (Mrs. Darling/Mermaid), Alanna Saunders (Tiger Lily/Liza), Christian Borle (Smee)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "Peter Pan Goes Wrong": [
     {
       "id": 8215,
@@ -7757,8 +8005,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "4.52 GB"
     }
   ],
   "Pride and Prejudice (Paul Gordon)": [
@@ -7939,6 +8187,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "1.10 GB"
+    },
+    {
+      "id": 1112378,
+      "show": "RENT",
+      "tour": "25 Years of RENT: Measured In Love",
+      "date": "2021-03-02",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Shakina Nayfack (Performer), Brandon Victor Dixon (Performer), Wendy Ettinger (Performer), Stephen Graham (Performer), Michael Greif (Performer), Janet Harckham (Performer), Jeremy O Harris (Performer), Neil Patrick Harris (Performer), Victoria Leacock Hoffman (Performer), Mariko Kojima (Performer), Julie Larson (Performer), Telly Leung (Performer), Kamilah Martin (Performer), Kevin McCollum (Performer), Lin-Manuel Miranda (Performer), Anaïs Mitchell (Performer), Wilson Cruz (Performer), James C. Nicola (Performer), Dael Orlandersmith (Performer), Carlina Rivera (Performer), Jai Rodriguez (Performer), Jeffrey Seller (Performer), Leigh Silverman (Performer), Ephraim Sykes (Performer), Bernie Telsey (Performer), Jennifer Ashley Tepper (Performer), Ivo van Hove (Performer), Tom Viola (Performer), Tim Weil (Performer), Angela Wendt (Performer), Marlies Yearby (Performer), Tracie Thoms (Performer), Wilson Jermaine Heredia (Performer), Rodney Hicks (Performer), Christopher Jackson (Performer), Kristen Lee Kelly (Performer), Tamika Lawrence (Performer), Jesse L. Martin (Performer), Idina Menzel (Performer), Aiko Nakasone (Performer), Eva Noblezada (Performer), Adam Pascal (Performer), Ben Platt (Performer), Billy Porter (Performer), Anthony Rapp (Performer), Daphne Rubin-Vega (Performer), Ali Stroker (Performer), Gilles Chiasson (Performer), Byron Utley (Performer), Fredi Walker-Browne (Performer), Joe Iconis (Performer), The Lazours (Performer), Benj Pasek (Performer), Justin Paul (Performer), Rona Siddiqui (Performer), Sebastian Arcelus (Performer), Annaleigh Ashford (Performer), Martha Banta (Performer), Adam Chanler-Berat (Performer), Linda Chapman (Performer), Nicholas Christopher (Performer), Paul Clay (Performer)",
+      "notes": "Virtual celebration of RENT and its impact on the collective cultural consciousness. Featured a selection of iconic songs by some of todays most beloved recording and theatre artists, exclusive content uncovering how RENT came to life, and reflections on the driving force of Jonathans legacy in the American theatre.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Richard II": [
@@ -8051,8 +8316,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "VOB (with smalls)",
+      "size": "5.46 GB"
     }
   ],
   "Romeo and Juliet (Shakespeare)": [
@@ -8112,6 +8377,25 @@
       "size": "7.86 GB"
     }
   ],
+  "Saturday Night Fever": [
+    {
+      "id": 35209,
+      "show": "Saturday Night Fever",
+      "tour": "First US National Tour",
+      "date": "2001-07-28",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "video",
+      "cast": "Richard H. Blake (Tony), Jeanine Meyers (Stephanie), Aileen Quinn (Annette), Jim Ambler (Bobby C), Danial J. Brown (Gus), Joey Calveri (Double J), Casey Miles Good (Joey)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    }
+  ],
   "School of Rock": [
     {
       "id": 4430,
@@ -8146,6 +8430,348 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "8.53 GB"
+    }
+  ],
+  "The Seth Concert Series": [
+    {
+      "id": 1120799,
+      "show": "The Seth Concert Series",
+      "tour": "Alex Newell",
+      "date": "2021-06-06",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Alex Newell (Performer)",
+      "notes": "Hosted and music directed by Seth Rudetsky, this LIVE show features incredible songs, hilarious and inspiring stories and more!",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1126599,
+      "show": "The Seth Concert Series",
+      "tour": "Shayna Steele",
+      "date": "2021-10-03",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Shayna Steele (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1118408,
+      "show": "The Seth Concert Series",
+      "tour": "Justin Guarini",
+      "date": "2021-10-10",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Justin Guarini (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1118410,
+      "show": "The Seth Concert Series",
+      "tour": "Jessie Mueller",
+      "date": "2021-10-17",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Jessie Mueller (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1120703,
+      "show": "The Seth Concert Series",
+      "tour": "Erika Henningsen",
+      "date": "2021-10-17",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Erika Henningsen (Performer), Kate Rockwell (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1126600,
+      "show": "The Seth Concert Series",
+      "tour": "Krysta Rodriguez",
+      "date": "2021-11-07",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Krysta Rodriguez (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1120705,
+      "show": "The Seth Concert Series",
+      "tour": "Shoshana Bean",
+      "date": "2021-11-09",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Shoshana Bean (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1117934,
+      "show": "The Seth Concert Series",
+      "tour": "Kathryn Gallagher",
+      "date": "2021-11-14",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Kathryn Gallagher (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1117986,
+      "show": "The Seth Concert Series",
+      "tour": "Leslie Rodriguez Kritzer",
+      "date": "2021-11-28",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Leslie Rodriguez Kritzer (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1119050,
+      "show": "The Seth Concert Series",
+      "tour": "Andrew Barth Feldman",
+      "date": "2021-12-19",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Andrew Barth Feldman (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1120704,
+      "show": "The Seth Concert Series",
+      "tour": "Jessica Vosk",
+      "date": "2022-01-03",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Jessica Vosk (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1119887,
+      "show": "The Seth Concert Series",
+      "tour": "Ciara Renee",
+      "date": "2022-01-23",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Ciara Renée (Performer)",
+      "notes": "Ciara Renée is best known for her leading roles on Broadway as Elsa in Frozen and Leading Player in The Tony- Award winning Broadway revival of Pippin. Renee originated the roles of The Witch in Big Fish on Broadway and Esmeralda in the Paper Mill Playhouse/ La Jolla Playhouse production of The Hunchback of Notre Dame. She also worked on the original Broadway workshops of Hamilton and Bull Durham. Currently, she is starring as Jenna in Waitress on Broadway.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1119886,
+      "show": "The Seth Concert Series",
+      "tour": "Christy Altomare",
+      "date": "2022-01-24",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Christy Altomare (Performer)",
+      "notes": "Christy Altomare originated the role of Anya in the Broadway production of Anastasia for which she received the Theatre World Award and was nominated for an Outer Critics Award and a Drama Desk Award for lead actress in a musical. She made her Broadway debut playing the role of Sophie Sheridan in Mamma Mia!.  Off- Broadway, Christy portrayed the role of Sue Snell in MCCs revival of Carrie the Musical. Christy can be heard in the cast recordings of both Anastasia and Carrie. She toured the country in the first national tour of Spring Awakening, playing the role of Wendla Bergman. Regional credits include Jerusha Abbott in John Caird and Paul Gordons production of Daddy Long Legs, Guinevere in Camelot at Drury Lane in Chicago, and most recently, Nellie Forbush in South Pacific at the Aspen Music festival. Christy is a graduate of the Cincinnati College Conservatory of Music. Along with her passion for musical theater, she is a songwriter/ recording artist, who currently released her new album of original music called Wandering Bird.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1126602,
+      "show": "The Seth Concert Series",
+      "tour": "Ana Gasteyer",
+      "date": "2022-01-30",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Ana Gasteyer (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1121239,
+      "show": "The Seth Concert Series",
+      "tour": "Patti Murin",
+      "date": "2022-02-13",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Patti Murin (Performer)",
+      "notes": "Patti Murin is best known for originating the role of Princess Anna in Disneys “Frozen” on Broadway. Other Broadway/National Tour credits include: Lysistrata Jones (Lysistrata), Wicked (Glinda), Xanadu (Euterpe). Off-Broadway: Loves Labours Lost (Shakespeare in the Park); Fly By Night (Playwrights Horizons); Lady Be Good! (Encores!). Almost Broadway: Nerds (Sally). Patti is also known in the TV world for her portrayal of Dr. Nina Shore on NBCs “Chicago Med,” as Ava on “Royal Pains,” and for her starring roles in the Hallmark Channel movies “Love On Iceland” and “Holiday For Heroes.”",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1121652,
+      "show": "The Seth Concert Series",
+      "tour": "Caitlin Kinnunen",
+      "date": "2022-02-20",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Caitlin Kinnunen (Performer)",
+      "notes": "Caitlin Kinnunen is an actress based out of New York City. She has appeared on Broadway in The Prom, originating the role of Emma Nolan and earning a Tony nomination for Best Lead Actress in a Musical. She has also been seen in The Bridges of Madison County, Spring Awakening, on the First National Tour of Next to Normal, and in numerous film and television projects including; The Intern, Its Kind of a Funny Story, Sweet Little Lies, Younger, American Vandal, The Knick, and Law & Order: SVU.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1126603,
+      "show": "The Seth Concert Series",
+      "tour": "Rob McClure",
+      "date": "2022-02-24",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Rob McClure (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1126601,
+      "show": "The Seth Concert Series",
+      "tour": "Lauren Patten",
+      "date": "2022-03-27",
+      "time": "U",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Seth Rudetsky (Host), Lauren Patten (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1139136,
+      "show": "The Seth Concert Series",
+      "tour": "Bonnie Milligan",
+      "date": "2022-04-03",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Bonnie Milligan (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
+      "id": 1139137,
+      "show": "The Seth Concert Series",
+      "tour": "Morgan James",
+      "date": "2022-05-22",
+      "time": "E",
+      "master": "pro-shot",
+      "media_type": "video",
+      "cast": "Morgan James (Performer)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "She Loves Me": [
@@ -8832,6 +9458,23 @@
   ],
   "Sunday in the Park with George": [
     {
+      "id": 6168,
+      "show": "Sunday in the Park with George",
+      "tour": "Encores!",
+      "date": "2016-10-26",
+      "time": "E",
+      "master": "SunsetBlvd79",
+      "media_type": "video",
+      "cast": "Jake Gyllenhaal (George/Georges Seurat), Annaleigh Ashford (Dot/Marie), Zachary Levi (Jules/Bob Greenberg), Carmen Cusack (Yvonne/Naomi Eisen), Phylicia Rashad (Old Lady/Blair Daniels), Gabriel Ebert (Franz/Dennis), Lisa Howard (Nurse/Samantha), Phillip Boykin (Boatman/Lee Randolph), Solea Pfeiffer (Celeste #1/Waitress), Lauren Worsham (Celeste #2/Elaine), Brooks Ashmanskas (Mr./Charles Redmond), Ruthie Ann Miles (Frieda/Betty), Gabriella Pizzolo (Louise), Jordan Gelber (Louis/Billy Webster), Liz McCartney (Mrs./Harriet Pawling), Claybourne Elder (Alex/Soldier), Max Chernin (Ensemble), Michael McElroy (Ensemble), Stephanie Jae Park (Ensemble), Jaime Rosenstein (Ensemble)",
+      "notes": "Excellent capture of the beautifully performed, final Gala Concert performance. Terrific performances from the entire cast.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 506,
       "show": "Sunday in the Park with George",
       "tour": "Second Broadway Revival",
@@ -9093,6 +9736,25 @@
       "nft": false,
       "format": "MOV x2",
       "size": "10.62 GB"
+    }
+  ],
+  "Teeth": [
+    {
+      "id": 2009710,
+      "show": "Teeth",
+      "tour": "Off-Broadway Remount",
+      "date": "2024-11",
+      "time": "U",
+      "master": "MTTZ",
+      "media_type": "video",
+      "cast": "Alyse Alan Louis (Dawn O'Keefe), Will Connolly (Brad), Andy Karl (Pastor/Godfather/Dr. Godfrey/Truthseeker), Jared Loftin (Ryan/Truthseeker), Jason Gotay (Tobey/Truthseeker), Julia Bain (u/s Promise Keeper Girl Becky/Promise Keeper Girl Keke), Sydney Parra (Promise Keeper Girl Fiona), Jenna Rose Husli (Promise Keeper Girl Trisha), Micaela Lamas (Promise Keeper Girl Rachael), Wren Rivera (Promise Keeper Girl Stephanie)",
+      "notes": "The first 12-ish minutes of this production. Obstruction on the far left side of the stage. Shot pretty well with some moments of wandering, shaking, and re-adjusting before I gave up.",
+      "amount_recorded": "highlights",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Thoroughly Modern Millie": [
@@ -9873,6 +10535,23 @@
       "nft": false,
       "format": "VOB (with smalls)",
       "size": "4.53 GB"
+    },
+    {
+      "id": 8404,
+      "show": "Wicked",
+      "tour": "Broadway",
+      "date": "2019-03",
+      "time": "U",
+      "master": "StarCuffedJeans",
+      "media_type": "video",
+      "cast": "Laurel Harris (s/b Elphaba), Katie Rose Clarke (Glinda), Ryan McCartan (Fiyero), Michael McCormick (The Wizard), Nancy Opel (Madame Morrible), Gizel Jimenez (Nessarose), Jesse JP Johnson (Boq), Jamie Jackson (Doctor Dillamond), Manuel Herrera (Chistery), Kathy Santen (Midwife), Sterling Masters (Witch's Mother), William Ryall (Witch's Father/Ozian Official)",
+      "notes": "This is a vivid 4K video with almost no obstructions. Pretty much everything is centered, with beautiful zooms but also wider shots that showcase the dancing and set design. At times the video appears on an angle because my wrists are weak, but you don't miss anything because of it. There is also washout at times, but I do believe my camera handles the spotlights better than in a lot of Wicked videos. Act 2 starts a minute into the performance. All in all, this is a gorgeous capture of old and new cast members... I'm not finished yet in this bootleg business but if I was, this could be my magnum opus.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     },
     {
       "id": 27880,

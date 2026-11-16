@@ -681,8 +681,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x49",
+      "size": "294.3 MB"
     },
     {
       "id": 1145864,
@@ -3221,6 +3221,23 @@
   ],
   "Fun Home": [
     {
+      "id": 3670,
+      "show": "Fun Home",
+      "tour": "First US National Tour",
+      "date": "2016-11-17",
+      "time": "M",
+      "master": "playbill-love",
+      "media_type": "audio",
+      "cast": "Kate Shindle (Alison), Abby Corrigan (Medium Alison), Alessandra Baldacchino (Small Alison), Robert Petkoff (Bruce), Susan Moniz (Helen), Karen Eilbacher (Joan), Pierson Salvador (Christian), Robi Hager (Roy)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 32575,
       "show": "Fun Home",
       "tour": "First US National Tour",
@@ -3253,6 +3270,23 @@
       "nft": false,
       "format": "MP3 x2",
       "size": "145 MB"
+    },
+    {
+      "id": 2040180,
+      "show": "Fun Home",
+      "tour": "First US National Tour",
+      "date": "2017-04-29",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Kate Shindle (Alison), Abby Corrigan (Medium Alison), Carly Gold (alt Small Alison), Robert Petkoff (Bruce), Susan Moniz (Helen), Karen Eilbacher (Joan), Pierson Salvador (Christian), Lennon Nate Hammond (John), Robi Hager (Roy/Mark/Pete/Bobby/Jeremy)",
+      "notes": "Never share on any social media",
+      "amount_recorded": "complete",
+      "gifting_status": "Never Gift",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Good Vibrations": [
@@ -3539,6 +3573,23 @@
       "nft": false,
       "format": "MP3 x52",
       "size": "189.9 MB"
+    },
+    {
+      "id": 34897,
+      "show": "Hair",
+      "tour": "Second Broadway Revival",
+      "date": "2010-06-27",
+      "time": "M",
+      "master": "tylerjbway",
+      "media_type": "audio",
+      "cast": "Kyle Riabko (Claude), Ace Young (Berger), Diana DeGarmo (Sheila), Jason Wooten (Woof), Wallace Smith (Hud), Jeannette Bayardelle (Dionne), Annaleigh Ashford (Jeanie), Vanessa Ray (Crissy), Josh Lamon (Margaret Mead/Father), Rachel Bay Jones (Mother/Buddhadalirama), Lee Zarrett (Hubert/John Wilkes Booth), Anastacia McCleskey (Abe Lincoln), Paris Remillard (Tribe), Arbender Robinson (Tribe), Kate Rockwell (Tribe), Rashidra Scott (Tribe)",
+      "notes": "MASTER NOTES: Recorded from back row of the mezzanine, except for the post-show curtain calls, which were recorded directly in front of the stage.\nLineage: Olympus WS-400 (WMA) > FFmpeg for WMA-MP3 conversion (160 kbps) > Audacity 1.3 beta for tracking, mixed down to 128 kbps with libMP3lame 3.98. Sound checking with Sennheiser SD-202s in an Adobe Audition setup.<br><br>GENERAL NOTES: First audio of the final performance. Four untracked MP3 files.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Hairspray": [
@@ -4503,6 +4554,23 @@
     }
   ],
   "Jersey Boys": [
+    {
+      "id": 3914,
+      "show": "Jersey Boys",
+      "tour": "Broadway",
+      "date": "2012-08-10",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "John Lloyd Young (Frankie Valli), Andy Karl (Tommy Devito), Nathan Scherich (u/s Nick Massi), Quinn VanAntwerp (Bob Gaudio), Cara Cooper (Mary Delgado), Peter Gregus (Bob Crewe), Miles Aubrey (Norm Waxman), Katie O'Toole (u/s Lorraine), Russell Fischer (Joey), Sara Schmidt (Francine), Mark Lotito (Gyp DeCarlo), John Edwards (Hal Miller)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
     {
       "id": 2005034,
       "show": "Jersey Boys",
@@ -10706,6 +10774,23 @@
       "size": "390 MB"
     },
     {
+      "id": 1157580,
+      "show": "Lempicka",
+      "tour": "Broadway",
+      "date": "2024-04",
+      "time": "E",
+      "master": "whatyouwill",
+      "media_type": "audio",
+      "cast": "Mariand Torres (s/b Tamara de Lempicka), Amber Iman (Rafaela), Andrew Samonsky (Tadeusz Lempicki), George Abud (Marinetti), Natalie Joy Johnson (Suzy Solidor), Nathaniel Stampley (The Baron), Beth Leavel (The Baroness), Zoe Glick (Kizette), Nicholas Ward (Ensemble), Ximone Rose (Ensemble), Khori Michelle Petinaud (Ensemble), Jimin Moon (Ensemble), Abby Matsusaka (Ensemble), Holli' Conway (Ensemble), Kyle Brown (Ensemble), Stephen Brower (Ensemble), Lauren Blackman (Ensemble), Alex Aquilino (Ensemble)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
+    },
+    {
       "id": 2024337,
       "show": "Lempicka",
       "tour": "Broadway",
@@ -11305,8 +11390,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "129.2 MB"
     },
     {
       "id": 2036126,
@@ -12857,8 +12942,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "65.1 MB"
     },
     {
       "id": 1120166,
@@ -13605,6 +13690,25 @@
       "nft": false,
       "format": "MP3 x45",
       "size": "230.6 MB"
+    }
+  ],
+  "RENT": [
+    {
+      "id": 1003295,
+      "show": "RENT",
+      "tour": "Off-Broadway Revival",
+      "date": "2011-10-09",
+      "time": "E",
+      "master": "Unknown",
+      "media_type": "audio",
+      "cast": "Adam Chanler-Berat (Mark Cohen), Matt Shingledecker (Roger Davis), Arianda Fernández (Mimi Márquez), Annaleigh Ashford (Maureen Johnson), Nicholas Christopher (Tom Collins), Michaela Jaé Rodriguez (Angel Dumott Schunard), Ephraim Sykes (Benjamin Coffin III), Corbin Reid (Joanne Jefferson)",
+      "notes": "",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Rob Lake Magic with Special Guests the Muppets": [
@@ -16276,8 +16380,8 @@
       "gifting_status": "Gift On Request",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "168 MB"
     }
   ],
   "Sweet Charity": [
@@ -16335,6 +16439,23 @@
       "nft": false,
       "format": "M4A x2",
       "size": "66.6 MB"
+    },
+    {
+      "id": 2008464,
+      "show": "Tammy Faye",
+      "tour": "Broadway",
+      "date": "2024-12-07",
+      "time": "M",
+      "master": "whatyouwill",
+      "media_type": "audio",
+      "cast": "Katie Brayben (Tammy Faye), Christian Borle (Jim Bakker), Michael Cerveris (Jerry Falwell), Max Gordon Moore (Marvin Gorman/Monson/Proctologist), Raymond J. Lee (John Fletcher), Ian Lassiter (Reagan/Archbishop of Canterbury/Jimmy Swaggart), Andy Taylor (Pat Robertson/Ted Turner), Mark Evans (Billy Graham), Nick Bailey (Paul Crouch), Allison Guinn (Jan Crouch), Alana Pollard (Jessica Hahn), Charl Brown (Steve Pieters), Amanda Clement (Ensemble), Jonathan Duvelson (Ensemble), Lily Kaufmann (Ensemble), Elliott Mattox (Ensemble), Brittany Nicholas (Ensemble), Aveena Sawyer (Ensemble), Allysa Shorte (Ensemble), Daniel Torres (Ensemble), Dana Wilton (Ensemble)",
+      "notes": "Includes playbill scans.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "",
+      "size": ""
     }
   ],
   "Thoroughly Modern Millie": [
