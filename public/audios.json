@@ -3234,8 +3234,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x1",
+      "size": "88.9 MB"
     },
     {
       "id": 32575,
@@ -3285,8 +3285,8 @@
       "gifting_status": "Never Gift",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x1",
+      "size": "48 MB"
     }
   ],
   "Good Vibrations": [
@@ -3588,8 +3588,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x4",
+      "size": "140.2 MB"
     }
   ],
   "Hairspray": [
@@ -4563,13 +4563,13 @@
       "master": "Unknown",
       "media_type": "audio",
       "cast": "John Lloyd Young (Frankie Valli), Andy Karl (Tommy Devito), Nathan Scherich (u/s Nick Massi), Quinn VanAntwerp (Bob Gaudio), Cara Cooper (Mary Delgado), Peter Gregus (Bob Crewe), Miles Aubrey (Norm Waxman), Katie O'Toole (u/s Lorraine), Russell Fischer (Joey), Sara Schmidt (Francine), Mark Lotito (Gyp DeCarlo), John Edwards (Hal Miller)",
-      "notes": "",
+      "notes": "MY NOTES: Also includes zipped version",
       "amount_recorded": "complete",
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x68",
+      "size": "383.6 MB"
     },
     {
       "id": 2005034,
@@ -10787,8 +10787,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "WAV x2 + x24",
+      "size": "4.53 GB"
     },
     {
       "id": 2024337,
@@ -10969,6 +10969,23 @@
       "size": "68.1 MB"
     },
     {
+      "id": 2042176,
+      "show": "Little Shop of Horrors",
+      "tour": "Off-Broadway Revival",
+      "date": "2019-09-21",
+      "time": "E",
+      "master": "ColorAndLight",
+      "media_type": "audio",
+      "cast": "Jonathan Groff (Seymour), Tammy Blanchard (Audrey), Christian Borle (Orin/Others), Tom Alan Robbins (Mr. Mushnik), Joy Woods (Chiffon), Salome Smith (Crystal), Ari Groover (Ronnette), Kingsley Leggs (Voice of Audrey II)",
+      "notes": "Recorded from the front row on Little Shop day (“on the 21st day of the month of September...”). Very enthusiastic audience, very clear audio. Occasional shuffling and laughter.",
+      "amount_recorded": "complete",
+      "gifting_status": "Gift at your Discretion",
+      "limited_status": "Unrestricted",
+      "nft": false,
+      "format": "M4A x2",
+      "size": "47.4 MB"
+    },
+    {
       "id": 19651,
       "show": "Little Shop of Horrors",
       "tour": "Off-Broadway Revival",
@@ -11101,8 +11118,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "M4A x2",
+      "size": "48.9 MB"
     },
     {
       "id": 1120501,
@@ -13707,8 +13724,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x44",
+      "size": "157.5 MB"
     }
   ],
   "Rob Lake Magic with Special Guests the Muppets": [
@@ -16454,8 +16471,8 @@
       "gifting_status": "Gift at your Discretion",
       "limited_status": "Unrestricted",
       "nft": false,
-      "format": "",
-      "size": ""
+      "format": "MP3 x2 + x31",
+      "size": "372.5 MB"
     }
   ],
   "Thoroughly Modern Millie": [
