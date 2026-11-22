@@ -1,5 +1,6 @@
 {
-  "thisWeekIns": [
+  "thisWeekIns": [],
+  "lastWeekIns": [
     "Footloose | West End | 2006 | house-cam (video)",
     "The Book of Mormon | Workshop | 2010-09-01 | pro-shot (video)",
     "Fun Home | First US National Tour | 2016-11-17 | playbill-love (audio)",
@@ -47,21 +48,5 @@
     "Fun Home | First US National Tour | 2017-04-29 | Unknown (audio)",
     "Little Shop of Horrors | Off-Broadway Revival | 2019-09-21 | ColorAndLight (audio)",
     "School Girls: Or, The African Mean Girls Play | Broadway | 2026 | pro-shot (video)"
-  ],
-  "lastWeekIns": [
-    "Annie | Second Broadway Revival | 2013-07-14 | SunsetBlvd79 (video)",
-    "Rocky | Broadway | 2014-08-16 | SJ Bernly (video)",
-    "Pretty Woman: The Musical | Broadway | 2019-02 | NYCG8R (video)",
-    "Little Shop of Horrors | Off-Broadway Revival | 2021-10-21 | voiceinadream (audio)",
-    "Into the Woods | Encores! | 2022-05 (4) | juniper47 (video)",
-    "Days of Wine and Roses | Off-Broadway | 2023-05-12 | bikinibottomday (video)",
-    "Back to the Future: The Musical | West End | 2022-10-27 | whereigowhenigothere (audio)",
-    "The Music Man | Broadway Center Stage | 2019-02-08 | Unknown (audio)",
-    "Joy | Off-Broadway | 2025-06-23 | bikinibottomday (video)",
-    "Sweeney Todd: The Demon Barber of Fleet Street | Third Broadway Revival | 2023-11-19 | PTSnucka (audio)",
-    "Huzzah! | The Old Globe | 2025-09 | MTTZ (video)",
-    "13 Going on 30 | Manchester | 2025-10 | hitmewithyourbethshot (video)",
-    "Little Shop of Horrors | Off-Broadway Revival | 2026-03-25 | PTSnucka (audio)",
-    "Beaches | Broadway | 2026-04-06 | onehandonmycamera (video)"
   ]
 }
