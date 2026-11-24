@@ -1,6 +1,5 @@
 {
   "lowest": [
-    "The 25th Annual Putnam County Spelling Bee | Broadway Center Stage | 2024-10 | StarCuffedJeans | Video",
     "9 to 5: The Musical | Pre-Broadway / Center Theatre Group | 2008-09-23 | Unknown | Video",
     "9 to 5: The Musical | Broadway | 2009-04-30 | Unknown | Video",
     "9 to 5: The Musical | Pre-Broadway / Center Theatre Group | 2008-10-19 | juniper47 | Video",
@@ -1342,7 +1341,6 @@
     "3 Guys Naked from the Waist Down | Demo | 1984 | Demo | Audio",
     "Aladdin | Disney Cruise Line | 2013 | house-cam | Video",
     "Aladdin | Disney Cruise Line | 2014 | pro-shot | Video",
-    "All In: Comedy About Love | Broadway | 2025-02 | StarCuffedJeans | Video",
     "Annie | Paper Mill Playhouse | 2017-12-16 | juniper47 | Audio",
     "Annie | Paper Mill Playhouse | 2017-11-22 | Today4UTomorrow4Lulu | Audio",
     "Assassins | Reunion Concert | 2012-12-03 | SunsetBlvd79 | Video",
@@ -1937,6 +1935,7 @@
     "Into the Woods | Town Hall Concert | 2019-07-08 | wyou17 | Audio",
     "Legally Blonde | Brazil | 2024 (4) | Unknown | Video",
     "Legally Blonde | Third UK Tour | 2026-07-08 (M) | Bixiaaa | Audio",
+    "Merrily We Roll Along | Arena Stage | 1990-01-29 | Unknown | Audio",
     "Sweeney Todd: The Demon Barber of Fleet Street | New York Philharmonic Concert | 2014-03-05 | Unknown | Audio",
     "Sweeney Todd: The Demon Barber of Fleet Street | New York Philharmonic Concert | 2014-03-07 | Unknown | Audio",
     "Sweeney Todd: The Demon Barber of Fleet Street | New York Philharmonic Concert | 2014-03-08 | ContentDictatesForm | Audio",
@@ -2858,5 +2857,8 @@
     "The Muppet Show Live | The Hollywood Playhouse | 2001-12-09 | pro-shot | Video",
     "Three Days of Rain | Broadway | 2006-04-13 | Pigerty | Video"
   ],
-  "inprogress": []
+  "inprogress": [
+    "All In: Comedy About Love | Broadway | 2025-02 | StarCuffedJeans | Video",
+    "The 25th Annual Putnam County Spelling Bee | Broadway Center Stage | 2024-10 | StarCuffedJeans | Video"
+  ]
 }
